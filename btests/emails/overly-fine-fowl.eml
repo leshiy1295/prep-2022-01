@@ -1,0 +1,357 @@
+Received: from mxfront4g.mail.yandex.net ([127.0.0.1])
+	by mxfront4g.mail.yandex.net with LMTP id Zirz76hd
+	for <bclark@ware-thomas.com>, <uthompson@hotmail.com>, <stewartrachel@yahoo.com>, <elizabethgarrison@torres.net>, <gregory29@thomas.com>, <qrangel@hall.com>, <msmith@gmail.com>, <denisegregory@hotmail.com>; Mon, 9 Oct 2017 17:05:12 +0300
+Received: from a11-58.smtp-out.amazonses.com (a11-58.smtp-out.amazonses.com [54.240.11.58])
+	by mxfront4g.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id w61lYGBIZM-59ESfpNb;
+	Mon, 09 Oct 2017 17:05:10 +0300
+	(using TLSv1 with cipher ECDHE-RSA-AES128-SHA (128/128 bits))
+	(Client certificate not present)
+Return-Path: 0100015f01741e40-3f559648-b9b7-414f-a702-309b772fa3ad-000000@amazonses.com
+X-Yandex-Front: mxfront4g.mail.yandex.net
+X-Yandex-TimeMark: 1507557910
+Authentication-Results: mxfront4g.mail.yandex.net; spf=pass (mxfront4g.mail.yandex.net: domain of amazonses.com designates 54.240.11.58 as permitted sender, rule=[ip4:54.240.0.0/18]) smtp.mail=0100015f01741e40-3f559648-b9b7-414f-a702-309b772fa3ad-000000@amazonses.com; dkim=pass header.i=@delighted.com
+X-Yandex-Spam: 2
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=sbh3jqzf6mx7dt5yq74ny26tycl4yjjk; d=delighted.com; t=1507557908;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe;
+	bh=BMlkxEMHt04gVws4kg0N0q0D4vZ1TfoRCfoLeGReW2E=;
+	b=fV/2d9x5lccG7tkE2LqcPgG7NpEXICVT/xqMwL21KIDqDP8kCTn3+vlgTjTBvHS0
+	6BxjDxU4lWq82nPGTzml8YaACkbqvxNW4Zmp71rqeN1yAvpKj2bJXJOB2K0UOTz6max
+	dPx9HBV3J/i/sr3dPpVkePvLrWgGck4Yqpas1p+g=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1507557908;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe:Feedback-ID;
+	bh=BMlkxEMHt04gVws4kg0N0q0D4vZ1TfoRCfoLeGReW2E=;
+	b=cWPBDmR0OdNQVcDVmiZcEYGTvGdNBkOWl6xOkAQ3el9IxHsyDlfE6G+vsuEofMkQ
+	3OLaz1bMUcJAWCVbskrl4Jx3AG6+jVq2JWH9upySuxsQXCOa1fKbyMrL0hyLnJKRtOW
+	nkORZ8plDNqVPMGxUlCkyYe6WvLquknqlceWI1cQ=
+Date: Mon, 9 Oct 2017 14:05:08 +0000
+From: Travis CI <travis-ci@delighted.com>
+Reply-To: Travis CI <support@travis-ci.com>
+To: Bryce Deleon <zhumphrey@avila-white.biz>, Kristine Tran <mark76@hotmail.com>, Jessica Lawson <melissamills@hotmail.com>, Meredith Beck <gjackson@cox.org>, Paige Romero <owilliams@dawson-rodriguez.com>, Daniel Obrien <jasonwalters@hotmail.com>, Barbara Little <perkinswendy@yahoo.com>, Nicholas Stokes <kroman@yahoo.com>, Eric Munoz <erin71@davis-castro.com>
+Message-ID: <0100015f01741e40-3f559648-b9b7-414f-a702-309b772fa3ad-000000@email.amazonses.com>
+Subject: How likely are you to recommend Travis CI?
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_59db821421b3_379b3fea56eb4850104824";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <https://delighted.com/e/en-travisci/u/7vip8QFmb0ffGK7eNo5d3X1Q/4YmP1Tvq>
+X-Entity-Ref-ID: 82cb18b7-2579-4410-b9e2-95bddc49b37b
+X-SES-Outgoing: 2017.10.09-54.240.11.58
+Feedback-ID: 1.us-east-1.xPGOR70ogJUf3+shMLFbzHufra18V/Da5fMSx+e23WA=:AmazonSES
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+
+----==_mimepart_59db821421b3_379b3fea56eb4850104824
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+How likely are you to recommend Travis CI to a fellow developer friend or colleague?
+
+10 - https://delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/10/43ZAGQLt Very likely
+9  - https://delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/9/4OjzA4Fw  
+8  - https://delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/8/2shsStXw  
+7  - https://delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/7/3Gwx0hYH  
+6  - https://delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/6/1axTyddt  
+5  - https://delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/5/1RaZHOrJ  
+4  - https://delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/4/2AM4SYbf  
+3  - https://delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/3/1uja1r79  
+2  - https://delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/2/1qLuvcLs  
+1  - https://delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/1/4ou3eIpF  
+0  - https://delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/0/4j8RnXn3  Not likely
+
+--
+
+Powered by Delighted
+https://delighted.com/?t=7vip8QFmb0ffGK7eNo5d3X1Q.1
+
+Unsubscribe
+https://delighted.com/e/en-travisci/u/7vip8QFmb0ffGK7eNo5d3X1Q/4YmP1Tvq
+
+----==_mimepart_59db821421b3_379b3fea56eb4850104824
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.o=
+rg/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+<!-- Copyright =C2=A9 2013-2017 Delighted Inc. All rights reserved. -->
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type" =
+/><meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"vie=
+wport" /><meta content=3D"address=3Dno" name=3D"format-detection" /><titl=
+e>Travis CI</title><style type=3D"text/css">*{text-rendering:optimizelegi=
+bility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:graysca=
+le}.b-nps .b1-nps td:active{background:#e3e3e3 !important;border-top-widt=
+h:3px !important;border-bottom-width:1px !important;border-bottom-color:#=
+cccccc !important;border-top-color:#cccccc !important;box-shadow:rgba(255=
+, 255, 255, 0.9) 0 1px 0 0 !important}.b-stars-five .b1-stars-five td:act=
+ive{background:#e3e3e3 !important;border-top-width:3px !important;border-=
+bottom-width:1px !important;border-bottom-color:#cccccc !important;border=
+-top-color:#cccccc !important;box-shadow:rgba(255, 255, 255, 0.9) 0 1px 0=
+ 0 !important}.b-ces .b1-ces td:active{background:#e3e3e3 !important;bord=
+er-top-width:3px !important;border-bottom-width:1px !important;border-bot=
+tom-color:#cccccc !important;border-top-color:#cccccc !important;box-shad=
+ow:rgba(255, 255, 255, 0.9) 0 1px 0 0 !important}.b-csat .b1-csat td:acti=
+ve{background:#e3e3e3 !important;border-top-width:3px !important;border-b=
+ottom-width:1px !important;border-bottom-color:#cccccc !important;border-=
+top-color:#cccccc !important;box-shadow:rgba(255, 255, 255, 0.9) 0 1px 0 =
+0 !important}#outlook a{padding:0}.ExternalClass{width:100%}.ExternalClas=
+s,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass=
+ td,.ExternalClass div{line-height:24px}@media screen and (max-width:480p=
+x){.i-nps{width:100% !important;min-width:0 !important;margin:0 !importan=
+t}.i-stars-five{width:100% !important;min-width:0 !important;margin:0 !im=
+portant}.i-ces{width:100% !important;min-width:0 !important;margin:0 !imp=
+ortant}.i-csat{width:100% !important;min-width:0 !important;margin:0 !imp=
+ortant}.l12{width:240px !important;height:75px !important}.q{padding-left=
+:10px !important;padding-right:10px !important}.n1{padding-left:20px !imp=
+ortant;padding-right:20px !important}.n2{font-size:16px !important}.q1{wi=
+dth:100% !important}.q11{font-size:18px !important;line-height:26px !impo=
+rtant;font-weight:bold !important}.h{display:none !important}.b-nps{paddi=
+ng-left:10px !important;padding-bottom:4px !important;padding-right:10px =
+!important}.b1-nps{width:100% !important;padding-bottom:6px !important}.b=
+-stars-five{padding-left:10px !important;padding-bottom:4px !important;pa=
+dding-right:10px !important}.b1-stars-five{width:100% !important;padding-=
+bottom:6px !important}.b-ces{padding-left:10px !important;padding-bottom:=
+4px !important;padding-right:10px !important}.b1-ces{width:100% !importan=
+t;padding-bottom:6px !important}.b-csat{padding-left:10px !important;padd=
+ing-bottom:4px !important;padding-right:10px !important}.b1-csat{width:10=
+0% !important;padding-bottom:6px !important}.b2{display:none !important;h=
+eight:0 !important;position:absolute !important;left:-9999px !important}.=
+bl{display:inherit !important;visibility:inherit !important;overflow:inhe=
+rit !important;line-height:inherit !important;font-size:inherit !importan=
+t}.f1{padding-left:10px !important}.f2{padding-right:10px !important}.b-n=
+ps .b1-nps td:active{background-color:#ffffff !important;border-top-width=
+:1px !important;border-bottom-width:3px !important;box-shadow:rgba(0, 0, =
+0, 0.06) 0 2px 4px 0 !important}.b-stars-five .b1-stars-five td:active{ba=
+ckground-color:#ffffff !important;border-top-width:1px !important;border-=
+bottom-width:3px !important;box-shadow:rgba(0, 0, 0, 0.06) 0 2px 4px 0 !i=
+mportant}.b-ces .b1-ces td:active{background-color:#ffffff !important;bor=
+der-top-width:1px !important;border-bottom-width:3px !important;box-shado=
+w:rgba(0, 0, 0, 0.06) 0 2px 4px 0 !important}.b-csat .b1-csat td:active{b=
+ackground-color:#ffffff !important;border-top-width:1px !important;border=
+-bottom-width:3px !important;box-shadow:rgba(0, 0, 0, 0.06) 0 2px 4px 0 !=
+important}#wrapper,.w{min-width:100vw !important}.y{font-size:0 !importan=
+t;width:0 !important;overflow:hidden !important;white-space:normal !impor=
+tant}}</style>
+<!--[if gte mso 9]>
+<style type=3D'text/css'>table,tbody,tr,td{border-collapse:collapse !impo=
+rtant;mso-table-lspace:0 !important;mso-table-rspace:0 !important}.b2{wid=
+th:3px !important}.b1-nps{width:43px !important}.b2{width:3px !important}=
+.b1-stars-five{width:43px !important}.b2{width:3px !important}.b1-ces{wid=
+th:43px !important}.b2{width:3px !important}.b1-csat{width:43px !importan=
+t}</style>
+<![endif]-->
+</head><body style=3D"width:100% !important;-webkit-text-size-adjust:100%=
+;-ms-text-size-adjust:100%;margin:0;padding:0"><table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" class=3D"w" style=3D"width:100% !important;=
+line-height:24px !important;margin:0;padding:0" width=3D"100%"><tr><td al=
+ign=3D"center" class=3D"l1" dir=3D"ltr" valign=3D"middle" style=3D"border=
+-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#e3e3e3;b=
+order-top-width:6px;border-top-style:solid;border-top-color:#2D3136;backg=
+round-color:#ffffff;height:46px;padding:19px 0" bgcolor=3D"#ffffff" heigh=
+t=3D"46"><img alt=3D"Travis CI" class=3D"l12" height=3D"60" src=3D"https:=
+//dcx14qs33eg2z.cloudfront.net/uploads/production/logos/1eae6625-940c-48b=
+c-b152-3a3b00c22ef6/resized_TravisCI-Full-Color__1_.png" width=3D"192" st=
+yle=3D"outline:0;text-decoration:none;-ms-interpolation-mode:bicubic;disp=
+lay:block;line-height:40px;font-size:24px;font-family:'Helvetica Neue', H=
+elvetica, Arial, sans-serif;font-weight:bold;color:#2D3136;text-align:cen=
+ter" /></td></tr>
+<tr><td align=3D"center" class=3D"l2" style=3D"background-color:#f6f6f6" =
+bgcolor=3D"#f6f6f6"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" class=3D"i-nps" style=3D"width:534px;min-width:534px;margin:0 23px" wi=
+dth=3D"534"><tr><td align=3D"center" class=3D"q" style=3D"padding:18px 0"=
+><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"q1" style=3D"width:374px" width=3D"374"><tr><td align=3D"center=
+" class=3D"q11" dir=3D"ltr" style=3D"font-size:22px;font-family:'Helvetic=
+a Neue', Helvetica, Arial, sans-serif;font-weight:normal;line-height:30px=
+;color:#111111;text-align:center">How likely are you to recommend Travis =
+CI to a fellow developer friend or colleague?</td></tr></table></td></tr>=
+<tr><td align=3D"center" class=3D"b-nps"><table align=3D"right" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"b1-nps" style=3D"width:4=
+4px;height:44px" width=3D"44" height=3D"44"><tr><td align=3D"center" clas=
+s=3D"b01" valign=3D"middle" style=3D"width:42px;background-color:#ffffff;=
+height:40px;border-radius:6px;box-shadow:rgba(0, 0, 0, 0.06) 0 2px 4px 0;=
+border-color:#cccccc #cccccc #cccccc;border-style:solid;border-width:1px =
+1px 3px" bgcolor=3D"#ffffff" width=3D"42" height=3D"40"><a href=3D"https:=
+//delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/10/43ZAGQLt" sty=
+le=3D"display:block;line-height:40px;text-decoration:none;font-size:18px;=
+font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bo=
+ld"><span dir=3D"ltr" style=3D"color:#2D3136">10<span class=3D"bl" style=3D=
+"color:#2D3136;display:none;visibility:hidden;overflow:hidden;line-height=
+:0;font-size:0"> =E2=80=93 Very likely</span></span></a></td></tr></table=
+><table align=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"b2" style=3D"width:5px;height:44px" width=3D"5" height=3D"44"><t=
+r><td style=3D"width:5px;height:44px;line-height:0;font-size:0" width=3D"=
+5" height=3D"44">&nbsp;</td></tr></table><table align=3D"right" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"b1-nps" style=3D"width:4=
+4px;height:44px" width=3D"44" height=3D"44"><tr><td align=3D"center" clas=
+s=3D"b01" valign=3D"middle" style=3D"width:42px;background-color:#ffffff;=
+height:40px;border-radius:6px;box-shadow:rgba(0, 0, 0, 0.06) 0 2px 4px 0;=
+border-color:#cccccc #cccccc #cccccc;border-style:solid;border-width:1px =
+1px 3px" bgcolor=3D"#ffffff" width=3D"42" height=3D"40"><a href=3D"https:=
+//delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/9/4OjzA4Fw" styl=
+e=3D"display:block;line-height:40px;text-decoration:none;font-size:18px;f=
+ont-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bol=
+d"><span style=3D"color:#2D3136">9</span></a></td></tr></table><table ali=
+gn=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"b2=
+" style=3D"width:5px;height:44px" width=3D"5" height=3D"44"><tr><td style=
+=3D"width:5px;height:44px;line-height:0;font-size:0" width=3D"5" height=3D=
+"44">&nbsp;</td></tr></table><table align=3D"right" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"b1-nps" style=3D"width:44px;height:4=
+4px" width=3D"44" height=3D"44"><tr><td align=3D"center" class=3D"b01" va=
+lign=3D"middle" style=3D"width:42px;background-color:#ffffff;height:40px;=
+border-radius:6px;box-shadow:rgba(0, 0, 0, 0.06) 0 2px 4px 0;border-color=
+:#cccccc #cccccc #cccccc;border-style:solid;border-width:1px 1px 3px" bgc=
+olor=3D"#ffffff" width=3D"42" height=3D"40"><a href=3D"https://delighted.=
+com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/8/2shsStXw" style=3D"display=
+:block;line-height:40px;text-decoration:none;font-size:18px;font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold"><span sty=
+le=3D"color:#2D3136">8</span></a></td></tr></table><table align=3D"right"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"b2" style=3D"w=
+idth:5px;height:44px" width=3D"5" height=3D"44"><tr><td style=3D"width:5p=
+x;height:44px;line-height:0;font-size:0" width=3D"5" height=3D"44">&nbsp;=
+</td></tr></table><table align=3D"right" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"b1-nps" style=3D"width:44px;height:44px" width=3D=
+"44" height=3D"44"><tr><td align=3D"center" class=3D"b01" valign=3D"middl=
+e" style=3D"width:42px;background-color:#ffffff;height:40px;border-radius=
+:6px;box-shadow:rgba(0, 0, 0, 0.06) 0 2px 4px 0;border-color:#cccccc #ccc=
+ccc #cccccc;border-style:solid;border-width:1px 1px 3px" bgcolor=3D"#ffff=
+ff" width=3D"42" height=3D"40"><a href=3D"https://delighted.com/e/en-trav=
+isci/c/7vip8QFmb0ffGK7eNo5d3X1Q/7/3Gwx0hYH" style=3D"display:block;line-h=
+eight:40px;text-decoration:none;font-size:18px;font-family:'Helvetica Neu=
+e', Helvetica, Arial, sans-serif;font-weight:bold"><span style=3D"color:#=
+2D3136">7</span></a></td></tr></table><table align=3D"right" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" class=3D"b2" style=3D"width:5px;heig=
+ht:44px" width=3D"5" height=3D"44"><tr><td style=3D"width:5px;height:44px=
+;line-height:0;font-size:0" width=3D"5" height=3D"44">&nbsp;</td></tr></t=
+able><table align=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"b1-nps" style=3D"width:44px;height:44px" width=3D"44" height=
+=3D"44"><tr><td align=3D"center" class=3D"b01" valign=3D"middle" style=3D=
+"width:42px;background-color:#ffffff;height:40px;border-radius:6px;box-sh=
+adow:rgba(0, 0, 0, 0.06) 0 2px 4px 0;border-color:#cccccc #cccccc #cccccc=
+;border-style:solid;border-width:1px 1px 3px" bgcolor=3D"#ffffff" width=3D=
+"42" height=3D"40"><a href=3D"https://delighted.com/e/en-travisci/c/7vip8=
+QFmb0ffGK7eNo5d3X1Q/6/1axTyddt" style=3D"display:block;line-height:40px;t=
+ext-decoration:none;font-size:18px;font-family:'Helvetica Neue', Helvetic=
+a, Arial, sans-serif;font-weight:bold"><span style=3D"color:#2D3136">6</s=
+pan></a></td></tr></table><table align=3D"right" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"b2" style=3D"width:5px;height:44px" wid=
+th=3D"5" height=3D"44"><tr><td style=3D"width:5px;height:44px;line-height=
+:0;font-size:0" width=3D"5" height=3D"44">&nbsp;</td></tr></table><table =
+align=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"b1-nps" style=3D"width:44px;height:44px" width=3D"44" height=3D"44"><tr>=
+<td align=3D"center" class=3D"b01" valign=3D"middle" style=3D"width:42px;=
+background-color:#ffffff;height:40px;border-radius:6px;box-shadow:rgba(0,=
+ 0, 0, 0.06) 0 2px 4px 0;border-color:#cccccc #cccccc #cccccc;border-styl=
+e:solid;border-width:1px 1px 3px" bgcolor=3D"#ffffff" width=3D"42" height=
+=3D"40"><a href=3D"https://delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7e=
+No5d3X1Q/5/1RaZHOrJ" style=3D"display:block;line-height:40px;text-decorat=
+ion:none;font-size:18px;font-family:'Helvetica Neue', Helvetica, Arial, s=
+ans-serif;font-weight:bold"><span style=3D"color:#2D3136">5</span></a></t=
+d></tr></table><table align=3D"right" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"b2" style=3D"width:5px;height:44px" width=3D"5" he=
+ight=3D"44"><tr><td style=3D"width:5px;height:44px;line-height:0;font-siz=
+e:0" width=3D"5" height=3D"44">&nbsp;</td></tr></table><table align=3D"ri=
+ght" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"b1-nps" st=
+yle=3D"width:44px;height:44px" width=3D"44" height=3D"44"><tr><td align=3D=
+"center" class=3D"b01" valign=3D"middle" style=3D"width:42px;background-c=
+olor:#ffffff;height:40px;border-radius:6px;box-shadow:rgba(0, 0, 0, 0.06)=
+ 0 2px 4px 0;border-color:#cccccc #cccccc #cccccc;border-style:solid;bord=
+er-width:1px 1px 3px" bgcolor=3D"#ffffff" width=3D"42" height=3D"40"><a h=
+ref=3D"https://delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/4/2=
+AM4SYbf" style=3D"display:block;line-height:40px;text-decoration:none;fon=
+t-size:18px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;fo=
+nt-weight:bold"><span style=3D"color:#2D3136">4</span></a></td></tr></tab=
+le><table align=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"b2" style=3D"width:5px;height:44px" width=3D"5" height=3D"44">=
+<tr><td style=3D"width:5px;height:44px;line-height:0;font-size:0" width=3D=
+"5" height=3D"44">&nbsp;</td></tr></table><table align=3D"right" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"b1-nps" style=3D"width:4=
+4px;height:44px" width=3D"44" height=3D"44"><tr><td align=3D"center" clas=
+s=3D"b01" valign=3D"middle" style=3D"width:42px;background-color:#ffffff;=
+height:40px;border-radius:6px;box-shadow:rgba(0, 0, 0, 0.06) 0 2px 4px 0;=
+border-color:#cccccc #cccccc #cccccc;border-style:solid;border-width:1px =
+1px 3px" bgcolor=3D"#ffffff" width=3D"42" height=3D"40"><a href=3D"https:=
+//delighted.com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/3/1uja1r79" styl=
+e=3D"display:block;line-height:40px;text-decoration:none;font-size:18px;f=
+ont-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bol=
+d"><span style=3D"color:#2D3136">3</span></a></td></tr></table><table ali=
+gn=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"b2=
+" style=3D"width:5px;height:44px" width=3D"5" height=3D"44"><tr><td style=
+=3D"width:5px;height:44px;line-height:0;font-size:0" width=3D"5" height=3D=
+"44">&nbsp;</td></tr></table><table align=3D"right" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"b1-nps" style=3D"width:44px;height:4=
+4px" width=3D"44" height=3D"44"><tr><td align=3D"center" class=3D"b01" va=
+lign=3D"middle" style=3D"width:42px;background-color:#ffffff;height:40px;=
+border-radius:6px;box-shadow:rgba(0, 0, 0, 0.06) 0 2px 4px 0;border-color=
+:#cccccc #cccccc #cccccc;border-style:solid;border-width:1px 1px 3px" bgc=
+olor=3D"#ffffff" width=3D"42" height=3D"40"><a href=3D"https://delighted.=
+com/e/en-travisci/c/7vip8QFmb0ffGK7eNo5d3X1Q/2/1qLuvcLs" style=3D"display=
+:block;line-height:40px;text-decoration:none;font-size:18px;font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold"><span sty=
+le=3D"color:#2D3136">2</span></a></td></tr></table><table align=3D"right"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"b2" style=3D"w=
+idth:5px;height:44px" width=3D"5" height=3D"44"><tr><td style=3D"width:5p=
+x;height:44px;line-height:0;font-size:0" width=3D"5" height=3D"44">&nbsp;=
+</td></tr></table><table align=3D"right" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"b1-nps" style=3D"width:44px;height:44px" width=3D=
+"44" height=3D"44"><tr><td align=3D"center" class=3D"b01" valign=3D"middl=
+e" style=3D"width:42px;background-color:#ffffff;height:40px;border-radius=
+:6px;box-shadow:rgba(0, 0, 0, 0.06) 0 2px 4px 0;border-color:#cccccc #ccc=
+ccc #cccccc;border-style:solid;border-width:1px 1px 3px" bgcolor=3D"#ffff=
+ff" width=3D"42" height=3D"40"><a href=3D"https://delighted.com/e/en-trav=
+isci/c/7vip8QFmb0ffGK7eNo5d3X1Q/1/4ou3eIpF" style=3D"display:block;line-h=
+eight:40px;text-decoration:none;font-size:18px;font-family:'Helvetica Neu=
+e', Helvetica, Arial, sans-serif;font-weight:bold"><span style=3D"color:#=
+2D3136">1</span></a></td></tr></table><table align=3D"right" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" class=3D"b2" style=3D"width:5px;heig=
+ht:44px" width=3D"5" height=3D"44"><tr><td style=3D"width:5px;height:44px=
+;line-height:0;font-size:0" width=3D"5" height=3D"44">&nbsp;</td></tr></t=
+able><table align=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"b1-nps" style=3D"width:44px;height:44px" width=3D"44" height=
+=3D"44"><tr><td align=3D"center" class=3D"b01" valign=3D"middle" style=3D=
+"width:42px;background-color:#ffffff;height:40px;border-radius:6px;box-sh=
+adow:rgba(0, 0, 0, 0.06) 0 2px 4px 0;border-color:#cccccc #cccccc #cccccc=
+;border-style:solid;border-width:1px 1px 3px" bgcolor=3D"#ffffff" width=3D=
+"42" height=3D"40"><a href=3D"https://delighted.com/e/en-travisci/c/7vip8=
+QFmb0ffGK7eNo5d3X1Q/0/4j8RnXn3" style=3D"display:block;line-height:40px;t=
+ext-decoration:none;font-size:18px;font-family:'Helvetica Neue', Helvetic=
+a, Arial, sans-serif;font-weight:bold"><span dir=3D"ltr" style=3D"color:#=
+2D3136">0<span class=3D"bl" style=3D"color:#2D3136;display:none;visibilit=
+y:hidden;overflow:hidden;line-height:0;font-size:0"> =E2=80=93 Not likely=
+</span></span></a></td></tr></table></td></tr><tr><td class=3D"h" style=3D=
+"padding:18px 0"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%" width=3D"100%"><tr><td align=3D"left" class=3D"h1" s=
+tyle=3D"font-size:18px;font-family:'Helvetica Neue', Helvetica, Arial, sa=
+ns-serif;color:#777777;width:50%;text-align:left" width=3D"50%">Not likel=
+y</td><td align=3D"right" class=3D"h2" style=3D"font-size:18px;font-famil=
+y:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#777777;width:50%;=
+text-align:right" width=3D"50%">Very likely</td></tr></table></td></tr></=
+table></td></tr><tr><td align=3D"center" class=3D"f" style=3D"border-top-=
+width:1px;border-top-style:solid;border-top-color:#e3e3e3;height:46px;bac=
+kground-color:#ffffff" bgcolor=3D"#ffffff" height=3D"46"><table border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"i-nps" style=3D"width:53=
+4px;min-width:534px;margin:0 23px" width=3D"534"><tr><td align=3D"left" c=
+lass=3D"f1" dir=3D"ltr" valign=3D"middle" style=3D"height:48px;font-size:=
+14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#cc=
+cccc;width:40%;text-align:left" width=3D"40%" height=3D"48"><a href=3D"ht=
+tps://delighted.com/e/en-travisci/u/7vip8QFmb0ffGK7eNo5d3X1Q/4YmP1Tvq" st=
+yle=3D"color:#cccccc">Unsubscribe</a></td><td align=3D"right" class=3D"f2=
+" dir=3D"ltr" valign=3D"middle" style=3D"height:48px;font-size:14px;font-=
+family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#cccccc;width=
+:60%;text-align:right" width=3D"60%" height=3D"48">Powered by&nbsp;<a hre=
+f=3D"https://delighted.com/?t=3D7vip8QFmb0ffGK7eNo5d3X1Q.1" style=3D"colo=
+r:#cccccc">Delighted</a><img width=3D"1" height=3D"1" border=3D"0" alt=3D=
+"" style=3D"width:0;overflow:hidden" src=3D"https://delighted.com/e/en-tr=
+avisci/o/7vip8QFmb0ffGK7eNo5d3X1Q/4YmP1Tvq.gif" /></td></tr></table></td>=
+</tr>
+</table><div style=3D"display:none;white-space:nowrap;font:15px courier;l=
+ine-height:0" class=3D"y">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div></body></html=
+>=
+
+----==_mimepart_59db821421b3_379b3fea56eb4850104824--

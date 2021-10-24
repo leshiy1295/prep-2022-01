@@ -1,0 +1,218 @@
+Received: from mxfront2j.mail.yandex.net ([127.0.0.1])
+	by mxfront2j.mail.yandex.net with LMTP id afdCtDo4
+	for <ronald14@gmail.com>, <gibsonnancy@wells.net>; Thu, 12 Oct 2017 08:47:38 +0300
+Received: from mta8.mail.change.org (mta8.mail.change.org [136.147.183.243])
+	by mxfront2j.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id 9VlQx8zpcc-lZCq2OfM;
+	Thu, 12 Oct 2017 08:47:36 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+Return-Path: bounce-32_HTML-278773150-158266-7259823-2320@bounce.mail.change.org
+X-Yandex-Front: mxfront2j.mail.yandex.net
+X-Yandex-TimeMark: 1507787256
+Authentication-Results: mxfront2j.mail.yandex.net; spf=pass (mxfront2j.mail.yandex.net: domain of bounce.mail.change.org designates 136.147.183.243 as permitted sender, rule=[ip4:136.147.176.0/20]) smtp.mail=bounce-32_HTML-278773150-158266-7259823-2320@bounce.mail.change.org; dkim=pass header.i=change@mail.change.org
+X-Yandex-Spam: 2
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=mail.change.org;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:List-ID:Message-ID:Content-Type:Content-Transfer-Encoding; i=change@mail.change.org;
+ bh=e08neR/xMu1Rqt7xWMqrfm2p8N4=;
+ b=rI+NSZEEDTO3r+M2eQhlMlEI53KN7jawcKsX/oNZHt1FLi7RLUJztI0xEzW9jZC/ayHdpRfMiDNb
+   yhFJnOY9nqUSrZ9jS9qtq4IKwEe2FcBB1tHldIqqBGj2d2NQQmWwU+O0j48IHA8QuSrzW1G2UX3e
+   jcLQpKhvX22j5vQS5yc=
+Received: by mta8.mail.change.org id hrs0vg163hsg for <ronald14@gmail.com>, <gibsonnancy@wells.net>; Thu, 12 Oct 2017 05:46:43 +0000 (envelope-from <bounce-32_HTML-278773150-158266-7259823-2320@bounce.mail.change.org>)
+From: "Change.org" <change@mail.change.org>
+To: Christine Smith <lutzedward@hernandez-nguyen.com>, Christopher Hill <bradyramirez@smith.info>, David Miller <brittany12@hodges.info>, Amy Adams <richardsantos@gonzalez-garrett.info>, Emily White <matthewgarcia@preston.com>
+Subject: =?UTF-8?B?0J/QvtC80L7Qs9C40YLQtSDQvtGC0YHRgtC+0Y/RgtGMINC00L4=?=
+ =?UTF-8?B?0Lwg0YDQtdCx0LXQvdC60LAg0LTQu9GPINC00LXRgtC10Lkt0LjQvdCy0LA=?=
+ =?UTF-8?B?0LvQuNC00L7QsiE=?=
+Date: Wed, 11 Oct 2017 23:46:42 -0600
+List-Unsubscribe: <mailto:leave-fd8617721a3c402029-fe2716777d63037e741170-fec315757d66027b-fe8b1372706d0c7f76-ff3816737764@leave.mail.change.org>
+MIME-Version: 1.0
+Reply-To: "Change.org" <reply-fec315757d66027b-32_HTML-278773150-7259823-2320@mail.change.org>
+List-ID: <7259823_158266.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 7259823_158266
+Message-ID: <51dc8336-3c71-4598-84a1-0202abbc1833@atl1s07mta803.xt.local>
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><meta content="width=device-width, initial-scale=1.0" name="viewport"><style id="head-styles" type="text/css">
+      body {
+        width: 100% !important; }
+      
+      .ReadMsgBody {
+        width: 100%; }
+      
+      .ExternalClass {
+        width: 100%; }
+      
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td,
+      .ExternalClass div {
+        line-height: 100%; }
+      
+      table,
+      td {
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt; }
+      
+      img {
+        -ms-interpolation-mode: bicubic;
+        max-width: 480px !important; }
+      
+      body,
+      table,
+      td,
+      p,
+      a,
+      li,
+      blockquote {
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+        -webkit-margin-before: 0;
+        -webkit-margin-after: 0; }
+      
+      table td {
+        border-collapse: collapse !important; }
+      
+      .footer-hide-link a {
+        color: #737273 !important;
+        text-decoration: none !important; }
+      
+      .responsive-full-width {
+        width: 480px; }
+      
+      @media only screen and (max-device-width: 500px) {
+        *[class="responsive-full-width"] {
+          width: 100% !important; }
+      
+        *[class~="responsive-content-width"] {
+          width: 100% !important;
+          max-width: 100% !important; }
+      
+        img {
+          max-width: 100% !important; }
+      
+        *[class~="hidden-xs"] {
+          display: none !important; }
+      
+        *[class~="visible-xs-block"] {
+          display: block !important; }
+      
+        *[class~="visible-xs-inline"] {
+          display: inline !important; }
+      
+        *[class~="visible-xs-table-row"] {
+          display: table-row !important; } }
+      @media only screen and (max-width: 500px) {
+        *[class="responsive-full-width"] {
+          width: 100% !important; }
+      
+        *[class~="responsive-content-width"] {
+          width: 100% !important;
+          max-width: 100% !important; }
+      
+        img {
+          max-width: 100% !important; }
+      
+        *[class~="hidden-xs"] {
+          display: none !important; }
+      
+        *[class~="visible-xs-block"] {
+          display: block !important; }
+      
+        *[class~="visible-xs-inline"] {
+          display: inline !important; }
+      
+        *[class~="visible-xs-table-row"] {
+          display: table-row !important; } }
+    </style></head><body align="center" width="100%" style="-webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding: 0;" bgcolor="#ffffff"><style type="text/css">
+body {
+margin: 0; padding: 0; background-color: #ffffff; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none;
+}
+img {
+display: block; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; max-width: 100%; height: auto; border: none;
+}
+body {
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;
+}
+.cta-sign-one-click-container .arrow:after {
+top: 100%; left: 50%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none;
+}
+.cta-sign-one-click-container .arrow:before {
+top: 100%; left: 50%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none;
+}
+.cta-sign-one-click-container .arrow:after {
+border-top-color: white; border-width: 10px; margin-left: -10px;
+}
+.cta-sign-one-click-container .arrow:before {
+border-top-color: #dbd9db; border-width: 12px; margin-left: -12px;
+}
+</style><table align="center" border="0" cellpadding="24" cellspacing="0" width="100%"><tr><td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"><table align="center" border="0" cellpadding="0" cellspacing="0" class="responsive-full-width" width="480"><tr><td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  
+                  
+                  <tr><td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"><div class="align-left" style=";" align="left"><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper" style=""><tbody><tr><td class="stylingblock-content-wrapper camarker-inner">
+
+    <div style="display: none;">
+    
+
+    
+
+
+    </div>
+    
+
+
+</td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper" style=""><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"></td><td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"><a style="color: #ec2c22; text-decoration: underline;">
+<img alt="Change.org" class="logo block" height="24" src="https://static.change.org/email/change-logo-106-22.png" width="120" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 22px !important; max-width: 100%; outline: none; text-decoration: none; width: 106px !important;"></a></td><td align="right" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"><div class="type-weak type-small" style="color: #737273;"></div></td></tr></tbody></table></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+<img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr><tr class=""><td class="rule" width="100%" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; padding: 0;" bgcolor="#dbd9db">
+<img class="rule" height="1" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; background: #dbd9db; border: none; display: block; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+					&laquo;<b>Специализированный дом ребенка в Перми</b>, где воспитываются 102 ребенка-инвалида&nbsp;в возрасте до 4 лет,<b>&nbsp;будет закрыт, а детей отправят в другие детдома.</b>&nbsp;Некоторые из&nbsp;малышей страдают<b> тяжелыми врожденными пороками, </b>другие&nbsp;&mdash;<b> нарушениями психики, дефектами умственного и&nbsp;физического развития. </b>Ряд воспитанников больны<b>&nbsp;ВИЧ</b>&raquo;,- пишет Ярослав из Перми.<br><br><b>&laquo;Им не дают права на жизнь&raquo;</b>, &ndash; говорит персонал учреждения.<br><br>
+					Поможете отстоять пермский дом ребенка?&nbsp;</p></td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+<img border="0" class="spacer" height="24" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 24px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"><a href="https://click.mail.change.org/?qs=d5a0bdeeaa59ffebaa24d5da4dbe08c49d64f777b6686ce68a30bab377a3b4d184a6094510a2fc8356cf4f97a2f3d1f87a29a81982bd900cc41ac2506bb6f430" style="color: #ec2c22; text-decoration: underline;">
+<img src="https://assets.change.org/photos/1/ur/kx/OfuRKXVplvkSITe-800x450-noPad.jpg" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: auto; max-width: 100%; outline: none; text-decoration: none;"></a></td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+<img border="0" class="spacer" height="24" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 24px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+<a class="no-decoration type-weak type-m" href="https://click.mail.change.org/?qs=d5a0bdeeaa59ffebaa24d5da4dbe08c49d64f777b6686ce68a30bab377a3b4d184a6094510a2fc8356cf4f97a2f3d1f87a29a81982bd900cc41ac2506bb6f430" style="color: #737273; font-size: 16px; line-height: 24px; text-decoration: none !important;">
+            Направлено: Решетников М.Г.
+          </a></td></tr><tr><td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"><a class="no-decoration type-l type-strong" href="https://click.mail.change.org/?qs=d5a0bdeeaa59ffebaa24d5da4dbe08c49d64f777b6686ce68a30bab377a3b4d184a6094510a2fc8356cf4f97a2f3d1f87a29a81982bd900cc41ac2506bb6f430" style="color: #363135; font-size: 20px; line-height: 30px; text-decoration: none !important;">
+            Губернатору Пермского края Решетникову М.Г.: Отменить решение о закрытии единственного в Перми специализированного Дома ребёнка!
+          </a></td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+<img border="0" class="spacer" height="24" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 24px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper" style=""><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+<div class="cta-sign-one-click-container" style="background: #f6f4f6; border: 1px solid #dbd9db; border-radius: 5px; padding: 0px 15px 15px;"><div class="arrow" style="border: 1px #dbd9db; margin-top: -1px; position: relative;"></div>
+<p class="cta-sign-one-click-header" style="color: #737273; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 10pt; line-height: 24px; margin-bottom: 0; margin-top: 16px; mso-line-height-rule: exactly; padding: 5px 0px 10px;" align="center">Теперь вы можете подписаться одним кликом, нажав ниже</p>
+                  
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"></td></tr><tr><td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"><table align="left" border="0" cellpadding="0" cellspacing="0" class="button" width="100%"><tbody><tr><td align="center" bgcolor="#ec2c22" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+<a href="https://click.mail.change.org/?qs=d5a0bdeeaa59ffeb158dd49f64042689f3b3e6f27cd2ecfef7879a9072cdd097b1930606eb11c8247c8ee8ada870422b4876753acfc79ea876121fcc7a23f37a" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border: 1px solid #ec2c22; border-radius: 5px; color: #ffffff; display: block; font-weight: bold; line-height: 18px; padding: 12px 18px; text-decoration: none;">Подписать одним кликом</a></td></tr></tbody></table></td></tr></tbody></table>
+                  
+                </div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+<img border="0" class="spacer" height="24" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 24px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper" style=""><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"><p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin-bottom: 0; margin-top: 0; mso-line-height-rule: exactly;">
+					Быть ребёнком-сиротой &ndash; сложно. А быть ребёнком-сиротой с врождёнными патологиями или отклонениями в здоровье &ndash; многократно сложнее.&nbsp;<b>Таким детям требуется особый уход, особый режим, специальные условия для лечения и проживания. </b>Такие дети должны находиться под постоянным наблюдением квалифицированных специалистов. <b>Их жизнь и здоровье напрямую зависит от наличия или отсутствия необходимого оборудования, квалифицированных медицинских работников и педагогов, заботливых рук и внимания воспитателей.</b>&nbsp;При должном медицинском уходе и внимании многие отклонения в здоровье ребёнка можно вовремя скорректировать и не допустить прогрессирования заболевания.<br><br>
+<b>В Перми уже много лет функционирует единственный в Пермском крае&nbsp;&laquo;Пермский краевой специализированный Дом ребёнка&raquo; 
+</b>(&laquo;ПКСДР&raquo;), в котором проживают и получают необходимое лечение, уход и воспитание&nbsp;детишки в возрасте от 0 до 4-х лет (совсем малыши), оставшиеся без попечения родителей. И не просто детишки, а малыши&nbsp;с отклонениями или дефектами в умственном, психическом или физическом развитии. Это и дети-инвалиды, и дети, отклонения в развитии которых поддаются лечению и коррекции, и которые впоследствии становятся здоровыми или практически здоровыми при должном уходе, лечении и внимании. &nbsp;Сейчас в &laquo;ПКСДР&raquo; находятся 102 ребёнка. В &laquo;ПКСДР&raquo; работают 200 человек сотрудников, и среди них квалифицированные врачи, медицинские работники, педагоги, воспитатели. Детишки получают необходимое для жизни и здоровья и, что очень важно, своевременное обследование и
+ лечение.&nbsp;<b>Такой специализированный Дом ребёнка в Пермском крае &ndash; один.&nbsp; И его хотят закрыть, а правильнее сказать - ликвидировать&hellip;</b></p><p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin-bottom: 0; margin-top: 0; mso-line-height-rule: exactly;"></p><p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin-bottom: 0; margin-top: 0; mso-line-height-rule: exactly;"><b><a   data-linkto="https://" href="https://click.mail.change.org/?qs=7369c5aa72ab9af40d03c79232a76268e5a24fb27aa890272bc7f0f3381a547bbc7aec504258da464beb8874efabcb3c4a8ac6a46cabf74b8c9220402918dbea" style="color:#ed2d23;text-decoration:underline;" title="">Подробнее</a></b></p></td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper"><tbody><tr>
+<td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+<img border="0" class="spacer" height="24" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 24px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper" style=""><tbody><tr><td class="stylingblock-content-wrapper camarker-inner">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"></td></tr><tr><td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"><table align="left" border="0" cellpadding="0" cellspacing="0" class="button" width="100%"><tbody><tr><td align="center" bgcolor="#ec2c22" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+<a href="https://click.mail.change.org/?qs=d5a0bdeeaa59ffeb1955a8031045063dba3fbd4b903f8a43bd8bea08f2ad9fb2449ad60a62ca72a42c36db4e8333489db2c92e5c05ef015d1a813ffd47eafa34" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border: 1px solid #ec2c22; border-radius: 5px; color: #ffffff; display: block; font-weight: bold; line-height: 18px; padding: 12px 18px; text-decoration: none;">Подписать одним кликом</a></td></tr></tbody></table></td></tr></tbody></table>
+    
+</td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+<img border="0" class="spacer" height="24" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 24px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper" style=""><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+<a class="type-strong" href="https://click.mail.change.org/?qs=d5a0bdeeaa59ffebaa24d5da4dbe08c49d64f777b6686ce68a30bab377a3b4d184a6094510a2fc8356cf4f97a2f3d1f87a29a81982bd900cc41ac2506bb6f430" style="color: #363135; text-decoration: underline;">Ознакомьтесь с петициией</a></td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="100%" class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+<img border="0" class="spacer" height="24" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 24px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr></tbody></table></td></tr></tbody></table></div></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+<img border="0" class="spacer" height="24" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 24px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr><tr class=""><td class="rule" width="100%" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; padding: 0;" bgcolor="#dbd9db">
+<img class="rule" height="1" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; background: #dbd9db; border: none; display: block; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+<img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr><tr><td align="left" class="footer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+<p class="type-weak type-s" style="color: #737273; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 19px; margin-bottom: 0; margin-top: 0; mso-line-height-rule: exactly;">Человек (или организация), создавший эту петицию не связан с Change.org. Change.org не создал эту петицию, и не несет ответственности за ее содержание.</p></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+<img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr><tr class=""><td class="rule" width="100%" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; padding: 0;" bgcolor="#dbd9db">
+<img class="rule" height="1" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; background: #dbd9db; border: none; display: block; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+<img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr></table><p class="type-weak type-s" style="color: #737273; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 19px; margin-bottom: 0; margin-top: 16px; mso-line-height-rule: exactly;"><strong><a href="https://click.mail.change.org/?qs=7369c5aa72ab9af4c43741dd904a35c2d862d08b0e10eab05d1e26205d3ba7ccf844af00b8a73fcc50c1d60f9a345829ac67d8e5b824a34153a566db518b39fe" style="color: #737273; text-decoration: underline;">Отписаться</a></strong>
+                         · 
+                        <a href="https://click.mail.change.org/?qs=7369c5aa72ab9af4e8abf4d83e2cbb3c5e6b045d5ab6d9889a4062eb9cadbdb98199a85cc165f07f1f93eb9f52968a516580c0af56ac971fa07dd601e35f6cb2" style="color: #737273; text-decoration: underline;">Изменить настройки получения уведомлений</a>
+                         · 
+                        <a href="https://click.mail.change.org/?qs=7369c5aa72ab9af4bec32ff7d78ce6774b501752047f8f3014240e44052ee0e9cefade6cfa78575e3897702a8d7267a7b7c7d88984ab52e6ce186c3860d25f6a" style="color: #737273; text-decoration: underline;">Политика конфиденциальности</a></p><p class="type-weak type-s" style="color: #737273; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 19px; margin-bottom: 0; margin-top: 16px; mso-line-height-rule: exactly;"
+                         · 
+                        <span class="footer-hide-link">548 Market St #29993, San Francisco, CA 94104-5401, США</span></p></td></tr><tr class=""><td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;"><img border="0" class="spacer" height="24" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 24px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1"></td></tr><tr><td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+<img class="hide-fully" height="1" src="https://pixel.app.returnpath.net/pixel.gif?r=5b47e48f57a35b989773588eb47d433805c19665" width="1" style="-ms-interpolation-mode: bicubic; border: none; display: none; height: auto; max-width: 100%; outline: none; text-decoration: none;"><img src="https://click.mail.change.org/open.aspx?ffcb10-fec315757d66027b-fe311774716405797d1171-fe8b1372706d0c7f76-ff9a1772-fe2716777d63037e741170-ff3816737764" width="1" height="1"></custom></td></tr></table></td></tr></table></td></tr></table></body></html>

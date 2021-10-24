@@ -1,0 +1,1894 @@
+Received: from mxfront10o.mail.yandex.net ([127.0.0.1])
+	by mxfront10o.mail.yandex.net with LMTP id f6TDbsnA
+	for <michaelrichardson@hancock.net>, <mcdonaldlisa@yahoo.com>, <mscott@hotmail.com>, <mary78@yahoo.com>, <kwilliams@yahoo.com>, <eaguirre@yahoo.com>, <anne26@simmons-jordan.com>, <matthewpowell@herrera.com>, <kristenescobar@yahoo.com>, <troy33@baldwin.com>; Fri, 20 Oct 2017 16:34:48 +0300
+Received: from o3.mail7.shared.hubspot.com (o3.mail7.shared.hubspot.com [198.37.146.117])
+	by mxfront10o.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id YyvFSFPONj-YkHWQoDS;
+	Fri, 20 Oct 2017 16:34:46 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+X-Yandex-Front: mxfront10o.mail.yandex.net
+X-Yandex-TimeMark: 1508506486
+Authentication-Results: mxfront10o.mail.yandex.net; spf=pass (mxfront10o.mail.yandex.net: domain of mail7.shared.hubspot.com designates 198.37.146.117 as permitted sender, rule=[ip4:198.37.146.116/31]) smtp.mail=bounces@mail7.shared.hubspot.com; dkim=pass header.i=@qt.io
+X-Yandex-Spam: 2
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=qt.io; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-unsubscribe; 
+	s=smtpapi; bh=s2mYXJY9NylmLJ0vrKNfXraG2q4=; b=S+Tc4EIS+Mp1UaQRbr
+	B/woBQVuTS19UjJJmUWQ5aYSM8oLn3fGbwToU+xSaGQ97kpa28yaW+Xdbc/mbfJA
+	vbbL9dOsBtfFLKGq8c9ULeWY3YnDuPgOsQ/OWvYUbtEeUReREIou6ojQrnE7o3ep
+	DdlF9RC/y0riHgL2b/pyA/wQ0=
+From: The Qt Company <info@qt.io>
+Reply-To: info@qt.io
+To: Alec Turner <gutierrezgary@gmail.com>, Kelly Stafford <goodwindonald@hotmail.com>, Bob Baker <mkey@james-morris.com>
+Message-ID: <1508505988290.042e8b60-05c5-4536-9169-733db80f47cf@mail7.shared.hubspot.com>
+Subject: Are you on Qt 5.9 Long Term Release yet? Here's what's in the box.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_482012_2105886031.1508506483005"
+List-Unsubscribe: <mailto:1a1l3h8xpitlhrcwd5ewdz3ds0h21n532baforkip4pt@m.hsms02.com?subject=unsubscribe>, <http://hs-149513.s.hubspotemail.net/hs/manage-preferences/unsubscribe-all?d=eyJlYSI6ImFudDQ5MDZAeWFuZGV4LnJ1IiwiZWMiOjU3NTc2OTM0LCJzdWJzY3JpcHRpb25JZCI6NzI5OSwiZXQiOjE1MDg1MDU5ODgyOTAsImV1IjoiMDQyZThiNjAtMDVjNS00NTM2LTkxNjktNzMzZGI4MGY0N2NmIn0%3D&v=1>
+X-Report-Abuse-To: abuse@hubspot.com (see https://www.hubspot.com/abuse-complaints)
+X-HubSpot-MID: CiQwNDJlOGI2MC0wNWM1LTQ1MzYtOTE2OS03MzNkYjgwZjQ3Y
+        2YQiZAJGHEgACjmm7obMIM5OhFhbnQ0OTA2QHlhbmRleC5ydUDC2drP8
+        ytI8AJaIGE5ZjVkZGJlNzU4ZWI2ZDUwODgxOWRiNTVlODhkODU5ZQAAW
+        EJw6c+NA4ABAIoBJDk4NDRlZWEwLTNmNmEtMzQ2Mi05Y2NlLTNjYTM3N
+        TJkMmMwOZgBAaABAKgBB7ABAMgBAdIBCmluZm9AcXQuaW/oAQGAAgE=
+Date: Fri, 20 Oct 2017 13:34:43 +0000 (UTC)
+X-SG-EID: TbFNxiv1Y3ynZq1J/+sOVls0KRa3mA/nvn7IzLWHogayyc7vsF+vcKzWVl58fgQ0kQYYhmDSpe4PPP
+ er4oRE/75BAbaTLnJUFqtz97M4vg0GAMXoLZrYL3LAEy6dOtwLa0XSz/UeZeFXkZ94/ZZslm0ZRQII
+ Aukq60yAdbxJC2cRYDN7wopp9tUcBxZL6AO28Jtp5sxSldlgbcIhEntLIA==
+X-SG-ID: BaKDar+VrkG/S9kwb9JXA0tdBXzCSQOSOT/1AqCitWSlUfTIC4a3qMHb3P7kxB71yStQRfj13qF01E
+ TF6FrbpA5cAvsQZ/cjSaleNCxaopvYmZvIhkmZ8kSJ0yLRoF+GS/wt/Q8mqDdD/nn0ED6L7brdVnj/
+ A5gkxNu6m9khn47EcvD5NcTyAtSjREjFF9f6k4Wyi/CL7J+AK/mQ2aQGWbJZDmKrjTBs7W6xG++2cA
+ XkyP1EJuEz5Z9lSgbuwR0OznCJ75O25dXWf+gdxL+qTEaKfGeBh26mq7xc/6ntHjhCRnUA4FLAk03h
+ gdKNrqHp38GZJFS5AAlvBCJ2FskqOW12tSgHlIuBus/yklt62zmDaUqA4y6oEpKmd2pdG8OcuEgvQc
+ bT6fvYIH+eoWTKYg==
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+------=_Part_482012_2105886031.1508506483005
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Qt 5.9 LTS, the latest Qt version launched today, offers higher performance=
+ and stability than ever before, in addition to long term support (LTS).
+
+Not rendering correctly? View this email as a web page here () .
+
+logo.jpg (http://hs-149513.t.hubspotemail.net/e1t/sc/*VHZg3-2Fyw6wW2TqdqH1B=
+yPCg0 )
+
+May 2017
+
+Qt 5.9 LTS released
+
+(http://hs-149513.t.hubspotemail.net/e1t/sc/*Vfg8fk2h_XwTN1sb6h_gJchs0 )
+
+Stability, performance and long term support - Qt 5.9 LTS is out
+
+Qt 5.9 LTS (http://hs-149513.t.hubspotemail.net/e1t/sc/*W7mlSdG60vtjBN6CWxP=
+sLfCwP0 ) has been released! The latest version of the cross-platform softw=
+are development framework offers substantially higher performance and is mo=
+re stable than ever. It=E2=80=99s even long term supported (LTS), which mea=
+ns that Qt 5.9 LTS is the next go-to version of Qt.
+
+What=E2=80=99s new?
+
+- Improved 3D features
+- Qt Quick performance
+- OpenGL shader cache
+- Qt Network improvement
+- Support for INTEGRITY RTOS
+
+Learn more about the highlights in Qt 5.9 LTS (http://hs-149513.t.hubspotem=
+ail.net/e1t/sc/*W1F3tL12_y4ksW31wBxJ805Gkc0 ) and get an overview of everyt=
+hing related to the release.
+
+
+
+Qt 5.9 LTS release video (http://hs-149513.t.hubspotemail.net/e1t/sc/*W5YTW=
+bL5jgmcCN3jvc3jY21gr0 )
+
+Lars Knoll, CTO, and Leonor Gonz=C3=A1lez Valencia, Customer Success Manage=
+r at Qt, introduce Qt 5.9 LTS in the release video (http://hs-149513.t.hubs=
+potemail.net/e1t/sc/*W7p0WxZ1vLX7rW7YxQGN3qCRJ30 ) .
+
+Qt 5.9 LTS blogs
+(http://hs-149513.t.hubspotemail.net/e1t/sc/*W2NmMsz5ywG53W4WNgwx8x-gYB0 )
+
+Qt LTS 5.9 blogs (http://hs-149513.t.hubspotemail.net/e1t/sc/*W8s-RQ55Mc0yk=
+W8PQYSd84lR2-0 )
+
+Lars Knoll, CTO at Qt, provides an update of the new features in Qt 5.9 LTS=
+ in detail in his blog (http://hs-149513.t.hubspotemail.net/e1t/sc/*N7pnG6y=
+1hT5FW8_-V7T5pnbfD0 ) .
+
+Also check out Tuukka Turunen's blog (http://hs-149513.t.hubspotemail.net/e=
+1t/sc/*W1hwVGJ5875bwW4yXKMB2QFK8q0 )  to learn more about the performance i=
+mprovements in Qt 5.9 LTS compared to Qt 5.6 LTS.
+
+Webinar: Meet Qt 5.9 LTS
+
+Register for our 45-minute webinar (http://hs-149513.t.hubspotemail.net/e1t=
+/sc/*W90wNQQ3ny1dSN3lTB7_qrDP50 ) to learn more about Qt 5.9 LTS and its ne=
+w features and improvements.
+
+Time: 13 June @ 3:00 pm - 4:00 pm CEST
+
+The webinar will be recorded and sent to all registrants, so make sure to r=
+egister even if you can=E2=80=99t make it to the live session.
+
+Get started with Qt tutorials
+
+We have created short tutorial videos for you on how to get started with Qt=
+. We hope you find them useful and take full advantage of them!
+
+Hello Widget World (http://hs-149513.t.hubspotemail.net/e1t/sc/*W1LhTq_3bM4=
+GNW5Db87p743QQg0 )  by Mitch Curtis
+Qt Widgets is one of the UI design approaches mainly suitable for desktop a=
+pplications. You will get the basic familiarity of Qt Creator, the complete=
+ integrated development environment for cross-platform applications and UIs.
+
+Hello Quick World (http://hs-149513.t.hubspotemail.net/e1t/sc/*W96Qt4K9glSc=
+NW7-qX2r6c5xN90 )  by Mitch Curtis
+The tutorial gives you an introduction to Qt Quick, the ideal way to create=
+ modern touch embedded, mobile and desktop applications and UIs.
+
+The Qt Company
+Bertel Jungin aukio D3A
+
+Espoo,
+02600
+
+Finland
+
+You received this email because you are subscribed to Qt Newsletter from Th=
+e Qt Company.
+
+Update your email preferences (http://hs-149513.s.hubspotemail.net/hs/manag=
+e-preferences/unsubscribe?d=3DeyJlYSI6ImFudDQ5MDZAeWFuZGV4LnJ1IiwiZWMiOjU3N=
+Tc2OTM0LCJzdWJzY3JpcHRpb25JZCI6NzI5OSwiZXQiOjE1MDg1MDU5ODgyOTAsImV1IjoiMDQy=
+ZThiNjAtMDVjNS00NTM2LTkxNjktNzMzZGI4MGY0N2NmIn0%3D&v=3D1&utm_campaign=3DQt%=
+205.9&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D57576934&_hsen=
+c=3Dp2ANqtz-8vfw8aqaI9gI_MirpSaozcVcBz3NqIRdzQvbbkABAa38GQ41ma3kCqeot8mje0s=
+oijH6-P0ktw8-FZjjUmo079ymazRA&_hsmi=3D57576934 ) to choose the types of ema=
+ils you receive.
+
+Unsubscribe from all future emails (http://hs-149513.s.hubspotemail.net/hs/=
+manage-preferences/unsubscribe-all?d=3DeyJlYSI6ImFudDQ5MDZAeWFuZGV4LnJ1Iiwi=
+ZWMiOjU3NTc2OTM0LCJzdWJzY3JpcHRpb25JZCI6NzI5OSwiZXQiOjE1MDg1MDU5ODgyOTAsImV=
+1IjoiMDQyZThiNjAtMDVjNS00NTM2LTkxNjktNzMzZGI4MGY0N2NmIn0%3D&v=3D1&utm_campa=
+ign=3DQt%205.9&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D57576=
+934&_hsenc=3Dp2ANqtz-8vfw8aqaI9gI_MirpSaozcVcBz3NqIRdzQvbbkABAa38GQ41ma3kCq=
+eot8mje0soijH6-P0ktw8-FZjjUmo079ymazRA&_hsmi=3D57576934 )=
+
+------=_Part_482012_2105886031.1508506483005
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- start coded_template: id:4675516762 =
+path:custom/email/responsive_email/external_newsletter_Dec_2016.html --><ht=
+ml xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+        <title>Are you on Qt 5.9 Long Term Release yet? Here's what's in th=
+e box.</title>
+        <meta property=3D"og:title" content=3D"Are you on Qt 5.9 Long Term =
+Release yet? Here's what's in the box.">
+        <meta name=3D"twitter:title" content=3D"Are you on Qt 5.9 Long Term=
+ Release yet? Here's what's in the box.">
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Du=
+tf-8">
+=20=20=20=20=20=20=20=20
+         <style type=3D"text/css" id=3D"hs-inline-css">
+        /*<![CDATA[*/
+            /* everything in this node will be inlined */
+
+            /* =3D=3D=3D=3D Page Styles =3D=3D=3D=3D */
+=20=20=20=20=20=20=20=20=20=20=20=20
+            body, #backgroundTable {
+                background-color: #f2f2f2; /* Use body to determine backgro=
+und color */
+                font-family: sans-serif;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #templateTable {
+                width: 600px;
+                /*background-color: #ffffff;*/
+                background-color: transparent;
+                font-size: 12px;
+                font-weight: normal;
+                font-family: Arial, Times, serif;
+                line-height: 20px;
+                -webkit-font-smoothing: antialiased;
+            }
+
+            h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+                color:#444444;
+                display:block;
+                font-family: sans-serif;
+                font-weight:bold;
+                line-height:100%;
+                margin-top:0;
+                margin-right:0;
+                margin-bottom:10px;
+                margin-left:0;
+                text-align:left;
+            }
+
+            h1, .h1 {
+                font-size:26px;
+            }
+
+            h2, .h2 {
+                font-size:20px;
+            }
+
+            h3, .h3 {
+                font-size:15px;
+            }
+
+            h4, .h4 {
+                font-size:13px;
+            }
+
+            h5, .h5 {
+                font-size:11px;
+            }
+
+            h6, .h6 {
+                font-size:10px;
+            }
+
+            /* =3D=3D=3D=3D Header Styles =3D=3D=3D=3D */
+
+            #headerTable {
+                background-color: #f2f2f2;
+                color:#444444;
+                font-family:sans-serif;
+                font-size:10px;
+                line-height:120%;
+                text-align:right;
+                border-collapse: separate !important;
+                padding-right: 30px;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #headerTable a:link, #headerTable a:visited, /* Yahoo! Mail Ove=
+rride */ #headerTable a .yshortcuts /* Yahoo! Mail Override */{
+                font-weight:normal;
+                text-decoration:underline;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            /* =3D=3D=3D=3D Template Wrapper Styles =3D=3D=3D=3D */
+
+            #contentCell {
+                padding: 10px 20px;
+                background-color: #f2f2f2;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+            #contentTableOuter {
+                border-collapse: separate !important;
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                background-color: #ffffff;
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                box-shadow: 0px 1px rgba(0, 0, 0, 0.1);
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+                padding: 30px;
+            }
+
+            #contentTableInner {
+                width: 600px;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            /* =3D=3D=3D=3D Body Styles =3D=3D=3D=3D */
+=20=20=20=20=20=20=20=20=20=20=20=20
+            .bodyContent {
+                color:#444444;
+                font-family:sans-serif;
+                font-size: 15px;
+                line-height:150%;
+                text-align:left;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            /* =3D=3D=3D=3D Column Styles =3D=3D=3D=3D */
+
+            table.columnContentTable {
+                border-collapse:separate !important;
+                border-spacing:0;
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                background-color: #ffffff;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            td[class~=3D"columnContent"] {
+                color:#444444;
+                font-family:sans-serif;
+                font-size:15px;
+                line-height:120%;
+                padding-top:20px;
+                padding-right:20px;
+                padding-bottom:20px;
+                padding-left:20px;
+            }
+
+            /* =3D=3D=3D=3D Footer Styles =3D=3D=3D=3D */
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #footerTable {
+                background-color: #f2f2f2;
+            }
+
+            #footerTable a {
+                color: #999999;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #footerTable {
+                color:#999999;
+                font-family:sans-serif;
+                font-size:12px;
+                line-height:120%;
+                padding-top:20px;
+                padding-right:20px;
+                padding-bottom:20px;
+                padding-left:20px;
+                text-align:center;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #footerTable a:link, #footerTable a:visited, /* Yahoo! Mail Ove=
+rride */ #footerTable a .yshortcuts /* Yahoo! Mail Override */{
+                font-weight:normal;
+                text-decoration:underline;
+            }
+
+            .hs-image-social-sharing-24 {
+                max-width: 24px;
+                max-height: 24px;
+            }
+
+            /* =3D=3D=3D=3D Standard Resets =3D=3D=3D=3D */
+            .ExternalClass{
+                width:100%;
+            } /* Force Hotmail to display emails at full width */
+            .ExternalClass, .ExternalClass p, .ExternalClass span, .Externa=
+lClass font, .ExternalClass td, .ExternalClass div {
+                line-height: 100%;
+            } /* Force Hotmail to display normal line spacing */
+            body, table, td, p, a, li, blockquote{
+                -webkit-text-size-adjust:100%;
+                -ms-text-size-adjust:100%;
+            } /* Prevent WebKit and Windows mobile changing default text si=
+zes */
+            table, td {
+                mso-table-lspace:0pt;
+                mso-table-rspace:0pt;
+            } /* Remove spacing between tables in Outlook 2007 and up */
+            img {
+                vertical-align: bottom;
+                -ms-interpolation-mode:bicubic;
+            } /* Allow smoother rendering of resized image in Internet Expl=
+orer */
+=20=20=20=20
+            /* Reset Styles */
+            body {
+                margin:0;
+                padding:0;
+            }
+            table {
+                border-collapse:collapse !important;
+            }
+            body, #backgroundTable, #bodyCell{
+                height:100% !important;
+                margin:0;
+                padding:0;
+                width:100% !important;
+            }
+            a:link, a:visited {
+                border-bottom: none;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            /* iOS automatically adds a link to addresses */
+            /* Style the footer with the same color as the footer text */
+            #footer a {
+                color: #999999;;
+                -webkit-text-size-adjust: none;
+                text-decoration: underline;
+                font-weight: normal
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            .column-first .column-content {
+                padding-right: 10px;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            .column-last .column-content {
+                padding-left: 10px;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            .dark-box-column-wrapper a:link,
+            .dark-box-column-wrapper a:visited {
+                color: #cecfd5;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            .gray-box-column-wrapper a:link,
+            .gray-box-column-wrapper a:visited {
+                color: #41cd52;
+            }
+        /*]]>*/
+    </style>
+
+         <style type=3D"text/css">
+        /*<![CDATA[*/
+            /* =3D=3D=3D=3D Mobile Styles =3D=3D=3D=3D */
+=20=20=20=20=20=20=20=20=20=20=20=20
+            /* Constrain email width for small screens */
+            @media screen and (max-width: 650px) {
+                table[id=3D"backgroundTable"] {
+                    width: 95% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                table[id=3D"templateTable"] {
+                    max-width:600px !important;
+                    width:100% !important;
+                }
+
+                table[id=3D"contentTableInner"] {
+                    max-width:600px !important;
+                    width:100% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20
+                /* Makes image expand to take 100% of width*/
+                img {
+                    width: 100% !important;
+                    height: auto !important;
+                }
+
+                #contentCell {
+                    padding: 10px 10px !important;
+                }
+
+                #headerTable {
+                    padding-right: 15.0px !important;
+                }
+
+                #contentTableOuter {
+                    padding: 15.0px !important;
+                }
+            }
+
+            @media only screen and (max-width: 480px) {
+                /* =3D=3D=3D=3D Client-Specific Mobile Styles =3D=3D=3D=3D =
+*/
+                body, table, td, p, a, li, blockquote{
+                    -webkit-text-size-adjust:none !important;
+                } /* Prevent Webkit platforms from changing default text si=
+zes */
+                body{
+                    width:100% !important;
+                    min-width:100% !important;
+                } /* Prevent iOS Mail from adding padding to the body */
+
+                /* =3D=3D=3D=3D Mobile Reset Styles =3D=3D=3D=3D */
+                td[id=3D"bodyCell"] {
+                    padding:10px !important;
+                }
+
+                /* =3D=3D=3D=3D Mobile Template Styles =3D=3D=3D=3D */
+=20=20=20=20
+                table[id=3D"templateTable"] {
+                    /*max-width:600px !important;*/
+                    max-width: 312px !important;
+                    width:100% !important;
+                }
+
+                table[id=3D"contentTableInner"] {
+                    max-width:600px !important;
+                    width:100% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                /* =3D=3D=3D=3D Image Alignment Styles =3D=3D=3D=3D */
+
+                h1, .h1 {
+                    font-size:26px !important;
+                    line-height:125% !important;
+                }
+
+                h2, .h2 {
+                    font-size:20px !important;
+                    line-height:125% !important;
+                }
+
+                h3, .h3 {
+                    font-size:15px !important;
+                    line-height:125% !important;
+                }
+
+                h4, .h4 {
+                    font-size:13px !important;
+                    line-height:125% !important;
+                }
+
+                h5, .h5 {
+                    font-size:11px !important;
+                    line-height:125% !important;
+                }
+
+                h6, .h6 {
+                    font-size:10px !important;
+                    line-height:125% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                .hide {
+                    display:none !important;
+                } /* Hide to save space */
+
+                /* =3D=3D=3D=3D Body Styles =3D=3D=3D=3D */
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                td[class=3D"bodyContent"] {
+                    font-size:16px !important;
+                    line-height:145% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                /* =3D=3D=3D=3D Footer Styles =3D=3D=3D=3D */
+
+                td[id=3D"footerTable"]{
+                    padding-left: 0px !important;
+                    padding-right: 0px !important;
+                    font-size:12px !important;
+                    line-height:145% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                /* =3D=3D=3D=3D Image Alignment Styles =3D=3D=3D=3D */
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                table[class=3D"alignImageTable"] {
+                    width: 100% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                td[class=3D"imageTableTop"] {
+                    display: none !important;
+                    /*padding-top: 10px !important;*/
+                }
+                td[class=3D"imageTableRight"] {
+                    display: none !important;
+                }
+                td[class=3D"imageTableBottom"] {
+                    padding-bottom: 10px !important;
+                }
+                td[class=3D"imageTableLeft"] {
+                    display: none !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                /* =3D=3D=3D=3D Column Styles =3D=3D=3D=3D */
+
+                td[class~=3D"column"] {
+                    display: block !important;
+                    width: 100% !important;
+                    padding-top: 0 !important;
+                    padding-right: 0 !important;
+                    padding-bottom: 0 !important;
+                    padding-left: 0 !important;
+                }
+
+                td[class~=3DcolumnContent] {
+                    font-size:14px !important;
+                    line-height:145% !important;
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    padding-top: 10px !important;
+                    padding-right: 10px !important;
+                    padding-bottom: 10px !important;
+                    padding-left: 10px !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                td.widget-type-space {
+                    padding: 0 !important;
+                }
+
+                #contentCell {
+                    padding: 10px 0px !important;
+                }
+
+                #headerTable {
+                    padding-right: 15.0px !important;
+                }
+
+                #contentTableOuter {
+                    padding: 15.0px !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                .column-first {
+                    min-height: 0 !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                .column-first .column-content {
+                    padding-right: 0 !important;
+                    padding-bottom: 25px !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                .column-first img {
+                    width: 100% !important;
+                    height: auto !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                .column-last .column-content {
+                    padding-left: 0 !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                .column-first.dark-box-column-wrapper .column-content {
+                    padding-right: 20px !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                .column-last.dark-box-column-wrapper .column-content {
+                    padding-left: 20px !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                span.switcher {
+                    display: block;=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                    background-repeat: no-repeat !important;
+                    background-position: center !important;
+                    width: 280px !important;
+                    height: 300px !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                span#switcher-hero {
+                    /*background-image: url(https://cdn2.hubspot.net/hubfs/=
+149513/QtWS16_eblast/hero-mobile.jpg?2016090600&t=3D1508504207063) !importa=
+nt;*/
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                span#switcher-footer {
+                    /*background-image: url(https://cdn2.hubspot.net/hubfs/=
+149513/QtWS16_eblast/footer-mobile.jpg?2016090600&t=3D1508504207063) !impor=
+tant;*/
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                span.switcher img {
+                    display: none !important;
+                }
+            }
+        /*]]>*/
+    </style>
+
+        <!-- http://www.emailon@cid.com/blog/details/C13/ensure_that_your_e=
+ntire_email_is_rendered_by_default_in_the_iphone_ipad -->
+        <!--                                                               =
+                                                      -->
+        <!--                                                               =
+                                                      -->
+        <!--                            _/    _/            _/          _/_=
+/_/                        _/                         -->
+        <!--                           _/    _/  _/    _/  _/_/_/    _/    =
+    _/_/_/      _/_/    _/_/_/_/                      -->
+        <!--                          _/_/_/_/  _/    _/  _/    _/    _/_/ =
+   _/    _/  _/    _/    _/                           -->
+        <!--                         _/    _/  _/    _/  _/    _/        _/=
+  _/    _/  _/    _/    _/                            -->
+        <!--                        _/    _/    _/_/_/  _/_/_/    _/_/_/   =
+ _/_/_/      _/_/        _/_/                         -->
+        <!--                                                               =
+_/                                                    -->
+        <!--                                                              _=
+/                                                     -->
+        <!--                                                               =
+                                                      -->
+        <!--                                                 Extra White Sp=
+ace!                                                  -->
+        <!--                                                               =
+                                                      -->
+        <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - =
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" =
+content=3D"http://qt-digia.hs-sites.com/-temporary-slug-5e091842-11db-4a97-=
+9b95-793f96363e61"></head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"background-color:#f2f2f2; font-family:sans-ser=
+if; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; height:100% !=
+important; margin:0; padding:0; width:100% !important" bgcolor=3D"#f2f2f2" =
+height=3D"100% !important" width=3D"100% !important">
+        <!-- Preview text (text which appears right after subject) -->
+        <div id=3D"preview_text" style=3D"display:none;font-size:1px;color:=
+#f2f2f2;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hid=
+den;">
+            Try Qt 5.9 LTS=E2=80=94We are running out of stock=20
+        </div>
+
+        <!--  The  backgroundTable table manages the color of the backgroun=
+d and then the templateTable maintains the body of=20
+        the email template, including preheader & footer. This is the only =
+table you set the width of to, everything else is set to=20
+        100% and in the CSS above. Having the width here within the table i=
+s just a small win for Lotus Notes. -->
+
+        <!-- Begin backgroundTable -->=20=20
+        <table align=3D"center" bgcolor=3D"#f2f2f2" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" height=3D"100% !important" width=3D"100% !importa=
+nt" id=3D"backgroundTable" style=3D"-webkit-text-size-adjust:100%; -ms-text=
+-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-colla=
+pse:collapse !important; background-color:#f2f2f2; font-family:sans-serif; =
+height:100% !important; margin:0; padding:0; width:100% !important">
+            <tbody><tr>
+                <td align=3D"center" valign=3D"top" id=3D"bodyCell" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; height:100% !important; margin:0; padding:0;=
+ width:100% !important" height=3D"100% !important" width=3D"100% !important=
+"> <!-- When nesting tables within a TD, align center keeps it well, center=
+ed. -->
+                    <!-- Begin Template Container -->
+                    <!-- This holds everything together in a nice container=
+ -->
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ id=3D"templateTable" style=3D"-webkit-text-size-adjust:100%; -ms-text-size=
+-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:c=
+ollapse !important; width:600px; background-color:transparent; font-size:12=
+px; font-weight:normal; font-family:Arial, Times, serif; line-height:20px; =
+-webkit-font-smoothing:antialiased" width=3D"600" bgcolor=3D"transparent">
+                        <tbody><tr>
+                            <td align=3D"center" valign=3D"top" style=3D"-w=
+ebkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0p=
+t; mso-table-rspace:0pt">
+                                <!-- Begin Template Preheader -->
+                                <table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" id=3D"headerTable" style=3D"-webkit-text-size-a=
+djust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspa=
+ce:0pt; background-color:#f2f2f2; color:#444444; font-family:sans-serif; fo=
+nt-size:10px; line-height:120%; text-align:right; border-collapse:separate =
+!important; padding-right:30px" bgcolor=3D"#f2f2f2" align=3D"right">
+                                <tbody><tr>
+                                    <td style=3D"-webkit-text-size-adjust:1=
+00%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt;=
+ padding-top:20px">
+                                                                           =
+ <div class=3D"header-container-wrapper">
+
+</div><!--end header wrapper -->
+                                    </td>
+                                </tr>
+                                </tbody></table>
+                                <!-- End Template Preheader -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align=3D"center" valign=3D"top" id=3D"conte=
+ntCell" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; =
+mso-table-lspace:0pt; mso-table-rspace:0pt; padding:10px 20px; background-c=
+olor:#f2f2f2" bgcolor=3D"#f2f2f2">
+                                <!-- Begin Template Wrapper -->
+                                <!-- This separates the preheader which usu=
+ally contains the "open in browser, etc" content
+                                from the actual body of the email. Can alte=
+rnatively contain the footer too, but I choose not
+                                to so that it stays outside of the border. =
+-->
+                                <table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" id=3D"contentTableOuter" style=3D"-webkit-text-=
+size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-tabl=
+e-rspace:0pt; border-collapse:separate !important; background-color:#ffffff=
+; box-shadow:0px 1px rgba(0, 0, 0, 0.1); padding:30px; border:1px solid #cc=
+cccc; border-bottom:1px solid #acacac" bgcolor=3D"#ffffff">
+                                    <tbody><tr>
+                                        <td align=3D"center" valign=3D"top"=
+ style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-tab=
+le-lspace:0pt; mso-table-rspace:0pt">
+                                            <div class=3D"body-container-wr=
+apper">
+</div><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"content=
+TableInner" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:10=
+0%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !i=
+mportant; width:600px" width=3D"600">
+                                                <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444" ali=
+gn=3D"left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important">
+    <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" class=3D" column" style=3D"-webkit-text-s=
+ize-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table=
+-rspace:0pt; text-align:left; padding:0; font-family:sans-serif; font-size:=
+15px; line-height:1.5em; color:#444444" align=3D"left">
+<table style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; m=
+so-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !import=
+ant">
+    <tbody><tr>
+        <td style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:10=
+0%; mso-table-lspace:0pt; mso-table-rspace:0pt; padding:0 0 0 20px">
+            <div class=3D"widget-span widget-type-logo " style=3D"" data-wi=
+dget-type=3D"logo"><div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_14732311751808553" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style=3D"color: inherit; f=
+ont-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widge=
+t" data-hs-cos-type=3D"logo"><a href=3D"http://hs-149513.t.hubspotemail.net=
+/e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W91r3Md6Td0-nW5_0bH610nJhZ0/5/f18dQhb0=
+SmhZ8XJ89lW4bXYxx5VQHwhW6PkKFy62Y25WW4R4Knq57mvFqW3BJFQw8Vm6N7W74XPV24yF9Tv=
+W5mNLNv7bqTzMW7vp5SX70-xHwV6zhhp1ZJ3bDW4DqHqz6dgmw3W4yv2r03LmS2WW2PQtQd3M3K=
+vXW6dL3pb49WVtrW3VVg3w3ylKSRW6G2lbz7NMdQNV4cNXy75WRHJW561bYn5rq22CW57SbCL3w=
+5LmgW1vjKqT4lVKmXW3vZplR5rWrnBV7vfcy4HsLBvW2bq9R36ykkq3W3mHwxK5py3-rW5_lJcF=
+5YYFLFW4nyRgK8Vn4KKW2qNZwK5rWHCCW4_5kgj83SqYCW6sDLKM5gSHY5W6H5W1X83pRwlVVR6=
+H24q1HYJV82vp42PhTmbW11zQPc30r03bW52Tc2j61lPZvW263hdG2fdl_mN5M6y3ZcgHbDW3r8=
+H-g7GgwfBW2sDHF99ltbgdW5V9WFR3f5_rbW3dPwtH1FQ06-0" target=3D"_blank" id=3D"=
+hs-link-module_14732311751808553" style=3D"-webkit-text-size-adjust:100%; -=
+ms-text-size-adjust:100%; border-width:0px; border:0px" data-hs-link-id=3D"=
+0"><img src=3D"https://cdn2.hubspot.net/hub/149513/hubfs/Newsletters/2017%2=
+0April/Small%20Qt%20logo.png?t=3D1508504207063&amp;width=3D30&amp;name=3DSm=
+all%20Qt%20logo.png" class=3D"hs-image-widget " style=3D"vertical-align:bot=
+tom; -ms-interpolation-mode:bicubic; max-height:20px; max-width:30px; borde=
+r-width:0px; border:0px" width=3D"30" alt=3D"Qt 5.9" title=3D"Qt 5.9" srcse=
+t=3D"https://cdn2.hubspot.net/hub/149513/hubfs/Newsletters/2017%20April/Sma=
+ll%20Qt%20logo.png?t=3D1508504207063&amp;width=3D30&amp;name=3DSmall%20Qt%2=
+0logo.png 30w, https://cdn2.hubspot.net/hub/149513/hubfs/Newsletters/2017%2=
+0April/Small%20Qt%20logo.png?t=3D1508504207063&amp;width=3D60&amp;name=3DSm=
+all%20Qt%20logo.png 60w" sizes=3D"(max-width: 30px) 100vw, 30px"></a></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+        </td>
+    </tr>
+</tbody></table>
+
+       </td>
+       <td valign=3D"bottom" style=3D"-webkit-text-size-adjust:100%; -ms-te=
+xt-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align=
+:right; font-size:12px; font-weight:normal; font-family:Arial, Times, serif=
+; line-height:20px" align=3D"right"><div id=3D"hs_cos_wrapper_newsletter_nu=
+mber" class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_tex=
+t" style=3D"color: inherit; font-size: inherit; line-height: inherit;" data=
+-hs-cos-general-type=3D"widget" data-hs-cos-type=3D"text">October 2017</div=
+></td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+    <tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444" ali=
+gn=3D"left">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:separate !important; border=
+-spacing:0; background-color:#ffffff" class=3D" columnContentTable" bgcolor=
+=3D"#ffffff"><tbody><tr><td align=3D"left" valign=3D"top" class=3D"columnCo=
+ntent widget-span widget-type-space" style=3D"-webkit-text-size-adjust:100%=
+; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; te=
+xt-align:left; padding:0; font-family:sans-serif; font-size:15px; line-heig=
+ht:1.5em; color:#444444" height=3D"10" data-widget-type=3D"space">
+</td></tr></tbody></table><!--end widget-table -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+=20=20=20
+    <tr>
+        <td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"10=
+0%" colspan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-ad=
+just:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-=
+family:sans-serif; font-size:15px; line-height:150%; text-align:left">
+            <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%" class=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust=
+:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0p=
+t; border-collapse:collapse !important">
+                <tbody><tr>
+                    <td valign=3D"top" colspan=3D"12" width=3D"100.0%" clas=
+s=3D" column" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:=
+100%; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:=
+left; padding:0; font-family:sans-serif; font-size:15px; line-height:1.5em;=
+ color:#444444" align=3D"left">
+                        <div id=3D"hs_cos_wrapper_hero_module" class=3D"hs_=
+cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_custom_widget" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"custom_widget"><table cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"-webkit-tex=
+t-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-ta=
+ble-rspace:0pt; border-collapse:collapse !important">
+    <tbody><tr>
+		<td valign=3D"top" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-=
+adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; padding:0" bgcolor=
+=3D"#ffffff">
+			<a href=3D"http://hs-149513.t.hubspotemail.net/e1t/c/*W5YjTLw4S8_HGW7kn-=
+FR48Tgbq0/*W53nfKT2-qXQHN6Lb2Cg_0Cwy0/5/f18dQhb0Smh_8XJ8xjW4bXYxx5VQHwhW6Pk=
+KFy62Y25WW4R4H5857mvC2W1BQYgz8Tm-CbVH-RKM9gJ02VW3q4rxg5mNLNvW7bqTzM7vp5SXN7=
+0-xHw6zhhpW1ZJ3bD4DqHqzW6dgmw34yv2r0W3LmS2W2PQtQdW3M3KvX6dL3pbW49WVtr3VVg3w=
+W3yk2Zj6G2lbzN7NMdQN4cNXyW75WRHJ561bYnW5rq22C57SbCLW3w5Lmg1vjKqTW4lVKmX3vZp=
+lRN5rWrnB7vfcyW4HsLBv2bq9R3W6ykkq33mHwxKW5py3-r5_lJcFW5YYFLF4nyRgKW8Vn4KK2q=
+NZwKW5rWHCC4_5kgjW83SqYC6sDLKMW5gSHY56H5W1XN83pRwlVR6H2N4q1HYJ82vp4W2PhTmb1=
+1zQPcW30r03b52Tc2jW61lPZv263hdGW2fdl_m5M6y3ZVcgHbD3r8H-gW7GgwfB2sDHF9W9ltbg=
+d5V9WFRW3f5_rb8pJRkCf1PJb7K04" style=3D"-webkit-text-size-adjust:100%; -ms-=
+text-size-adjust:100%" data-hs-link-id=3D"0" target=3D"_blank">
+                <span class=3D"switcher" id=3D"switcher-hero" style=3D"back=
+ground-image: url(https://cdn2.hubspot.net/hubfs/149513/Newsletters/2017%20=
+October%20Qt%205.9/Qt5-9LTS_Nsl_hero_mobile.png?t=3D1508504207063)">
+                    <img src=3D"https://cdn2.hubspot.net/hub/149513/hubfs/N=
+ewsletters/2017%20October%20Qt%205.9/Qt5-9LTS_Nsl_hero.png?t=3D150850420706=
+3&amp;width=3D600&amp;height=3D218&amp;name=3DQt5-9LTS_Nsl_hero.png" alt=3D=
+"Qt 5.9 Long Term Support" border=3D"0" style=3D"vertical-align:bottom; -ms=
+-interpolation-mode:bicubic; display:block" width=3D"600" height=3D"218" sr=
+cset=3D"https://cdn2.hubspot.net/hub/149513/hubfs/Newsletters/2017%20Octobe=
+r%20Qt%205.9/Qt5-9LTS_Nsl_hero.png?t=3D1508504207063&amp;width=3D600&amp;he=
+ight=3D218&amp;name=3DQt5-9LTS_Nsl_hero.png 600w, https://cdn2.hubspot.net/=
+hub/149513/hubfs/Newsletters/2017%20October%20Qt%205.9/Qt5-9LTS_Nsl_hero.pn=
+g?t=3D1508504207063&amp;width=3D1200&amp;height=3D436&amp;name=3DQt5-9LTS_N=
+sl_hero.png 1200w" sizes=3D"(max-width: 600px) 100vw, 600px">
+                </span>
+            </a>
+		</td>
+	</tr>
+</tbody></table></div>
+                    </td>
+                </tr>
+            </tbody></table>
+       </td>
+   </tr>
+    <tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444" ali=
+gn=3D"left">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget"><div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_14736850443909591" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_custom_widget" style=3D"color: i=
+nherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=
+=3D"widget" data-hs-cos-type=3D"custom_widget"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjus=
+t:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0=
+pt; border-collapse:collapse !important; width:100%">
+    <tbody><tr>
+        <td style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:10=
+0%; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size:14px; color:#8488=
+95; font-weight:normal; text-align:left; font-family:Arial, Times, serif; l=
+ine-height:20px; padding:25px 20px; background:#eeeeed" align=3D"left">
+            <table style=3D"-webkit-text-size-adjust:100%; -ms-text-size-ad=
+just:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:coll=
+apse !important">
+                <tbody><tr>
+                    <td style=3D"-webkit-text-size-adjust:100%; -ms-text-si=
+ze-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; padding:0 0 15p=
+x 0; color:#272727; font-size:20px; color:#272727; font-weight:bold; font-f=
+amily:Arial, sans-serif">Get Qt 5.9 LTS =E2=80=94 We are running out of sto=
+ck</td>
+                </tr>
+            </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20
+            <p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; =
+-ms-text-size-adjust:100%">We're kidding, but <span style=3D"color: #41cd52=
+;"><a href=3D"http://hs-149513.t.hubspotemail.net/e1t/c/*W5YjTLw4S8_HGW7kn-=
+FR48Tgbq0/*W4-1PSZ7-FZgmW7nZT4-67pFs40/5/f18dQhb0SmhX8YXMWMW4bXYxx5VQHwhW6P=
+kKFy62Y25WW4R4Dhs57mvFqW3BJFQw8Vm6N7W74XPV24zDmyjW32v9C77JtTqnW8mnw907bjnYC=
+W81BB_m1h4wl_W2Mp8415JB8vzW5ZpycS57-ZBTW83C5JP1Z66s1W83KHrF7J39pBW2przrY6W3=
+RDgMHd1fvz74JcVYSX-57m_B1RW5c8d-S377W3VW74hSpB2p3fQGW6bQ3pR61VlHgW6NHSnv5bt=
+KfsN5CJmy7XTQnYN5kF2lY3t3LsW6Q-dq11qMPyCN5PWpFJN-L0pN8RF7dyc9sJjW5k6Zjy4TBD=
+G0W64t6HD2y7qxfVS7-9w5CzPR1W5k4-5f49kJ93W6fVZ9h1Q68w6W1MMh8v3gvwbgN8qZXVF-t=
+zgjW1qMMS639tBjkVn5zc7480Y-xW8NhC1Y91fFnZW1pmBNY8CTPPvW8fxwV31CZMBxW86tSK93=
+lywPGN73Q0vR1-S0Kf590R6y02" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; color:#41cd52" data-hs-link-id=3D"0" target=3D"_blank">=
+Qt 5.9 Long Term Support (LTS)</a></span>&nbsp;is the latest go-to version =
+for high performance applications and interfaces and provides more stabilit=
+y and features you don't want to miss:</p>
+<ul>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%">Perf=
+ormance improvements since Qt 5.6 LTS</li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%">Qt L=
+ite configuration: Smarter and low-energy device creation</li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%">Rich=
+ graphics support including 3D</li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%">Read=
+y-made multi-touch UI controls</li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%">Real=
+ Time Operating System support &nbsp;</li>
+</ul>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%"><strong><a href=3D"http://hs-149513.t.hubspotemail.net/e1t/c=
+/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W6HhXlG4LGG-tN8Wv1KR4TQnd0/5/f18dQhb0S5fl8YX=
+NfKW4bXYxx5VQHwhW6PkKFy62Y25WW4R4FJj57mvFqW3BJFQw8Vm6N7W74XPV24zDhBzW8TYKSq=
+78VDd7W7JtTqn8mnw90W7bjnYC81BB_mW1h4wl_2Mp841W5JB8vz5ZpycSW57-ZBT83C5JPW1Z6=
+6s183KHrFW7J39pB2przrYN6W3RDgHd1f0Mz74JcYSX-5W7m_B1R5c8d-SW377W3V74hSpBW2p3=
+fQG6bQ3pRW61VlHg6NHSnvW5btKfs5CJmy7VXTQnY5kF2lYV3t3Ls6Q-dq1W1qMPyC5PWpFJVN-=
+L0p8RF7dyVc9sJj5k6ZjyW4TBDG064t6HDN2y7qxfS7-9wW5CzPR15k4-5fW49kJ936fVZ9hW1Q=
+68w61MMh8vW3gvwbg8qZXVFV-tzgj1qMMS6N39tBjkn5zc7W480Y-x8NhC1YW91fFnZ1pmBNYW8=
+CTPPv8fxwV3W1CZMBx86tSK9W3lywPG73Q0vRV1-Qbm6vw2Ck102" style=3D"-webkit-text=
+-size-adjust:100%; -ms-text-size-adjust:100%; color:#41cd52" data-hs-link-i=
+d=3D"0" target=3D"_blank">Try Qt 5.9 LTS today</a> <br></strong></p>
+        </td>
+    </tr>
+</tbody></table>
+</div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+=20=20=20
+    <tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444" ali=
+gn=3D"left">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:separate !important; border=
+-spacing:0; background-color:#ffffff" class=3D" columnContentTable" bgcolor=
+=3D"#ffffff"><tbody><tr><td align=3D"left" valign=3D"top" class=3D"columnCo=
+ntent widget-span widget-type-space" style=3D"-webkit-text-size-adjust:100%=
+; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; te=
+xt-align:left; padding:0; font-family:sans-serif; font-size:15px; line-heig=
+ht:1.5em; color:#444444" height=3D"15" data-widget-type=3D"space">
+</td></tr></tbody></table><!--end widget-table -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+=20=20=20
+    <tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" =
+class=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms=
+-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-=
+collapse:collapse !important">
+        <tbody><tr>
+            <td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" co=
+lumn" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; ms=
+o-table-lspace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; pa=
+dding:0; font-family:sans-serif; font-size:15px; line-height:1.5em; color:#=
+444444" align=3D"left">
+                <div id=3D"hs_cos_wrapper_full_width_image_1" class=3D"hs_c=
+os_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_custom_widget" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"custom_widget">
+
+</div>
+            </td>
+       </tr>
+    </tbody></table>
+</td>
+   </tr>
+=20=20=20
+    <tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444" ali=
+gn=3D"left">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:separate !important; border=
+-spacing:0; background-color:#ffffff" class=3D" columnContentTable" bgcolor=
+=3D"#ffffff"><tbody><tr><td align=3D"left" valign=3D"top" class=3D"columnCo=
+ntent widget-span widget-type-space" style=3D"-webkit-text-size-adjust:100%=
+; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; te=
+xt-align:left; padding:0; font-family:sans-serif; font-size:15px; line-heig=
+ht:1.5em; color:#444444" height=3D"15" data-widget-type=3D"space">
+</td></tr></tbody></table><!--end widget-table -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+=20=20=20
+    <tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444; bac=
+kground-color:#eeeeed" align=3D"left" bgcolor=3D"#eeeeed">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important">
+        <tbody><tr>
+=20=20=20=20=20=20=20=20
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left; padding:25px =
+20px">
+    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" =
+class=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms=
+-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-=
+collapse:collapse !important">
+        <tbody><tr>
+                <td valign=3D"top" class=3D"column column-first" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" width=3D"50%" align=3D"left" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:50%">
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ width=3D"100%" class=3D"templateColumnWrapper" style=3D"-webkit-text-size-=
+adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rsp=
+ace:0pt; border-collapse:collapse !important">
+                        <tbody><tr>
+                            <td valign=3D"top" colspan=3D"12" width=3D"100.=
+0%" class=3D" column" style=3D"-webkit-text-size-adjust:100%; -ms-text-size=
+-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100.0%; tex=
+t-align:left; padding:0; font-family:sans-serif; font-size:15px; line-heigh=
+t:1.5em; color:#444444" align=3D"left">
+                                <div class=3D"widget-span widget-type-custo=
+m_widget " style=3D"" data-widget-type=3D"custom_widget">
+                                    <div class=3D"layout-widget-wrapper">
+                                        <div id=3D"hs_cos_wrapper_module_14=
+736843956305305" class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapp=
+er_type_custom_widget" style=3D"color: inherit; font-size: inherit; line-he=
+ight: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos-type=3D"cus=
+tom_widget">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"-webkit-te=
+xt-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-t=
+able-rspace:0pt; border-collapse:collapse !important">
+    <tbody><tr>
+        <td class=3D"gray-box-column-wrapper column-content" style=3D"-webk=
+it-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; =
+mso-table-rspace:0pt; padding-right:10px; vertical-align:top">
+            <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <tbody><tr>
+                    <td style=3D"-webkit-text-size-adjust:100%; -ms-text-si=
+ze-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt">
+                        <a href=3D"http://hs-149513.t.hubspotemail.net/e1t/=
+c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*N4MCxVRfcCc7W3b77qZ17clzY0/5/f18dQhb0S5fv8X=
+J92MW4bXYxx5VQHwhW6PkKFy62Y25WW4R4MjK57mvFqW3BJFQw7qwBPlW31fLqd9gHc0QW5_3zp=
+H6sd8tTW9bTNXY954KlMW4P0Yt62d4f0zW35_0Jy2dYF0sW3R434J2-J-SLW2z_tPY41Q2SWW6g=
+s8lF3VKVtLW6n8KjW5ThdHgW3s1XjF51G0BBW4YFc4457-WqMW3H_Pty2DzCtRW1yBVzx8cJT7v=
+W5V4zlx34qf_JW7Jvpy182pV7yW2CdT957tWDcgVrZ6_f2FRMtfW4Khg1f3p_krRVLmG_17B07j=
+qVn0j1P94V02-W4N89Sk7l6q4-W75Sx_17LNNxCW5Z6FGs566bh2W7tSkSK7k67LLW6Pc2NR7Pw=
+Fk6MVzQv-Vn7DDW6jP-MG8W1J7KMwd2SnLmG6PN1CLgCbb2_nMW6LzX-Y93bx9vN9c91lpJHPYl=
+W4hs6J18PkXDFVRt7__44dpSvW6lRJl13xWwfqK1tm-lt_B102" style=3D"-webkit-text-s=
+ize-adjust:100%; -ms-text-size-adjust:100%" data-hs-link-id=3D"0" target=3D=
+"_blank">
+                            <img src=3D"https://cdn2.hubspot.net/hub/149513=
+/hubfs/Release%205.9/Lars%20release%20video.png?t=3D1508504207063&amp;width=
+=3D270&amp;height=3D160&amp;name=3DLars%20release%20video.png" width=3D"270=
+" height=3D"160" alt=3D"Qt5_9 Lars" style=3D"vertical-align:bottom; -ms-int=
+erpolation-mode:bicubic; max-width:100%; border:0" srcset=3D"https://cdn2.h=
+ubspot.net/hub/149513/hubfs/Release%205.9/Lars%20release%20video.png?t=3D15=
+08504207063&amp;width=3D270&amp;height=3D160&amp;name=3DLars%20release%20vi=
+deo.png 270w, https://cdn2.hubspot.net/hub/149513/hubfs/Release%205.9/Lars%=
+20release%20video.png?t=3D1508504207063&amp;width=3D540&amp;height=3D320&am=
+p;name=3DLars%20release%20video.png 540w" sizes=3D"(max-width: 270px) 100vw=
+, 270px">
+                        </a>
+                    </td>
+                </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <tr>
+                    <td style=3D"-webkit-text-size-adjust:100%; -ms-text-si=
+ze-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-bottom:1=
+px solid #333; padding:15px 10px 10px 10px">
+                        <a href=3D"http://hs-149513.t.hubspotemail.net/e1t/=
+c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W81CRtC7D-xcrW6lqgSd8cGSt70/5/f18dQhb0S5fv8=
+XJ92MW4bXYxx5VQHwhW6PkKFy62Y25WW4R4MjK57mvFqW3BJFQw7qwBPlW31fLqd9gHc0QW5_3z=
+pH6sd8tTW9bTNXY954KlMW4P0Yt62d4f0zW35_0Jy2dYF0sW3R434J2-J-SLW2z_tPY41Q2SWW6=
+gs8lF3VKVtLW6n8KjW5ThdHgW3s1XjF51G0BBW4YFc4457-WqMW3H_Pty2DzCtRW1yBVzx8cJT7=
+vW5V4zlx34qf_JW7Jvpy182pV7yW2CdT957tWDcgVrZ6_f2FRMtfW4Khg1f3p_krRVLmG_17B07=
+jqVn0j1P94V02-W4N89Sk7l6q4-W75Sx_17LNNxCW5Z6FGs566bh2W7tSkSK7k67LLW6Pc2NR7P=
+wFk6MVzQv-Vn7DDW6jP-MG8W1J7KMwd2SnLmG6PN1CLgCbb2_nMW6LzX-Y93bx9vN9c91lpJHPY=
+lW4hs6J18PkXDFVRt7__44dpSvW6lRJl13RHVgWSg5g4v88xt102" style=3D"-webkit-text=
+-size-adjust:100%; -ms-text-size-adjust:100%; text-decoration:none; font-si=
+ze:16px; color:#363636; font-weight:bold; font-family:Arial, sans-serif" da=
+ta-hs-link-id=3D"1" target=3D"_blank"> Introduction</a>=20=20=20=20
+                    </td>
+                </tr>
+                <tr>
+                    <td style=3D"-webkit-text-size-adjust:100%; -ms-text-si=
+ze-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; padding-top:15p=
+x; font-size:14px; color:#848895; font-weight:normal; text-align:left; font=
+-family:Arial, Times, serif; line-height:20px" align=3D"left">
+                        <p style=3D"margin-bottom: 1em; -webkit-text-size-a=
+djust:100%; -ms-text-size-adjust:100%"><span><a href=3D"http://hs-149513.t.=
+hubspotemail.net/e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W3pGxwk2FKb3fW9gb4RK4X=
+9_2g0/5/f18dQhb0S5fv8XJ92MW4bXYxx5VQHwhW6PkKFy62Y25WW4R4MjK57mvFqW3BJFQw7qw=
+BPlW31fLqd9gHc0QW5_3zpH6sd8tTW9bTNXY954KlMW4P0Yt62d4f0zW35_0Jy2dYF0sW3R434J=
+2-J-SLW2z_tPY41Q2SWW6gs8lF3VKVtLW6n8KjW5ThdHgW3s1XjF51G0BBW4YFc4457-WqMW3H_=
+Pty2DzCtRW1yBVzx8cJT7vW5V4zlx34qf_JW7Jvpy182pV7yW2CdT957tWDcgVrZ6_f2FRMtfW4=
+Khg1f3p_krRVLmG_17B07jqVn0j1P94V02-W4N89Sk7l6q4-W75Sx_17LNNxCW5Z6FGs566bh2W=
+7tSkSK7k67LLW6Pc2NR7PwFk6MVzQv-Vn7DDW6jP-MG8W1J7KMwd2SnLmG6PN1CLgCbb2_nMW6L=
+zX-Y93bx9vN9c91lpJHPYlW4hs6J18PkXDFVRt7__44dpSvW6lRJl13HPJg8S9Xn804vGr102" =
+style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; color:#4=
+1cd52" data-hs-link-id=3D"2" target=3D"_blank">Watch Lars Knoll</a>, Chief =
+Maintainer of Qt Project and&nbsp;CTO of The Qt Company, introducing Qt 5.9=
+</span><span style=3D"color: #41cd52;">&nbsp;</span>and more details in the=
+se blogs:</p>
+<ul>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%"><spa=
+n style=3D"color: #80c342;"><span><a href=3D"http://hs-149513.t.hubspotemai=
+l.net/e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W6vdyhz3GVvVSW6f55Wk3KwN480/5/f18=
+dQhb0Sjvf1X6z3tM5dKhVHzj1ZW6bVBn96vhN5NW7G62LP5mbx_fW4CBTsR9d6gBjVH-RKM4B9R=
+2VW97QLGj8rLL1xW98QcHT4TKmWPW6R8m9Z69Wl0XW7d023W90G7thN8S3yR5bY02SW4s83Ff6c=
+-1p4W4tVf-83BPllJW625bx16Gj8TSW6bVy-525hvjFVHZ5KN5D8zFFW5m3ZGG96dt4SW4r1QvY=
+8GTDczW8gjY6L8WBKbVW56sy_82NhXFJW5m4wc57Jm9VdW2qTMRJ3q48MYW7tp9Wj1G0mMjVv2H=
+jl7HMbcYW1D4Sdk7vwt6GVsBfns2KCpgQN2Rp62kn3BPdW4Pfzjw5XKQB7W58tDF37KpYd2W13R=
+hwn7JqBVyW52FrWL5nrR_xW75284N4lBZ6FVnpt286yYNvCW8Ph58-59BvGWW2QxvVh6tFr2cW6=
+83MBt2Jnd7kW1y1SBP5mRgWyW24cKVS72GXt5W6GJdv07XS909W3r0d057L0nF2W85w9SH6zByK=
+GMdSQk91_PYlf3sbRX-11" style=3D"-webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%; color:#41cd52" data-hs-link-id=3D"0" target=3D"_blank">Qt 5.=
+9 Released</a><a href=3D"http://hs-149513.t.hubspotemail.net/e1t/c/*W5YjTLw=
+4S8_HGW7kn-FR48Tgbq0/*W1W8dcR4KP_sKW6zvs6K7Tw5CM0/5/f18dQhb0Sjvh1X6z3tM5dKh=
+VHzj1ZW6bVBn96vhN5NW2-4ZJR2HCn8XW5tsJh42TVmrjW3zs97M2gH9jGVzzgZt2t4HhtW32Lx=
+RG9gJ05rW5Lnnc23pMjFgW3Yr2KB316zJtW3jJ_1y5K-FKHN5B4_2r_ZFDnW3H2TTQ69vTxfW7x=
+R9_s2Vjhb0W5bPQ0k7v4x2tW5kG09V7lYt77W2R4SDP2JDZKmN2JDgVLQg5X6W5_N0_w5K_zXKW=
+3lj2tv3blhRkW3YdT8n5KY1QTW5v5h9W8BwQhRVHj6bL8nJghgW8gMfZG5w4-KyW3H2F7r8Fwb7=
+6W5KCmyD3NWdjFW5PBdbJ3SQFy3W3Gt0jr3fN4QKW8zyHv_3dS_B2W2_C_3-5y3qzWVV_00N5PZ=
+4TfMNCGZwk8xjrW7K_mBd4QH6pSD6Y9ktTrJwW5xHDcM51n7xfW5CpFL83s2kP_W3s5lCC4QDcJ=
+_W1vt4xT6W-m83W70f0_x5_5gd6W6cg9-F1F0tllW48MHfB8WJdJBMVMPVbVrLq8W8ZJ_YX2VVB=
+fg0" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%" dat=
+a-hs-link-id=3D"0" target=3D"_blank"></a></span></span></li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%"><spa=
+n style=3D"color: #41cd52;"><a href=3D"http://hs-149513.t.hubspotemail.net/=
+e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W7P_Xtt4hnZC2W1-7R4049qFmR0/5/f18dQhb0S=
+jvh1X6z3tM5dKhVHzj1ZW6bVBn96vhN5NW2-4ZJR2HCn8XW5tsJh42TVmrjW3zs97M2gH9jGVzz=
+gZt2t4HhtW32LxRG9gJ05rW5Lnnc23pMjFgW3Yr2KB316zJtW3jJ_1y5K-FKHN5B4_2r_ZFDnW3=
+H2TTQ69vTxfW7xR9_s2Vjhb0W5bPQ0k7v4x2tW5kG09V7lYt77W2R4SDP2JDZKmN2JDgVLQg5X6=
+W5_N0_w5K_zXKW3lj2tv3blhRkW3YdT8n5KY1QTW5v5h9W8BwQhRVHj6bL8nJghgW8gMfZG5w4-=
+KyW3H2F7r8Fwb76W5KCmyD3NWdjFW5PBdbJ3SQFy3W3Gt0jr3fN4QKW8zyHv_3dS_B2W2_C_3-5=
+y3qzWVV_00N5PZ4TfMNCGZwk8xjrW7K_mBd4QH6pSD6Y9ktTrJwW5xHDcM51n7xfW5CpFL83s2k=
+P_W3s5lCC4QDcJ_W1vt4xT6W-m83W70f0_x5_5gd6W6cg9-F1F0tllW48MHfB8WJdJBMVMPVcVr=
+Lq8W2xgcDl2VVBfg0" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-ad=
+just:100%; color:#41cd52" data-hs-link-id=3D"1" target=3D"_blank">Qt Lite C=
+onfiguration</a></span></li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%"><spa=
+n style=3D"color: #41cd52;"><a href=3D"http://hs-149513.t.hubspotemail.net/=
+e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W2rT-C48m3bWDW1XxG054B3YbM0/5/f18dQhb0S=
+bTW1X6z3tM5dKhVHzj1ZW6bVBn96vhN5NW2-gZ4Y2HCtNQW6ZTnHK4F2p_VW5127CF2gCSwDW10=
+dR_J2t4HhtW32Lrbm9gJ05rW8m6llW5n0K6DMKcfr77DVJFW5LrPrM7Msmh5W7JtTqn8mnw90W7=
+bjnYC81BB_mW1h4wl_2Mp841W5JB8vz5ZpycSW57-ZBT83C5JPW1Z66s183KHrFW7J39pB2przr=
+YN6W3RDgHd1f7W18dKPT1VJrykW5lX8fq13bD4hW6dkdFz4Qvdv6W4P6wxz32vfYfW2MDPrY4bf=
+QVBW11SyxN1WfR4YW1VK8bj1j8cRtV6Y7yF4gS0qgW2QxDc72bKQnqW1BX_rd8j8R82VnmZpQ1h=
+81LJVq1XS32SQlmWW54gS2v1HhwVpW1W0HLs1f5YhxW8nDXSj38H1t9W3Cdk0d3wv7SmW6x_0nx=
+7sSrtrW1W-B682QxyJrN6lZ8CFP9GRKW8j1VZ289tLH4W8JpRsT2PL9yTW7RG9bp77Z8TLW3fVF=
+bD6VSRxZW6G6v464Pv86fV5X-kp5mx_7G102" style=3D"-webkit-text-size-adjust:100=
+%; -ms-text-size-adjust:100%; color:#41cd52" data-hs-link-id=3D"0" target=
+=3D"_blank">Qt Creator 4.3 Release</a>&nbsp;</span></li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%"><spa=
+n style=3D"color: #41cd52;"><a href=3D"http://hs-149513.t.hubspotemail.net/=
+e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W2C0f7Y7JDmGpW5FvC3t5SnNqd0/5/f18dQhb0S=
+bTX1X6z3tM5dKhVHzj1ZW6bVBn96vhN5NW2-jC_s2HCn8XW5tsJh42TVmrjW3zs97M2gH9m1W1N=
+HjzB2t4HhtW32Lrbm9gJ05rW76pLkv3-QdkKW8hvP4x7Mz74xW2FYXw43BY757W6nnmZG6ZT0d1=
+W41_WgK41ycd-W7-yTT07QQY28W7B3fhg3jPfKYW5rcZX12-294gW5J0bHm1y7ldZW5F_2Jd3Yk=
+27jW1v3hGt3bPyFLW3BJxMc2tk5vHW2z_scn6x2RKSW5-lMJc5tkYJnW45SY3M2Yyh9gW6dMl7N=
+3SMq0kW42bqz95-HmtVW3LZjCF4XwNFyW60ZBny2m7ShQW6nynXQ51fvK_W3Pw3CS4Vy7Y0W4yr=
+w1v2pzzTJW3H3c2v3yX-NJW3SWD0K2-zkn5W2y3RnY3LXGXTW3Gzh8282G-VBN8yRgCTrPpMvVr=
+Jh2D7RZqTpN4r1zTFdDMKtN51fh33PnmBVV42cYP3nNLM3W9c7_hF9h7s5WW51p6H36Rg_LSW4q=
+8dx255NPbhW6KGY6F38rh8dw1NsfDKq7rf9hj05G02" style=3D"-webkit-text-size-adju=
+st:100%; -ms-text-size-adjust:100%; color:#41cd52" data-hs-link-id=3D"0" ta=
+rget=3D"_blank">Qt Quick Designer Updates</a></span></li>
+</ul>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+</div>
+                                    </div><!--end layout-widget-wrapper -->
+                                </div><!--end widget-span -->
+                            </td>
+                       </tr>
+                    </tbody></table>
+                </td>
+=20=20=20=20
+                <td valign=3D"top" class=3D"column column-last" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"50%" style=3D"-webkit-text-s=
+ize-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table=
+-rspace:0pt; width:50%">
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ width=3D"100%" class=3D"templateColumnWrapper" style=3D"-webkit-text-size-=
+adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rsp=
+ace:0pt; border-collapse:collapse !important">
+                        <tbody><tr>
+                            <td valign=3D"top" colspan=3D"12" width=3D"100.=
+0%" class=3D" column" style=3D"-webkit-text-size-adjust:100%; -ms-text-size=
+-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100.0%; tex=
+t-align:left; padding:0; font-family:sans-serif; font-size:15px; line-heigh=
+t:1.5em; color:#444444" align=3D"left">
+                                <div class=3D"widget-span widget-type-custo=
+m_widget " style=3D"" data-widget-type=3D"custom_widget">
+                                    <div class=3D"layout-widget-wrapper">
+                                        <div id=3D"hs_cos_wrapper_module_14=
+736843978335618" class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapp=
+er_type_custom_widget" style=3D"color: inherit; font-size: inherit; line-he=
+ight: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos-type=3D"cus=
+tom_widget">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"-webkit-te=
+xt-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-t=
+able-rspace:0pt; border-collapse:collapse !important">
+    <tbody><tr>
+        <td class=3D"gray-box-column-wrapper column-content" style=3D"-webk=
+it-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; =
+mso-table-rspace:0pt; padding-left:10px; vertical-align:top">
+            <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <tbody><tr>
+                    <td style=3D"-webkit-text-size-adjust:100%; -ms-text-si=
+ze-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt">
+                        <a href=3D"http://hs-149513.t.hubspotemail.net/e1t/=
+c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W3-MLVw4vBvzYW4FC4vf7ZRHjW0/5/f18dQhb0SmhZ8=
+XJ89lW4bXYxx5VQHwhW6PkKFy62Y25WW4R4Knq57mvC2W1BQYf65LMjn_W74XPV24yF9TvW5mNL=
+Nv7bqTzMW7vp5SX70-xHwV6zhhp1ZJ3bDW4DqHqz6dgmw3W4yv2r03LmS2WW2PQtQd3M3KvXW6d=
+L3pb49WVtrW3VVg3w3ylKSRW6G2lbz7NMdQNV4cNXy75WRHJW561bYn5rq22CW57SbCL3w5LmgW=
+1vjKqT4lVKmXW3vZplR5rWrnBV7vfcy4HsLBvW2bq9R36ykkq3W3mHwxK5py3-rW5_lJcF5YYFL=
+FW4nyRgK8Vn4KKW2qNZwK5rWHCCW4_5kgj83SqYCW6sDLKM5gSHY5W6H5W1X83pRwlVVR6H24q1=
+HYJV82vp42PhTmbW11zQPc30r03bW52Tc2j61lPZvW263hdG2fdl_mN5M6y3ZcgHbDW3r8H-g7G=
+gwfBW2sDHF99ltbgdW5V9WFR3f5_rbW7CBV-z1FQ06-0" style=3D"-webkit-text-size-ad=
+just:100%; -ms-text-size-adjust:100%" data-hs-link-id=3D"0" target=3D"_blan=
+k">
+                            <img src=3D"https://cdn2.hubspot.net/hub/149513=
+/hubfs/Newsletters/2017_May/5_9_Two_Cols.png?t=3D1508504207063&amp;width=3D=
+270&amp;height=3D160&amp;name=3D5_9_Two_Cols.png" width=3D"270" height=3D"1=
+60" alt=3D"Qt 5.9 LTS blogs" style=3D"vertical-align:bottom; -ms-interpolat=
+ion-mode:bicubic; max-width:100%; border:0" srcset=3D"https://cdn2.hubspot.=
+net/hub/149513/hubfs/Newsletters/2017_May/5_9_Two_Cols.png?t=3D150850420706=
+3&amp;width=3D270&amp;height=3D160&amp;name=3D5_9_Two_Cols.png 270w, https:=
+//cdn2.hubspot.net/hub/149513/hubfs/Newsletters/2017_May/5_9_Two_Cols.png?t=
+=3D1508504207063&amp;width=3D540&amp;height=3D320&amp;name=3D5_9_Two_Cols.p=
+ng 540w" sizes=3D"(max-width: 270px) 100vw, 270px">
+                        </a>
+                    </td>
+                </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <tr>
+                    <td style=3D"-webkit-text-size-adjust:100%; -ms-text-si=
+ze-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-bottom:1=
+px solid #333; padding:15px 10px 10px 10px">
+                        <a href=3D"http://hs-149513.t.hubspotemail.net/e1t/=
+c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W8vBNpD3pMlYdW6fgr676FnSvH0/5/f18dQhb0SmhZ8=
+XJ89lW4bXYxx5VQHwhW6PkKFy62Y25WW4R4Knq57mvC2W1BQYf65LMjn_W74XPV24yF9TvW5mNL=
+Nv7bqTzMW7vp5SX70-xHwV6zhhp1ZJ3bDW4DqHqz6dgmw3W4yv2r03LmS2WW2PQtQd3M3KvXW6d=
+L3pb49WVtrW3VVg3w3ylKSRW6G2lbz7NMdQNV4cNXy75WRHJW561bYn5rq22CW57SbCL3w5LmgW=
+1vjKqT4lVKmXW3vZplR5rWrnBV7vfcy4HsLBvW2bq9R36ykkq3W3mHwxK5py3-rW5_lJcF5YYFL=
+FW4nyRgK8Vn4KKW2qNZwK5rWHCCW4_5kgj83SqYCW6sDLKM5gSHY5W6H5W1X83pRwlVVR6H24q1=
+HYJV82vp42PhTmbW11zQPc30r03bW52Tc2j61lPZvW263hdG2fdl_mN5M6y3ZcgHbDW3r8H-g7G=
+gwfBW2sDHF99ltbgdW5V9XlM3f5_rbW3wQfTL1FQ06-0" style=3D"-webkit-text-size-ad=
+just:100%; -ms-text-size-adjust:100%; text-decoration:none; font-size:16px;=
+ color:#363636; font-weight:bold; font-family:Arial, sans-serif" data-hs-li=
+nk-id=3D"1" target=3D"_blank">Featured blogs</a>=20=20=20=20
+                    </td>
+                </tr>
+                <tr>
+                    <td style=3D"-webkit-text-size-adjust:100%; -ms-text-si=
+ze-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; padding-top:15p=
+x; font-size:14px; color:#848895; font-weight:normal; text-align:left; font=
+-family:Arial, Times, serif; line-height:20px" align=3D"left">
+                        <p style=3D"margin-bottom: 1em; -webkit-text-size-a=
+djust:100%; -ms-text-size-adjust:100%">Want more? Qt 5.9 LTS provides the e=
+ssentials for your upcoming innovations:&nbsp;</p>
+<ul>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%"><spa=
+n style=3D"color: #41cd52;"><a href=3D"http://hs-149513.t.hubspotemail.net/=
+e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W6KGdyc5MYnmqW3cvRJ970cQnr0/5/f18dQhb0S=
+q5z1X6z3tM5dKhVHzj1ZW6bVBn96vhN5NW7FP5x05mbx_fW4CBTsR9d6gBjVH-RKM4B9R2QW48V=
+WJj4Y9lzYW65t3Gj97jZ4XW3V568N51fy5BW6R9CvX2z3vSwW6PkC-_7d7qD3W1mbXTS1nrWynW=
+5wpsQQ7dF4v9W1nrCGB51LTg5W5DHNj24KR8sqVf6zzP3Vpz-PW9dSlS635rgClW94-4T07sLfy=
+rW5DBw5F7v70xcW34mKvy8mQMWvN5TJpQ4q9SP1W7cvxVf8q5qBxVVQf4X5vDhTYW1k4C6m5_DZ=
+sDW4SLwGn6R8kr6W5DG2kG3k_g_PV-4Y7360nwztW3d9fWh5GVCPmVZ6DJL5t8XB9N5FPd4FM6N=
+05VcpHcd2xjK8YV_RlgP65HZyvW27F8y75_N9YTVM90Y31pNQ0XW4TZpgY8GclM4VPNtBv3MP4B=
+qW8csLSq1036y7W5B4sl63C9pHFW2Z1Fhy5lNvnBW343J4R1ny5pjW48r1j34Mc-7yW3-h0zd6s=
+Clb6W6R1v6764XjTjW6QYmPn3P3G1xMtJCL43_BWjf52XCR511" style=3D"-webkit-text-s=
+ize-adjust:100%; -ms-text-size-adjust:100%; color:#41cd52" data-hs-link-id=
+=3D"0" target=3D"_blank">Performance Improvments</a>&nbsp;</span></li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%"><spa=
+n style=3D"color: #80c342;"><span style=3D"color: #41cd52;"><a href=3D"http=
+://hs-149513.t.hubspotemail.net/e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*V961CX5=
+3DXZ4W27XFZN1XdHG70/5/f18dQhb0S5fp1X6z3tM5dKhVHzj1ZW6bVBn96vhN5NW7FHM8x5mbx=
+_fW4CBTsR9d6gBjVH-RKM4B9R2ZW97QLGj8rLL1xW97QPw84TKnXmW999f656PVKcrW6N3nBL8x=
+GZMyW1nk4sT64tKHFW1bMSdC7JCxGlW81bhDK7N_KqMW11X6sN83KHrFW7J3nFC2-kz7vW9dH8_=
+66V4mf7W5D-vM28QKpyrW4sj3hV2BcyM9W1mGWjz7n4sMtW3SHBYD5W-BCFW6nBQx_3MHTJMVRw=
+9V84XB3jJW8wXRjT5w4DQsN8pRpfrfgWpsW1mjpXB1qbNcCW4TBx5074G_j9W2ZTD3M7fPMfLW8=
+xMJjX5csTXcW8xgdnt7bV8rrW7mNFGh3zwy_qN6SSJNccb0gHW3f_5_K4p7yDTW2zQtBm1qMLr2=
+W3cS80k3424zXW60fNMN5s3F_PW7mt3V-5LG3BSW8cV8Vt3kSDf0W3-X3vv6p32rMW8x3FQJ42M=
+BXSW3gjKly4Q-5SVW4HzlXp4kZKgx111" style=3D"-webkit-text-size-adjust:100%; -=
+ms-text-size-adjust:100%; color:#41cd52" data-hs-link-id=3D"0" target=3D"_b=
+lank">New Dimensions=E2=80=94Qt 3D</a></span><span></span></span></li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%"><spa=
+n style=3D"color: #80c342;"><span><span><a href=3D"http://hs-149513.t.hubsp=
+otemail.net/e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W7w0jwQ4zLkhwW78mfKx96XVPf0=
+/5/f18dQhb0SbTL1X6z3tM5dKhVHzj1ZW6bVBn96vhN5NW7Fq6LP5mbMf4W1BQYf65LMjn_W74X=
+PV24ykY7JW1KJhZW4Y9lzYW65sSTv1V-MXhW6XdbWR31cdWxW6_yh2M6Cn_rkW680n-M2wRNL9W=
+30c-5z3fmbVPW1ksGJh1R4_lXW1V5BRb6rPQFWW71vbLj58S4pjW23-nGK265VBJW22-vhJ1Q46=
+8pW2-lD311YTF-HW7TVphb1pqxYRW49GF4_8ch_M9W3X0g0y6bp1cMVbq5fx4TKc2lVRZ_v91wK=
+ccQVYzYWq6-dvLLW2-D0sS8JNqLRW6ZXRKS1xJqs6Vd_Z0F9jYwb9W4qPX7j3LybkCW6Nk84_1q=
+086FW2BC-2J2xNqHDW8L6HzD8pFjz1W4Vx1-f1xJvkQVG3k3G6Pz-_QW3z7CFS1bBvW3W3_5Xh9=
+6LLGbsW1NFfl48P4pWBVl35QL5zBKDFW2568-T62RyxRVPBwb02GD9D7W4b7Cvw4xqRXyN2969f=
+jnzP-PW6Rlq2t5Zrz0FW4ZcWHP9kRwG3W2pglVT6vc-Z6W8R5hb_3pwdhT0" style=3D"-webk=
+it-text-size-adjust:100%; -ms-text-size-adjust:100%; color:#41cd52" data-hs=
+-link-id=3D"0" target=3D"_blank">Real Time Operating Support</a><span>&nbsp=
+;</span></span></span></span></li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%"><spa=
+n style=3D"color: #80c342;"><span><span><span><span style=3D"color: #41cd52=
+;"><a href=3D"http://hs-149513.t.hubspotemail.net/e1t/c/*W5YjTLw4S8_HGW7kn-=
+FR48Tgbq0/*W7g3dpL8lnjVQW5-QMGl7xMnQH0/5/f18dQhb0S1Xm28_NrPKmJbMqBPRN5TkGyF=
+8r7NPN3Sp-VXmr-0VW8cdg3_8HfWzcW3Y0gSL5mFgmDN6RqBzFxVkDzW8ryPfC4MYFhrN9bXb2W=
+8rNQZW99gMpD80W35TW6BvgXC4h30SQN3LCBxcJ8lKvW5g1k837rYlxVW2R-m8k4BkKYfW5vDp7=
+y7pDTBDW5FzRD74_5W1dM2LxlwF1-VCW1fbXbM2Hs3BcW3XJhqs2W5b01W5x1Rq63N_CMlVCHHr=
+q5yDlzvW6mFGMz5D-QNWW5jlcdH3ZsSD8V5Q7br3vwp7kN7j8lTWx7PSHW2wCpVT964xs_W1Lf9=
+R64Ld4n_W4rkGjS31lLy_W7NMDcg6_fcDXW5skW6X8pWdwsVfvQHZ31YmRsW6lxBm76c_6Q7W6n=
+wJ8Z42SF-QW36j05H6frg7LW1BW4PY7WfmwjW4hzmbn51bGjsW8hDLXm4bQ09nW7WPxrF1MvPzS=
+W3yZxhy6lXD67V3M8Bc3J51yqW27LSJR47tfkMW8yzMhl25pJJYN9m4w8hJFJl7W8tbC1N7Tpr0=
+_W6791dG5Sw-NZW30qqtY93lY4df1WXFY_02" style=3D"-webkit-text-size-adjust:100=
+%; -ms-text-size-adjust:100%; color:#41cd52" data-hs-link-id=3D"0" target=
+=3D"_blank">Shader Binary Caching</a></span><span></span></span></span></sp=
+an></span><span style=3D"color: #80c342;"><a href=3D"http://hs-149513.t.hub=
+spotemail.net/e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W4zMjDY5NVTDPW5fc44z77Rk6=
+j0/5/f18dQhb0Sq5J1X6z3tM5dKhVHzj1ZW6bVBn96vhN5NW7FVY8R5mbMf4W1BQYf65LMjn_W7=
+4XPV24ykY7QW97QLGj8rLL1xW98QcHT2ysf_rW5tr6Bh1xc2dSW5Dkl1Z4r1DDrW25_rzS1nrSF=
+yW5DrCxl2qkBCKW7c-CPS50SQVRW90G7th8S3yR5VbY02S4s83FfW6c-1p44tVf-8W3By18y625=
+bx1W6Gj8TS6bVy-5W25PPkn6Pkt_VW62_rWz4NBzMxW6bnMRg4NRj7PW6b-vF067h1zcMQC5z2P=
+C2cVW3hT90G66NwpZW3Kjp7d98KfmCW2wmb_86NL2hWW93xvbY62RzZzVY0pwn9brGylW8r-_D0=
+5D1T7zW8s-vZd5F0CBgMXn3swQYNL6W6Qb-Js5wfvRzVLXkbz62RrXZW2zgKNq8s4bpWW4Vs77C=
+4PkBg5W6BkmNH8bN8yPW72zrXT712jq9W1n9L7N3C6w5qW8qrcf65y3qgyW3bjzqH19rc8kW7pr=
+K2G8MzDSyW8MpP4j1vhnWmW8B7tTL55ykwbW12HX4h9d0LkmVcYJKQ7dJ18nW7kHKrj3Dlwj-0"=
+ style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%" data-hs=
+-link-id=3D"0" target=3D"_blank"></a></span></li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%"><spa=
+n style=3D"color: #41cd52;"><a href=3D"http://hs-149513.t.hubspotemail.net/=
+e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W6ZJZl_520Fj0W2vGvxL8BxhkX0/5/f18dQhb0S=
+q5J1X6z3tM5dKhVHzj1ZW6bVBn96vhN5NW7FVY8R5mbMf4W1BQYf65LMjn_W74XPV24ykY7QW97=
+QLGj8rLL1xW98QcHT2ysf_rW5tr6Bh1xc2dSW5Dkl1Z4r1DDrW25_rzS1nrSFyW5DrCxl2qkBCK=
+W7c-CPS50SQVRW90G7th8S3yR5VbY02S4s83FfW6c-1p44tVf-8W3By18y625bx1W6Gj8TS6bVy=
+-5W25PPkn6Pkt_VW62_rWz4NBzMxW6bnMRg4NRj7PW6b-vF067h1zcMQC5z2PC2cVW3hT90G66N=
+wpZW3Kjp7d98KfmCW2wmb_86NL2hWW93xvbY62RzZzVY0pwn9brGylW8r-_D05D1T7zW8s-vZd5=
+F0CBgMXn3swQYNL6W6Qb-Js5wfvRzVLXkbz62RrXZW2zgKNq8s4bpWW4Vs77C4PkBg5W6BkmNH8=
+bN8yPW72zrXT712jq9W1n9L7N3C6w5qW8qrcf65y3qgyW3bjzqH19rc8kW7prK2G8MzDSyW8MpP=
+4j1vhnWmW8B7tTL55ykwbW12HX4h9d0LkmVcYQlc7dJ18nW4q1zsV3Dlwj-0" style=3D"-web=
+kit-text-size-adjust:100%; -ms-text-size-adjust:100%; color:#41cd52" data-h=
+s-link-id=3D"1" target=3D"_blank">Ready-made UI controls</a></span><span st=
+yle=3D"color: #80c342;"><span><a href=3D"http://hs-149513.t.hubspotemail.ne=
+t/e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W23qYqh3cRlS_W7p-Xvq2SMpcH0/5/f18dQhb=
+0Sjvh1X6z3tM5dKhVHzj1ZW6bVBn96vhN5NW2-4ZJR2HCn8XW5tsJh42TVmrjW3zs97M2gH9jGV=
+zzgZt2t4HhtW32LxRG9gJ05rW5Lnnc23pMjFgW3Yr2KB316zJtW3jJ_1y5K-FKHN5B4_2r_ZFDn=
+W3H2TTQ69vTxfW7xR9_s2Vjhb0W5bPQ0k7v4x2tW5kG09V7lYt77W2R4SDP2JDZKmN2JDgVLQg5=
+X6W5_N0_w5K_zXKW3lj2tv3blhRkW3YdT8n5KY1QTW5v5h9W8BwQhRVHj6bL8nJghgW8gMfZG5w=
+4-KyW3H2F7r8Fwb76W5KCmyD3NWdjFW5PBdbJ3SQFy3W3Gt0jr3fN4QKW8zyHv_3dS_B2W2_C_3=
+-5y3qzWVV_00N5PZ4TfMNCGZwk8xjrW7K_mBd4QH6pSD6Y9ktTrJwW5xHDcM51n7xfW5CpFL83s=
+2kP_W3s5lCC4QDcJ_W1vt4xT6W-m83W70f0_x5_5gd6W6cg9-F1F0tllW48MHfB8WJdJBMVN060=
+VrLq8W5sW6h12VVBfg0" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-=
+adjust:100%" data-hs-link-id=3D"2" target=3D"_blank"></a></span></span></li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%"><spa=
+n style=3D"color: #41cd52;"><a href=3D"http://hs-149513.t.hubspotemail.net/=
+e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W3y0MXL6ccjx5W9dh6H-1gx23t0/5/f18dQhb0S=
+q5F1X6z3tM5dKhVHzj1ZW6bVBn96vhN5NW7G1qK85mbx_fW4CBTsR9d6gBjVH-RKM4B9R2QW3tp=
+x6P4Y9lzYW4YknkM98j0hWW7dfkv125WVhhW50Cxrj7lPs5LW2mpGx64NsJ65W5qCzFK2RgKjLW=
+7JM-KN7mHF3-W7sTjsd2Qy-dfW1DrSgl1Pm908W3DvK3h7xR9_sW2Vjhb05bPQ0kN7v4vH3MBCt=
+BW2StQ5c6FgYFWW2JDZKm2JDgVLVPFR2_2Fq95DW22WLyB6HBHnDW6qG7347TtKpvW22P3KM1G3=
+dWSW7QY89T1nzmr1W7qgGJ77bnFZ9W1G44Fr7l5ggTW7XWXTs244T75W7BN06s2d2Bw_W7JDh46=
+7jY0CTW6wx9xH7Q-s5nW6rLrLF5ZfqFMW1L1nRM1N-01xW2bQNkX1B9VqbVClwbq64TTbkMgdPp=
+WfTlLHV1KsXp1KfP1KVGGTGX1VHnyKW6W4Gwd6Y8RdNVd8rw02-XMC5W4vQQpx4Dq28RW2B663G=
+33qXyvW3g0xhQ8hxnxmW8sgCCw1NwBMnF1MVsRj61sDf3sdzpv03" style=3D"-webkit-text=
+-size-adjust:100%; -ms-text-size-adjust:100%; color:#41cd52" data-hs-link-i=
+d=3D"0" target=3D"_blank">Qt SCXML &amp; State Charts</a></span></li>
+</ul>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">&nbsp;</p>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+</div>
+                                    </div><!--end layout-widget-wrapper -->
+                                </div><!--end widget-span -->
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+       </tr>
+    </tbody></table>
+</td>
+
+       </tr>
+    </tbody></table>
+   </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+=20=20=20
+    <tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444" ali=
+gn=3D"left">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:separate !important; border=
+-spacing:0; background-color:#ffffff" class=3D" columnContentTable" bgcolor=
+=3D"#ffffff"><tbody><tr><td align=3D"left" valign=3D"top" class=3D"columnCo=
+ntent widget-span widget-type-space" style=3D"-webkit-text-size-adjust:100%=
+; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; te=
+xt-align:left; padding:0; font-family:sans-serif; font-size:15px; line-heig=
+ht:1.5em; color:#444444" height=3D"15" data-widget-type=3D"space">
+</td></tr></tbody></table><!--end widget-table -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+=20=20=20
+    <tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444" ali=
+gn=3D"left">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget"><div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_14737475549602264" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_custom_widget" style=3D"color: i=
+nherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=
+=3D"widget" data-hs-cos-type=3D"custom_widget">
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important; backgr=
+ound:#202022; border-bottom:solid #41cd52 6px; width:100%">
+
+=20=20=20=20
+
+    <tbody><tr>
+        <td width=3D"50%" class=3D"column column-first dark-box-column-wrap=
+per" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso=
+-table-lspace:0pt; mso-table-rspace:0pt; min-height:190px; width:50%; verti=
+cal-align:top">
+            <table width=3D"100%" style=3D"-webkit-text-size-adjust:100%; -=
+ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; borde=
+r-collapse:collapse !important">
+                <tbody><tr>
+                    <td class=3D"column-content" style=3D"-webkit-text-size=
+-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rs=
+pace:0pt; padding-right:10px; padding:25px 10px 25px 20px; font-size:14px; =
+color:#cecfd5; font-weight:normal; text-align:left; font-family:Arial, Time=
+s, serif; line-height:20px" align=3D"left">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <table width=3D"100%" style=3D"-webkit-text-size-ad=
+just:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspac=
+e:0pt; border-collapse:collapse !important">
+                            <tbody><tr>
+                                <td style=3D"-webkit-text-size-adjust:100%;=
+ -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; pad=
+ding:0 0 15px 0; font-size:20px; color:#fff; font-weight:bold; font-family:=
+Arial, sans-serif">Available on-demand</td>
+                            </tr>
+                        </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <p style=3D"margin-bottom: 1em; -webkit-text-size-a=
+djust:100%; -ms-text-size-adjust:100%"><span>Catch up on an introduction we=
+binar to Qt 5.9 LTS, the latest improvements and featured news you don't wa=
+nt to miss.&nbsp;</span></p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%"><span style=3D"color: #ffffff;"><a href=3D"http://hs-149513.=
+t.hubspotemail.net/e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W5qgq3z37L1zkW2zGQjB=
+2dY0SM0/5/f18dQhb0Sjv88XJ9ddW4bXYxx5VQHwhW6PkKFy62Y25WW4R4G2g57mvFqW3BJFQw8=
+Vm6N7W74XPV24zDp9CW7NM5DG7tZYQjW9dmDDF7tZWb9W74XFpJ3q4dtJW7JtTqn8mnw90W7bjn=
+YC81BB_mW1h4wl_2Mp841W5JB8vz5ZpycSW57-ZBT83C5JPW1Z66s183KHrFW7J39pB2przrYW6=
+V4thc6H5ztNW53X_Zp52YlfxW3_8mpl9fgwMTW4fdlDp4Q6sRvW7HLGgQ3qs_lcW3315DC6h53t=
+2W2RVJNX7KZMCcW56kz2L5b8H3kW4Pn9V69gNfKxW7tps3l1Brz4GW57j-qB1j7dRbN31w0zrrg=
+SqmW1zXJ-98W5dLNV4cVMt75H599N6zHTdF6qVQ7W3MYtL84GshSsN45Ly2MkwRPgW8pZh401Bd=
+9sWW1NCmx87t4PNhW7CLCR53xxDzQVJhdM770NtkwW8sK1NY3GtjV4W1ZtQr_5HmMl5W1k7TdH4=
+jQYdzM4ZDML2LMBkV11MwL6BJ3sx103" style=3D"-webkit-text-size-adjust:100%; -m=
+s-text-size-adjust:100%; color:#ffffff" data-hs-link-id=3D"0" target=3D"_bl=
+ank">Download the webinar</a></span></p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%"><span>Share the updates with your colleagues and try it out =
+yourself!&nbsp;</span></p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%"><span style=3D"font-size: 20px; color: #ffffff;"><strong>Hav=
+e a deadline?</strong> </span></p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%"><span><span style=3D"color: #ffffff;"><a href=3D"http://hs-1=
+49513.t.hubspotemail.net/e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*N4SHXHrprK2SW6=
+sSxj57cJ6zm0/5/f18dQhb0Sjvd8YHtcbW4bXYxx5VQHwhW6PkKFy62Y25WW4R4JS-57mvFqW3B=
+JFQw8Vm6N7W74XPV24zDqCRN6W3Qd8Jd6_xW85Q8bg6xPxxdW3D3N6n79rPs2W5mNLNv7bqTzMW=
+7vp5SX70-xHwV6zhhp1ZJ3bDW4DqHqz6dgmw3W4yv2r03LmJLKW20Y98h1YfY94W71Ff-p1X0-x=
+7W79p91x2tk5vHW2z_scn6x2RKSW5-lMJc5tkYJnW45SY3M2Yyh9gW6dMl7N3SMq0kW42bqz95-=
+HmtVW3LZjCF4XwNFyW60ZBny2m7ShQW6nynXQ51fvK_W3Pw3CS4Vy7Y0W4yrw1v2pzzTJW3H3c2=
+v3yX-NJW3SWD0K2-zkn5W2y3RnY3LXGXTW3Gzh8282G-VBN8yRgCTrPpMvVrJh2D7RZqTpN4r1z=
+TFdDMKtN51fh33PnmBVV42cYP3nNLM3W9c7_hF9h7s5WW51p6H36Rg_LSW4q8dx255NPbhW6KGY=
+6F38rh8dw1NsfDKkbKf4Jkg5m02" style=3D"-webkit-text-size-adjust:100%; -ms-te=
+xt-size-adjust:100%; color:#ffffff" data-hs-link-id=3D"0" target=3D"_blank"=
+>Contact Qt Services</a> </span>for consulting, customer support, training =
+and board bring up.</span></p>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+
+        <td width=3D"50%" class=3D"column column-last dark-box-column-wrapp=
+er" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-=
+table-lspace:0pt; mso-table-rspace:0pt; width:50%; vertical-align:top">
+            <table width=3D"100%" style=3D"-webkit-text-size-adjust:100%; -=
+ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; borde=
+r-collapse:collapse !important">
+                <tbody><tr>
+                    <td class=3D"column-content" style=3D"-webkit-text-size=
+-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rs=
+pace:0pt; padding-left:10px; padding:25px 20px 25px 10px; font-size:14px; c=
+olor:#cecfd5; font-weight:normal; text-align:left; font-family:Arial, Times=
+, serif; line-height:20px" align=3D"left">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <table width=3D"100%" style=3D"-webkit-text-size-ad=
+just:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspac=
+e:0pt; border-collapse:collapse !important">
+                            <tbody><tr>
+                                <td style=3D"-webkit-text-size-adjust:100%;=
+ -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; pad=
+ding:0 0 15px 0; font-size:20px; color:#fff; font-weight:bold; font-family:=
+Arial, sans-serif">Available on YouTube</td>
+                            </tr>
+                        </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <p style=3D"margin-bottom: 1em; -webkit-text-size-a=
+djust:100%; -ms-text-size-adjust:100%">Take advantage of the tutorials from=
+ Mitch in a short video series:</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%"><span style=3D"color: #ffffff;"><strong><a href=3D"http://hs=
+-149513.t.hubspotemail.net/e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*N7w84sFSZSr9=
+W139_bn1yGwb00/5/f18dQhb0S5fv8XJ92MW4bXYxx5VQHwhW6PkKFy62Y25WW4R4MjK57mvFqW=
+3BJFQw7qwBPlW31fLqd9gFRfHW9dBkVv6x40rpW9bTNXY954KlMW4P0Yt62d4f0zW35_0Jy2dYF=
+0sW3R434J2-J-SLW2z_tPY41Q2SWW6gs8lF3VKVtLW6n8KjW5ThdHgW3s1XjF51G0BBW4YFc445=
+7-WqMW3H_Pty2DzCtRW1yBVzx8cJT7vW5V4zlx34qf_JW7Jvpy182pV7yW2CdT957tWDcgVrZ6_=
+f2FRMtfW4Khg1f3p_krRVLmG_17B07jqVn0j1P94V02-W4N89Sk7l6q4-W75Sx_17LNNxCW5Z6F=
+Gs566bh2W7tSkSK7k67LLW6Pc2NR7PwFk6MVzQv-Vn7DDW6jP-MG8W1J7KMwd2SnLmG6PN1CLgC=
+bb2_nMW6LzX-Y93bx9vN9c91lpJHPYlW4hs6J18PkXDFVRt7__44dpSvW6lRJl13xWwfqJWpDbG=
+1B102" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; c=
+olor:#ffffff" data-hs-link-id=3D"0" target=3D"_blank">Hello Quick World</a>=
+&nbsp;</strong></span><span><br>Create modern touch embedded, mobile and de=
+sktop applications and user interfaces with this introduction to Qt Quick.&=
+nbsp;<br></span></p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%"><span style=3D"color: #ffffff;"><strong><a href=3D"http://hs=
+-149513.t.hubspotemail.net/e1t/c/*W5YjTLw4S8_HGW7kn-FR48Tgbq0/*W8qbyl34Z4WZ=
+_W7qQ1-L38zHM20/5/f18dQhb0S5fv8XJ92MW4bXYxx5VQHwhW6PkKFy62Y25WW4R4MjK57mvFq=
+W3BJFQw7qwBPlW31fLqd9fkdc6VCyDnG6j6kVzW9bTNXY954KlMW4P0Yt62d4f0zW35_0Jy2dYF=
+0sW3R434J2-J-SLW2z_tPY41Q2SWW6gs8lF3VKVtLW6n8KjW5ThdHgW3s1XjF51G0BBW4YFc445=
+7-WqMW3H_Pty2DzCtRW1yBVzx8cJT7vW5V4zlx34qf_JW7Jvpy182pV7yW2CdT957tWDcgVrZ6_=
+f2FRMtfW4Khg1f3p_krRVLmG_17B07jqVn0j1P94V02-W4N89Sk7l6q4-W75Sx_17LNNxCW5Z6F=
+Gs566bh2W7tSkSK7k67LLW6Pc2NR7PwFk6MVzQv-Vn7DDW6jP-MG8W1J7KMwd2SnLmG6PN1CLgC=
+bb2_nMW6LzX-Y93bx9vN9c91lpJHPYlW4hs6J18PkXDFVRt7__44dpSvW6lRJl13xWwfqS9Tx7x=
+wyTk102" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;=
+ color:#ffffff" data-hs-link-id=3D"0" target=3D"_blank">Hello Widget World =
+(for desktop)</a></strong>&nbsp;</span>&nbsp;</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">Get started designing interfaces with the&nbsp;ideal technol=
+ogy for traditional desktop applications and UIs.&nbsp;</p>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+=20=20=20=20=20=20=20=20
+</tbody></table>
+</div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+=20=20=20
+</tbody></table>
+</td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<!--end body wrapper -->
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                                <!-- End Template Wrapper -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align=3D"center" valign=3D"top" style=3D"-w=
+ebkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0p=
+t; mso-table-rspace:0pt">
+                                <!-- Begin Template Footer -->
+                                <div class=3D"footer-container-wrapper">
+</div><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" id=3D"footerTable" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-=
+adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:co=
+llapse !important; background-color:#f2f2f2; color:#999999; font-family:san=
+s-serif; font-size:12px; line-height:120%; padding-top:20px; padding-right:=
+20px; padding-bottom:20px; padding-left:20px; text-align:center" bgcolor=3D=
+"#f2f2f2" align=3D"center">
+                                    <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444" ali=
+gn=3D"left">
+<div class=3D"widget-span widget-type-email_can_spam " style=3D"" data-widg=
+et-type=3D"email_can_spam"><p id=3D"footer" style=3D"margin-bottom: 1em; -w=
+ebkit-text-size-adjust:100%; -ms-text-size-adjust:100%; font-family:Geneva,=
+ Verdana, Arial, Helvetica, sans-serif; text-align:center; font-size:12px; =
+line-height:1.34em; color:#999999; display:block" align=3D"center">
+The Qt Company
+&nbsp;&nbsp;Bertel Jungin aukio D3A
+&nbsp;
+&nbsp;Espoo,
+&nbsp;02600
+&nbsp;&nbsp;
+&nbsp;&nbsp;Finland
+<br><br>
+You received this email because you are subscribed to Newsletters from The =
+Qt Company.
+<br><br>
+Update your <a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D=
+"http://hs-149513.s.hubspotemail.net/hs/manage-preferences/unsubscribe?d=3D=
+eyJlYSI6ImFudDQ5MDZAeWFuZGV4LnJ1IiwiZWMiOjU3NTc2OTM0LCJzdWJzY3JpcHRpb25JZCI=
+6NzI5OSwiZXQiOjE1MDg1MDU5ODgyOTAsImV1IjoiMDQyZThiNjAtMDVjNS00NTM2LTkxNjktNz=
+MzZGI4MGY0N2NmIn0%3D&amp;v=3D1&amp;utm_campaign=3DQt%205.9&amp;utm_source=
+=3Dhs_email&amp;utm_medium=3Demail&amp;utm_content=3D57576934&amp;_hsenc=3D=
+p2ANqtz-8cSSdfRfhUeEMEudZ6mzG8A4M1ifdgh209Y3O7PSn0-N6t47m4Iy4qx22S_YrZpeG3Y=
+qwgqxqA5ndgrQXs8WmcijVVYQ&amp;_hsmi=3D57576934" style=3D"-ms-text-size-adju=
+st:100%; -webkit-text-size-adjust:none; font-weight:normal; text-decoration=
+:underline; whitespace:nowrap; color:#999999" data-hs-link-id=3D"0" target=
+=3D"_blank">email preferences</a> to choose the types of emails you receive.
+<br><br>
+&nbsp;<a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D"http:=
+//hs-149513.s.hubspotemail.net/hs/manage-preferences/unsubscribe-all?d=3Dey=
+JlYSI6ImFudDQ5MDZAeWFuZGV4LnJ1IiwiZWMiOjU3NTc2OTM0LCJzdWJzY3JpcHRpb25JZCI6N=
+zI5OSwiZXQiOjE1MDg1MDU5ODgyOTAsImV1IjoiMDQyZThiNjAtMDVjNS00NTM2LTkxNjktNzMz=
+ZGI4MGY0N2NmIn0%3D&amp;v=3D1&amp;utm_campaign=3DQt%205.9&amp;utm_source=3Dh=
+s_email&amp;utm_medium=3Demail&amp;utm_content=3D57576934&amp;_hsenc=3Dp2AN=
+qtz-8cSSdfRfhUeEMEudZ6mzG8A4M1ifdgh209Y3O7PSn0-N6t47m4Iy4qx22S_YrZpeG3Yqwgq=
+xqA5ndgrQXs8WmcijVVYQ&amp;_hsmi=3D57576934" style=3D"-ms-text-size-adjust:1=
+00%; -webkit-text-size-adjust:none; font-weight:normal; text-decoration:und=
+erline; whitespace:nowrap; color:#999999" data-hs-link-id=3D"0" target=3D"_=
+blank">Unsubscribe from all future emails</a>&nbsp;
+</p>
+
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<!--end footer wrapper -->
+                                    <tr>
+                                        <td style=3D"-webkit-text-size-adju=
+st:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:=
+0pt"></td>
+                                    </tr>
+                                </tbody></table>
+                                <!-- End Template Footer -->
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <!-- End Template Container -->
+                </td>
+            </tr>
+        </tbody></table>
+=20=20=20=20
+<!-- end coded_template: id:4675516762 path:custom/email/responsive_email/e=
+xternal_newsletter_Dec_2016.html -->
+<img src=3D"http://t.hsms02.com/e1t/o/*W3LZkrB8g2kyWW103c4g5_KMf20/*W2jp77S=
+45FQTMW1mb0Tk1g6m9W0/5/f18dQhb0J6s1gfPcN7CxxnMkZ4T6Vjbx1B20YDlmW1WXWvw2YnyV=
+-Ls7yK2xwPMMvlGgvFhShTW1X2ct42mcvbYW3H4TRT49R_1wN4RF_rdNw7BXW6YpxBp83tlXwVC=
+-KCy6njL6FW5w-c4T7ZSD-hN1B4QW03zL0C101" alt=3D"" width=3D"1" height=3D"1" b=
+order=3D"0" style=3D"display:none!important;min-height:1px!important;width:=
+1px!important;border-width:0!important;margin-top:0!important;margin-bottom=
+:0!important;margin-right:0!important;margin-left:0!important;padding-top:0=
+!important;padding-bottom:0!important;padding-right:0!important;padding-lef=
+t:0!important"><style>@media print{#_hs { background-image: url('http://t.h=
+sms02.com/e1t/o/*W3LZkrB8g2kyWW103c4g5_KMf20/*N8HdMJLjcxYdW4KHHZF1kzs0M0/5/=
+f18dQhb0KdhBBXQJrW4L9hBF51RmcgW7N_L6P7WKydNW1bJ3B179P0csW73QtPc1d5pgbW5lG3k=
+L6qQwpWW72q3Fb1Q2phrW2rB92d608YK2W2N6Y-x9lSL3DW5Ss1Zx5jL4WGW7VSW7c439Y6mW5j=
+xKSy7T8W8PVmRsQv1JK6C7101');}} div.OutlookMessageHeader {background-image:u=
+rl('http://t.hsms02.com/e1t/o/*W3LZkrB8g2kyWW103c4g5_KMf20/*W67k1DB571xKGN6=
+PJvm9q51HH0/5/f18dQhb0KdhDBW-M9W4L9hBF51RmcgW7N_L6P7WKyhVW7v-hJl1RdkYsW73Vb=
+F_7GnNl0W224mpX1N4WT0W7blQgx5W2T5tW1npGnZ67FnvGW2L5Ghq8jT2C6V7l3pJ7YyCLBW3x=
+6Htg4gZwRvW2RL9pz4gMTCDF7C5Szd-Rx7f4yq6t203')} table.moz-email-headers-tabl=
+e {background-image:url('http://t.hsms02.com/e1t/o/*W3LZkrB8g2kyWW103c4g5_K=
+Mf20/*W67k1DB571xKGN6PJvm9q51HH0/5/f18dQhb0KdhDBW-M9W4L9hBF51RmcgW7N_L6P7WK=
+yhVW7v-hJl1RdkYsW73VbF_7GnNl0W224mpX1N4WT0W7blQgx5W2T5tW1npGnZ67FnvGW2L5Ghq=
+8jT2C6V7l3pJ7YyCLBW3x6Htg4gZwRvW2RL9pz4gMTCDF7C5Szd-Rx7f4yq6t203')} blockqu=
+ote #_hs {background-image:url('http://t.hsms02.com/e1t/o/*W3LZkrB8g2kyWW10=
+3c4g5_KMf20/*W67k1DB571xKGN6PJvm9q51HH0/5/f18dQhb0KdhDBW-M9W4L9hBF51RmcgW7N=
+_L6P7WKyhVW7v-hJl1RdkYsW73VbF_7GnNl0W224mpX1N4WT0W7blQgx5W2T5tW1npGnZ67FnvG=
+W2L5Ghq8jT2C6V7l3pJ7YyCLBW3x6Htg4gZwRvW2RL9pz4gMTCDF7C5Szd-Rx7f4yq6t203')} =
+#MailContainerBody #_hs {background-image:url('http://t.hsms02.com/e1t/o/*W=
+3LZkrB8g2kyWW103c4g5_KMf20/*W67k1DB571xKGN6PJvm9q51HH0/5/f18dQhb0KdhDBW-M9W=
+4L9hBF51RmcgW7N_L6P7WKyhVW7v-hJl1RdkYsW73VbF_7GnNl0W224mpX1N4WT0W7blQgx5W2T=
+5tW1npGnZ67FnvGW2L5Ghq8jT2C6V7l3pJ7YyCLBW3x6Htg4gZwRvW2RL9pz4gMTCDF7C5Szd-R=
+x7f4yq6t203')}</style><div id=3D"_hs"></div></body></html>=
+
+------=_Part_482012_2105886031.1508506483005--

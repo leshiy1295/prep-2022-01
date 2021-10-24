@@ -1,0 +1,516 @@
+Received: from mxfront5o.mail.yandex.net ([127.0.0.1])
+	by mxfront5o.mail.yandex.net with LMTP id IAl2Yel4
+	for noname@noemail.ru; Sun, 4 Mar 2018 17:29:04 +0300
+Received: from mail.sbspasibo.ru (mail.sbspasibo.ru [91.224.14.146])
+	by mxfront5o.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id 20ADFxlmSU-SvfSmvXT;
+	Sun, 04 Mar 2018 17:28:57 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+Return-Path: digest@sbspasibo.ru
+X-Yandex-Front: mxfront5o.mail.yandex.net
+X-Yandex-TimeMark: 1520173737
+Date: Sun, 04 Mar 2018 17:28:57 +0300
+Authentication-Results: mxfront5o.mail.yandex.net; spf=pass (mxfront5o.mail.yandex.net: domain of sbspasibo.ru designates 91.224.14.146 as permitted sender, rule=[mx]) smtp.mail=digest@sbspasibo.ru; dkim=pass header.i=@sbspasibo.ru
+X-Yandex-Spam: 4
+X-Yandex-Personal-Spam: OTc3MjMxMDIK
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=sbspasibo.ru; s=mail;
+	h=Content-Transfer-Encoding:Content-Type:MIME-Version:Subject:Message-ID:To:Reply-To:From; bh=69Z1e1pOhAj7P5a8ez59Y6OXmUa62+xJKBUHO7JSE6U=;
+	b=AX5u4KWyXlHI7gvPYEGxAAL2PyLLP9mZ5jOBZTN750LEQVfyIogN9UQ4X9mGevlUC1iBLB9EIBljdkoKwRlTI0sgNFIbk82FWzH5srXMwKkLtz+Zz4uverlpg3rhQ03yHWFSaEmMlvn/mX6u5XDJ1zEkP6BZBypvxf5wfVorIX5ytX3CdZguCkaM7ombwZtVnf3PCHGm7l/GCk8dvN6lJ+La+XOdCjWVo60jYsI7O7OwugCLzOQ/vefc22UlLmWAYufCj6HAuutoUYFkOGsPrAxM6AE7rCo2kLTFebCo3Y5uYyU4sf1WhpATvPRkDldVXou24pn9AjrYXUIiMPXPKA==;
+From: =?UTF-8?B?0KHQv9Cw0YHQuNCx0L4g0L7RgiDQodCx0LXRgNCx0LDQvdC60LAh?= <digest@sbspasibo.ru>
+Reply-To: digest@sbspasibo.ru
+To: noname@noemail.ru
+Message-ID: <1846644256.11322752.1520173736280.JavaMail.sas@mm-prod-02.cplsb.ru>
+Subject: =?UTF-8?B?0JTQviAyMCUg0KHQn9CQ0KHQmNCR0J4g0LIg?=
+ =?UTF-8?B?0YfQtdGB0YLRjCDQv9GA0LDQt9C00L3QuNC60L7QsiE=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-KLMS-Rule-ID: 1
+X-KLMS-Message-Action: skipped
+X-KLMS-AntiSpam-Status: not scanned, whitelist
+X-KLMS-AntiPhishing: not scanned, whitelist
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.721, not scanned, whitelist
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+
+
+
+<!DOCTYPE html>
+<html>
+  <head><meta http-equiv="Content-type" Content="text/html; charset=utf-8"/>
+    <meta name="generator" content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" />
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=400" />
+<style type="text/css">
+ 
+        .ExternalClass {width:100%;}    
+        img{ border:0 none; height:auto; line-height:100%; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; }       
+        a img{ border:0 none;   }       
+        #outlook a {padding:0;} 
+        #allrecords{ height:100% !important; margin:0; padding:0; width:100% !important; -webkit-font-smoothing: antialiased; line-height: 1.3;}        
+        #allrecords td{ margin:0; padding:0;    }       
+        #allrecords ul{-webkit-padding-start:30px;}     
+        @media only screen and (max-width: 640px) { 
+                .r{     width:100% !important;  min-width:400px !important; }
+        }       
+        @media only screen and (max-width: 480px) { 
+                .t-emailBlock { display: block !important; padding-left: 0 !important; padding-right: 0 !important; width: 100% !important; } 
+                .t-emailBlockPadding { padding-top: 15px !important; } 
+                .t-emailBlockPadding30 { padding-top: 30px !important; } 
+                .t-emailBlock_top_logo { display: block !important; width: 100% !important; text-align:center !important; padding:0px !important; border-bottom:1px solid #f0f0f0}
+                .t-emailBlock_top_menu { display: block !important; width: 100% !important; padding:12px 0 10px !important;}
+                .t-emailBlock_top_table { text-align:center !important;}
+                .t-emailAlignLeft { text-align: left !important; margin-left: 0 !important; } 
+                .t-emailAlignCenter { text-align: center !important; margin-left: auto !important; margin-right: auto !important; }     
+                .t-emailapp { padding-left: 30px !important; padding-right: 30px !important;} 
+                .img_mobile { padding-left:15px !important; padding-right:15px !important; } 
+                .img_mobile_right { padding-right:7px !important; } 
+                #textmobile {font-size:20px !important;}
+                #textmenu {font-size:15px !important;}
+                #mp {display:none !important;}
+                #mp_button {padding: 0px 30px 30px 30px !important;}
+        }
+</style>
+    <title>
+    </title>
+  </head>
+  <body cellpadding="0" cellspacing="0" style="padding: 0; margin: 0; border: 0; width:100%; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; background-color: #f0f0f0;">
+<!--crumblet--><img src="https://lb.cplsb.ru/get?id=0.-1:-jdmo01yg.FEGHVZCMVBF0S50N:&A33A6D523FBD1782=0D96964017CE3BA2372B5327473264E4&13601C43002F34B7=9A0FBF4556ABF0401449726E03D97EC3"></img>
+<table id="allrecords" cellpadding="0" cellspacing="0" style="width:100%; border-collapse:collapse; border-spacing:0; padding:0; margin:0; border:0;">
+      <tr>
+        <td style="background-color: #f0f0f0;">
+          <div style="display: none !important; mso-hide:all; font-size:1px; color:#f0f0f0">
+            Повышенные бонусы за покупки к праздникам!
+          </div>
+          <table style="width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="15" style="line-height:5px;">
+                <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="15" border="0" style="display: block;" />
+              </td>
+            </tr>
+            <tr>
+              <td style="padding-left:15px; padding-right:15px;">
+                <table class="r" style="margin: 0 auto; background-color:#ffffff; border-spacing:0; width:640px;" align="center">
+                  <tr>
+                    <td class="t-emailBlock_top_logo" rowspan="2" align="left" style="padding:0 0 0 20px;">
+                      <a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/?utm_source=email_spasibo%26utm_medium=logo_spasibo_online%26utm_campaign=gender_0218&amp;S1=342334410&amp;RTC=866980201&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline: none;" target="_blank"><img width="160" style="width:160px; max-width:160px;" src="http://dm.spasibosb.ru/images/2018/main/spasibologo.png" border="0" />
+                      </a>
+                    </td>
+                    <td height="53">
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="t-emailBlock_top_menu" valign="top" align="right" height="20" style="padding:0px 0px 0px 20px">
+                      <table border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                          <td align="center" style="padding: 0">
+                            <div style="margin: 0 auto; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#404040;font-size:15px; word-wrap: normal">
+                              <span style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#484848;"><a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/faq/?utm_source=email_spasibo%26utm_medium=menu_balans%26utm_campaign=gender_0218%23section-3-1&amp;S1=342334410&amp;RTC=866980201&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline: none; color:#484848; text-decoration:none" target="_blank">Узнать баланс</a></span>
+                            </div>
+                          </td>
+                          <td align="center" style="padding: 0 20px">
+                            <div style="margin: 0 auto; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#404040;font-size:15px; word-wrap: normal">
+                              <span style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#484848;"><a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/actions/?utm_source=email_spasibo%26utm_medium=menu_actions%26utm_campaign=gender_0218&amp;S1=342334410&amp;RTC=866980201&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline: none; color:#484848; text-decoration:none" target="_blank">Все акции</a></span>
+                            </div>
+                          </td>
+                          <td align="center" style="padding: 0">
+                            <div style="margin: 0 auto; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#404040;font-size:15px; word-wrap: normal">
+                              <span style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#484848;"><a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/partners/?utm_source=email_spasibo%26utm_medium=menu_partners%26utm_campaign=gender_0218&amp;S1=342334410&amp;RTC=866980201&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline: none; color:#484848; text-decoration:none" target="_blank">Все партнеры</a></span>
+                            </div>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table style="width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding="0" cellspacing="0">
+            <tr>
+              <td style="padding-left:15px; padding-right:15px;">
+                <table class="r" style="margin: 0 auto; border-spacing: 0; width:640px;" align="center">
+                  <tr>
+                    <td style="padding:0;">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#ffffff;">
+                        <tr>
+                          <td style="width:100%; text-align: center;">
+                            <a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/actions/do-20-spasibo-za-prazdnichnye-pokupki/?utm_source=email_spasibo%26utm_medium=banner%26utm_campaign=gender_0218&amp;RTC=866980201&amp;S1=342334410&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline:none" target="_blank"><img width="640" align="center" style="display: block; width: 100%; max-width:640px; height: auto;" src="http://dm.spasibosb.ru/images/2018/February/gender/gender_0218_banner.jpg" border="0" />
+                            </a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="30" style="line-height:5px;">
+                            <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="30" border="0" style="display: block;" />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style="text-align: left; padding: 0 30px;">
+                            <div id="textmobile" style="margin-right: auto; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#404040;font-size:18px; word-wrap: normal">
+                              Специально к праздникам мы подготовили акции с&nbsp;повышенными бонусами за покупки. Выбирайте с&nbsp;удовольствием и покупайте с&nbsp;выгодой уже сейчас!<br />
+
+                              <br />
+
+                               <b>С 9 февраля по 9 марта 2018 года получайте до 20% бонусами СПАСИБО за покупки по карте Сбербанка у партнеров Программы.</b>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="30" style="line-height:5px;">
+                            <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="30" border="0" style="display: block;" />
+                          </td>
+                        </tr>
+                      </table>
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#ffffff;">
+                        <tr>
+                          <td class="img_mobile" style="padding-left:20px; padding-right:20px;">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#ffffff;">
+                              <tr>
+                                <td align="left" class="img_mobile_right" style="width: 68%; padding-right:15px;">
+                                  <a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/actions/15spasibo-v-amf/?utm_source=email_spasibo%26utm_medium=amf%26utm_campaign=gender_0218&amp;RTC=866980201&amp;S1=342334410&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline:none" target="_blank"><img src="http://dm.spasibosb.ru/images/2018/February/gender/gender_0218_amf.jpg" width="395" align="center" style="display: block; width: 100%; max-width:395px; height: auto;" />
+                                  </a>
+                                </td>
+                                <td align="right" style="width: 32%">
+                                  <a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/actions/7-spasibo-v-seti-salonov-bronnickij-yuvelir/?utm_source=email_spasibo%26utm_medium=juvelir%26utm_campaign=gender_0218&amp;RTC=866980201&amp;S1=342334410&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline:none" target="_blank"><img src="http://dm.spasibosb.ru/images/2018/February/gender/gender_0218_juvelir.jpg" width="190" align="center" style="display: block; width: 100%; max-width:190px; height: auto;" />
+                                  </a>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="15" style="line-height:5px;" colspan="2">
+                                  <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="15" border="0" style="display: block;" />
+                                </td>
+                              </tr>
+                            </table>
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#ffffff;">
+                              <tr>
+                                <td align="left" class="img_mobile_right" style="width:34%; padding-right:15px;">
+                                  <a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/actions/15spasibo-za-pokupki-v-divage/?utm_source=email_spasibo%26utm_medium=divage%26utm_campaign=gender_0218&amp;RTC=866980201&amp;S1=342334410&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline:none" target="_blank"><img src="http://dm.spasibosb.ru/images/2018/February/gender/gender_0218_divage.jpg" width="190" align="center" style="display: block; width: 100%; max-width:190px; height: auto;" />
+                                  </a>
+                                </td>
+                                <td align="right" style="width:66%">
+                                  <a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/actions/6spasibo-v-baon/?utm_source=email_spasibo%26utm_medium=baon%26utm_campaign=gender_0218&amp;RTC=866980201&amp;S1=342334410&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline:none" target="_blank"><img src="http://dm.spasibosb.ru/images/2018/February/gender/gender_0218_baon.jpg" width="395" align="center" style="display: block; width: 100%; max-width:395px; height: auto;" />
+                                  </a>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="15" style="line-height:5px;" colspan="2">
+                                  <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="15" border="0" style="display: block;" />
+                                </td>
+                              </tr>
+                            </table>
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#ffffff;">
+                              <tr>
+                                <td align="left" class="img_mobile_right" style="padding-right:15px; width: 68%;">
+                                  <a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/actions/do-8-spasibo-v-internet-magazine-alltime/?utm_source=email_spasibo%26utm_medium=alltime%26utm_campaign=gender_0218&amp;RTC=866980201&amp;S1=342334410&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline:none" target="_blank"><img src="http://dm.spasibosb.ru/images/2018/February/gender/gender_0218_alltime.jpg" width="395" align="center" style="display: block; width: 100%; max-width:395px; height: auto;" />
+                                  </a>
+                                </td>
+                                <td align="right" style="width: 32%">
+                                  <a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/actions/do-55-spasibo-v-magazinah-posuda-centr/?utm_source=email_spasibo%26utm_medium=posuda%26utm_campaign=gender_0218&amp;RTC=866980201&amp;S1=342334410&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline:none" target="_blank"><img src="http://dm.spasibosb.ru/images/2018/February/gender/gender_0218_posuda.jpg" width="190" align="center" style="display: block; width: 100%; max-width:190px; height: auto;" />
+                                  </a>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="15" style="line-height:5px;" colspan="2">
+                                  <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="15" border="0" style="display: block;" />
+                                </td>
+                              </tr>
+                            </table>
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#ffffff;">
+                              <tr>
+                                <td align="left" class="img_mobile_right" style="width:34%; padding-right:15px;">
+                                  <a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/actions/do15-spasibo-v-burger-kinge/?utm_source=email_spasibo%26utm_medium=burger%26utm_campaign=gender_0218&amp;RTC=866980201&amp;S1=342334410&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline:none" target="_blank"><img src="http://dm.spasibosb.ru/images/2018/February/gender/gender_0218_burger.jpg" width="190" align="center" style="display: block; width: 100%; max-width:190px; height: auto;" />
+                                  </a>
+                                </td>
+                                <td align="right" style="width:66%">
+                                  <a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/actions/6spasibo-ot-tez-tour/?utm_source=email_spasibo%26utm_medium=tez_tour%26utm_campaign=gender_0218&amp;RTC=866980201&amp;S1=342334410&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline:none" target="_blank"><img src="http://dm.spasibosb.ru/images/2018/February/gender/gender_0218_tez_tour.jpg" width="395" align="center" style="display: block; width: 100%; max-width:395px; height: auto;" />
+                                  </a>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="15" style="line-height:5px;" colspan="2">
+                                  <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="15" border="0" style="display: block;" />
+                                </td>
+                              </tr>
+                            </table>
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#ffffff;">
+                              <tr>
+                                <td align="left" class="img_mobile_right" style="padding-right:15px; width: 68%;">
+                                  <a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/actions/20spasibo-v-litres/?utm_source=email_spasibo%26utm_medium=litres%26utm_campaign=gender_0218&amp;RTC=866980201&amp;S1=342334410&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline:none" target="_blank"><img src="http://dm.spasibosb.ru/images/2018/February/gender/gender_0218_litres.jpg" width="395" align="center" style="display: block; width: 100%; max-width:395px; height: auto;" />
+                                  </a>
+                                </td>
+                                <td align="right" style="width: 32%">
+                                  <a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/actions/20spasibo-v-ramk/?utm_source=email_spasibo%26utm_medium=ramk%26utm_campaign=gender_0218&amp;RTC=866980201&amp;S1=342334410&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline:none" target="_blank"><img src="http://dm.spasibosb.ru/images/2018/February/gender/gender_0218_ramk.jpg" width="190" align="center" style="display: block; width: 100%; max-width:190px; height: auto;" />
+                                  </a>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="20" style="line-height:5px;" colspan="2">
+                                  <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="20" border="0" style="display: block;" />
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table border="0" cellpadding="0" cellspacing="0" style="width:100%; border-collapse:collapse;">
+            <tr>
+              <td style="padding-left:15px; padding-right:15px; padding-top:0px; padding-bottom:0px;">
+                <table class="r" style="margin: 0 auto; border-spacing:0; width:640px;" align="center" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="padding:0;">
+                      <table cellpadding="0" cellspacing="0" width="100%" style="background-color:#dfe6e6; width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;">
+                        <tr>
+                          <td height="30" style="line-height:5px;">
+                            <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="30" border="0" style="display: block;" />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td id="mp_button" style="text-align: left; padding-left: 30px;">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#dfe6e6;">
+                              <tr>
+                                <td style="text-align: left;">
+                                  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse; border-spacing:0; margin:0; border:0;">
+                                    <tr>
+                                      <td style="width:100%; text-align: left;" colspan="3">
+                                        <div style="margin-right: auto; font-weight: normal; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#333333;font-size:24px; word-wrap: normal">
+                                          <span style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#404040;font-size:24px;">Установите наше мобильное приложение и смартфон скажет вам СПАСИБО!</span>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="20" style="line-height:5px;" colspan="3">
+                                        <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="20" border="0" style="display: block;" />
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td style="text-align: left; padding: 0px 5px 0 0">
+                                        <a href="https://lb.cplsb.ru/redir?link=https://itunes.apple.com/us/app/spasibo-ot-sberbanka/id899525659?amp;S1=342334410&amp;RTC=866980201&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline: none;" target="_blank"><img width="150" align="center" style="display: block; width: 100%; max-width:150px; height: auto;" src="http://dm.spasibosb.ru/images/2018/main/spasibo_app_store.png" border="0" />
+                                        </a>
+                                      </td>
+                                      <td style="text-align: center; padding: 0px 5px">
+                                        <a href="https://lb.cplsb.ru/redir?link=https://play.google.com/store/apps/details?id=ru.sberbank.spasibo&amp;S1=342334410&amp;RTC=866980201&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline: none;" target="_blank"><img width="150" align="center" style="display: block; width: 100%; max-width:150px; height: auto;" src="http://dm.spasibosb.ru/images/2018/main/spasibo_google_play.png" border="0" />
+                                        </a>
+                                      </td>
+                                      <td style="text-align: right; padding: 0px 0 0 5px">
+                                        <img width="40" align="center" style="display: block; width: 100%; max-width:40px; height: auto;" src="http://dm.spasibosb.ru/images/2018/main/spasibo_18.png" border="0" />
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                                <td id="mp" style="width:212px; padding-left: 20px; text-align: right;">
+                                  <img width="212" align="center" style="display: block; width: 100%; max-width:212px; height: auto;" src="http://dm.spasibosb.ru/images/2018/main/actions_mobile.png" border="0" />
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table style="width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding="0" cellspacing="0">
+            <tr>
+              <td style="padding-left:15px; padding-right:15px;">
+                <table class="r" style="margin: 0 auto;border-spacing: 0;width:640px;" align="center">
+                  <tr>
+                    <td height="25" style="line-height:5px;">
+                      <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="25" border="0" style="display: block;" />
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding-left:30px;padding-right:30px;">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                          <td align="center">
+                            <table border="0" cellpadding="0" cellspacing="0" width="162" style="table-layout: fixed;">
+                              <tr>
+                                <td align="center" style="padding: 0 10px;">
+                                  <a style="text-decoration: none;" href="https://lb.cplsb.ru/redir?link=https://www.facebook.com/spasibosb/?utm_source=email_spasibo%26utm_medium=link_facebook%26utm_campaign=gender_0218&amp;S1=342334410&amp;RTC=866980201&amp;&amp;_mid_=Broadcast_jdmo01yg"><img width="34" style="display: block; width: 100%;" src="http://dm.spasibosb.ru/images/2018/main/spasibo_ico_fb.png" border="0" />
+                                  </a>
+                                </td>
+                                <td align="center" style="padding: 0 10px;">
+                                  <a style="text-decoration: none;" href="https://vk.com/spasibosb"><img width="34" style="display: block; width: 100%;" src="http://dm.spasibosb.ru/images/2018/main/spasibo_ico_vk.png" border="0" />
+                                  </a>
+                                </td>
+                                <td align="center" style="padding: 0 10px;">
+                                  <a style="text-decoration: none;" href="http://ok.ru/spasibosb/?utm_source=email_spasibo%26utm_medium=link_odnoklassniki%26utm_campaign=gender_0218&amp;S1=342334410&amp;RTC=866980201&amp;&amp;_mid_=Broadcast_jdmo01yg"><img width="34" style="display: block; width: 100%;" src="http://dm.spasibosb.ru/images/2018/main/spasibo_ico_ok.png" border="0" />
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table style="width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding="0" cellspacing="0">
+            <tr>
+              <td style="padding-left:15px; padding-right:15px;">
+                <table class="r" style="margin: 0 auto;border-spacing: 0;width:640px;" align="center">
+                  <tr>
+                    <td height="25" style="line-height:5px;">
+                      <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="25" border="0" style="display: block;" />
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding:0;">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                          <td align="center">
+                            <table valign="top" border="0" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td align="center" style="padding: 0">
+                                  <div id="textmenu" style="margin: 0 auto; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#484848;font-size:18px; word-wrap: normal">
+                                    <span style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#484848;"><a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/howto/?utm_source=email_spasibo%26utm_medium=menu_balans%26utm_campaign=gender_0218%23!accumulate&amp;S1=342334410&amp;RTC=866980201&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline: none; color:#484848; text-decoration:none" target="_blank">Как накопить</a></span>
+                                  </div>
+                                </td>
+                                <td align="center" style="padding: 0 7px;">
+                                  <div id="textmenu" style="margin: 0 auto; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#cccccc;font-size:18px;">
+                                    <span style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#484848;">|</span>
+                                  </div>
+                                </td>
+                                <td align="center" style="padding: 0">
+                                  <div id="textmenu" style="margin: 0 auto; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#484848;font-size:18px; word-wrap: normal">
+                                    <span style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#484848;"><a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.ru/howto/?utm_source=email_spasibo%26utm_medium=menu_balans%26utm_campaign=gender_0218%23!spend&amp;S1=342334410&amp;RTC=866980201&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline: none; color:#484848; text-decoration:none" target="_blank">Как использовать</a></span>
+                                  </div>
+                                </td>
+                                <td align="center" style="padding: 0 7px;">
+                                  <div id="textmenu" style="margin: 0 auto; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#cccccc;font-size:18px;">
+                                    <span style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#484848;">|</span>
+                                  </div>
+                                </td>
+                                <td align="center" style="padding: 0">
+                                  <div id="textmenu" style="margin: 0 auto; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#484848;font-size:18px; word-wrap: normal">
+                                    <span style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#484848;"><a href="https://lb.cplsb.ru/redir?link=https://spasibosberbank.online/faq/?utm_source=email_spasibo%26utm_medium=menu_faq%26utm_campaign=gender_0218&amp;S1=342334410&amp;RTC=866980201&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline: none; color:#484848; text-decoration:none" target="_blank">Вопросы и ответы</a></span>
+                                  </div>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="25" style="line-height:5px;">
+                      <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="25" border="0" style="display: block;" />
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table style="width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding="0" cellspacing="0">
+            <tr>
+              <td style="padding-left:15px; padding-right:15px;">
+                <table class="r" style="margin: 0 auto;border-spacing: 0;width:640px;" align="center">
+                  <tr>
+                    <td style="padding:0;">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                          <td style="text-align: center; padding: 0">
+                            <div style="margin-right: auto; font-weight: normal; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#666666;font-size:16px;">
+                              В случае любых вопросов, касающихся программы, обращайтесь по номеру <a href="tel:900" value="900" target="_blank" style="color:#666666; text-decoration: none;">900</a>&nbsp;(далее&nbsp;5) или по&nbsp;почте&nbsp;<a href="mailto:contact@spasibosb.ru" style="outline: none; color:#666666; text-decoration:none;" target="_blank">contact@spasibosb.ru</a>.
+                            </div>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table style="width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding="0" cellspacing="0">
+            <tr>
+              <td style="padding-left:15px; padding-right:15px;">
+                <table class="r" style="margin: 0 auto; border-spacing:0; width:640px;" align="center">
+                  <tr>
+                    <td height="25" style="line-height:5px;">
+                      <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="25" border="0" style="display: block;" />
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding:0;">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                          <td align="center">
+                            <a href="https://lb.cplsb.ru/redir?link=http://www.sberbank.ru/ru/person?utm_source=email_spasibo%26utm_medium=logo_sberbank%26utm_campaign=gender_0218&amp;S1=342334410&amp;RTC=866980201&amp;&amp;_mid_=Broadcast_jdmo01yg" style="outline: none;" target="_blank"><img width="180" style="display:block; width:180px;" src="http://dm.spasibosb.ru/images/2018/main/sberbank_logo.png" border="0" />
+                            </a>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table style="width:100%; border-collapse:collapse; border-spacing:0; margin:0; border:0;" cellpadding="0" cellspacing="0">
+            <tr>
+              <td style="padding-left:15px; padding-right:15px;">
+                <table class="r" style="margin: 0 auto;border-spacing: 0;width:640px;" align="center">
+                  <tr>
+                    <td height="35" style="line-height:5px;">
+                      <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="35" border="0" style="display: block;" />
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <table valign="top" border="0" cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
+                        <tr>
+                          <td style="text-align: justify; padding: 0 0 0;">
+                            <div style="margin: 0 auto; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#666666;font-size:12px;line-height: 1.2">
+                              Вы получили это сообщение как участник бонусной программы «Спасибо от Сбербанка». Если Вы хотите отписаться от информирования о новостях и акциях с повышенными бонусами в рассылке, Вы можете сделать это по <a href="http://spasibosb.ru/unsubscribe/index.php?mk=jdmo01yg&amp;81F6943F165959361A1B1A1046F50297=86D0D5571DAA928D003F9F1A2455046A3B46559912CC40A30557C55B" style="outline: none; color:#2e9e20 !important;" target="_blank"><font face="Arial" color="#2E9E20" style="color: #2e9e20 !important;">ссылке</font></a>.
+                            </div>
+                            <div style="margin: 0 auto; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color:#999999;font-size:11px;line-height: 1.2">
+                              <br />
+
+                               Под Партнерами проекта следует понимать указанных в настоящем материале Партнеров Программы (юридических лиц/ или индивидуальных предпринимателей), заключивших с Уполномоченной компанией договор об участии в Программе, имеющих эквайринговое оборудование, поддерживающие специальное программное обеспечение, позволяющее участвовать в Программе, взявших на себя обязательства принимать к оплате Карту и проводящих акции, сопровождающиеся начислением Бонусов, для Участников, а именно:<br />
+
+                               DIVAGE: Начисление Бонусов производится в рамках <a href="https://spasibosberbank.ru/media/uploads/pravila_aktsii_divage_do_10.pdf" style="color:#54a60d" target="_blank">Базовой Акции</a> (с 09.12.2015г. и не ограничена сроком действия) и <a href="https://spasibosberbank.ru/media/uploads/15divage_rules.pdf" style="color:#54a60d" target="_blank">Акции № 01/18</a> (с 09.02.2018г. по 09.03.2018г. включительно). Имеются ограничения. ЛитРес: Начисление Бонусов производится в рамках <a href="https://spasibosberbank.ru/media/uploads/rules_litres.pdf" style="color:#54a60d" target="_blank">Базовой Акции</a> (с 01.10.2015г. и не ограничена сроком действия) и <a href="https://spasibosberbank.ru/media/uploads/20litres_rules.pdf" style="color:#54a60d" target="_blank">Акции № 01/18</a> (с 09.02.2018г. по 09.03.2018г.) Организатора: ООО «Литрес», ОГРН: 1057748936398, 123022, Москва, ул. 2-я Звенигородская, д.13 стр.41. Amf.ru: Начисление Бонусов производится в рамках
+                              <a href="https://spasibosberbank.ru/media/uploads/pravila_bazovoy_aktsii_amf.pdf" style="color:#54a60d" target="_blank">Базовой Акции</a> (с 24.05.2016г. и не ограничена сроком действия) и <a href="https://spasibosberbank.ru/media/uploads/15amf_rules.pdf" style="color:#54a60d" target="_blank">Акции № 01/18</a> (с 09.02.2018г. по 09.03.2018г.) Организатора: ООО «АМФ Глобал», ОГРН: 1147746921750, 117042, г. Москва, ул. Академика Понтрягина, д.21, корп.1, помещение VII, комн. 1. Имеются ограничения. Посуда Центр: Начисление Бонусов производится в рамках <a href="https://spasibosberbank.ru/media/uploads/posuda_centr_rules_1.pdf" style="color:#54a60d" target="_blank">Акции №01/18</a> (с 01.01.2018г. по 31.03.2018г. включительно) и <a href="https://spasibosberbank.ru/media/uploads/5posuda_rules.pdf" style="color:#54a60d" target="_blank">Акции № 02/18</a> (с 09.02.2018г. по 09.03.2018г. включительно) в торговых точках Организаторов, за исключением
+                              интернет-магазина <a href="https://www.posudacenter.ru" style="color:#54a60d" target="_blank">www.posudacenter.ru</a>. Имеются ограничения. BAON: Начисление Бонусов производится в рамках <a href="https://spasibosberbank.ru/media/uploads/bazovaya_aktsiya_baon.pdf" style="color:#54a60d" target="_blank">Базовой Акции</a> (с 15.11.2014г. и не ограничена сроком действия) и <a href="https://spasibosberbank.ru/media/uploads/6baon_rules.pdf" style="color:#54a60d" target="_blank">Акции № 01/18</a> (с 09.02.2018г. по 09.03.2018г. включительно). Бургер Кинг: Начисление Бонусов производится в рамках <a href="https://spasibosberbank.ru/media/uploads/pravila_aktsii_bk.pdf" style="color:#54a60d" target="_blank">Базовой Акции</a> (с 18.04.2016г. и не ограничена сроком действия) и <a href="https://spasibosberbank.ru/media/uploads/15burger_rules.pdf" style="color:#54a60d" target="_blank">Акции № 01/18</a> (с 09.02.2018г. по 09.03.2018г. включительно). Имеются ограничения.
+                              РАМК: Начисление Бонусов производится в рамках <a href="https://spasibosberbank.ru/media/uploads/pravila_aktsii_russkiy_avtomotoklub.pdf" style="color:#54a60d" target="_blank">Базовой Акции</a> (с 16.12.2012г. и не ограничена сроком действия) и <a href="https://spasibosberbank.ru/media/uploads/20ramk_rules.pdf" style="color:#54a60d" target="_blank">Акции № 01/18</a> (с 09.02.2018г. по 09.03.2018г. включительно) Организатора: ООО «Русский АвтоМотоКлуб» ОГРН: 1097746333420, г. Москва, Алтуфьевское ш., д. 48, корп. 3. TEZ TOUR: Начисление Бонусов производится в рамках <a href="https://spasibosberbank.ru/media/uploads/rules_tt_new.pdf" style="color:#54a60d" target="_blank">Базовой Акции</a> (с 03.02.2017г. и не ограничена сроком действия) и <a href="https://spasibosberbank.ru/media/uploads/6teztour_rules.pdf" style="color:#54a60d" target="_blank">Акции № 01/18</a> (с 09.02.2018г. по 09.03.2018г. включительно) Организатора: OOO «Компания ТЕЗ ТУР», ОГРН:
+                              1027739288994, адрес местонахождения: 125009, Москва, Газетный пер., д. 17, стр. 3. AllTime: Начисление Бонусов производится в рамках <a href="https://spasibosberbank.ru/media/uploads/alltime_rules_other.pdf" style="color:#54a60d" target="_blank">Базовой Акции</a> (с 10.12.2016г. и не ограничена сроком действия), <a href="https://spasibosberbank.ru/media/uploads/alltime_rules_vip.pdf" style="color:#54a60d" target="_blank">Акции № 01/16</a> (с 10.12.2016г. и не ограничена сроком действия) и <a href="https://spasibosberbank.ru/media/uploads/8alltime_rules.pdf" style="color:#54a60d" target="_blank">Акции №01/18</a> (с 09.02.2018г. по 09.03.2018г. включительно) Организатора: Индивидуальный предприниматель Саванеев Вячеслав Владимирович, ОГРНИП 309501014900026, 141983, Московская область, г. Дубна, ул. Тверская, д.5, кв. 85. Имеются ограничения. Бронницкий Ювелир: Начисление Бонусов производится в рамках <a
+                              href="https://spasibosberbank.ru/media/uploads/06_pravila_bazovoy_aktsi_bronitskiy_yuvelir.pdf" style="color:#54a60d" target="_blank">Базовой Акции</a> (с 01.05.2016г. и не ограничена сроком действия) и <a href="https://spasibosberbank.ru/media/uploads/7bronnicky_rules.pdf" style="color:#54a60d" target="_blank">Акции № 01/18</a> (с 09.02.2018г. по 09.03.2018г. включительно).<br />
+
+                               Организатор Программы – ПАО Сбербанк (Генеральная лицензия Банка России на осуществление банковских операций № 1481 от 11.08.2015). <a href="http://spasibosberbank.ru/disclaimer/" style="color:#54a60d" target="_blank">Правила Программы</a>, информация о правилах Начисления и Списания Бонусов, об ограничениях на сайте: <a href="http://www.spasibosberbank.ru/" style="color:#54a60d" target="_blank">www.spasibosberbank.ru</a>. Программа действует с 12.11.2011 г. и не ограничена сроком. Термины с заглавной буквы употребляются в значении, которое определено в Правилах Программы. Сведения действительны на 20.02.2018г. Не является публичной офертой.<br />
+
+                               Мобильное приложение «Спасибо от Сбербанка», доступно для установки на мобильные устройства, использующие операционную систему «iOS» и «Android» Участников Программы. Для использования необходим доступ в сеть Интернет. Запрещено для детей. Термины с заглавной буквы употребляются в значении, определенном в Правилах Программы. Сведения действительны на 04.03.2018 г. и не являются публичной офертой.
+                            </div>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="20" style="line-height:5px;">
+                      <img src="http://dm.spasibosb.ru/images/main/spacer.gif" height="20" border="0" style="display: block;" />
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <img src="https://www.google-analytics.com/collect?v=1&amp;tid=UA-51508006-3&amp;t=event&amp;cid=342334410&amp;cn=gender_0218&amp;cs=email_spasibo&amp;ec=email&amp;cm=email&amp;el=gender_0218&amp;ea=open" width="1" height="1" />
+  </body>
+</html>
+

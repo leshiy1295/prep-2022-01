@@ -1,0 +1,2 @@
+KEYS="btests/emails/overly-fine-fowl.eml"
+OUT="Travis CI <travis-ci@delighted.com>|Bryce Deleon <zhumphrey@avila-white.biz>, Kristine Tran <mark76@hotmail.com>, Jessica Lawson <melissamills@hotmail.com>, Meredith Beck <gjackson@cox.org>, Paige Romero <owilliams@dawson-rodriguez.com>, Daniel Obrien <jasonwalters@hotmail.com>, Barbara Little <perkinswendy@yahoo.com>, Nicholas Stokes <kroman@yahoo.com>, Eric Munoz <erin71@davis-castro.com>|Mon, 9 Oct 2017 14:05:08 +0000|2"

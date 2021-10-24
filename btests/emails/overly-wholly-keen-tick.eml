@@ -1,0 +1,1971 @@
+Received: from mxfront1o.mail.yandex.net ([127.0.0.1])
+	by mxfront1o.mail.yandex.net with LMTP id SGCtKxhA
+	for <leejeffrey@gmail.com>; Tue, 24 Oct 2017 15:29:04 +0300
+Received: from mail40.ml.mailersend.com (mail40.ml.mailersend.com [195.12.186.175])
+	by mxfront1o.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id opXoPMiB7a-T2a4oRRh;
+	Tue, 24 Oct 2017 15:29:02 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+Return-Path: bounce-i1g5-744739278117930673@ml.mailersend.com
+X-Yandex-Front: mxfront1o.mail.yandex.net
+X-Yandex-TimeMark: 1508848142
+Authentication-Results: mxfront1o.mail.yandex.net; spf=pass (mxfront1o.mail.yandex.net: domain of ml.mailersend.com designates 195.12.186.175 as permitted sender, rule=[ip4:195.12.186.0/24]) smtp.mail=bounce-i1g5-744739278117930673@ml.mailersend.com; dkim=pass header.i=@marvelapp.com
+X-Yandex-Spam: 2
+Received: from (127.0.0.1)
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(Client CN "ml.mailersend.com", Issuer "ml.mailersend.com" (verified OK))
+	by mail40.ml.mailersend.com (Postfix) with ESMTPS id 0DE3F6C05FE39
+	for <leejeffrey@gmail.com>; Tue, 24 Oct 2017 15:29:41 +0300 (EEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=marvelapp.com; s=ml;
+	t=1508848181; bh=nxkCKJWlyf8Z3zya106CG5Eyp4TlT83tua3A2Ivs2mc=;
+	h=Date:To:From:Subject:Sender:From:To:Subject:Date;
+	b=JmBBppkyzcZ/VhIpRiYYouo1iCvsoinXl/Nsd4vdoqwR4Y+cGfac/F2D5fC14PYmz
+	 +cEkU8HyrZHLgEVdvXlH5mYv2E8YYhVetNwsu40rlTz3sTkSaGyBVSJW0lmujGQe8e
+	 K3d/Kb1FBK9aaREVJzdcs1K7dp1e090rOxOHSwWQ=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ml.mailersend.com;
+	s=ml; t=1508848181; bh=nxkCKJWlyf8Z3zya106CG5Eyp4TlT83tua3A2Ivs2mc=;
+	h=Date:To:From:Subject:Sender:From:To:Subject:Date;
+	b=YVMS5WDsRRCDoSM876TKMhKYHj2IEJCQ2P+56mfYwgbiMoON08Pz/7m7oQseVWD5g
+	 QR34tPoSrrwnzBfrRDWX5QmPjn6uOKC5PQ3PAf4dvE/1xIi3dwUodFbqnJK67bZOyC
+	 ZkxKUPnmGdPXsTkhbZnYq1qRu7C2w3Y3pHAisYyQ=
+Received: from (127.0.0.1)
+	by mail40.ml.mailersend.com (Postfix) with ESMTP id C93CB6C0B7E3F
+	for <leejeffrey@gmail.com>; Tue, 24 Oct 2017 15:04:38 +0300 (EEST)
+Date: Tue, 24 Oct 2017 12:04:00 +0000
+To: Jasmine Bryant <thomasfuller@martin.com>, Erica Lawson <meghan16@gmail.com>
+From: Marvel <murat@marvelapp.com>
+Reply-To: Marvel <murat@marvelapp.com>
+Subject: =?utf-8?Q?A_Crash_Course_in_UI_Design_=F0=9F=92=A5?=
+Message-ID: <1f5dcf09a7bfd532c6806be141843cad@744739278117930673.i1g5.715f504121f709e82ec8228656ee9078.ml.mailersend.com>
+X-Mailer-SubscriberID: 744739278117930673;i1g5;715f504121f709e82ec8228656ee9078
+X-Mailru-Msgtype: 715f504121f709e82ec8228656ee9078
+Precedence: bulk
+Feedback-ID: c2m9z7:715f504121f709e82ec8228656ee9078:1840071921:MailerLite
+List-Unsubscribe: <mailto:unsubscribe-744739278117930673-i1g5-715f504121f709e82ec8228656ee9078@ml.mailersend.com?body=unsubscribe>, <http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3OTQyOCZkPWYzcDBtMnk=.qNrPGpG7IZg9KrrEJyPraVvKZWmbZjOPH5XFU7RAlto>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_1f5dcf09a7bfd532c6806be141843cad"
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+
+--b1_1f5dcf09a7bfd532c6806be141843cad
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+You have received a newsletter from Marvel.
+
+However, your email software can't display HTML emails. You can view the =
+newsletter by clicking here:
+
+http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc=
+1JmU9NTIzNCZiPTEzMjQ3OTQyNCZkPXY4ZDBrMW4=3D._O4n4SN-n9ykFVJ5oCaslMwl6rj_s=
+O5DRuKPIdfnPPw
+
+
+
+You're receiving this newsletter because you have shown interest in Marve=
+l.
+Not interested anymore? Click here to unsubscribe:
+http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc=
+1JmU9NTIzNCZiPTEzMjQ3OTQzMCZkPWg2azJwOXQ=3D.quWhp2BS2hOpRIVyg0HLmDriOQ6xU=
+Lwhc5snosfuwEk
+
+
+--b1_1f5dcf09a7bfd532c6806be141843cad
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-micro=
+soft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ =20
+  <head>
+    <!--[if gte mso 9]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+    <![endif]-->
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width" initial-scal=
+e=3D"1.0" user-scalable=3D"yes">
+    <meta name=3D"format-detection" content=3D"address=3Dno">
+    <meta name=3D"format-detection" content=3D"telephone=3Dno">
+    <meta name=3D"format-detection" content=3D"email=3Dno">
+    <style type=3D"text/css">
+      @font-face {font-family: "FaktProSoft";    src: url("https://marvel=
+app.com/static/assets/webfonts/fakt-soft/FaktSoftPro-Blond.eot?#iefix") f=
+ormat("embedded-opentype"), url("https://marvelapp.com/static/assets/webf=
+onts/fakt-soft/FaktSoftPro-Blond.woff") format("woff"), url("https://marv=
+elapp.com/static/assets/webfonts/fakt-soft/FaktSoftPro-Blond.ttf") format=
+("truetype");    font-weight: 300;    font-style: normal;    mso-font-alt=
+: "Arial";}
+      @font-face {font-family: "FaktProSoft";    src: url("https://marvel=
+app.com/static/assets/webfonts/fakt-soft/FaktSoftPro-Normal.eot?#iefix") =
+format("embedded-opentype"), url("https://marvelapp.com/static/assets/web=
+fonts/fakt-soft/FaktSoftPro-Normal.woff") format("woff"), url("https://ma=
+rvelapp.com/static/assets/webfonts/fakt-soft/FaktSoftPro-Normal.ttf") for=
+mat("truetype");    font-weight: 400;    font-style: normal;    mso-font-=
+alt: "Arial";}
+      @font-face {font-family: "FaktProSoft";    src: url("https://marvel=
+app.com/static/assets/webfonts/fakt-soft/FaktSoftPro-Medium.eot?#iefix") =
+format("embedded-opentype"), url("https://marvelapp.com/static/assets/web=
+fonts/fakt-soft/FaktSoftPro-Medium.woff") format("woff"), url("https://ma=
+rvelapp.com/static/assets/webfonts/fakt-soft/FaktSoftPro-Medium.ttf") for=
+mat("truetype");    font-weight: 500;    font-style: normal;    mso-font-=
+alt: "Arial";}
+      .ReadMsgBody { width: 100%; background-color: #EFF2F7; }
+      .ExternalClass { width: 100%; background-color: #EFF2F7; }
+      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalCla=
+ss font, .ExternalClass td, .ExternalClass div {
+      line-height:110%;
+      }
+      .ExternalClass * {
+      line-height:110%;
+      }
+      body {
+      margin: 0;
+      padding: 0;
+      }
+      body, table, td, p, a, li {
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+      }
+      table td {
+      border-collapse:collapse;
+      }
+      table {
+      border-spacing:0;
+      border-collapse:collapse;
+      mso-table-lspace:0pt;
+      mso-table-rspace:0pt;
+      }
+      table, td {
+      mso-table-lspace:0pt;
+      mso-table-rspace:0pt;
+      }
+      @media screen {
+      body {
+      font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, 'Lu=
+cida Grande', sans-serif!important;
+      }
+      }
+      @media only screen and (max-width: 600px) {
+      body {    background: none!important; padding:0px!important; margin=
+:0px!important;     }
+      td[class=3D"margin_bottom"]   { margin: 0px auto 20px!important;  f=
+loat: none!important;    }
+      td[class=3D"small_margin_bottom"]   { margin: 0px auto 10px!importa=
+nt;  float: none!important;    }
+      td[class=3D"frame"] { padding:0px 20px !important; min-width: 0px !=
+important; height: auto!important;  }
+      td[class=3D"small_frame"] { padding:0px 10px !important; min-width:=
+ 0px !important; height: auto!important;  }
+      td[class=3D"frame_big"]  { padding: 20px!important; }
+      td[class=3D"frame devicewidth"] {   padding:0px 20px !important; mi=
+n-width: 0px !important; width:100% !important;    }
+      table[class=3D"no_float"] { float: none!important; margin: 0 auto!i=
+mportant;  min-width: 0px !important;  }
+      table[class=3D"no_float margin_bottom"] { float: none!important; ma=
+rgin: 0 auto 20px!important; min-width: 0px !important;  }
+      table[class=3D"no_float small_margin_bottom"] { float: none!importa=
+nt; margin: 0 auto 10px!important; min-width: 0px !important;  }
+      td[class=3D"none"], span[class=3D"none"], table[class=3D"none"] { d=
+isplay:none !important; }
+      td[class=3D"textCenter"] {    text-align:center!important;  }
+      table[class=3D"devicewidth"],td[class=3D"devicewidth"] { min-width:=
+1% !important; width:100% !important;float:none!important; margin: 0 auto=
+!important; }
+      table[class=3D"devicewidth margin_bottom"]  { min-width:1% !importa=
+nt; width:100% !important;float:none!important; margin: 0 auto 20px!impor=
+tant; }
+      table[class=3D"devicewidth small_margin_bottom"]  { min-width:1% !i=
+mportant; width:100% !important;float:none!important; margin: 0 auto 10px=
+!important; }
+      td[class=3D"devicewidthimage"], td[class=3D"fullimage"] { min-width=
+:1% !important; width: 100%!important; margin: 0 auto!important;    }
+      td[class=3D"devicewidth"] img, td[class=3D"devicewidthimage"] img {=
+ margin: 0 auto!important;   }
+      td[class=3D"fullimage"] img   {   width:100%!important; height: aut=
+o!important; margin: 0 auto!important; }
+      td[class=3D"space"] { height: 20px !important;  }
+      td[class=3D"small_space"] { height: 10px !important;  }
+      td[class=3D"height_auto"] { height: auto !important;  }
+      td[class=3D"button"] a {  width: 100%!important;  }
+      }
+      @media only screen and (max-width: 340px) {
+      }
+    </style>
+    <!--[if mso]>
+      <style type=3D"text/css">
+        body { font-family: Arial, Helvetica, sans-serif !important; }
+        td { font-family: Arial, Helvetica, sans-serif !important; }
+        body, .bodyText, bodyTitle { font-family: Arial, Helvetica, sans-=
+serif !important ; }
+        body *, .bodyText *, bodyTitle * { font-family: Arial, Helvetica,=
+ sans-serif !important; }
+        .bodyText a, bodyTitle a { font-family: Arial, Helvetica, sans-se=
+rif !important; }
+        .bodyText a span, bodyTitle a span { font-family: Arial, Helvetic=
+a, sans-serif !important; }
+        .bodyText span, bodyTitle span { font-family: Arial, Helvetica, s=
+ans-serif !important; }
+        .bodyText p { font-family: Arial, Helvetica, sans-serif !importan=
+t; }
+        .button { font-family: Arial, Helvetica, sans-serif !important ; =
+}
+      </style>
+    <![endif]-->
+    <title>A Crash Course in UI Design =F0=9F=92=A5</title>
+    <meta name=3D"robots" content=3D"noindex, nofollow">
+  </head>
+ =20
+  <body style=3D"background-color: #EFF2F7; padding: 0; margin: 0; width:=
+ 100%;" bgcolor=3D"#EFF2F7">
+    <style>
+      div.OutlookMessageHeader, table.moz-email-headers-table, blockquote=
+ #_t, #MailContainerBody #_t {background-image:url("http://track.ml.maile=
+rsend.com/link/f/cnM9NzQ0NzM5Mjc4MTE3OTMwNjczJmNvZGU9aTFnNSZyPTg0NTY3MDA=3D=
+.a0kvKVfwj_8v2H7_oZ1_1qWCGP_KBhFuLxVhwqk8Y4Q")}
+    </style>
+    <img src=3D"http://track.ml.mailersend.com/link/o/YT03NDQ3MzkyNzgxMTc=
+5MzA2NzMmYz1pMWc1JmU9NTIzNA=3D=3D.D9LD6XhIhG9yR9BoO_DXiHDadQH9VY0e2Skqpgp=
+K4sk" class=3D"open_img" style=3D"display:block; height:0px; width:0px; m=
+ax-width:0px; max-height:0px; overflow:hidden;" width=3D"1" height=3D"1" =
+border=3D"0" alt=3D"" />
+    <!--[if !mso]>
+      <!-- -->
+      <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" bgcolor=3D"#EFF2F7">
+        <tr>
+          <td align=3D"center" class=3D"frame">
+          <!--<![endif]-->
+          <span class=3D"none" style=3D"white-space:nowrap; font:15px cou=
+rier; line-height:0;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp;</span>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"none" style=3D"width: 600px; min-width: =
+600px;">
+            <tr>
+              <td class=3D"bodyTitle" height=3D"30" align=3D"left" valign=
+=3D"middle" style=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helvet=
+ica, Arial, 'Lucida Grande', sans-serif; font-size: 12px; line-height: 18=
+px; color: #8492a6; padding: 0px 0px;">Read the latest version of the Mar=
+vel newsletter</td>              <td class=3D"" id=3D"content-1" height=3D=
+"30" align=3D"right" style=3D"font-family: 'FaktProSoft', 'Helvetica Neue=
+', Helvetica, Arial, 'Lucida Grande', sans-serif; line-height:18px; font-=
+size:12px;color:#8492a6;">Looking weird?
+                <a href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3=
+MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODM5OCZkPXMzdjN4N2w=3D.PE=
+xSG7yFyFm98uP1di6qQ9_hmu5VX26RrE766Lcgdcs" data-link-id=3D"132478398" sty=
+le=3D"color: #8492a6;" target=3D"_blank"><span style=3D"color: #8492a6;">=
+Click here.</span></a>
+              </td></tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"40" class=3D"small_space"></td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td align=3D"center" class=3D"logo">
+                <a href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3=
+MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQyMiZkPWoyZDRsOW0=3D.0H=
+Qju1Xi2LrJbN4MrK-qt0daddU9tnujA7Tf9xKo9Kw" data-link-id=3D"132478422" tar=
+get=3D"_blank">
+<img src=3D"https://bucket.mlcdn.com/a/271/271421/templates/0/881/881bc36=
+30ac5b72ddda7ed0bcb44b30d3207a94b.png" width=3D"70" height=3D"30" alt=3D"=
+Marvel Prototyping" border=3D"0" style=3D"display: block;">
+</a>
+              </td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"40" class=3D"small_space"></td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"20" class=3D"small_space"></td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td align=3D"center" class=3D"fullimage">
+                <img src=3D"https://bucket.mlcdn.com/a/271/271421/images/=
+c861d05a7bae1bd1393f959b292adcb12ba115e0.png/23df3e23489420b47d02fff9c98b=
+6cc4bd28d283.png" width=3D"500" alt=3D"from-the-marvel-blog" border=3D"0"=
+ style=3D"display: block;">
+              </td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"40" class=3D"space"></td>
+            </tr>
+          </table>
+          <selector>
+            <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspaci=
+ng=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; mi=
+n-width: 600px; border-radius: 6px 6px 6px 6px;">
+              <tr>
+                <td align=3D"center" style=3D"border-radius: 6px 6px 0px =
+0px;" class=3D"fullimage">
+                  <a href=3D"http://track.ml.mailersend.com/link/c/YT03ND=
+Q3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQzMCZkPXc5cjh5MHA=3D.=
+Ak6LMQFGCD0rX9msOVtfL9nPVBViKH3-np4T7nasyrg" data-link-id=3D"132478430" t=
+arget=3D"_blank" border=3D"0">
+<img src=3D"https://bucket.mlcdn.com/a/271/271421/images/b3fae671e58554c8=
+e84653ca1110a9bbee33740e.png/799436f7262d7b10b04c1f48757d43ac3267994f.png=
+" width=3D"600" alt=3D"" border=3D"0" style=3D"border-radius: 6px 6px 0px=
+ 0px; display: block;">
+</a>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff"></t=
+d>
+              </tr>
+              <tr>
+                <td align=3D"center" class=3D"frame" style=3D"padding: 0p=
+x 40px;" bgcolor=3D"#ffffff">
+                  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ align=3D"center" width=3D"100%">
+                    <tr>
+                      <td align=3D"center" class=3D"bodyTitle" style=3D"f=
+ont-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, 'Lucida Gr=
+ande', sans-serif; font-size: 24px; line-height: 34px; color: #3c4858; te=
+xt-align: center; font-weight: normal; font-style: normal; text-decoratio=
+n: none;">
+                        <a style=3D"color: #3c4858; text-decoration: none=
+;" href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2=
+NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQzNiZkPW8wZTJqM2E=3D.fWKg5kCqRYKTB8V5zO=
+zT7zxdMp2CRoP6LdbNT1_XOWE" data-link-id=3D"132478436" border=3D"0" target=
+=3D"_blank"><span style=3D"color: #3c4858;">A Crash Course in UI Design</=
+span></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center" class=3D"bodyText" id=3D"conte=
+nt-6" style=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, A=
+rial, 'Lucida Grande', sans-serif; color: #8492a6; font-size: 18px; line-=
+height: 28px; font-weight: 300; text-align: center;">
+                        <div class=3D"text">
+                          <p style=3D"margin-top: 0px; margin-bottom: 10p=
+x;">If you=E2=80=99ve done any kind of research about software design, yo=
+u=E2=80=99ve probably heard of the terms =E2=80=9CUI=E2=80=9D and =E2=80=9C=
+UX=E2=80=9D. But what separates UI from UX? <a href=3D"http://track.ml.ma=
+ilersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzM=
+jQ3ODQzOCZkPXg2dzl3NnQ=3D.-3Fr0NOWPtqLVpMBxk8SMvkSy6v-q3Y8Trq_gQU-T-k" da=
+ta-link-id=3D"132478438" target=3D"_blank" style=3D"color: #20B6FF;">Jeff=
+</a> shares all.</p>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center">
+                        <table cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth">
+                          <tr>
+                            <td height=3D"50" align=3D"center" class=3D"b=
+utton" valign=3D"middle">
+                              <!--[if mso]>
+                                <v:roundrect xmlns:v=3D"urn:schemas-micro=
+soft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"h=
+ttp://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1=
+JmU9NTIzNCZiPTEzMjQ3ODQ0MCZkPXAyYTd5NnA=3D.-T6PNWyCCRKhgp3wyg8EUVLsqDCnCz=
+o5e5FAOE-am10" data-link-id=3D"132478440" style=3D"font-family: Arial, He=
+lvetica, sans-serif; height:50px;v-text-anchor:middle;width:156px;" arcsi=
+ze=3D"8%" strokecolor=3D"#13ce66" fillcolor=3D"#13ce66">
+                                  <w:anchorlock/>
+                                  <center style=3D"color:#ffffff;font-fam=
+ily:sans-serif;font-size:16px;font-weight:normal;">Read the post</center>
+                                </v:roundrect>
+                              <![endif]-->
+                              <a href=3D"http://track.ml.mailersend.com/l=
+ink/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ0MiZkPWE=
+xeTVnNWQ=3D.Qkdno3xWvaVIrx4wAx8PeVb-I3Wv-9EmRn9wpw-3Guw" data-link-id=3D"=
+132478442" class=3D"bodyTitle" style=3D"font-size: 16px; background-color=
+: #13ce66; border-radius: 4px; color: #ffffff; display: inline-block; fon=
+t-family: sans-serif; border: 1px solid #13ce66; font-weight: normal; lin=
+e-height: 48px; text-align: center; text-decoration: none; width: 156px; =
+mso-hide: all;" target=3D"_blank">
+<span style=3D"color: #ffffff;">Read the post</span>
+</a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff" sty=
+le=3D"border-radius: 0px 0px 6px 6px;"></td>
+              </tr>
+            </table>
+          </selector>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"20"></td>
+            </tr>
+          </table>
+          <selector>
+            <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspaci=
+ng=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; mi=
+n-width: 600px; border-radius: 6px 6px 6px 6px;">
+              <tr>
+                <td align=3D"center" style=3D"border-radius: 6px 6px 0px =
+0px;" class=3D"fullimage">
+                  <a href=3D"http://track.ml.mailersend.com/link/c/YT03ND=
+Q3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ0NCZkPXowZjNnN2U=3D.=
+aZaEUc1ah9-0EYkVzEmoWK6gmPAk8qy20Cchu-GUTiE" data-link-id=3D"132478444" t=
+arget=3D"_blank" border=3D"0">
+<img src=3D"https://bucket.mlcdn.com/a/271/271421/images/3b3ea6eedc686e52=
+8fcab6e10f07f110d333e639.png/d1a515eef52286da8369a19c0e227ff5b61b485b.png=
+" width=3D"600" alt=3D"" border=3D"0" style=3D"border-radius: 6px 6px 0px=
+ 0px; display: block;">
+</a>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff"></t=
+d>
+              </tr>
+              <tr>
+                <td align=3D"center" class=3D"frame" style=3D"padding: 0p=
+x 40px;" bgcolor=3D"#ffffff">
+                  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ align=3D"center" width=3D"100%">
+                    <tr>
+                      <td align=3D"center" class=3D"bodyTitle" style=3D"f=
+ont-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, 'Lucida Gr=
+ande', sans-serif; font-size: 24px; line-height: 34px; color: #3c4858; te=
+xt-align: center; font-weight: normal; font-style: normal; text-decoratio=
+n: none;">
+                        <a style=3D"color: #3c4858; text-decoration: none=
+;" href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2=
+NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ0NiZkPXI3ZTZjN28=3D.4Ui_Lmdyg8_eFUdzBU=
+NyM3XnHQ3219Oym8vnjEkwF3s" data-link-id=3D"132478446" border=3D"0" target=
+=3D"_blank"><span style=3D"color: #3c4858;">Principles for Developing an =
+Innovator=E2=80=99s Mindset</span></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center" class=3D"bodyText" id=3D"conte=
+nt-8" style=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, A=
+rial, 'Lucida Grande', sans-serif; color: #8492a6; font-size: 18px; line-=
+height: 28px; font-weight: 300; text-align: center;">
+                        <div class=3D"text">
+                          <p style=3D"margin-top: 0px; margin-bottom: 10p=
+x;">"If we don=E2=80=99t innovate, our business will become obsolete even=
+tually." <a href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzg=
+xMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ0OCZkPW44czJnOHI=3D.rfswUrHuL=
+-DedRsZQ92xZryLuFwJvvLgdIuTe5TiJNo" data-link-id=3D"132478448" target=3D"=
+_blank" style=3D"color: #20B6FF;">Nikkel</a> shares=C2=A07 principles to =
+free our minds from perfect execution fallacy.</p>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center">
+                        <table cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth">
+                          <tr>
+                            <td height=3D"50" align=3D"center" class=3D"b=
+utton" valign=3D"middle">
+                              <!--[if mso]>
+                                <v:roundrect xmlns:v=3D"urn:schemas-micro=
+soft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"h=
+ttp://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1=
+JmU9NTIzNCZiPTEzMjQ3ODQ1MCZkPWM0bzNiMXg=3D.qFd3IfGn847o6ePcAKAldj-rmtq4Km=
+JTFAu0PvmqrDw" data-link-id=3D"132478450" style=3D"font-family: Arial, He=
+lvetica, sans-serif; height:50px;v-text-anchor:middle;width:156px;" arcsi=
+ze=3D"8%" strokecolor=3D"#13ce66" fillcolor=3D"#13ce66">
+                                  <w:anchorlock/>
+                                  <center style=3D"color:#ffffff;font-fam=
+ily:sans-serif;font-size:16px;font-weight:normal;">Read the post</center>
+                                </v:roundrect>
+                              <![endif]-->
+                              <a href=3D"http://track.ml.mailersend.com/l=
+ink/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ1MiZkPWg=
+xcTZqNGM=3D.P9ewoHcvcWNSFBo-aux-b5txg_0gyewSudWBgqWeiIo" data-link-id=3D"=
+132478452" class=3D"bodyTitle" style=3D"font-size: 16px; background-color=
+: #13ce66; border-radius: 4px; color: #ffffff; display: inline-block; fon=
+t-family: sans-serif; border: 1px solid #13ce66; font-weight: normal; lin=
+e-height: 48px; text-align: center; text-decoration: none; width: 156px; =
+mso-hide: all;" target=3D"_blank">
+<span style=3D"color: #ffffff;">Read the post</span>
+</a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff" sty=
+le=3D"border-radius: 0px 0px 6px 6px;"></td>
+              </tr>
+            </table>
+          </selector>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"20"></td>
+            </tr>
+          </table>
+          <selector>
+            <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspaci=
+ng=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; mi=
+n-width: 600px; border-radius: 6px 6px 6px 6px;">
+              <tr>
+                <td align=3D"center" style=3D"border-radius: 6px 6px 0px =
+0px;" class=3D"fullimage">
+                  <a href=3D"http://track.ml.mailersend.com/link/c/YT03ND=
+Q3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ1NCZkPXUyaDBuNG4=3D.=
+bc98Q0Pkt45waMNSuQ-0bK0T4JFHUFE86X11taF7Dqs" data-link-id=3D"132478454" t=
+arget=3D"_blank" border=3D"0">
+<img src=3D"https://bucket.mlcdn.com/a/271/271421/images/538c76df56f1afa8=
+2c5e9e4b9d3768d22e8af9e0.png/f40870527e3a2c85b874847468c700d862db3869.png=
+" width=3D"600" alt=3D"" border=3D"0" style=3D"border-radius: 6px 6px 0px=
+ 0px; display: block;">
+</a>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff"></t=
+d>
+              </tr>
+              <tr>
+                <td align=3D"center" class=3D"frame" style=3D"padding: 0p=
+x 40px;" bgcolor=3D"#ffffff">
+                  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ align=3D"center" width=3D"100%">
+                    <tr>
+                      <td align=3D"center" class=3D"bodyTitle" style=3D"f=
+ont-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, 'Lucida Gr=
+ande', sans-serif; font-size: 24px; line-height: 34px; color: #3c4858; te=
+xt-align: center; font-weight: normal; font-style: normal; text-decoratio=
+n: none;">
+                        <a style=3D"color: #3c4858; text-decoration: none=
+;" href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2=
+NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ1NiZkPWI0eTZxMHA=3D.Nn4nz7MTxCf1Jch_3j=
+8hzUAwgZ8JM9ShFCYcWB6Xq1c" data-link-id=3D"132478456" border=3D"0" target=
+=3D"_blank"><span style=3D"color: #3c4858;">Making the Case for Design Sp=
+rints</span></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center" class=3D"bodyText" id=3D"conte=
+nt-10" style=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, =
+Arial, 'Lucida Grande', sans-serif; color: #8492a6; font-size: 18px; line=
+-height: 28px; font-weight: 300; text-align: center;">
+                        <div class=3D"text">
+                          <p style=3D"margin-top: 0px; margin-bottom: 10p=
+x;"><a href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5=
+MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ1OCZkPWgyejFoMHg=3D.JDgAx-5_vgLLJq=
+UqShKSmG3VhEU3ovM2uki3z7fwODE" data-link-id=3D"132478458" target=3D"_blan=
+k" style=3D"color: #20B6FF;">Tin</a> provides fantastic resources to help=
+ introduce, frame, and pitch Design Sprints=C2=A0=E2=80=94 both to intern=
+al team members and to prospect new clients.</p>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center">
+                        <table cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth">
+                          <tr>
+                            <td height=3D"50" align=3D"center" class=3D"b=
+utton" valign=3D"middle">
+                              <!--[if mso]>
+                                <v:roundrect xmlns:v=3D"urn:schemas-micro=
+soft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"h=
+ttp://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1=
+JmU9NTIzNCZiPTEzMjQ3ODQ2MCZkPWY5eDJlN3Q=3D.2DVp_ur2QxOO0BmX_sbO3w3_NFA922=
+z-lT-KW7JBreE" data-link-id=3D"132478460" style=3D"font-family: Arial, He=
+lvetica, sans-serif; height:50px;v-text-anchor:middle;width:156px;" arcsi=
+ze=3D"8%" strokecolor=3D"#13ce66" fillcolor=3D"#13ce66">
+                                  <w:anchorlock/>
+                                  <center style=3D"color:#ffffff;font-fam=
+ily:sans-serif;font-size:16px;font-weight:normal;">Read the post</center>
+                                </v:roundrect>
+                              <![endif]-->
+                              <a href=3D"http://track.ml.mailersend.com/l=
+ink/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ2MiZkPXY=
+4dDFvOXE=3D.0EZ0Rs-5YA6Fi4J5nITP93v5gVyOnfkqQJn2av6irV0" data-link-id=3D"=
+132478462" class=3D"bodyTitle" style=3D"font-size: 16px; background-color=
+: #13ce66; border-radius: 4px; color: #ffffff; display: inline-block; fon=
+t-family: sans-serif; border: 1px solid #13ce66; font-weight: normal; lin=
+e-height: 48px; text-align: center; text-decoration: none; width: 156px; =
+mso-hide: all;" target=3D"_blank">
+<span style=3D"color: #ffffff;">Read the post</span>
+</a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff" sty=
+le=3D"border-radius: 0px 0px 6px 6px;"></td>
+              </tr>
+            </table>
+          </selector>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"20"></td>
+            </tr>
+          </table>
+          <selector>
+            <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspaci=
+ng=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; mi=
+n-width: 600px; border-radius: 6px 6px 6px 6px;">
+              <tr>
+                <td align=3D"center" style=3D"border-radius: 6px 6px 0px =
+0px;" class=3D"fullimage">
+                  <a href=3D"http://track.ml.mailersend.com/link/c/YT03ND=
+Q3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ2NCZkPWQ3cjdwMnM=3D.=
+Usc-yd4K-iO3fhrIk-DqDXZdEAnQH3ajFVKAA4-Pxl4" data-link-id=3D"132478464" t=
+arget=3D"_blank" border=3D"0">
+<img src=3D"https://bucket.mlcdn.com/a/271/271421/images/2d45fbf9cba87769=
+7cbe84149ac6f069d2a1c4fb.png/e16f79a0d150ef360bda0bb6ed67bc603110c9df.png=
+" width=3D"600" alt=3D"" border=3D"0" style=3D"border-radius: 6px 6px 0px=
+ 0px; display: block;">
+</a>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff"></t=
+d>
+              </tr>
+              <tr>
+                <td align=3D"center" class=3D"frame" style=3D"padding: 0p=
+x 40px;" bgcolor=3D"#ffffff">
+                  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ align=3D"center" width=3D"100%">
+                    <tr>
+                      <td align=3D"center" class=3D"bodyTitle" style=3D"f=
+ont-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, 'Lucida Gr=
+ande', sans-serif; font-size: 24px; line-height: 34px; color: #3c4858; te=
+xt-align: center; font-weight: normal; font-style: normal; text-decoratio=
+n: none;">
+                        <a style=3D"color: #3c4858; text-decoration: none=
+;" href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2=
+NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ2NiZkPXA2aDd2MWY=3D.S5kskIVIiD5SFv7qLY=
+PrmpeTC1e3XVrDe3nnE_T6nkE" data-link-id=3D"132478466" border=3D"0" target=
+=3D"_blank"><span style=3D"color: #3c4858;">Wireframe, Prototype and Hand=
+off for Enterprise</span></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center" class=3D"bodyText" id=3D"conte=
+nt-12" style=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, =
+Arial, 'Lucida Grande', sans-serif; color: #8492a6; font-size: 18px; line=
+-height: 28px; font-weight: 300; text-align: center;">
+                        <div class=3D"text">
+                          <p style=3D"margin-top: 0px; margin-bottom: 10p=
+x;">From design to development, join thousands of companies using Marvel =
+and make design your competitive edge.</p>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center">
+                        <table cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth">
+                          <tr>
+                            <td height=3D"50" align=3D"center" class=3D"b=
+utton" valign=3D"middle">
+                              <!--[if mso]>
+                                <v:roundrect xmlns:v=3D"urn:schemas-micro=
+soft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"h=
+ttp://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1=
+JmU9NTIzNCZiPTEzMjQ3ODQ2OCZkPWE4eDdtMGM=3D.IqIUTvsiMP_AuCG6oXJchMNDSti6iw=
+u58jllULuj0nQ" data-link-id=3D"132478468" style=3D"font-family: Arial, He=
+lvetica, sans-serif; height:50px;v-text-anchor:middle;width:132px;" arcsi=
+ze=3D"8%" strokecolor=3D"#13ce66" fillcolor=3D"#13ce66">
+                                  <w:anchorlock/>
+                                  <center style=3D"color:#ffffff;font-fam=
+ily:sans-serif;font-size:16px;font-weight:normal;">Get Started</center>
+                                </v:roundrect>
+                              <![endif]-->
+                              <a href=3D"http://track.ml.mailersend.com/l=
+ink/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ3MCZkPWk=
+zajFxMmk=3D.3Kc6bqUxkoonQxHFIl8wICdUR4mUAiIFnjSeIeCyeew" data-link-id=3D"=
+132478470" class=3D"bodyTitle" style=3D"font-size: 16px; background-color=
+: #13ce66; border-radius: 4px; color: #ffffff; display: inline-block; fon=
+t-family: sans-serif; border: 1px solid #13ce66; font-weight: normal; lin=
+e-height: 48px; text-align: center; text-decoration: none; width: 132px; =
+mso-hide: all;" target=3D"_blank">
+<span style=3D"color: #ffffff;">Get Started</span>
+</a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff" sty=
+le=3D"border-radius: 0px 0px 6px 6px;"></td>
+              </tr>
+            </table>
+          </selector>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"20"></td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"20" class=3D"small_space"></td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td align=3D"center" class=3D"fullimage">
+                <img src=3D"https://bucket.mlcdn.com/a/271/271421/templat=
+es/0/881/68b5abea1d4b6d5fb8dcf856e48aba3736a9542c.png" width=3D"500" alt=3D=
+"" border=3D"0" style=3D"display: block;">
+              </td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"40" class=3D"space"></td>
+            </tr>
+          </table>
+          <selector>
+            <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspaci=
+ng=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; mi=
+n-width: 600px; border-radius: 6px 6px 6px 6px;">
+              <tr>
+                <td align=3D"center" style=3D"border-radius: 6px 6px 0px =
+0px;" class=3D"fullimage">
+                  <a href=3D"http://track.ml.mailersend.com/link/c/YT03ND=
+Q3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ3MiZkPWc2ZTBrOWc=3D.=
+ouM_n1ACpURflW6SRNoLkyB6p5ez_1C3KnuHFJdVo7w" data-link-id=3D"132478472" t=
+arget=3D"_blank" border=3D"0">
+<img src=3D"https://bucket.mlcdn.com/a/271/271421/images/8e0a341b54f92584=
+1388b216e99e76d7cc520710.jpeg/dd6b009c1efd7ebbd277ba693b79912774b76a2a.jp=
+eg" width=3D"600" alt=3D"" border=3D"0" style=3D"border-radius: 6px 6px 0=
+px 0px; display: block;">
+</a>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff"></t=
+d>
+              </tr>
+              <tr>
+                <td align=3D"center" class=3D"frame" style=3D"padding: 0p=
+x 40px;" bgcolor=3D"#ffffff">
+                  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ align=3D"center" width=3D"100%">
+                    <tr>
+                      <td align=3D"center" class=3D"bodyTitle" style=3D"f=
+ont-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, 'Lucida Gr=
+ande', sans-serif; font-size: 24px; line-height: 34px; color: #3c4858; te=
+xt-align: center; font-weight: normal; font-style: normal; text-decoratio=
+n: none;">
+                        <a style=3D"color: #3c4858; text-decoration: none=
+;" href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2=
+NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ3NCZkPXAxdzlmOHk=3D.f5n27JiaJk6hI5iZWt=
+ONBocbZyhc5H9tgXp5iU033m0" data-link-id=3D"132478474" border=3D"0" target=
+=3D"_blank"><span style=3D"color: #3c4858;">Applying Human-Centered Desig=
+n to Emerging Technologies</span></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center" class=3D"bodyText" id=3D"conte=
+nt-16" style=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, =
+Arial, 'Lucida Grande', sans-serif; color: #8492a6; font-size: 18px; line=
+-height: 28px; font-weight: 300; text-align: center;">
+                        <div class=3D"text">
+                          <p style=3D"margin-top: 0px; margin-bottom: 10p=
+x;">VR, AR, and digital assistant present exciting opportunities for the =
+future, but how can we ensure we=E2=80=99re designing for what people rea=
+lly=C2=A0want?=C2=A0<a href=3D"http://track.ml.mailersend.com/link/c/YT03=
+NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ3NiZkPXUyZDFuN2o=3D=
+.E6vDUPSly6KIi5Nmb7G2krKcybcN77w2e8U-FN-MoOg" data-link-id=3D"132478476" =
+target=3D"_blank" style=3D"color: #20B6FF;">IDEO</a>=C2=A0investigates.</=
+p>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center">
+                        <table cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth">
+                          <tr>
+                            <td height=3D"50" align=3D"center" class=3D"b=
+utton" valign=3D"middle">
+                              <!--[if mso]>
+                                <v:roundrect xmlns:v=3D"urn:schemas-micro=
+soft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"h=
+ttp://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1=
+JmU9NTIzNCZiPTEzMjQ3ODQ3OCZkPWk4czV4NHY=3D.r6hzIkK6xbeCr8UwJI0hEKhNBN4g0J=
+hGIRNO13H8nCQ" data-link-id=3D"132478478" style=3D"font-family: Arial, He=
+lvetica, sans-serif; height:50px;v-text-anchor:middle;width:156px;" arcsi=
+ze=3D"8%" strokecolor=3D"#13ce66" fillcolor=3D"#13ce66">
+                                  <w:anchorlock/>
+                                  <center style=3D"color:#ffffff;font-fam=
+ily:sans-serif;font-size:16px;font-weight:normal;">Read the post</center>
+                                </v:roundrect>
+                              <![endif]-->
+                              <a href=3D"http://track.ml.mailersend.com/l=
+ink/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ4MCZkPWU=
+4cjdsOHM=3D.zpuM5Vk80vpqviFBVLVALrHmuM42CXOpowWqYMhTWW4" data-link-id=3D"=
+132478480" class=3D"bodyTitle" style=3D"font-size: 16px; background-color=
+: #13ce66; border-radius: 4px; color: #ffffff; display: inline-block; fon=
+t-family: sans-serif; border: 1px solid #13ce66; font-weight: normal; lin=
+e-height: 48px; text-align: center; text-decoration: none; width: 156px; =
+mso-hide: all;" target=3D"_blank">
+<span style=3D"color: #ffffff;">Read the post</span>
+</a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff" sty=
+le=3D"border-radius: 0px 0px 6px 6px;"></td>
+              </tr>
+            </table>
+          </selector>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"20"></td>
+            </tr>
+          </table>
+          <selector>
+            <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspaci=
+ng=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; mi=
+n-width: 600px; border-radius: 6px 6px 6px 6px;">
+              <tr>
+                <td align=3D"center" style=3D"border-radius: 6px 6px 0px =
+0px;" class=3D"fullimage">
+                  <a href=3D"http://track.ml.mailersend.com/link/c/YT03ND=
+Q3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ4MiZkPXIxejloNng=3D.=
+jSOxlvQcul73f-xZXEzQeL2tRgOakVFnXEZZDGv--SE" data-link-id=3D"132478482" t=
+arget=3D"_blank" border=3D"0">
+<img src=3D"https://bucket.mlcdn.com/a/271/271421/images/6381bef8333f41cf=
+b2561b653364c658c3ee91fe.png/f7d072b9a83d05d8168bcd9d2fd484102a5539d1.png=
+" width=3D"600" alt=3D"" border=3D"0" style=3D"border-radius: 6px 6px 0px=
+ 0px; display: block;">
+</a>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff"></t=
+d>
+              </tr>
+              <tr>
+                <td align=3D"center" class=3D"frame" style=3D"padding: 0p=
+x 40px;" bgcolor=3D"#ffffff">
+                  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ align=3D"center" width=3D"100%">
+                    <tr>
+                      <td align=3D"center" class=3D"bodyTitle" style=3D"f=
+ont-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, 'Lucida Gr=
+ande', sans-serif; font-size: 24px; line-height: 34px; color: #3c4858; te=
+xt-align: center; font-weight: normal; font-style: normal; text-decoratio=
+n: none;">
+                        <a style=3D"color: #3c4858; text-decoration: none=
+;" href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2=
+NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ4NCZkPWw2bzNoMWI=3D.qkuqTyx6Wp606DF-5P=
+LjREj2BBQzPoxIor6rWnw5zio" data-link-id=3D"132478484" border=3D"0" target=
+=3D"_blank"><span style=3D"color: #3c4858;">Interviewing Design Interns a=
+t Facebook</span></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center" class=3D"bodyText" id=3D"conte=
+nt-18" style=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, =
+Arial, 'Lucida Grande', sans-serif; color: #8492a6; font-size: 18px; line=
+-height: 28px; font-weight: 300; text-align: center;">
+                        <div class=3D"text">
+                          <p style=3D"margin-top: 0px; margin-bottom: 10p=
+x;"><a dir=3D"auto" href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ=
+3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ4NiZkPXQ3ejRvN3E=3D.y=
+-a9zmm-6xkSPHVeocBwsmjpHJfvTOLhrRRmDKucG74" data-link-id=3D"132478486" ta=
+rget=3D"_blank" data-action=3D"show-user-card" data-action-source=3D"post=
+_header_lockup" data-action-value=3D"ed35de74c599" data-action-type=3D"ho=
+ver" data-user-id=3D"ed35de74c599" data-collection-slug=3D"user-experienc=
+e-design-1" style=3D"color: #20B6FF;">Geunbae</a>=C2=A0shares some valuab=
+le thoughts and experiences from the design field.</p>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center">
+                        <table cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth">
+                          <tr>
+                            <td height=3D"50" align=3D"center" class=3D"b=
+utton" valign=3D"middle">
+                              <!--[if mso]>
+                                <v:roundrect xmlns:v=3D"urn:schemas-micro=
+soft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"h=
+ttp://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1=
+JmU9NTIzNCZiPTEzMjQ3ODQ4OCZkPW02czBkMWY=3D.9FJrrrIj0Tz0xKaSm5yDztafNKIT4-=
+EwIgbSizPNwbQ" data-link-id=3D"132478488" style=3D"font-family: Arial, He=
+lvetica, sans-serif; height:50px;v-text-anchor:middle;width:120px;" arcsi=
+ze=3D"8%" strokecolor=3D"#13ce66" fillcolor=3D"#13ce66">
+                                  <w:anchorlock/>
+                                  <center style=3D"color:#ffffff;font-fam=
+ily:sans-serif;font-size:16px;font-weight:normal;">Read more</center>
+                                </v:roundrect>
+                              <![endif]-->
+                              <a href=3D"http://track.ml.mailersend.com/l=
+ink/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ5MCZkPXM=
+ycDRsOWk=3D.17fW9r7x8q4VUwQ07T_Q9_gopZFVld-dG3QBwGveUEs" data-link-id=3D"=
+132478490" class=3D"bodyTitle" style=3D"font-size: 16px; background-color=
+: #13ce66; border-radius: 4px; color: #ffffff; display: inline-block; fon=
+t-family: sans-serif; border: 1px solid #13ce66; font-weight: normal; lin=
+e-height: 48px; text-align: center; text-decoration: none; width: 120px; =
+mso-hide: all;" target=3D"_blank">
+<span style=3D"color: #ffffff;">Read more</span>
+</a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff" sty=
+le=3D"border-radius: 0px 0px 6px 6px;"></td>
+              </tr>
+            </table>
+          </selector>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"20"></td>
+            </tr>
+          </table>
+          <selector>
+            <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspaci=
+ng=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; mi=
+n-width: 600px; border-radius: 6px 6px 6px 6px;">
+              <tr>
+                <td align=3D"center" style=3D"border-radius: 6px 6px 0px =
+0px;" class=3D"fullimage">
+                  <a href=3D"http://track.ml.mailersend.com/link/c/YT03ND=
+Q3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ5MiZkPWkxZTduNWk=3D.=
+THXTUSnFwPNgB44R8LgBVpIo2AxkWQivuTMzxVeZ8Og" data-link-id=3D"132478492" t=
+arget=3D"_blank" border=3D"0">
+<img src=3D"https://bucket.mlcdn.com/a/271/271421/images/8ec9acbb40b9c149=
+f9f213a94abe157d900b9c81.png/6042aad031ef8f371fe2d154afe0328ae8b77d71.png=
+" width=3D"600" alt=3D"" border=3D"0" style=3D"border-radius: 6px 6px 0px=
+ 0px; display: block;">
+</a>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff"></t=
+d>
+              </tr>
+              <tr>
+                <td align=3D"center" class=3D"frame" style=3D"padding: 0p=
+x 40px;" bgcolor=3D"#ffffff">
+                  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ align=3D"center" width=3D"100%">
+                    <tr>
+                      <td align=3D"center" class=3D"bodyTitle" style=3D"f=
+ont-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, 'Lucida Gr=
+ande', sans-serif; font-size: 24px; line-height: 34px; color: #3c4858; te=
+xt-align: center; font-weight: normal; font-style: normal; text-decoratio=
+n: none;">
+                        <a style=3D"color: #3c4858; text-decoration: none=
+;" href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2=
+NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ5NCZkPXIwcTdvM3A=3D.jZdwCVtNbdiLmtS6NF=
+qkuyeyXjLJVM6bHYnexnBMEeQ" data-link-id=3D"132478494" border=3D"0" target=
+=3D"_blank"><span style=3D"color: #3c4858;">Managing Design Files Within =
+Teams</span></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center" class=3D"bodyText" id=3D"conte=
+nt-20" style=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, =
+Arial, 'Lucida Grande', sans-serif; color: #8492a6; font-size: 18px; line=
+-height: 28px; font-weight: 300; text-align: center;">
+                        <div class=3D"text">
+                          <p style=3D"margin-top: 0px; margin-bottom: 10p=
+x;"><a href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5=
+MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODQ5NiZkPWUwdzlzMXQ=3D.luv6QYvkw5SCIE=
+ndpHN9rkedgk4EViYWANTe3BnUR6Y" data-link-id=3D"132478496" target=3D"_blan=
+k" style=3D"color: #20B6FF;">Jules Cheung</a>=C2=A0shares a design filing=
+ system that alleviates some of the problems and is intended to help team=
+s manage design files for complex B2B products.</p>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height=3D"10" style=3D"line-height:10px; height=
+:10px;">
+                        <img src=3D"https://bucket.mlcdn.com/images/defau=
+lt/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bl=
+ock;">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align=3D"center">
+                        <table cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth">
+                          <tr>
+                            <td height=3D"50" align=3D"center" class=3D"b=
+utton" valign=3D"middle">
+                              <!--[if mso]>
+                                <v:roundrect xmlns:v=3D"urn:schemas-micro=
+soft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"h=
+ttp://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1=
+JmU9NTIzNCZiPTEzMjQ3ODQ5OCZkPWs5djFlOHQ=3D.ASMOJj_CHypNgPcHwxbXanzeuL9g5J=
+XUib1Ka9rgRPY" data-link-id=3D"132478498" style=3D"font-family: Arial, He=
+lvetica, sans-serif; height:50px;v-text-anchor:middle;width:156px;" arcsi=
+ze=3D"8%" strokecolor=3D"#13ce66" fillcolor=3D"#13ce66">
+                                  <w:anchorlock/>
+                                  <center style=3D"color:#ffffff;font-fam=
+ily:sans-serif;font-size:16px;font-weight:normal;">Read the post</center>
+                                </v:roundrect>
+                              <![endif]-->
+                              <a href=3D"http://track.ml.mailersend.com/l=
+ink/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODUwMCZkPW4=
+xaTJpOGo=3D.CI89Zqar9G3czc5lnBrYbymq1I8V16I1bAh-A9UkhQA" data-link-id=3D"=
+132478500" class=3D"bodyTitle" style=3D"font-size: 16px; background-color=
+: #13ce66; border-radius: 4px; color: #ffffff; display: inline-block; fon=
+t-family: sans-serif; border: 1px solid #13ce66; font-weight: normal; lin=
+e-height: 48px; text-align: center; text-decoration: none; width: 156px; =
+mso-hide: all;" target=3D"_blank">
+<span style=3D"color: #ffffff;">Read the post</span>
+</a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"40" class=3D"space" bgcolor=3D"#ffffff" sty=
+le=3D"border-radius: 0px 0px 6px 6px;"></td>
+              </tr>
+            </table>
+          </selector>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"20"></td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px; border-radius: 6px 6px 6px 6px;">
+            <tr>
+              <td align=3D"center">
+                <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" a=
+lign=3D"left" width=3D"290" style=3D"width: 290px; min-width:290px;" clas=
+s=3D"devicewidth margin_bottom">
+                  <tr>
+                    <td align=3D"center" style=3D"border-radius: 6px 6px =
+0px 0px;" class=3D"fullimage">
+                      <a href=3D"http://track.ml.mailersend.com/link/c/YT=
+03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODUwMiZkPWM4bDR4N28=
+=3D.UNpXWXHgjPs4cf5JtOlwNGmOWvfl2P2Vq6O-uKWqJI4" data-link-id=3D"13247850=
+2" target=3D"_blank" border=3D"0">
+<img src=3D"https://bucket.mlcdn.com/a/271/271421/images/1198c33d8732fead=
+c27c05697ab8f04b239fe71a.jpeg/f3026a40e81b27f2833c4478f6c08c401ccac84d.jp=
+eg" width=3D"290" alt=3D"" border=3D"0" style=3D"border-radius: 6px 6px 0=
+px 0px; display: block;">
+</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height=3D"20" bgcolor=3D"#ffffff"></td>
+                  </tr>
+                  <tr>
+                    <td align=3D"center" style=3D"padding: 0px 20px;" bgc=
+olor=3D"#ffffff">
+                      <table cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" align=3D"center" width=3D"100%">
+                        <tr>
+                          <td align=3D"center" class=3D"bodyTitle" style=3D=
+"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, 'Lucida =
+Grande', sans-serif; font-size: 20px; line-height: 30px; color: #3c4858; =
+text-align: left; font-weight: normal; font-style: normal; text-decoratio=
+n: none;">
+                            <a style=3D"color: #3c4858; text-decoration: =
+none;" href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5=
+MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODUwNCZkPXE5azR5MHE=3D.x1eMTlmzoNHxBZ=
+mlB0E5RCYjhQUdF8ZK-o-lsjyBxzs" data-link-id=3D"132478504" border=3D"0" ta=
+rget=3D"_blank"><span style=3D"color: #3c4858;">UX Study Case =C2=B7 Trip=
+&Fun</span></a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height=3D"10" style=3D"line-height:10px; he=
+ight:10px;">
+                            <img src=3D"https://bucket.mlcdn.com/images/d=
+efault/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display=
+: block;">
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align=3D"center" class=3D"bodyText" id=3D"c=
+ontent-23" style=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helveti=
+ca, Arial, 'Lucida Grande', sans-serif; color: #8492a6; font-size: 16px; =
+line-height: 26px; font-weight: 300; text-align: left;">
+                            <div class=3D"text">
+                              <p style=3D"margin-top: 0px; margin-bottom:=
+ 10px;">After a trip to South East Asia, <a href=3D"http://track.ml.maile=
+rsend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3=
+ODUwNiZkPXI1aTZ1M3Q=3D.Hobm2GFx8HMDeMTxdwg4Z2OlaH5IKlYUM3rHCThLJEY" data-=
+link-id=3D"132478506" target=3D"_blank" style=3D"color: #20B6FF;">Susana<=
+/a> decided to develop a whole UX/UI process for her=C2=A0travel app that=
+ allows you to book activities for your trip and meet other travelers.</p=
+>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height=3D"10" style=3D"line-height:10px; he=
+ight:10px;">
+                            <img src=3D"https://bucket.mlcdn.com/images/d=
+efault/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display=
+: block;">
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align=3D"center">
+                            <table cellpadding=3D"0" border=3D"0" cellspa=
+cing=3D"0" align=3D"center" class=3D"devicewidth">
+                              <tr>
+                                <td height=3D"50" align=3D"center" class=3D=
+"button" valign=3D"middle">
+                                  <!--[if mso]>
+                                    <v:roundrect xmlns:v=3D"urn:schemas-m=
+icrosoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D=
+"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMW=
+c1JmU9NTIzNCZiPTEzMjQ3ODUwOCZkPXU1dDNkOWg=3D.WnS0jV1ngs44odhxecBoRe_Gr9UL=
+NYxKy-F8gFCYy-Y" data-link-id=3D"132478508" style=3D"font-family: Arial, =
+Helvetica, sans-serif; height:50px;v-text-anchor:middle;width:248px;" arc=
+size=3D"8%" strokecolor=3D"#13ce66" fillcolor=3D"#13ce66">
+                                      <w:anchorlock/>
+                                      <center style=3D"color:#ffffff;font=
+-family:sans-serif;font-size:16px;font-weight:normal;">Read the post</cen=
+ter>
+                                    </v:roundrect>
+                                  <![endif]-->
+                                  <a href=3D"http://track.ml.mailersend.c=
+om/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODUxMCZ=
+kPW03eDF3M2M=3D.08WmVe6PMSL8H9XOL_bvPR06p3ADJCvzY1-nxyLnkjw" data-link-id=
+=3D"132478510" class=3D"bodyTitle" style=3D"font-size: 16px; background-c=
+olor: #13ce66; border-radius: 4px; color: #ffffff; display: inline-block;=
+ font-family: sans-serif; border: 1px solid #13ce66; font-weight: normal;=
+ line-height: 48px; text-align: center; text-decoration: none; width: 248=
+px; mso-hide: all;" target=3D"_blank">
+<span style=3D"color: #ffffff;">Read the post</span>
+</a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height=3D"20" class=3D"space" bgcolor=3D"#ffffff"=
+ style=3D"border-radius: 0px 0px 6px 6px;"></td>
+                  </tr>
+                </table>
+                <!--[if mso]>
+              </td>
+              <td width=3D"20">
+                <table cellpadding=3D"0" cellspacing=3D"0" align=3D"left"=
+ class=3D"none" width=3D"20" style=3D"width: 20px; min-width: 20px;">
+                  <tr>
+                    <td align=3D"center" width=3D"20">
+                      <img src=3D"https://bucket.mlcdn.com/images/default=
+/spacer.gif" width=3D"1" height=3D"1" border=3D"0" />
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td width=3D"290">
+              <![endif]-->
+              <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" ali=
+gn=3D"right" width=3D"290" style=3D"width: 290px; min-width:290px;" class=
+=3D"devicewidth">
+                <tr>
+                  <td align=3D"center" style=3D"border-radius: 6px 6px 0p=
+x 0px;" class=3D"fullimage">
+                    <a href=3D"http://track.ml.mailersend.com/link/c/YT03=
+NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODUxMiZkPWIzaTZ1MGw=3D=
+.6446jDluAA8eL_vuKJFJfKuj8-uK_MtoQ-W1VvhWGxg" data-link-id=3D"132478512" =
+target=3D"_blank" border=3D"0">
+<img src=3D"https://bucket.mlcdn.com/a/271/271421/images/e640619413101f79=
+54f6de103e8508b08bbd2c79.jpeg/26445dc31995ceb0473c533127a98dd20f5ea6f7.jp=
+eg" width=3D"290" alt=3D"" border=3D"0" style=3D"border-radius: 6px 6px 0=
+px 0px; display: block;">
+</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td height=3D"20" bgcolor=3D"#ffffff"></td>
+                </tr>
+                <tr>
+                  <td align=3D"center" style=3D"padding: 0px 20px;" bgcol=
+or=3D"#ffffff">
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" align=3D"center" width=3D"100%">
+                      <tr>
+                        <td align=3D"center" class=3D"bodyTitle" style=3D=
+"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, 'Lucida =
+Grande', sans-serif; font-size: 20px; line-height: 30px; color: #3c4858; =
+text-align: left; font-weight: normal; font-style: normal; text-decoratio=
+n: none;">
+                          <a style=3D"color: #3c4858; text-decoration: no=
+ne;" href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5Mz=
+A2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODUxNCZkPWs2dTRmOHY=3D.dtKiNJI8kxIDxIf-=
+i59Nj8BjCQD2pZjNoaesxKteRK8" data-link-id=3D"132478514" border=3D"0" targ=
+et=3D"_blank"><span style=3D"color: #3c4858;">Ghost Buttons: Be Afraid</s=
+pan></a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td height=3D"10" style=3D"line-height:10px; heig=
+ht:10px;">
+                          <img src=3D"https://bucket.mlcdn.com/images/def=
+ault/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: =
+block;">
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align=3D"center" class=3D"bodyText" id=3D"con=
+tent-24" style=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica=
+, Arial, 'Lucida Grande', sans-serif; color: #8492a6; font-size: 16px; li=
+ne-height: 26px; font-weight: 300; text-align: left;">
+                          <div class=3D"text">
+                            <p style=3D"margin-top: 0px; margin-bottom: 1=
+0px;"><a href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMT=
+c5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODUxNiZkPXU3ajVzNG0=3D.k_X7Q7N3mujL=
+egDcqPCqPA6mfXRP0VG061-xIUvKBkc" data-link-id=3D"132478516" target=3D"_bl=
+ank" style=3D"color: #20B6FF;">Bartholomew</a>=C2=A0discusses how web des=
+ign has evolved, how ghost buttons have gained in popularity in the past =
+few years, and what their impact can be on user conversion.</p>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td height=3D"10" style=3D"line-height:10px; heig=
+ht:10px;">
+                          <img src=3D"https://bucket.mlcdn.com/images/def=
+ault/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: =
+block;">
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align=3D"center">
+                          <table cellpadding=3D"0" border=3D"0" cellspaci=
+ng=3D"0" align=3D"center" class=3D"devicewidth">
+                            <tr>
+                              <td height=3D"50" align=3D"center" class=3D=
+"button" valign=3D"middle">
+                                <!--[if mso]>
+                                  <v:roundrect xmlns:v=3D"urn:schemas-mic=
+rosoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D=
+"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMW=
+c1JmU9NTIzNCZiPTEzMjQ3ODUxOCZkPW4yZDFjM2I=3D.gnHv2xpiUWCOLXa6JEVf4gpc0xuE=
+KTr72A4i5pH1zF4" data-link-id=3D"132478518" style=3D"font-family: Arial, =
+Helvetica, sans-serif; height:50px;v-text-anchor:middle;width:248px;" arc=
+size=3D"8%" strokecolor=3D"#13ce66" fillcolor=3D"#13ce66">
+                                    <w:anchorlock/>
+                                    <center style=3D"color:#ffffff;font-f=
+amily:sans-serif;font-size:16px;font-weight:normal;">Read the post</cente=
+r>
+                                  </v:roundrect>
+                                <![endif]-->
+                                <a href=3D"http://track.ml.mailersend.com=
+/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODUyMCZkP=
+WwwYzFwM3E=3D.937Y9WEb6wbeTSeBnpwOnxdhBxkwmhkbSzmo-9hjT0M" data-link-id=3D=
+"132478520" class=3D"bodyTitle" style=3D"font-size: 16px; background-colo=
+r: #13ce66; border-radius: 4px; color: #ffffff; display: inline-block; fo=
+nt-family: sans-serif; border: 1px solid #13ce66; font-weight: normal; li=
+ne-height: 48px; text-align: center; text-decoration: none; width: 248px;=
+ mso-hide: all;" target=3D"_blank">
+<span style=3D"color: #ffffff;">Read the post</span>
+</a>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td height=3D"20" class=3D"space" bgcolor=3D"#ffffff" s=
+tyle=3D"border-radius: 0px 0px 6px 6px;"></td>
+                </tr>
+              </table>
+              </td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"20"></td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px; border-radius: 6px 6px 6px 6px;">
+            <tr>
+              <td align=3D"center">
+                <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" a=
+lign=3D"left" width=3D"290" style=3D"width: 290px; min-width:290px;" clas=
+s=3D"devicewidth margin_bottom">
+                  <tr>
+                    <td align=3D"center" style=3D"border-radius: 6px 6px =
+0px 0px;" class=3D"fullimage">
+                      <a href=3D"http://track.ml.mailersend.com/link/c/YT=
+03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODUyNiZkPWw0ZzB1MnU=
+=3D.DYgcFDpqzDmCUdF3l2rLo-045-MixjdUYLc7NR3C70g" data-link-id=3D"13247852=
+6" target=3D"_blank" border=3D"0">
+<img src=3D"https://bucket.mlcdn.com/a/271/271421/images/0fee8872626a57b7=
+1a2cc025964e1ca4b4f36cd8.png/e24e722df6cc328514cbe2da9f7d62cdf07ffc18.png=
+" width=3D"290" alt=3D"" border=3D"0" style=3D"border-radius: 6px 6px 0px=
+ 0px; display: block;">
+</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height=3D"20" bgcolor=3D"#ffffff"></td>
+                  </tr>
+                  <tr>
+                    <td align=3D"center" style=3D"padding: 0px 20px;" bgc=
+olor=3D"#ffffff">
+                      <table cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" align=3D"center" width=3D"100%">
+                        <tr>
+                          <td align=3D"center" class=3D"bodyTitle" style=3D=
+"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, 'Lucida =
+Grande', sans-serif; font-size: 20px; line-height: 30px; color: #3c4858; =
+text-align: left; font-weight: normal; font-style: normal; text-decoratio=
+n: none;">
+                            <a style=3D"color: #3c4858; text-decoration: =
+none;" href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5=
+MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODUyOCZkPWs5dDB3N2U=3D.7YcRBhkA4-PLvr=
+8vEIauKgD_kHdqKi59Etw_2bm24lY" data-link-id=3D"132478528" border=3D"0" ta=
+rget=3D"_blank"><span style=3D"color: #3c4858;">What is UX Design? Miscon=
+ceptions and Myths</span></a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height=3D"10" style=3D"line-height:10px; he=
+ight:10px;">
+                            <img src=3D"https://bucket.mlcdn.com/images/d=
+efault/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display=
+: block;">
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align=3D"center" class=3D"bodyText" id=3D"c=
+ontent-27" style=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helveti=
+ca, Arial, 'Lucida Grande', sans-serif; color: #8492a6; font-size: 16px; =
+line-height: 26px; font-weight: 300; text-align: left;">
+                            <div class=3D"text">
+                              <p style=3D"margin-top: 0px; margin-bottom:=
+ 10px;">Understanding UX design will help everyone involved build great p=
+roducts. <a href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzg=
+xMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODUzMCZkPXM5bDFvNnI=3D._FcISAklP=
+uA2dQuEHYR_4YIprzdzIViMcCFdFGMH64w" data-link-id=3D"132478530" target=3D"=
+_blank" style=3D"color: #20B6FF;">Miklos</a> explains some of the common =
+misconceptions and myths about UX design.</p>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height=3D"10" style=3D"line-height:10px; he=
+ight:10px;">
+                            <img src=3D"https://bucket.mlcdn.com/images/d=
+efault/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display=
+: block;">
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align=3D"center">
+                            <table cellpadding=3D"0" border=3D"0" cellspa=
+cing=3D"0" align=3D"center" class=3D"devicewidth">
+                              <tr>
+                                <td height=3D"50" align=3D"center" class=3D=
+"button" valign=3D"middle">
+                                  <!--[if mso]>
+                                    <v:roundrect xmlns:v=3D"urn:schemas-m=
+icrosoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D=
+"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMW=
+c1JmU9NTIzNCZiPTEzMjQ3ODUzMiZkPWo2ZTJwMmM=3D.d3aezSvlluUhIXdZciP1ebww3k1S=
+FRrdJw_RunF8NME" data-link-id=3D"132478532" style=3D"font-family: Arial, =
+Helvetica, sans-serif; height:50px;v-text-anchor:middle;width:248px;" arc=
+size=3D"8%" strokecolor=3D"#13ce66" fillcolor=3D"#13ce66">
+                                      <w:anchorlock/>
+                                      <center style=3D"color:#ffffff;font=
+-family:sans-serif;font-size:16px;font-weight:normal;">Read the post</cen=
+ter>
+                                    </v:roundrect>
+                                  <![endif]-->
+                                  <a href=3D"http://track.ml.mailersend.c=
+om/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODUzNCZ=
+kPWs2ZTBuNWQ=3D.n7JwVeO6Xuu0ksxnCs-Gh2vuDNFZ2UVPMonHkXF56DI" data-link-id=
+=3D"132478534" class=3D"bodyTitle" style=3D"font-size: 16px; background-c=
+olor: #13ce66; border-radius: 4px; color: #ffffff; display: inline-block;=
+ font-family: sans-serif; border: 1px solid #13ce66; font-weight: normal;=
+ line-height: 48px; text-align: center; text-decoration: none; width: 248=
+px; mso-hide: all;" target=3D"_blank">
+<span style=3D"color: #ffffff;">Read the post</span>
+</a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height=3D"20" class=3D"space" bgcolor=3D"#ffffff"=
+ style=3D"border-radius: 0px 0px 6px 6px;"></td>
+                  </tr>
+                </table>
+                <!--[if mso]>
+              </td>
+              <td width=3D"20">
+                <table cellpadding=3D"0" cellspacing=3D"0" align=3D"left"=
+ class=3D"none" width=3D"20" style=3D"width: 20px; min-width: 20px;">
+                  <tr>
+                    <td align=3D"center" width=3D"20">
+                      <img src=3D"https://bucket.mlcdn.com/images/default=
+/spacer.gif" width=3D"1" height=3D"1" border=3D"0" />
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td width=3D"290">
+              <![endif]-->
+              <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" ali=
+gn=3D"right" width=3D"290" style=3D"width: 290px; min-width:290px;" class=
+=3D"devicewidth">
+                <tr>
+                  <td align=3D"center" style=3D"border-radius: 6px 6px 0p=
+x 0px;" class=3D"fullimage">
+                    <a href=3D"http://track.ml.mailersend.com/link/c/YT03=
+NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODUzNiZkPW4xZjF0M2U=3D=
+.yaqILh1da4ICGKI9ZlCUVfB7n_wjLHhQDXy46HtJhQ0" data-link-id=3D"132478536" =
+target=3D"_blank" border=3D"0">
+<img src=3D"https://bucket.mlcdn.com/a/271/271421/images/69b30b0cb76e8cf7=
+6b607ac3a02d3014041edc2d.png/93d0bdf7bad4d722163c97cadb86259ad4e4ebe9.png=
+" width=3D"290" alt=3D"" border=3D"0" style=3D"border-radius: 6px 6px 0px=
+ 0px; display: block;">
+</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td height=3D"20" bgcolor=3D"#ffffff"></td>
+                </tr>
+                <tr>
+                  <td align=3D"center" style=3D"padding: 0px 20px;" bgcol=
+or=3D"#ffffff">
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" align=3D"center" width=3D"100%">
+                      <tr>
+                        <td align=3D"center" class=3D"bodyTitle" style=3D=
+"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, 'Lucida =
+Grande', sans-serif; font-size: 20px; line-height: 30px; color: #3c4858; =
+text-align: left; font-weight: normal; font-style: normal; text-decoratio=
+n: none;">
+                          <a style=3D"color: #3c4858; text-decoration: no=
+ne;" href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5Mz=
+A2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODU0OCZkPW01ZjZoN2E=3D.A_mPcnt_WrKRg6v4=
+6_N0ni8lcs64N0g_htRv1pKikWk" data-link-id=3D"132478548" border=3D"0" targ=
+et=3D"_blank"><span style=3D"color: #3c4858;">The Anatomy of a Thousand T=
+ypefaces</span></a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td height=3D"10" style=3D"line-height:10px; heig=
+ht:10px;">
+                          <img src=3D"https://bucket.mlcdn.com/images/def=
+ault/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: =
+block;">
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align=3D"center" class=3D"bodyText" id=3D"con=
+tent-28" style=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica=
+, Arial, 'Lucida Grande', sans-serif; color: #8492a6; font-size: 16px; li=
+ne-height: 26px; font-weight: 300; text-align: left;">
+                          <div class=3D"text">
+                            <p style=3D"margin-top: 0px; margin-bottom: 1=
+0px;"><a href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMT=
+c5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODU1NCZkPWszaDB1Mnc=3D.c145qbNavVbt=
+YCNInLxiTfYvvIwUkD4qgXQ4Q3oX2q8" data-link-id=3D"132478554" target=3D"_bl=
+ank" style=3D"color: #20B6FF;">Florian Schulz</a>=C2=A0explores why the s=
+eemingly mindless choice of a font is a general problem with font menus: =
+there are either=C2=A0too few=C2=A0or=C2=A0too many=C2=A0options.</p>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td height=3D"10" style=3D"line-height:10px; heig=
+ht:10px;">
+                          <img src=3D"https://bucket.mlcdn.com/images/def=
+ault/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: =
+block;">
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align=3D"center">
+                          <table cellpadding=3D"0" border=3D"0" cellspaci=
+ng=3D"0" align=3D"center" class=3D"devicewidth">
+                            <tr>
+                              <td height=3D"50" align=3D"center" class=3D=
+"button" valign=3D"middle">
+                                <!--[if mso]>
+                                  <v:roundrect xmlns:v=3D"urn:schemas-mic=
+rosoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D=
+"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMW=
+c1JmU9NTIzNCZiPTEzMjQ3ODU1NiZkPW85YThiMGg=3D.J36R-4otS-UmufjPRmDeY29MIQso=
+UjLTon9cTCgy3Bg" data-link-id=3D"132478556" style=3D"font-family: Arial, =
+Helvetica, sans-serif; height:50px;v-text-anchor:middle;width:248px;" arc=
+size=3D"8%" strokecolor=3D"#13ce66" fillcolor=3D"#13ce66">
+                                    <w:anchorlock/>
+                                    <center style=3D"color:#ffffff;font-f=
+amily:sans-serif;font-size:16px;font-weight:normal;">Read the post</cente=
+r>
+                                  </v:roundrect>
+                                <![endif]-->
+                                <a href=3D"http://track.ml.mailersend.com=
+/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODU1OCZkP=
+XI3bDRvMXI=3D.JEjColhQDy6exSoRET-haqizx0tQFAufdDNVaW7JoEE" data-link-id=3D=
+"132478558" class=3D"bodyTitle" style=3D"font-size: 16px; background-colo=
+r: #13ce66; border-radius: 4px; color: #ffffff; display: inline-block; fo=
+nt-family: sans-serif; border: 1px solid #13ce66; font-weight: normal; li=
+ne-height: 48px; text-align: center; text-decoration: none; width: 248px;=
+ mso-hide: all;" target=3D"_blank">
+<span style=3D"color: #ffffff;">Read the post</span>
+</a>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td height=3D"20" class=3D"space" bgcolor=3D"#ffffff" s=
+tyle=3D"border-radius: 0px 0px 6px 6px;"></td>
+                </tr>
+              </table>
+              </td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"20"></td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px; border-radius: 6px 6px 6px 6px;" bgcolor=3D"#1FB6FF">
+            <tr>
+              <td align=3D"center" style=3D"border-radius: 6px 6px 6px 6p=
+x; padding: 0px 20px;" class=3D"frame_big">
+                <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" a=
+lign=3D"center" width=3D"560" style=3D"width: 560px; min-width:560px;" cl=
+ass=3D"devicewidth">
+                  <tr>
+                    <td align=3D"center">
+                      <table cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" align=3D"left" width=3D"220" style=3D"width: 220px; min-width:220px;"=
+ class=3D"devicewidth margin_bottom">
+                        <tr>
+                          <td align=3D"left" class=3D"height_auto" height=
+=3D"140" style=3D"font-size: 20px; line-height:30px; color: #ffffff; text=
+-align: left; font-weight: normal; font-style: normal; text-decoration: n=
+one;;">
+                            <a style=3D"color: #ffffff; text-decoration: =
+none;" href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5=
+MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODU2MCZkPW44ZTZhMGw=3D.hktcn6Vt02Uplb=
+43kkV-tdnTzILPtwRFWFN7LWIIbsE" data-link-id=3D"132478560" border=3D"0" ta=
+rget=3D"_blank"><span style=3D"color: #ffffff;">Enjoy using Marvel? Get u=
+nlimited comments, collaborators and more!</span></a>
+                          </td>
+                        </tr>
+                      </table>
+                      <!--[if mso]>
+                    </td>
+                    <td width=3D"20">
+                    <![endif]-->
+                    <table cellpadding=3D"0" cellspacing=3D"0" align=3D"l=
+eft" class=3D"none" width=3D"20" style=3D"width: 20px; min-width: 20px;">
+                      <tr>
+                        <td align=3D"center" width=3D"20">
+                          <img src=3D"https://bucket.mlcdn.com/images/def=
+ault/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: =
+block;">
+                        </td>
+                      </tr>
+                    </table>
+                    <!--[if mso]>
+                    </td>
+                    <td width=3D"170">
+                    <![endif]-->
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" align=3D"left" width=3D"170" style=3D"width: 170px; min-width:170px;" =
+class=3D"devicewidth margin_bottom">
+                      <tr>
+                        <td align=3D"center">
+                          <a href=3D"http://track.ml.mailersend.com/link/=
+c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODU2MiZkPW0zaTN=
+rNXc=3D.nGiyjeBfPRCfGpvjb2dic6rAI_DofEW2xp5rBNMr0hc" data-link-id=3D"1324=
+78562" target=3D"_blank" border=3D"0">
+<img src=3D"https://bucket.mlcdn.com/a/271/271421/templates/0/881/a23e6fd=
+33ac764c83ffeecb0cf5130d5986adf78.png" width=3D"170" alt=3D"" border=3D"0=
+" style=3D"display: block;">
+</a>
+                        </td>
+                      </tr>
+                    </table>
+                    <!--[if mso]>
+                    </td>
+                    <td width=3D"20">
+                      <table cellpadding=3D"0" cellspacing=3D"0" align=3D=
+"left" class=3D"none" width=3D"20" style=3D"width: 20px; min-width: 20px;=
+">
+                        <tr>
+                          <td align=3D"center" width=3D"20">
+                            <img src=3D"https://bucket.mlcdn.com/images/d=
+efault/spacer.gif" width=3D"1" height=3D"1" border=3D"0" />
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td width=3D"130">
+                    <![endif]-->
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" align=3D"right" width=3D"130" style=3D"width: 130px; min-width:130px;"=
+ class=3D"devicewidth">
+                      <tr>
+                        <td align=3D"center" class=3D"height_auto" height=
+=3D"140">
+                          <table cellpadding=3D"0" border=3D"0" cellspaci=
+ng=3D"0" align=3D"center" class=3D"devicewidth">
+                            <tr>
+                              <td height=3D"50" align=3D"center" class=3D=
+"button" valign=3D"middle">
+                                <!--[if mso]>
+                                  <v:roundrect xmlns:v=3D"urn:schemas-mic=
+rosoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D=
+"http://track.ml.mailersend.com/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMW=
+c1JmU9NTIzNCZiPTEzMjQ3ODU2NCZkPWUwbDV4M20=3D.CQqFf9Ud6bhTXwYhfM9DmXyeRUwU=
+EvyOBSU5SCpynkY" data-link-id=3D"132478564" style=3D"font-family: Arial, =
+Helvetica, sans-serif; height:50px;v-text-anchor:middle;width:130px;" arc=
+size=3D"8%" strokecolor=3D"#ffffff" fillcolor=3D"#ffffff">
+                                    <w:anchorlock/>
+                                    <center style=3D"color:#3c4858;font-f=
+amily:sans-serif;font-size:16px;font-weight:normal;">Upgrade</center>
+                                  </v:roundrect>
+                                <![endif]-->
+                                <a href=3D"http://track.ml.mailersend.com=
+/link/c/YT03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODU2NiZkP=
+Wc0eDFwOGc=3D.Rf0Jt4gwsUlQqTf__HxiI3M9jvswKk6r1kq0icoeUpo" data-link-id=3D=
+"132478566" class=3D"bodyTitle" style=3D"font-size: 16px; background-colo=
+r: #ffffff; border-radius: 4px; color: #3c4858; display: inline-block; fo=
+nt-family: sans-serif; border: 1px solid #ffffff; font-weight: normal; li=
+ne-height: 48px; text-align: center; text-decoration: none; width: 130px;=
+ mso-hide: all;" target=3D"_blank">
+<span style=3D"color: #3c4858;">Upgrade</span>
+</a>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"20"></td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"20" class=3D"small_space"></td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td align=3D"center" class=3D"bodyText" id=3D"content-31" s=
+tyle=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, '=
+Lucida Grande', sans-serif; color: #8492a6; font-size: 14px; line-height:=
+ 30px; font-weight: 300;">
+                <div class=3D"text">
+                  <p style=3D"margin-top: 0px; margin-bottom: 10px;"><str=
+ong>Made with =E2=9D=A4 in London</strong><br> Marvel, 60=C2=A0Worship St=
+, Hackney, London EC2A.</p>
+                </div>
+              </td>
+            </tr>            <tr>
+              <td class=3D"bodyTitle" id=3D"content-31" align=3D"center" =
+style=3D"font-family: 'FaktProSoft', 'Helvetica Neue', Helvetica, Arial, =
+'Lucida Grande', sans-serif; line-height: 24px; font-size: 14px; color: #=
+8492a6;">
+                <a href=3D"http://track.ml.mailersend.com/link/c/YT03NDQ3=
+MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3OTQyNiZkPXcyczV6OHE=3D.pI=
+gsW3RCwWyYj-B4m053GpegZdZEO3XZqnlwLBTWpwk" style=3D"color: #8492a6;" targ=
+et=3D"_blank"><span style=3D"color: #8492a6;">Unsubscribe,</span></a>but =
+don=E2=80=99t say bye. Follow us:</td>
+            </tr>
+            <tr>
+              <td height=3D"10"></td>
+            </tr>            <tr>
+              <td align=3D"center">
+                <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" a=
+lign=3D"center">
+                  <tr>
+                    <td align=3D"center" width=3D"30">
+                      <a href=3D"http://track.ml.mailersend.com/link/c/YT=
+03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODU2OCZkPWQxbTVjNng=
+=3D.G_lPZ0T0AFgloWLSydtW2BvD9sBqlYriEYEjKNXr0rE" data-link-id=3D"13247856=
+8" border=3D"0" target=3D"_blank"><img src=3D"https://bucket.mlcdn.com/a/=
+271/271421/templates/0/881/a6c41645513e11b680452970966d5babe2aeb8fc.png" =
+width=3D"30" border=3D"0" style=3D"display: block;"></a>
+                    </td>
+                    <td width=3D"10">
+                      <img src=3D"https://bucket.mlcdn.com/images/default=
+/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bloc=
+k;">
+                    </td>
+                    <td align=3D"center" width=3D"30">
+                      <a href=3D"http://track.ml.mailersend.com/link/c/YT=
+03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODU3MCZkPXgzYzJlN3k=
+=3D.MDI0LnzXuRVavf9Un4BTGnbEZWM2pzH4zAFusZvtynw" data-link-id=3D"13247857=
+0" border=3D"0" target=3D"_blank"><img src=3D"https://bucket.mlcdn.com/a/=
+271/271421/templates/0/881/da9efa2aa6515835518c2c2d094db9cf23abf145.png" =
+width=3D"30" border=3D"0" style=3D"display: block;"></a>
+                    </td>
+                    <td width=3D"10">
+                      <img src=3D"https://bucket.mlcdn.com/images/default=
+/spacer.gif" width=3D"1" height=3D"1" border=3D"0" style=3D"display: bloc=
+k;">
+                    </td>
+                    <td align=3D"center" width=3D"30">
+                      <a href=3D"http://track.ml.mailersend.com/link/c/YT=
+03NDQ3MzkyNzgxMTc5MzA2NzMmYz1pMWc1JmU9NTIzNCZiPTEzMjQ3ODU3MiZkPWE1dDNtMXg=
+=3D.260e3UmhQFALa7JSEIDtldcgTH-iaV5VOQ6yzpvxk2s" data-link-id=3D"13247857=
+2" border=3D"0" target=3D"_blank"><img src=3D"https://bucket.mlcdn.com/a/=
+271/271421/templates/0/881/4cbd1b872b1d22b3ea9d369b44ead9ea35b72c05.png" =
+width=3D"30" border=3D"0" style=3D"display: block;"></a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table width=3D"600" cellpadding=3D"0" border=3D"0" cellspacing=
+=3D"0" align=3D"center" class=3D"devicewidth" style=3D"width: 600px; min-=
+width: 600px;">
+            <tr>
+              <td height=3D"40" class=3D"space"></td>
+            </tr>
+          </table>
+          <!--[if !mso]>
+            <!-- -->
+          </td>
+        </tr>
+      </table>
+    <!--<![endif]-->
+  </body>
+
+</html>
+
+
+
+--b1_1f5dcf09a7bfd532c6806be141843cad--
+
+

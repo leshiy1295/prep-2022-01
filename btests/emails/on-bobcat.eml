@@ -1,0 +1,304 @@
+Received: from mxfront14g.mail.yandex.net ([127.0.0.1])
+	by mxfront14g.mail.yandex.net with LMTP id F0rqs135
+	for <floresashley@price-cook.com>, <mburnett@ryan.com>, <davidjensen@le.com>, <hansonjohn@hotmail.com>, <lisastevens@yahoo.com>, <colonbradley@yahoo.com>, <ronald70@gmail.com>; Tue, 6 Mar 2018 05:41:46 +0300
+Received: from o5.sg.dreamstime.com (o5.sg.dreamstime.com [198.37.144.33])
+	by mxfront14g.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id qrnxQ2xS0v-fiiGJTUo;
+	Tue, 06 Mar 2018 05:41:44 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+X-Yandex-Front: mxfront14g.mail.yandex.net
+X-Yandex-TimeMark: 1520304104
+Authentication-Results: mxfront14g.mail.yandex.net; spf=pass (mxfront14g.mail.yandex.net: domain of sg.dreamstime.com designates 198.37.144.33 as permitted sender, rule=[ip4:198.37.144.33]) smtp.mail=bounces+2575098@sg.dreamstime.com; dkim=pass header.i=@dreamstime.com
+X-Yandex-Spam: 2
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=dreamstime.com; 
+	h=to:from:subject:mime-version:content-transfer-encoding:content-type; 
+	s=s1; bh=7RHFC+AOTwVbD488o/rN97tGts4=; b=tLeR3uuRxG6Dzu4+mtuyHEW
+	Sr24LR7DGjA9gjy02NRuarLsqZD5MgSv3S7pjLfPjK6Phw03F4K7nvPDNUZEFEeq
+	7PGZAATJ25fMZewVCzoNShHrCVoSaL4aBZnOHTkDzc0Ry11FiyUXOcWoX0kL5UQV
+	26sv08MKOp8ZthMlT0Uc=
+Received: by filter0222p1iad2.sendgrid.net with SMTP id filter0222p1iad2-20724-5A9DFFE4-31
+        2018-03-06 02:41:40.686399321 +0000 UTC
+Received: from news.dreamstime.com (news.dreamstime.com [75.126.68.230])
+	by ismtpd0001p1sjc2.sendgrid.net (SG) with ESMTP id lUZ73VGgTiidHjVz32vnoA
+	for <floresashley@price-cook.com>, <mburnett@ryan.com>, <davidjensen@le.com>, <hansonjohn@hotmail.com>, <lisastevens@yahoo.com>, <colonbradley@yahoo.com>, <ronald70@gmail.com>; Tue, 06 Mar 2018 02:41:40.477 +0000 (UTC)
+Date: Tue, 06 Mar 2018 02:41:40 +0000 (UTC)
+To: Susan Bowen <andersonmark@ramos.com>, Brian Davis <hannahmorales@thomas.com>
+From: Dreamstime <no_reply@dreamstime.com>
+Subject: Free image of the week: Wedding collage
+Message-ID: <f97f67d1a07baf71c959001939fa3ca2@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+content-transfer-encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+X-SG-EID: TbFNxiv1Y3ynZq1J/+sOVls0KRa3mA/nvn7IzLWHogZEyk3COFfTb+lpkXFudHFRizri+D7p7Dfo8m
+ wyT1GJbPAf/85Z5g/JbBCmuESGqy4ReVj3PWwttIxtEgOmDb13Zp8hjuihTJnE5aVi8myfkkQLxtu6
+ 8ZBP5e48Pj21TCTVDhgil6UpJARf036hh3eX+d9WL0Jw/i6q0a2/UKIr2k5P3G6cUb90FaGImYk8Xc
+ Q=
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+<html>=0D
+<head>=0D
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" /=
+>=0D
+	<title>Free Image of the Week: Wedding collage - Dreamstime.com</title>=0D
+	<meta name=3D"description" content=3D"Free image of the week! Sign up with=
+ Dreamstime and get 1 free high quality image like this one for free every =
+week! Tens of millions of stock images & illustrations. Thousands of new im=
+ages added daily. 60% OFF for new users today only.">=0D
+	<style>=0D
+	.fl{color:#aaaaaa;}=0D
+	h1{color: #888888; font-size: 14px; font-weight: bold; text-decoration: no=
+ne;}=0D
+	.text{color: #2f2f2f; font-size: 12px; font-weight: none; text-decoration:=
+ none;}=0D
+=0D
+</style>=0D
+</head>=0D
+=0D
+<body bgcolor=3D"#fff" style=3D"font-family: Helvetica, Arial, sans-serif; =
+padding:0; margin:0; height:100%; color:#393939; font-size:11px;">=0D
+	<table align=3D"center" bgcolor=3D"#fff" width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" style=3D"height:100%;"><tr><td>=0D
+		<table align=3D"center" bgcolor=3D"#fff" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"640px" border=3D"0">=0D
+			<tr>=0D
+				<td>=0D
+					<a target=3D"_blank" href=3D"https://sg-links.dreamstime.com/wf/click?=
+upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwkgoHOs3AJpJFHOh0wUPDnps=
+GUMvBYuGI-2BOauHTpVJMwbcwYsgdgvU9AxfQ9nvQXIRcMJiAOMC682d8EA0Ns0OifR7GZ0qxog=
+6DeO6tcC-2BEpFyDASzLESeojDqji7giwr4-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C=
+3sFC7rU3iBx2GZ9J7HVug2Eir7snIcrVI4mToG1K71-2BKg-2FR-2FaIXvoFETJvEzkALYugp05=
+jCzM5cDlA6ZFRnH3-2BSrWEH2vfNvcStWaVD8gB1h1-2BF7aIlH-2BoCzcPzZy0WzC1l12IIHSH=
+wp16WFj5efO9Amlg1gqg2l3zVCjTqFL-2FrdEn4Dcg-3D-3D">=0D
+						<img src=3D"https://thumbs.dreamstime.com/newsletter/img-fiotw/nl-hea=
+der.jpg" alt=3D" High resolution Royalty-Free and Public Domain images for =
+free. " title=3D" High resolution Royalty-Free and Public Domain images for=
+ free. " border=3D"0" style=3D"display:block;" />=0D
+					</a>=0D
+				</td>=0D
+			</tr>=0D
+			<tr>=0D
+				<td>=0D
+					<table align=3D"center" bgcolor=3D"#fff" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"640px" border=3D"0">=0D
+						<tr>=0D
+							<td width=3D"20px" bgcolor=3D"#fff" style=3D"background-image:url(ht=
+tps://thumbs.dreamstime.com/newsletter/img-fiotw/nl-leftshadow.jpg)"></td>=
+=0D
+							<td width=3D"600px" bgcolor=3D"#fff">=0D
+							<div style=3D"padding:5px 20px 0;">=0D
+								<h1>Free Image of the Week: Wedding collage</h1>=0D
+							</div>=0D
+							<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"580=
+px" align=3D"center" style=3D"margin-top:10px;">=0D
+								<tr>=0D
+									<td width=3D"340px">=0D
+										<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"=
+100%">=0D
+											<tr>=0D
+												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwmOP2zV12Mp7dfUQK90sxYnQYnPLUsUOE7=
+LrdwUBufSGxoUXrm3IRSQ1xi1mNPq44O67erCK5YH4STa-2Bckb8s1uraoQ42-2Bs-2FDSDU1VA=
+xSdL5YQ6j4ACX5UsIldEGafIM6snZoi8iw8mGA3P-2FsvtwH20mw8HFoGsfYxMnCif5Pux8aK3V=
+q7a5bd7AFNr-2FyJxOiA-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU3iBx2GZ9=
+J7HVug2Eir7snmfCUs8xbLQjgG-2F20xDaRF9sg69-2Bkayf8yZ9gOiJZr8aKN1n4HZtWnxkVcS=
+N0MqAsX6GB8Qn8NG8DuA8CtX7lj3DbNsNFVsgLBX3ihI0tw0BRfiS-2Fm4KeZiC6OORqM2DAREy=
+MODJwgqOCDjXQSyebMw-3D-3D" title=3D"Wedding collage Stock Image">=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/big/18849967.jpg" border=3D"0" alt=3D"Wedding collage Stock Photo=
+">=0D
+													</a>=0D
+												</td>=0D
+											</tr>=0D
+											<tr>=0D
+												<td style=3D"background-color:#8dbf05; color:#fff; text-align:r=
+ight; text-align:right; padding:5px 21px 5px 5px; position:relative; backgr=
+ound-image:linear-gradient(#8bb504,#91c20f); border-top:1px solid #fff;">=
+=0D
+													<a target=3D"_blank" href=3D"https://sg-links.dreamstime.com/w=
+f/click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwmOP2zV12Mp7dfUQ=
+K90sxYnQYnPLUsUOE7LrdwUBufSGxoUXrm3IRSQ1xi1mNPq44O67erCK5YH4STa-2Bckb8s1ura=
+oQ42-2Bs-2FDSDU1VAxSdL5YQ6j4ACX5UsIldEGafIM6snZoi8iw8mGA3P-2FsvtwH20mw8HFoG=
+sfYxMnCif5Pux8aK3Vq7a5bd7AFNr-2FyJxOiA-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9w=
+p1C3sFC7rU3iBx2GZ9J7HVug2Eir7snqSD5-2FSegMASmJUoW2XIdyCh853euGrMetSqgWFG5yO=
+8roSQFmdYOhW-2BWecOXzI9JchenWoBN56SBXSh-2F1cIPcdOG0epvU7U5FdPuHUnu0131Mzk7E=
+qPxQB4J64r6mI2DsqBhphzWLSwQhmbeLPo5mg-3D-3D" style=3D"color:white; font-wei=
+ght: bold; font-size:12px; text-decoration:none;">=0D
+														<nobr>Download free image <img src=3D"https://thumbs.dreamsti=
+me.com/newsletter/img-fiotw/icon-link-white.jpg" style=3D"border:0; positio=
+n:absolute; top:6px; right:5px;" /></nobr>=0D
+													</a>=0D
+												</td>=0D
+											</tr>=0D
+										</table>=0D
+									</td>=0D
+									<td valign=3D"top">=0D
+										<table cellpadding=3D"0" cellspacing=3D"10" border=3D"0" width=3D=
+"auto" align=3D"right" bgcolor=3D"#fff" style=3D"border:1px solid #d7d7d7;"=
+>=0D
+											<tr>=0D
+												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwmx-2BX-2FNi3ZsmKd5h-2FSBwEp0lfASJ=
+uPIIOtlGGxy6P6UXR4z6ypqK-2FHeqR0XbeqKDUKn1WTV7jQ7-2FT6qPk2XJzraOysMeqjmDa-2=
+F1v7Q7ODjSCC8vN4J-2FPnyIi-2BcQRg1WZiP5eV-2B8gRFpKzmGpBxC8WEvYqMCMTLDx1j8X67=
+hGS4fhfV1RhYoviZyIMiP1Oh21xc-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU=
+3iBx2GZ9J7HVug2Eir7sn3JZpli1AC5CwpqWyKdPb6FUNLVVGbPN1lyn6F88FypdLmO8orM73YQ=
+pVY227J6fV5qyN3Fowx1bo-2BOEZx6QE1ycEeWXstwqLvAkWksxLBQtDWywpJW7DjAXh3cemiTi=
+02iT5dxZO6MoOeTi21wSdaw-3D-3D" title=3D"Flying hearts Stock Image" style=3D=
+"display:block; width:100px; height:100px;" border=3D"0">=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/small/411317.jpg" border=3D0 alt=3D"Flying hearts Stock Photo" />=
+=0D
+													</a>=0D
+												</td>=0D
+												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwmx-2BX-2FNi3ZsmKd5h-2FSBwEp0lfASJ=
+uPIIOtlGGxy6P6UXa-2FFfL2fO5HSFyR0VxWlVBOZwrWqtVBAyjkRuKecBHduIJyajjmRHrp6Lp=
+qnOz41MdkMSd1DLkUTw5wNDltju8W9XJvX7K9TmgC-2FP427T3olIlE9ti0Eph6gf9-2FijT45T=
+xwCtU0zJjataTPE7eBSfmsqkUDZz2U2HQxCG4MotJYixxxAszaeJ8gI7ypqMIiLWDUQF-2FYKfC=
+rPwaFBf3s-2BRU8-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU3iBx2GZ9J7HVu=
+g2Eir7snDZnpo7OZhCswYRN9DuFKhKvkKAxb3rH6NY8hqZutwcv3CSYhVxmwI-2FQdSHctHg5f3=
+xbWVBrVMRtRPRHUNcT-2BfLnolYN1ECxPn-2FxPdXk4Ayb770hJf7cI0M-2BSpgTYkk5oqrZHsD=
+JkJxPbUAsrm3B14g-3D-3D" title=3D"Vintage style botanical floral framed back=
+ground Stock Image"=0D
+style=3D"display:block; width:100px; height:100px;" border=3D"0">=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/small/22953467.jpg" border=3D0 alt=3D"Vintage style botanical flo=
+ral framed background Stock Photo" />=0D
+													</a>=0D
+												</td>=0D
+</tr><tr>												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwmx-2BX-2FNi3ZsmKd5h-2FSBwEp0MH36B=
+zhVZ7GHNI3uiSje0SPBtxP7Bj3j5Y-2F5KegwcOl-2Frv6-2Bx3DvVV5oCPkm1cnefzmGtCh1mU=
+Rd7DOSZGJ4agk79cm4G98XMtQfPUomkUgcVijsb2ra7Li5Pc4xMgT3IsWWgz1PTmFl47gpc3L4I=
+wNhmqphWga8cVh0OnKRMa8-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU3iBx2G=
+Z9J7HVug2Eir7sndvjDY0zrtCNzEI4lXOvvnjMmNI2YR6Zoq3vHHr-2FCbQ8Pr3H2o7X3Nu770-=
+2FmKFe7sVHJuUju-2Bvtu18VWCWQX1RY4VY7dBFPGnFQ0fHID3cjXMzbPEdXTySJU5F2-2B3Te2=
+DNU5l3UxcRPL5IFboyyR-2BUg-3D-3D" title=3D"Life collage Stock Image" style=
+=3D"display:block; width:100px; height:100px;" border=3D"0">=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/small/26089479.jpg" border=3D0 alt=3D"Life collage Stock Photo" /=
+>=0D
+													</a>=0D
+												</td>=0D
+												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwmAIMLjglh5hYzRaJrfx4FU04U0Q33uksH=
+ofWHi3VS9yY4vk5g-2FZx5bYmXgT68fvHFbdEd157DUM1w8rGSNmDDLkLgmsPdpQ6ynwDMuZ8dT=
+lGMF-2FLIUj0od5cD7-2B0WnCWWnjt1ZpSGW3iNRU8WsVo41eytiHEkXnllOLKdUnUFhR2-2Bjb=
+WNRd696u7jOZ5R2ktCUUmVj38SBzuEXUlnbODTlm-2BsoFf5gd6hBEXzFA3mqdw-3D-3D_wX6Tn=
+8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU3iBx2GZ9J7HVug2Eir7snLr9FEeQGyyOvWTle=
+NyoT0Sgdz-2BALQIS5N33cCxEMGiLHf8w9GsnhV-2BBpkJrAb9z-2BRpXg1unIqK5RrVG4o5ZMD=
+59tRERVYjvE-2B2My6o1haHZuXHbByYmxV3PpRr5sBDC5DYY0XyBuXcJURUac6pEpUw-3D-3D" =
+title=3D"Abstract tulips flowers oil painting. Stock Image"=0D
+style=3D"display:block; width:100px; height:100px;" border=3D"0">=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/small/41888722.jpg" border=3D0 alt=3D"Abstract tulips flowers oil=
+ painting. Stock Photo" />=0D
+													</a>=0D
+												</td>=0D
+</tr><tr>												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwmAIMLjglh5hYzRaJrfx4FUBLDkrdvGIrV=
+6arEqynusRR86zxnaHLdGpYIvo8yevGDiEp6Ml2-2FgL6VnS3mRp-2F8LAkJxOjgoVO-2Fx525T=
+NPyj91c7wIPdcsA2-2BtL2OIrVQlw-2BrcCq8B6KPSz0TNJfWA0p73mxAN6kNFOr9cfKI3ayiMr=
+r9xAHP121xo7rCI8iT43NfUKpPwCbtowt1TX8ptEM_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9w=
+p1C3sFC7rU3iBx2GZ9J7HVug2Eir7sncf7XE6VaU-2FKe6setTL67bw-2FFNQlA62aI2sJVR3JU=
+gDUA-2F4nVetH7PE2Z4dfKqcT1cS2xMipqRb7-2F27UABFDbpCqNbD7lQdW08uokNKlns1dQ-2F=
+on6BAofG-2Fge2nMhVL761my4uH20WhoCZ6IcpbQXbA-3D-3D" title=3D"Flower Mason Ja=
+r Stock Image" style=3D"display:block; width:100px; height:100px;"=0D
+border=3D"0">=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/small/57317921.jpg" border=3D0 alt=3D"Flower Mason Jar Stock Phot=
+o" />=0D
+													</a>=0D
+												</td>=0D
+												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwmx-2BX-2FNi3ZsmKd5h-2FSBwEp0EqSC0=
+ye-2BgjHEYZkdIj5qzqCz-2BuAoMziMKUjPqwDRz5Bi2I1ZT8WpWMjMwSDUoUFCfPcdGuJH9SUY=
+0p0XyV4pDgNuy6Rvb8KidOaXLaFoIS6gKKdFPB4D5BPIn7HWo9npW-2BHSTcPakbL2aYhJvrgeH=
+BDnIeUUWpTvI-2FDc-2BZRSaSw-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU3i=
+Bx2GZ9J7HVug2Eir7snp3kd7GvQvC0zNCA5Ii1cGx5B6EB0uh1Sl2gSpqMGEjkEokjEWuZQ11L-=
+2BbDlT0VkQZchOh8cagzxqgIRcKRUiiii1MHQTjV-2FwOhGl-2BAmYjDVy7NxQUwMq5PVK8dGRz=
+AT7xmNMzaS7W6LV8f8LnmTY4A-3D-3D" title=3D"Diamonds Stock Image" style=3D"di=
+splay:block; width:100px; height:100px;" border=3D"0">=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/small/17523409.jpg" border=3D0 alt=3D"Diamonds Stock Photo" />=0D
+													</a>=0D
+												</td>=0D
+											</tr>=0D
+										</table>=0D
+										<table cellspacing=3D"0" style=3D"width:232px; background-color:#=
+fff; border:0;" align=3D"right">=0D
+											<tr>=0D
+												<td style=3D"text-align:right; padding:5px 15px 5px 5px; positi=
+on:relative;">=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwkUVMCXlBe7E-2Bfsekbsp55CfCqNRAGzY=
+PQugoxjfSGO5GUlRpoUbm63ZZX-2FUa9rMt-2FwLTbeaC-2B-2BatLrQ7dAdSgpOzpW5vgajtRA=
+gNTgP-2BtaSCgQ32CbT1dcVLjEy2tz5TB5iQkCYtuakyPxbp2pS4tCMeyBbEuEkeX3MPXOkOMgr=
+w-3D-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU3iBx2GZ9J7HVug2Eir7snnEm=
+Bvcgc3dUqeoEoyXkdukOWdvTSmxEFxZkuvLGF01rCeHv-2FeN3AZdnw7H5gGdKeItAoBDMxLKmQ=
+HFY3BtW-2Be5HiQVgqm-2FrPVPR5ijwLBnlyZ9r-2BxsdEpewas-2FuxOtlExh165TncdSIccT2=
+N18XXFQ-3D-3D" style=3D"color:#2f2f2f; font-size:12px; font-weight:bold; te=
+xt-decoration:none;">=0D
+														<nobr>Popular commercial stock photos <img src=3D"https://thu=
+mbs.dreamstime.com/newsletter/img-fiotw/icon-link-black.gif" style=3D"borde=
+r:0; position:absolute; top:6px; right:0;" /></nobr>=0D
+													</a>=0D
+												</td>=0D
+											</tr>=0D
+										</table>=0D
+									</td>=0D
+								</tr>=0D
+							</table>=0D
+							</td>=0D
+							<td width=3D"20px" bgcolor=3D"#fff" style=3D"background-image: url(h=
+ttps://thumbs.dreamstime.com/newsletter/img-fiotw/nl-rightshadow.jpg)"></td=
+> <!-- Right edge. -->=0D
+						</tr>=0D
+						<tr style=3D"background-color: #fff;">=0D
+						 	<td colspan=3D"3" style=3D"background-color:#fff; font-size:11px;">=
+=0D
+								<img src=3D"https://thumbs.dreamstime.com/newsletter/img-fiotw/nl-f=
+ooter.jpg">=0D
+								<center>=0D
+								To manage your email preferences click=0D
+								<br/>=0D
+								the following link:=0D
+								<a target=3D"_blank" class=3D"fl" href=3D"https://sg-links.dreamsti=
+me.com/wf/click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwlZ6hg6R=
+7i1Mr8kHU4urzpPPvxspsX363Ceol6lMQruE3OYyJkwebFf6p9oMdtHrBYJfyo-2Fkg82mVP-2B=
+nXuPkLMp4BwXoybZsXoVHwhSe2sWAOAKnZWSEQ4SgGol71uUJy4IoKGTNB884jK7TopDZ9Uncnr=
+lw8fogLPs4I-2Buuqrr7z6msVgs0ct-2BlfbbHZWG5Pd3XL1UQKDE8gD0YPwZ-2FWlz_wX6Tn8D=
+xuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU3iBx2GZ9J7HVug2Eir7snoR0tVlMauBbWnQwb4f=
+Xwqtx-2BmNUto0XtzDdea1UE04pETsE4I3CYHbj8IoU6o0esWKHKU1ixVrLEllEm1sPJrQOwUOd=
+pAXmqSkY7tN5XjOZaaUKjPFVE5l-2Bgu9nhl1XAPipe7-2BQzUDNmp3OHrTM-2B1I2v-2Bpmyyw=
+SMQfY7okQOLaA-3D">update email notifications</a>
+								</center>=0D
+							</td>=0D
+						</tr>=0D
+					</table>=0D
+				</td>=0D
+			</tr>=0D
+		</table>=0D
+	</td></tr></table>=0D
+
+<img src=3D"https://sg-links.dreamstime.com/wf/open?upn=3DwX6Tn8DxuOHyUT84o=
+RHUiXN8gCHAaQR9wp1C3sFC7rU3iBx2GZ9J7HVug2Eir7snK0ENOWChODUC4tqLu70AIRUdLsD3=
+3WSWZ2JjjBLDvT9yHqu0rIGcStr1wfuYlQMjl1XexhHRams0jsG5EYWVhDB86ciM5nWE6m0dQsJ=
+iduivMqWkeXVPTHvbhrn5-2F-2BG3AvAAw-2Bd81xwBxzKwE-2Bb5doY06AeYskdWof1-2FbhW-=
+2BsEQ-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1p=
+x !important;width:1px !important;border-width:0 !important;margin-top:0 !i=
+mportant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0=
+ !important;padding-top:0 !important;padding-bottom:0 !important;padding-ri=
+ght:0 !important;padding-left:0 !important;"/>
+</body>=0D
+</html>
+

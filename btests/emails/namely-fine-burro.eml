@@ -1,0 +1,317 @@
+Received: from mxfront4g.mail.yandex.net ([127.0.0.1])
+	by mxfront4g.mail.yandex.net with LMTP id Mis7XtJy
+	for <davidjackson@yahoo.com>, <justinanderson@gmail.com>; Wed, 8 Nov 2017 02:41:04 +0300
+Received: from o5.sg.dreamstime.com (o5.sg.dreamstime.com [198.37.144.33])
+	by mxfront4g.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id AIa3Rhd9Gh-f3ESTP82;
+	Wed, 08 Nov 2017 02:41:03 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+X-Yandex-Front: mxfront4g.mail.yandex.net
+X-Yandex-TimeMark: 1510098063
+Authentication-Results: mxfront4g.mail.yandex.net; spf=pass (mxfront4g.mail.yandex.net: domain of sg.dreamstime.com designates 198.37.144.33 as permitted sender, rule=[ip4:198.37.144.33]) smtp.mail=bounces+2575098@sg.dreamstime.com; dkim=pass header.i=@dreamstime.com
+X-Yandex-Spam: 2
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=dreamstime.com; 
+	h=to:from:subject:mime-version:content-transfer-encoding:content-type; 
+	s=s1; bh=dDxvO8j3Pr68M59ueF424uKSWro=; b=zItn/dwWN2vEAgSaVBXIjlW
+	bdFUb0BxYTZK+QsEGWY0vAiCSIk3U9TpI8WJ7/cAZi4VjoY3iEBXkxgFfX1PpdI6
+	oecBuQXZ6oCEcf5AaV/kqafl7rNh8FDUImugzCDT3teibPl3xXCyjBre8c5IT6Rm
+	XKL33PUrFkisxl0sdDxg=
+Received: by filter0236p1iad2.sendgrid.net with SMTP id filter0236p1iad2-8902-5A02448D-11
+        2017-11-07 23:41:01.807052817 +0000 UTC
+Received: from news.dreamstime.com (news.dreamstime.com [75.126.68.230])
+	by ismtpd0019p1las1.sendgrid.net (SG) with ESMTP id xSkxKczGSt-ay5ZcsIJ__g
+	for <davidjackson@yahoo.com>, <justinanderson@gmail.com>; Tue, 07 Nov 2017 23:41:01.639 +0000 (UTC)
+Date: Tue, 07 Nov 2017 23:41:01 +0000 (UTC)
+To: Shelley Green <allison10@yahoo.com>, Eric Morton <millertracey@rivera.com>, James Evans <mbrooks@yahoo.com>, Daniel Franklin <tracy33@brown.com>, Catherine Frazier <thomasjustin@morris-graham.biz>
+From: Dreamstime <no_reply@dreamstime.com>
+Subject: Free image of the week: Business people
+Message-ID: <6ba8865cdaf823322a21f96e61742d52@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+content-transfer-encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+X-SG-EID: TbFNxiv1Y3ynZq1J/+sOVls0KRa3mA/nvn7IzLWHogZ4KVYd7CObFcWO+rI2uz3x2zRtwbzTTpDtl0
+ +NRhX4o+M8qloEdF3WZBLsbkQ55+2UJokIKV3ZqaUis9jhjUFHrcgNTpl0yKZPp8iZMVKhombYjnm7
+ ou6r6NQc/gd2FqCjiA26oGOB6V46bcl22XJhrxxL8sJtV1VMDoNdo5jCqvLT7NDPCgDYfN7wMgGIbX
+ M=
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+<html>=0D
+<head>=0D
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" /=
+>=0D
+	<title>Free Image of the Week: Business people - Dreamstime.com</title>=0D
+	<meta name=3D"description" content=3D"Free image of the week! Sign up with=
+ Dreamstime and get 1 free high quality image like this one for free every =
+week! Tens of millions of stock images & illustrations. Thousands of new im=
+ages added daily. 60% OFF for new users today only.">=0D
+	<style>=0D
+	.fl{color:#aaaaaa;}=0D
+	h1{color: #888888; font-size: 14px; font-weight: bold; text-decoration: no=
+ne;}=0D
+	.text{color: #2f2f2f; font-size: 12px; font-weight: none; text-decoration:=
+ none;}=0D
+=0D
+</style>=0D
+</head>=0D
+=0D
+<body bgcolor=3D"#fff" style=3D"font-family: Helvetica, Arial, sans-serif; =
+padding:0; margin:0; height:100%; color:#393939; font-size:11px;">=0D
+	<table align=3D"center" bgcolor=3D"#fff" width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" style=3D"height:100%;"><tr><td>=0D
+		<table align=3D"center" bgcolor=3D"#fff" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"640px" border=3D"0">=0D
+			<tr>=0D
+				<td>=0D
+					<a target=3D"_blank" href=3D"https://sg-links.dreamstime.com/wf/click?=
+upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwkgoHOs3AJpJFHOh0wUPDnps=
+GUMvBYuGI-2BOauHTpVJMwbcwYsgdgvU9AxfQ9nvQXIRcMJiAOMC682d8EA0Ns0OifR7GZ0qxog=
+6DeO6tcC-2BEpIeUQ1ZCI3-2BvSPQ1Z8nxWbIdp9v2dxF4BYbS6hQ5tcFr0TOLH9o9SSOydzHxw=
+UiPxXDdCnPgMNiUzdL-2FU3q7TrQb0HCA7COgn1xO65g-2FDC-2B3_wX6Tn8DxuOHyUT84oRHUi=
+XN8gCHAaQR9wp1C3sFC7rUxxTu1akSIA-2Fy9Jal0AwJJE30DibVUCQCLrwNoYtQGlFzD8VxGbj=
+f857wmcvwTMLpvpD8J1LIuiFHJTEETy01rxqlXjrHmfdoTEU2wObcfJSW-2BLkBCQ8QMLfN7ief=
+Aa2LYHFFZlO9leLXq0hwJrd6o-2BCIRyT6j9jFfcW3wvqdprQ-3D-3D">=0D
+						<img src=3D"https://thumbs.dreamstime.com/newsletter/img-fiotw/nl-hea=
+der.jpg" alt=3D" High resolution Royalty-Free and Public Domain images for =
+free. " title=3D" High resolution Royalty-Free and Public Domain images for=
+ free. " border=3D"0" style=3D"display:block;" />=0D
+					</a>=0D
+				</td>=0D
+			</tr>=0D
+			<tr>=0D
+				<td>=0D
+					<table align=3D"center" bgcolor=3D"#fff" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"640px" border=3D"0">=0D
+						<tr>=0D
+							<td width=3D"20px" bgcolor=3D"#fff" style=3D"background-image:url(ht=
+tps://thumbs.dreamstime.com/newsletter/img-fiotw/nl-leftshadow.jpg)"></td>=
+=0D
+							<td width=3D"600px" bgcolor=3D"#fff">=0D
+							<div style=3D"padding:5px 20px 0;">=0D
+								<h1>Free Image of the Week: Business people</h1>=0D
+							</div>=0D
+							<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"580=
+px" align=3D"center" style=3D"margin-top:10px;">=0D
+								<tr>=0D
+									<td width=3D"340px">=0D
+										<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"=
+100%">=0D
+											<tr>=0D
+												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwnB-2F58Vlip9-2BR306F-2FhUEciWEuOw=
+8yP5LiAh19Ol74NKyaSnekF8gvfRJjQkkpB3v1IF4y341aOr5CDRQ1R8nUq9Ics10LBqlgX-2Ff=
+VXSqesMaUxSNGA7qMryF5mdDEOsbeuK4qT0v3BF0I-2BOEWgb3y8GUbBJsr-2BhOxXETnXi9lfN=
+fv-2F1DN5NT7COTcznsG7OWn0vzN9n0siLREsqSeEG6QvTXU4zVgzFlY2xodetYAwuz8cxf-2Br=
+Jb-2F1kr3rtK7YJhQpk04KKlhTptar3iSHGaro_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C=
+3sFC7rUxxTu1akSIA-2Fy9Jal0AwJJLOMi8B1mcRM-2BGZ-2BVWTVkoOXgPWeAmA2slnS8HFfTT=
+8w-2F1UqqexhUrQN9oIwrDifAr5B37gVElwXwR7XGgR-2FlTL1-2BYXmAuKjyUlV-2F2LkGddFw=
+OcYxSm26uhOXr6hrtFHn4Dt-2BUuFNdoGWIHwL2cfeIw-3D-3D" title=3D"Business peopl=
+e Stock Image">=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/big/17163156.jpg" border=3D"0" alt=3D"Business people Stock Photo=
+">=0D
+													</a>=0D
+												</td>=0D
+											</tr>=0D
+											<tr>=0D
+												<td style=3D"background-color:#8dbf05; color:#fff; text-align:r=
+ight; text-align:right; padding:5px 21px 5px 5px; position:relative; backgr=
+ound-image:linear-gradient(#8bb504,#91c20f); border-top:1px solid #fff;">=
+=0D
+													<a target=3D"_blank" href=3D"https://sg-links.dreamstime.com/w=
+f/click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwnB-2F58Vlip9-2B=
+R306F-2FhUEciWEuOw8yP5LiAh19Ol74NKyaSnekF8gvfRJjQkkpB3v1IF4y341aOr5CDRQ1R8n=
+Uq9Ics10LBqlgX-2FfVXSqesMaUxSNGA7qMryF5mdDEOsbeuK4qT0v3BF0I-2BOEWgb3y8GUbBJ=
+sr-2BhOxXETnXi9lfNfv-2F1DN5NT7COTcznsG7OWn0vzN9n0siLREsqSeEG6QvTXU4zVgzFlY2=
+xodetYAwuz8cxf-2BrJb-2F1kr3rtK7YJhQpk04KKlhTptar3iSHGaro_wX6Tn8DxuOHyUT84oR=
+HUiXN8gCHAaQR9wp1C3sFC7rUxxTu1akSIA-2Fy9Jal0AwJJF4Knk8GrktdH95G4fvPytoMlCxe=
+Zs36SDMJolkWfbutXRFTGOjjKkx1VtaBLv26uD963jkz-2BO83jxiUpvGtYHUL2Brx-2FHIU5Ve=
+i-2F6Pi7H1JISVpJuZA5E0Ty6U7bU9AE6ctRJJkK0I0vwBW-2F7i5nGw-3D-3D" style=3D"co=
+lor:white; font-weight: bold; font-size:12px; text-decoration:none;">=0D
+														<nobr>Download free image <img src=3D"https://thumbs.dreamsti=
+me.com/newsletter/img-fiotw/icon-link-white.jpg" style=3D"border:0; positio=
+n:absolute; top:6px; right:5px;" /></nobr>=0D
+													</a>=0D
+												</td>=0D
+											</tr>=0D
+										</table>=0D
+									</td>=0D
+									<td valign=3D"top">=0D
+										<table cellpadding=3D"0" cellspacing=3D"10" border=3D"0" width=3D=
+"auto" align=3D"right" bgcolor=3D"#fff" style=3D"border:1px solid #d7d7d7;"=
+>=0D
+											<tr>=0D
+												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwmx-2BX-2FNi3ZsmKd5h-2FSBwEp0g5ZZE=
+bJeNeETpSJfhexnGJv6cKYPrlIdQDzaArD8-2BoeSiWVE-2FbzEH2UadmYbEAY1TVIdqGm9cPOS=
+DwTni2-2BWz7dxxegshau-2BOZc-2BnnaVuC3BUxdZ6ve7PhoQnLAxGOkjiD90nIXLcd-2B9yPB=
+-2ByzEO2TA-2Bnet-2Be3NWk-2FtWCVpYROC-2FGxv7NR-2BoBaVAFPYo5uwyUD0UHmfZunBPH1=
+BobSw0MtP6gUi8uduyInJpG0ATrlg-2BIIvRXa6B5Gc7DABsod-2BA_wX6Tn8DxuOHyUT84oRHU=
+iXN8gCHAaQR9wp1C3sFC7rUxxTu1akSIA-2Fy9Jal0AwJJAQYfPvcojm-2BjYULYKilHRXrjMBC=
+1zZmJxhn4DlP0XMRAiKfvLo2SAdeKczO4sCC9Wu4MagzPRjukDa9NYKCX9w5zMrvNxaiH-2FvY5=
+5ZmU4jHhVfYyGlAOavjwpkhycWpPW2mx4TUmvRD5v4OrWCF-2BZg-3D-3D" title=3D"Office=
+ scene Stock Image" style=3D"display:block; width:100px; height:100px;" bor=
+der=3D"0">=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/small/90129.jpg" border=3D0 alt=3D"Office scene Stock Photo" />=
+=0D
+													</a>=0D
+												</td>=0D
+												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwmx-2BX-2FNi3ZsmKd5h-2FSBwEp0YCefi=
+UR9Swi8DEMNkd1dqrsRCpK4zhhqmcJPn0Bpuejx4GSB4evTel0naimynpDPpT8PQ4fqAxXEnJDc=
+TcOU-2F9ur0Y1XfejEIbeYPI4zgywUtf-2FdlSRfiNp6pzK0T7Is77MKjmkMe5N-2B-2FDgybcj=
+CyqpJfzumcQW-2BsIDjmZ9IFwfTLvTLDiuTp03-2BH-2BoA1qwyeqMJSVu-2BABcEm6lsnMmAsf=
+Y6cVUfZwWuTrqR0T-2FX8UPRlJRTCzt7Frjp-2BncLYQ-2BLrP05JZfwzY1PRQqjdE0Yb58JIyh=
+-2Fb8l5UhvMtAWyXS0AIJA5lIblzQVWD6ayesIh_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1=
+C3sFC7rUxxTu1akSIA-2Fy9Jal0AwJJoTCvtV20rEAkSenifiD7KvDNfVJ02syIzRKH8z0rkdm4=
+sx4e1mmti8ORfIk4biXbaUKolpSEI8gmkjLXEMtO4kAAhHs60U7Rjmj3pOWOoeBB7rDFGAn9Gai=
+IHXWNJ-2FRfw1CMsph82A5t-2Fy402QxbAQ-3D-3D" title=3D"The right door Stock Im=
+age" style=3D"display:block; width:100px;=0D
+height:100px;" border=3D"0">=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/small/34113345.jpg" border=3D0 alt=3D"The right door Stock Photo"=
+ />=0D
+													</a>=0D
+												</td>=0D
+</tr><tr>												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwmx-2BX-2FNi3ZsmKd5h-2FSBwEp0lfASJ=
+uPIIOtlGGxy6P6UXU8SXs8-2BRbknRS2Btzpq1UaFMkx1WeS1oJmDX2uYDRuhJbqs7bBzVxQM4H=
+ndRr2WMEQJ8ExWHg34GX03PaDSjwbbd3aGZL8N4Wh-2Bhh-2FaUXEtffReJr19A2d922ukZR-2B=
+ifYYh-2F6h-2FdmBZzu4t-2FjaXbzIkeEuSGsjdh4WQjzVXYFuM8C-2BlSkz3wZv9K0TcYfqyZT=
+AiBvdmzh5LCMqJaXGX7-2FHbJYv1ktAFjiFEPpqU-2FwpM_wX6Tn8DxuOHyUT84oRHUiXN8gCHA=
+aQR9wp1C3sFC7rUxxTu1akSIA-2Fy9Jal0AwJJ0w2KJbN-2F0sLdAEIoxLP-2BouMmMeq398JAv=
+0p-2F26zsEB99m5mweUMoYhII1rCK7CWtnhzkf21KiIEddirJIDTTGDC6qnMF5GNzuSIpJAhSZT=
+Nlo2HcJurqSlfa71cC-2FSYiU1X-2FWauIdXUQYSSgPKSC0A-3D-3D" title=3D"Airport St=
+ock Image" style=3D"display:block; width:100px; height:100px;" border=3D"0"=
+>=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/small/864707.jpg" border=3D0 alt=3D"Airport Stock Photo" />=0D
+													</a>=0D
+												</td>=0D
+												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwmx-2BX-2FNi3ZsmKd5h-2FSBwEp0wxJwT=
+q9Opzb391qxlFmnfbLaLYTqc69UlAte6ViNhQUcOaX4s19Wsi2v1VufJ0epiioyT5RvevcFre5h=
+vxXXkr7NMMsvQo8rM4sPSHqaXnVTIiOZ-2FqLDKYdutbT2Hln0Aw8pXogNy9HrRPJzTgHC5c-2F=
+kuFjLqhcvFS-2Fr9ThSwx56iHc1q31Dvc-2BZKmrq-2FOVd-2BeSQxD9daLUYPRXFJczZQ7zGFJ=
+gdeNYDQgtHqDHN55GzHTaJZhKe7F7r0n2-2B-2BZ-2BV_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQ=
+R9wp1C3sFC7rUxxTu1akSIA-2Fy9Jal0AwJJeU0GFjH1e96eFZ1yA75cDXuSwk6ZOscmQRZpvGM=
+Md0gQeUtqtrbOW6bg2Wd8o6UIab4PVMvXNjhJCLpg0f2UI92kQNSbvbmXyuxRohQwU-2F3wsSpe=
+a7s-2FRFJcQDsNDVGmWM6brbatJqRsyfGI1434tg-3D-3D" title=3D"People Walking in =
+Airport Stock Image" style=3D"display:block; width:100px; height:100px;"=0D
+border=3D"0">=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/small/327979.jpg" border=3D0 alt=3D"People Walking in Airport Sto=
+ck Photo" />=0D
+													</a>=0D
+												</td>=0D
+</tr><tr>												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwlu8oEIWtJaEnCPB2ENzz8tAbuaZ7Bs3p8=
+5TyoeTUmOBw94c4FqNCW-2BQkdbCECC-2BxBardTkCpeWaTAlSRyO0-2FZDjWlAUDM-2BzsKj3y=
+vBp-2BETmZTKjo5ouIpI1U4-2FKMGdSLuugUFbJRy8WVtM8SqnrcQJdLiQr1oLMZLvwVp9fBJ73=
+OAWLI7-2FGBuPQhPkhKjMc78guFhEIT1MEyXOg29HxDi5E7Uy76-2B70lzN1xm9GL4ETBpI9vgv=
+dsCDObNNlUYv0Ss-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rUxxTu1akSIA-2F=
+y9Jal0AwJJ7yDN7Y-2FbvzmI1LMu7qD3b7uR938WOZlZGLMsLIk-2BuJe6fbe-2BSQI3H3f8lpE=
+SZ406ww2SlIf5U0E9nE3HeKSIvyBveusur4O6YN9K3UIxHiFcYc9mxrCQpZYIevEA5iuVUYgzh-=
+2BPb-2BnEk5XJJ8WcSbw-3D-3D" title=3D"Hand shake Stock Image" style=3D"displ=
+ay:block; width:100px; height:100px;" border=3D"0">=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/small/6441202.jpg" border=3D0 alt=3D"Hand shake Stock Photo" />=
+=0D
+													</a>=0D
+												</td>=0D
+												<td>=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwlB8RqNTwx5dWiFP4qCCLEpiQirmVLMaUM=
+GF-2BGURwFFCTvB1mtKu0p1fLSzLvQLO4Jdvf2Q2yCwWckcAq-2Bcy6-2FaTWU-2FrRfrTybOio=
+-2Bbz5RF5bTCrXZAgbNsperdCqtZ6nuiS9mBBSXcf3HYtcKKyGfppFIPebpHP03v3lCkw0qbY94=
+yFZ4RnsxVaarm58NMYYfNxMYocHpxqE8bVJQLm8vEqx9T9f5nVNYBuLwT17fDzlKT0a6cOBl1ch=
+mfoLGRRlE-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rUxxTu1akSIA-2Fy9Jal0=
+AwJJbVE5o0TdySePGWb-2BtxZWru-2Bos4tUsKYMuH2zMcqwizl1O0eMQsENtIRzR64ctAT6s9i=
+Vp85gt89ar3wm-2FQFzil8sKnAtesJ-2Fq2fKybp-2FugSNc8VefNsE7tQe8skqNQ5aATROQnHh=
+CuQ9HtV3hKDBtw-3D-3D" title=3D"Speed of life. Stock Image" style=3D"display=
+:block; width:100px; height:100px;" border=3D"0">=0D
+														<img src=3D"https://thumbs.dreamstime.com//newsletter/img-fio=
+tw/images/small/5544280.jpg" border=3D0 alt=3D"Speed of life. Stock Photo" =
+/>=0D
+													</a>=0D
+												</td>=0D
+											</tr>=0D
+										</table>=0D
+										<table cellspacing=3D"0" style=3D"width:232px; background-color:#=
+fff; border:0;" align=3D"right">=0D
+											<tr>=0D
+												<td style=3D"text-align:right; padding:5px 15px 5px 5px; positi=
+on:relative;">=0D
+													<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJs=
+rbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwkUVMCXlBe7E-2Bfsekbsp55CT-2F2wSB8=
+MVRNEr6gkE-2B8OG1lV8KoxRV-2FeiipKHv-2FNTZ2ZLEJmxXVDhaia9mJnV5q5Yt3H4xmsRMep=
+gZe5UCprLznd5PSzQxAssAyvJvb2iukQpFKXSUeZ6qFbCGEANDP2l0JKPfRCeISKZMGmkeQmLqG=
+8nB9Z-2BY-2BhR-2BrtahN7CKYNK-2BnsUYL-2FN-2FOKpuUnTp5AOpViv0RWG9dCx4JigUfp0C=
+1ehWEXUdmKKceqYtgS1k8-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rUxxTu1ak=
+SIA-2Fy9Jal0AwJJQmN9yTIyULJbQ57dd5X7oSpZ96PEcC-2FSd8GeN2ZBM-2Fq5t1uBsIWUAD5=
+Z6o43ZoT6JRks-2BjDxk1i5yxVR1l97-2FYcWdkXHPHCUczusZFzFF2rBtOllu68fH-2Fexiblq=
+FUYJLSg-2BIDm1GQ3rstRDoGFwTA-3D-3D" style=3D"color:#2f2f2f; font-size:12px;=
+ font-weight:bold; text-decoration:none;">=0D
+														<nobr>Popular commercial stock photos <img src=3D"https://thu=
+mbs.dreamstime.com/newsletter/img-fiotw/icon-link-black.gif" style=3D"borde=
+r:0; position:absolute; top:6px; right:0;" /></nobr>=0D
+													</a>=0D
+												</td>=0D
+											</tr>=0D
+										</table>=0D
+									</td>=0D
+								</tr>=0D
+							</table>=0D
+							</td>=0D
+							<td width=3D"20px" bgcolor=3D"#fff" style=3D"background-image: url(h=
+ttps://thumbs.dreamstime.com/newsletter/img-fiotw/nl-rightshadow.jpg)"></td=
+> <!-- Right edge. -->=0D
+						</tr>=0D
+						<tr style=3D"background-color: #fff;">=0D
+						 	<td colspan=3D"3" style=3D"background-color:#fff; font-size:11px;">=
+=0D
+								<img src=3D"https://thumbs.dreamstime.com/newsletter/img-fiotw/nl-f=
+ooter.jpg">=0D
+								<center>=0D
+								To manage your email preferences click=0D
+								<br/>=0D
+								the following link:=0D
+								<a target=3D"_blank" class=3D"fl" href=3D"https://sg-links.dreamsti=
+me.com/wf/click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwlZ6hg6R=
+7i1Mr8kHU4urzpPPvxspsX363Ceol6lMQruE3OYyJkwebFf6p9oMdtHrBYJfyo-2Fkg82mVP-2B=
+nXuPkLMp4BwXoybZsXoVHwhSe2sWAOAKnZWSEQ4SgGol71uUJy4bcfnmCKfzntWX4UQTuzvC6qZ=
+NqxoC9W8ahgwU8Mz94sHVeXCxDlnMxY8ogJvwqLH3DmuSpLIC0v73-2BGgig8CMMevB0bCy9h5S=
+8ApCuZCuYVfh6t68OvPm1IUdczf-2FIOgRhnvn0-2BoKTZXc4LLUbu37f4oHDimvj2Wlg5Zy3NF=
+HqA-3D-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rUxxTu1akSIA-2Fy9Jal0AwJ=
+Jlftj76GXbZh2kOoSPJHxOX4Z064Ve4DxUXdAFDkbn-2B25rpu1KffIxqkLQGwAXzIIPGv9m1KZ=
+NsW9iIJQgxJ-2FKbyLlW92p5-2FeadEJOzou2faK32lyWxtXWymYNiq6Bb31OAPuYoLZYRePzMP=
+fuYbrZg-3D-3D">update email notifications</a>=0D
+								</center>=0D
+							</td>=0D
+						</tr>=0D
+					</table>
+				</td>=0D
+			</tr>=0D
+		</table>=0D
+	</td></tr></table>=0D
+
+<img src=3D"https://sg-links.dreamstime.com/wf/open?upn=3DwX6Tn8DxuOHyUT84o=
+RHUiXN8gCHAaQR9wp1C3sFC7rUxxTu1akSIA-2Fy9Jal0AwJJeAeICNvTVZxlNIWAdF-2FDz2Ek=
+g85XYbyQFChv8ovYyxrw-2BkjoGYqs-2B9snUtOwtkohoTxrLditmiO1mZmVzh5RXXSn-2BFXmr=
+5Z00xB47OR67dM-2B02XxOTcYGFJ1Bki-2F-2BiHghI-2FmW6DO0vKCDquIBVtFoR4N6lU9Kixl=
+QuOPeSxESvI-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"hei=
+ght:1px !important;width:1px !important;border-width:0 !important;margin-to=
+p:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-=
+left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padd=
+ing-right:0 !important;padding-left:0 !important;"/>
+</body>=0D
+</html>
+

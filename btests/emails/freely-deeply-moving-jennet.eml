@@ -1,0 +1,580 @@
+Received: from mxfront8o.mail.yandex.net ([127.0.0.1])
+	by mxfront8o.mail.yandex.net with LMTP id 60Z2hnCZ
+	for <laura85@williams.com>, <isalazar@gomez.net>, <cameronlisa@hotmail.com>, <barbara46@yahoo.com>, <baileyholly@stanley.biz>, <ryanterry@gmail.com>; Fri, 3 Nov 2017 03:40:22 +0300
+Received: from o4.sg.dreamstime.com (o4.sg.dreamstime.com [198.37.144.198])
+	by mxfront8o.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id 0aBVJDKbCH-eJWqJgpW;
+	Fri, 03 Nov 2017 03:40:20 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+X-Yandex-Front: mxfront8o.mail.yandex.net
+X-Yandex-TimeMark: 1509669620
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=dreamstime.com; 
+	h=to:from:subject:mime-version:content-transfer-encoding:content-type; 
+	s=s1; bh=O0RHZvWcP1gXDihvdvjgC+vJoS0=; b=193jfvdLuTJv36UCmUYsTHg
+	iAer9Dmt/V9EZlny5F1kkQ3k316p7+e1ZQ4/8ypEPv60/AbQQ6AtEFs67aiY6snk
+	GbM1rZOlVRPUkVBRqiP5v8H5t+BJwwhSnRJp5PEWgnrOWlmBTYyyxPjJKNfZClA7
+	uRxZl2QD7fwLgczuzQ8M=
+Received: by filter0489p1las1.sendgrid.net with SMTP id filter0489p1las1-24654-59FBBAF2-7
+        2017-11-03 00:40:18.223570105 +0000 UTC
+Received: from news.dreamstime.com (news.dreamstime.com [75.126.68.230])
+	by ismtpd0007p1sjc2.sendgrid.net (SG) with ESMTP id taPJY-o-S9enLbr2VoRCew
+	for <laura85@williams.com>, <isalazar@gomez.net>, <cameronlisa@hotmail.com>, <barbara46@yahoo.com>, <baileyholly@stanley.biz>, <ryanterry@gmail.com>; Fri, 03 Nov 2017 00:40:18.193 +0000 (UTC)
+Date: Fri, 03 Nov 2017 00:40:18 +0000 (UTC)
+To: Robert Parrish <ndalton@yahoo.com>, Renee Jackson <jamesmorgan@gmail.com>, Melvin Riley <pespinoza@gmail.com>, Stanley Vance <yramsey@jordan.info>, James Jones <brandonking@yahoo.com>, Devin Johnson <elizabeth29@hotmail.com>, Holly Meyer <ilee@davila.com>
+From: Dreamstime <no_reply@dreamstime.com>
+Subject: Let's blog: Photography: For Love or Money
+Message-ID: <2930bce695e234948b3dbc53725f2ff3@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+content-transfer-encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+X-SG-EID: TbFNxiv1Y3ynZq1J/+sOVls0KRa3mA/nvn7IzLWHogY30rEL09EVnVdL9pQTMunrewUlYYxr/gFNU1
+ J/BPqgeaqIRnBU0YJ102cpd3bI1PxBYTKz6C9BybcKQDfYp/2PYddbXlZr8OC70NOBkKpyONNfaula
+ ZcJTTUK+bLNkucVAdf+xNP/kts3kSlvr//DlP6Yi3/CgkxM5/2P6JDEL+Q==
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+<html>=0D
+	<head>=0D
+		<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>=0D
+		<title>Let's blog: Photography: For Love or Money</title>=0D
+		<meta name=3D"description" content=3D"Let us know what you're up to by po=
+sting on your own Dreamstime blog!" />=0D
+		<style>=0D
+		.fl {=0D
+			color: #fff;=0D
+		}=0D
+		=0D
+		a {=0D
+			color: #1878b4=0D
+		}=0D
+		</style>=0D
+	</head>=0D
+	<body style=3D"font-family:Helvetica, Arial, sans-serif; padding:0; margin=
+:0; height:100%; color:#393939; font-size:11px; background-color:#5d5d5d;">=
+=0D
+		<div style=3D"display:none;"><span class=3D"preheader">See our community'=
+s stories, tips and tricks</span> ...</div>=0D
+		<table align=3D"center" cellpadding=3D"0" style=3D"width:640px; border:0;=
+ border-spacing:0;">=0D
+			<tr>=0D
+				<td colspan=3D"3">=0D
+					<img src=3D"https://thumbs.dreamstime.com/newsletter/img-blogs/nl-head=
+er-03-16.jpg" alt=3D"See our community's stories, tips and tricks." title=
+=3D"See our community's stories, tips and tricks." border=3D"0" style=3D"di=
+splay:block;" usemap=3D"#dtmap" />=0D
+					<map name=3D"dtmap">=0D
+						<area shape=3D"rect" coords=3D"36,29,198,65" href=3D"https://sg-links=
+.dreamstime.com/wf/click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKt=
+DwkgoHOs3AJpJFHOh0wUPDnpsGUMvBYuGI-2BOauHTpVJMwbcwYsgdgvU9AxfQ9nvQXIRcMJiAO=
+MC682d8EA0Ns0OiasgKDvZE9yjnafUgP1pjllKNrxxcFr-2FfJMGaAe5R0VdX-2BBGeLmRk6CL0=
+6sObuxhLVPZWDNzPDp07lnYsvuWs97wdmZ0NgRn-2BxkxbLAk6IeApKF4UXLtCUEfFo5ia-2BpF=
+m_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENUOkHAl=
+nPNxf5DL9ehkm9eQQ5mH3OGYAMIdmWlOiWN4zyDbycrv-2Bbxoil-2FgdwmqphvW2NULbVueqDS=
+9jIr3w5jbtRGGGt5q0Vxy7J7ZgykZ1ecUzBrKKHO79NcVi2c0czOmUUc-2BRsAJDSdHF-2FP8Vu=
+bwA-3D-3D" alt=3D"Dreamstime Stock Photos" title=3D"Dreamstime Stock Photos=
+" /> <!-- Link to website -->=0D
+						<!-- Link to Facebook page -->=0D
+						<area shape=3D"circle" coords=3D"527.5,51.5,12.5" target=3D"_blank" h=
+ref=3D"https://sg-links.dreamstime.com/wf/click?upn=3Ds1zOSmGgsO2iNfrXUnK7Y=
+5jHsbOs0FAHc1nkgFFczzfsuM0HYpUu2Q8kxiNu4oh64xuumQ-2B-2FvPPTCfv12-2BGAJEn-2B=
+AytL0Uv8Mn24yqeTqtldtCCNytRoVXBBF56clG6eWFXTKwBgEIAJ-2BotU3-2B-2BMdg-3D-3D_=
+wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENUQvNrIgE=
+tQiwk7gigcdN3uwYR24J4DTaDUK7LhSqkTGrND4fz8bFF9OVVKZ5I-2FI5Pgl-2FWFla3Lm5Llg=
+8-2FE0XIDb2Ji65N3LNZAzRk1dU8-2BWB88wSp3u-2FJx-2BkTOtD7QswJdWsdt1wL8b2UBqcTp=
+wz7Dg-3D-3D" alt=3D"Connect on Facebook" />=0D
+						=0D
+						<!-- Link to Twitter page -->=0D
+						<area shape=3D"circle" coords=3D"558.5,51.5,12.5" target=3D"_blank" h=
+ref=3D"https://sg-links.dreamstime.com/wf/click?upn=3DWcki78UWKLXUSXsRctiDL=
+CGkq1i5kbft8fNq9RiiZI3F7CqU-2FuRa7S5yqn-2BiueFT-2Bbm9NmCqonqZwAjqkHANVRf5SV=
+h2ZkkodG3MdVjlwr-2F7u6LeA-2Bqk-2B5p-2F5uaX0gR7Lvs7msoSb5MquFdWv8OpsA-3D-3D_=
+wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENURupEF96=
+BSveBo2fxADCEgk-2FH-2Fg5qONLFPRQdOcEoCQZ52lMQwZZtqs3948bZ6Jvujv8Jx8B0xngbuJ=
+4RfyKrfgEuhKBgeVSnFN17z0UJz8ia4641tv6nWgvbv20OGu0LuePQMR9QNaHGz8cT0rxBKQ-3D=
+-3D" alt=3D"Follow on Twitter" />=0D
+						=0D
+						<!-- Link to Gplus page -->=0D
+						<area shape=3D"circle" coords=3D"589.5,51.5,12.5" target=3D"_blank" h=
+ref=3D"https://sg-links.dreamstime.com/wf/click?upn=3Ds1zOSmGgsO2iNfrXUnK7Y=
+wuuPYk1xhbmNpDPYB7GoNwCkuB-2B28NvHLMEwO1BxPCmOK1iaaqrUFtxZojBjQMuv8yxgHiaS4=
+ntcPZ0DFEYo3-2BQbuqknRHS0lFK9g-2F-2BSPr8NxEqDHsACnRwoGvkAg-2F2FA-3D-3D_wX6T=
+n8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENUDArLVw8v0X-=
+2BUlRiRe-2FwLt4sHHX3f1MWcUh6dtQlWoLwdPVcU0kd1NuY71O4iYdBwRYxc-2Bk7PqnUfE5gS=
+MQbuR2CzEZZAMZAYTihCJdzytMEtC-2BNvDLIGQnhWQDQir05VGPTOVlTaLEkJ9IkfBAV8IA-3D=
+-3D" alt=3D"" />=0D
+					</map>=0D
+				</td>=0D
+			</tr>=0D
+			<tr>=0D
+				<td width=3D"20">&nbsp;</td>=0D
+				<td width=3D"600">=0D
+					<div style=3D"font-size:14px; padding:20px 40px 30px; border-bottom:1p=
+x solid #eee; background-color:#fff;">=0D
+						<div style=3D"background-color:#fff;">=0D
+							<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkv=
+yNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwlfgEQNzaxTBYnezL8n2bAhWqzpsmq9jZDK7cben=
+FAy1n8Dorlx6Q-2FT3F-2F-2BTOKKokc9Srs0MPsATn8USvvQdIEUF6lcG4A4B0RPoZ7gMh-2BC=
+iSatnu4AW7241XbqJ-2F7r-2Fs-2FValn-2BgvgXLsXCG0t0l6FAKlhNSoZsv5D7ciJ3WE-2B-2=
+FzXN-2BBxqaZXS-2Fq0DJz8E3kjQ-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU=
+0WB7MSj3e-2FyIqudwf-2FENU1tNpuv7NR9-2BypRCXXheOBUe9HNSN0jP5sqFxxA-2BWn9Tsel=
+eCBACOYSzbGNUUm2PL0g9pTL3k4lPNWmEC1gg9cFSmkzP8SSilZVCdKnrdmmRJ4LmRN8qXMBls5=
+ZhoJIx6KWhRCsfpjDCyX3qbEyZtNg-3D-3D'newsletter-blog-designers" rel=3D"nofol=
+low" style=3D"display:inline-block; vertical-align:middle;">=0D
+								<div style=3D"width:60px; height:60px; -webkit-border-radius:30px; =
+-moz-border-radius:30px; -ms-border-radius:30px; border-radius:30px; positi=
+on:relative; background-image:url('https://www.dreamstime.com/images2012/dt=
+-avatar-2.png'); background-position:center; background-size:cover;=0D
+background-repeat:no-repeat;"></div>=0D
+							</a>=0D
+							<div style=3D"padding-left:15px; background-color:#fff; display:inli=
+ne-block; vertical-align:middle;">=0D
+								<span style=3D"font-size:11px; color:#777;">=0D
+									<b>POPULAR BLOG</b>=0D
+									&nbsp;|&nbsp;=0D
+									23rd of September, 2016, by <a href=3D"https://sg-links.dreamstime=
+.com/wf/click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwlfgEQNzax=
+TBYnezL8n2bAhWqzpsmq9jZDK7cbenFAy1n8Dorlx6Q-2FT3F-2F-2BTOKKokc9Srs0MPsATn8U=
+SvvQdIEUF6lcG4A4B0RPoZ7gMh-2BCiSatnu4AW7241XbqJ-2F7r-2Fs-2FValn-2BgvgXLsXCG=
+0t0l6FAKlhNSoZsv5D7ciJ3WE-2B-2FzXN-2BBxqaZXS-2Fq0DJz8E3kjQ-3D_wX6Tn8DxuOHyU=
+T84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENUfaXX8PY3dLrluSpxEMEw=
+Acke1JThOPPwQPFDLD3Asgpv4bth1vMo6YCfC2PmY3PujrVcyCJdXIuzejcJFtSdeQ5Q9W7aVBJ=
+vksGWzwpTvb0hWU4fS-2BNAivqRHPmaG-2BPaHm3KkoqbHVi1VVBaBfYcNA-3D-3D'newslette=
+r-blog-designers" style=3D"text-decoration:none; color:#1878b4;"><b>Sandro1=
+1</b></a>=0D
+								</span>=0D
+								<br/>=0D
+								<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLk=
+vyNd98E-2BxfD-2FbFDu1H9gkmUHnDgFKTR8FCgd4YP50N4-2BP7Tmiq4PamKOlr65WG3Iq-2Bk=
+OtGIxe-2BNoOqCv0cCfElDU07CWqDODp2PKpn13rwAFWkxEhMWDd43p0CNJDRbZpomY3Yo4PMZv=
+cT2anUBlYacUpmx5JxYO7dZcP3UlBy31viIknqPiQ6zGgOESqe10jUIqbZROt33znD9qIEh2pMw=
+YBZuKqmnGuJo6Ef0loGyfK-2FuLs-2BCfhqU70vHKWyIHkqezPw5t-2B2-2BrJyib3FsfYsMlEc=
+f7vczMX7bYTeG3CLxw-2FNYsggY-2F8xgzVeHtlGWwewfX4la6q-2FsJQ-3D-3D_wX6Tn8DxuOH=
+yUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENU8dWv54uYiZsr5Nfcjr=
+ZHUqYsSkmh3E1teF2dK3kEsIYdT1WeCYuPIhUfUQS8eokc2aJolEa9OwYWDoS9tdhjZ5hkdgGvL=
+5PNSXylsi-2BcBwN5mTchBAryP1nsHKKs285f7xKQ7o5cVpwI2nEAdS43XQ-3D-3D" style=3D=
+"text-decoration:none; color:#000;">=0D
+									<b style=3D"font-size:15px;">Be creative when choosing background =
+images</b>=0D
+								</a>=0D
+							</div>=0D
+						</div>=0D
+						<br/>=0D
+A typical request by my clients is to remove backgrounds from images and re=
+place them with stock photos. Usually, the client has an idea of what they`=
+d like that new background to look like. Even so, I like to explore alterna=
+te backgrounds...						<a=0D
+href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkvyNd98E-2Bx=
+fD-2FbFDu1H9gkmUHnDgFKTR8FCgd4YP50N4-2BP7Tmiq4PamKOlr65WG3Iq-2BkOtGIxe-2BNo=
+OqCv0cCfElDU07CWqDODp2PKpn13rwAFWkxEhMWDd43p0CNJDRbZpomY3Yo4PMZvcT2anUBlYac=
+Upmx5JxYO7dZcP3UlBy31viIknqPiQ6zGgOESqe10jUIqbZROt33znD9qIEh2pMwYBZuKqmnGuJ=
+o6Ef0loGyfK-2FuLs-2BCfhqU70vHKWyIHkqezPw5t-2B2-2BrJyib3FsfYsMlEcf7vczMX7bYT=
+eG3CLxw-2FNYsggY-2F8xgzVeHtlGWwewfX4la6q-2FsJQ-3D-3D_wX6Tn8DxuOHyUT84oRHUiX=
+N8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENURmXinefX5Pup2Tuvk1ZdIwI7KSgMp=
+5WkmRliS-2FVrsvByiHXvY68Keonsk5xNMmxTjwvAbVIKgNCHHsXy16PtE74IvyyURzcaTdI8cZ=
+d9T0HarSV4XMhjtXfBGraAD9Y-2F0dq-2Fldzo1dKISmh1BdXHgA-3D-3D" rel=3D"nofollow=
+">=0D
+							Read more...=0D
+						</a>=0D
+					</div>=0D
+					<div style=3D"font-size:14px; padding:20px 40px 30px; border-bottom:1p=
+x solid #eee; background-color:#fff;">=0D
+						<div style=3D"background-color:#fff;">=0D
+							<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkv=
+yNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwn5-2BNfpoSrROAb6eNXoxKf0S2nqi6ABeQA0dOj=
+MBxbuCjJXX5a5VY0x5ayA0yOexSySP4cwyDMSIx4qYZwa1qob2GfIaa5onKfK-2BEtH2q5MmpHQ=
+oKixZDZpnXJZ2yrlPRKWOJ-2Borq5KUSW2PSlO89wgPppq-2BXpEo0G-2B3vIYkyjwuAWAUiP9M=
+A2ZGKH1VIujuSQ-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyI=
+qudwf-2FENUwfPLOzYctamzFLIG8AjerPhkSIEGUZN8yyekwQs-2Bi-2BCiFJ3owX-2FDUm3RlH=
+QxI1-2FVMkVhXF8vgjKKMjxUEFSOvVzEAbZrKw-2BBh8t5BvcNm-2FFnewMnUvT-2BTypTkWcbh=
+pfWxT84-2Bf-2FuSo6KeRvnVyXqjw-3D-3D'newsletter-blog-designers" rel=3D"nofol=
+low" style=3D"display:inline-block; vertical-align:middle;">=0D
+								<div style=3D"width:60px; height:60px; -webkit-border-radius:30px; =
+-moz-border-radius:30px; -ms-border-radius:30px; border-radius:30px; positi=
+on:relative; background-image:url('https://thumbs.dreamstime.com/faces/1111=
+3818599qt.jpg'); background-position:center; background-size:cover;=0D
+background-repeat:no-repeat;"></div>=0D
+							</a>=0D
+							<div style=3D"padding-left:15px; background-color:#fff; display:inli=
+ne-block; vertical-align:middle;">=0D
+								<span style=3D"font-size:11px; color:#777;">=0D
+									<b>NEW BLOG</b>=0D
+									&nbsp;|&nbsp;=0D
+									17th of October, 2017, by <a href=3D"https://sg-links.dreamstime.c=
+om/wf/click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwn5-2BNfpoSr=
+ROAb6eNXoxKf0S2nqi6ABeQA0dOjMBxbuCjJXX5a5VY0x5ayA0yOexSySP4cwyDMSIx4qYZwa1q=
+ob2GfIaa5onKfK-2BEtH2q5MmpHQoKixZDZpnXJZ2yrlPRKWOJ-2Borq5KUSW2PSlO89wgPppq-=
+2BXpEo0G-2B3vIYkyjwuAWAUiP9MA2ZGKH1VIujuSQ-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAa=
+QR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENUkpNSWDxG813gKxaV2OagmZBbQDl48p52RnuS=
+2lP4ngxI-2BaN6deheHANdFIii1pPTkIxjOCbwq2KstcZtDC3hX3Ya1H2-2Fih0hj4iWw2V5qCL=
+34HJhCFzWeAZ8c6vuGVyiFuGstZqA7-2F6f-2FL6jd4KK1Q-3D-3D'newsletter-blog-desig=
+ners" style=3D"text-decoration:none; color:#1878b4;"><b>Lightpro</b></a>=0D
+								</span>=0D
+								<br/>=0D
+								<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLk=
+vyNd98E-2BxfD-2FbFDu1H9gkmUHnDgFKTR8FB9IM8-2F-2B8VspTcx6Vv6ko5xmQ3vSZPZPb-2=
+FThDiCYPvhUT80ce7BhDyX7ldQkxCOSVKiXDwq2KO1WbClJKynlunU9X91UxWdhRSRfPuXWRGy8=
+DV-2FHIaovmYQcRM2LxxMR5-2FEiPj46Dr-2BeYRCziuOYGY-2BgbplNcHiKq9WHRD1j-2FCgEg=
+zWgxs-2BEN07WrwS2JU3qYkbJ7PbpJ9b0YdYpCOZ1xklOs5tQIcej-2FRs-2BPQkYuiQT8K-2Br=
+b3lLqY8o-2BiAyefJqww-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3=
+e-2FyIqudwf-2FENUnXBs3xj7MZUHil3p34kkPfr-2FvaZK91R2IYBjnZ5FOm8SP6qmLq-2BSAs=
+T5nryZPPb4l6AxIS8JAXp9qP8m-2F0P7hEYjGKpHUYGAI6zwAJxm8-2B0XazDJGMqLbyq-2FNXO=
+EWLcJpOmCxyDiAXXdHCkoj33LBg-3D-3D" style=3D"text-decoration:none; color:#00=
+0;">=0D
+									<b style=3D"font-size:15px;">Art and Photography</b>=0D
+								</a>=0D
+							</div>=0D
+						</div>=0D
+						<br/>=0D
+A recent conversation with a photographic colleague brought up an interesti=
+ng topic. What do you see as art in your photography? My answer was everyth=
+ing. How did I come to this conclusion? The photography medium has been des=
+cribed...						<a=0D
+href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkvyNd98E-2Bx=
+fD-2FbFDu1H9gkmUHnDgFKTR8FB9IM8-2F-2B8VspTcx6Vv6ko5xmQ3vSZPZPb-2FThDiCYPvhU=
+T80ce7BhDyX7ldQkxCOSVKiXDwq2KO1WbClJKynlunU9X91UxWdhRSRfPuXWRGy8DV-2FHIaovm=
+YQcRM2LxxMR5-2FEiPj46Dr-2BeYRCziuOYGY-2BgbplNcHiKq9WHRD1j-2FCgEgzWgxs-2BEN0=
+7WrwS2JU3qYkbJ7PbpJ9b0YdYpCOZ1xklOs5tQIcej-2FRs-2BPQkYuiQT8K-2Brb3lLqY8o-2B=
+iAyefJqww-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf=
+-2FENUsif6k5PIlbROgoAKQ1xJnPk-2B784FomkBRlaMAXbXt2mWVmhUJds-2BQrgIpCHeZTDAR=
+-2F5-2F7eRWY5HkcTwjQeyTdaUZAsgrdrh-2BzhxGTiHHJvhOLRpYyTN7Hsv4iVCBP5W6-2Fi0O=
+q1EkZRSFqq8jFer4Cw-3D-3D" rel=3D"nofollow">=0D
+							Read more...=0D
+						</a>=0D
+					</div>=0D
+					<div style=3D"font-size:14px; padding:20px 40px 30px; border-bottom:1p=
+x solid #eee; background-color:#fff;">=0D
+						<div style=3D"background-color:#fff;">=0D
+							<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkv=
+yNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwlxfRWbc-2FQIKH0cSs1d28r6Jwu8rAuuhqXh-2F=
+J2l-2FHeqXZLTAqCdM30Mfegr6pwhyPyW-2FWLPC0k-2BgnrvJ2ZW6v5rDb-2FRXRgfh-2F3wQo=
+cTNIz0wu1ofnBfPWI7PwxGxTLUU1K9u7cjBlWAi4HIR424oUzgQtvux1B2uJccX0Flk3JfNKedn=
+1HHNrOv4Ofjd2dNOLw-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-=
+2FyIqudwf-2FENUpPsLIv4vkamu4P1ewlDsVFpqTqrtc664Jr2BQw-2B8HFiADgXC-2B9neSvnJ=
+JovmLbT6XTALJpsqgaSnPPuuEqplInZd4rHIZcIQro1jxTJndBrTnQ6NX2bQ3n8OPKzS3-2B9aW=
+Gv9vt6daPdegNV3iEc77Q-3D-3D'newsletter-blog-designers" rel=3D"nofollow" sty=
+le=3D"display:inline-block; vertical-align:middle;">=0D
+								<div style=3D"width:60px; height:60px; -webkit-border-radius:30px; =
+-moz-border-radius:30px; -ms-border-radius:30px; border-radius:30px; positi=
+on:relative; background-image:url('https://thumbs.dreamstime.com/faces/1327=
+212395398.jpg'); background-position:center; background-size:cover;=0D
+background-repeat:no-repeat;"></div>=0D
+							</a>=0D
+							<div style=3D"padding-left:15px; background-color:#fff; display:inli=
+ne-block; vertical-align:middle;">=0D
+								<span style=3D"font-size:11px; color:#777;">=0D
+									<b>NEW BLOG</b>=0D
+									&nbsp;|&nbsp;=0D
+									17th of October, 2017, by <a href=3D"https://sg-links.dreamstime.c=
+om/wf/click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwlxfRWbc-2FQ=
+IKH0cSs1d28r6Jwu8rAuuhqXh-2FJ2l-2FHeqXZLTAqCdM30Mfegr6pwhyPyW-2FWLPC0k-2Bgn=
+rvJ2ZW6v5rDb-2FRXRgfh-2F3wQocTNIz0wu1ofnBfPWI7PwxGxTLUU1K9u7cjBlWAi4HIR424o=
+UzgQtvux1B2uJccX0Flk3JfNKedn1HHNrOv4Ofjd2dNOLw-3D_wX6Tn8DxuOHyUT84oRHUiXN8g=
+CHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENUcP05SbyqAB0KaMx7irKQ4ZrVtR2S55x8=
+tWSHE-2BOr9aSRet3SspK2cZTUcwvAgVTtkIjVTqGkoJ7Bgp4UCu8op4-2F6aTQQZkgILPN64cu=
+STSEXI3-2BNtcPfRdgoij2qqH-2FCiuZhwJrLtgSI-2BM8Zaw8r0g-3D-3D'newsletter-blog=
+-designers" style=3D"text-decoration:none; color:#1878b4;"><b>Yellowind</b>=
+</a>=0D
+								</span>=0D
+								<br/>=0D
+								<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLk=
+vyNd98E-2BxfD-2FbFDu1H9gkmUHnDgFKTR8FB-2BEV3iJBFAg9X744cc-2BBq20Btk9Ix0QOXK=
+5JjfY68nWClVztJt7Ym23rgoph6FmlsBZ3vD3rmlu80FVqqFwe5kHoogKqT-2FbhA74kKNQB7y1=
+E-2BtIMSelOc49U6jDLrVdIumxdYZps-2BowKxUB59SugsfCR976Sm19Vr60bsTbKwzBjux7mlT=
+jyS4-2FM0xZNwJ9rozCqfzi2XhH1yxhrly-2Fg29Wv-2BRIgANk1bW4xU5GH7-2FubSs2mnw6GU=
+h3kiflAe0oks-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqu=
+dwf-2FENUuEBQ8dWWjQazmOUDcHlwNBkPy5UUEV-2BDqo-2FQjXXJ0eTJl44FsG3t0i-2FwZOWZ=
+S57ojg7ThSSlGwP8H-2FSBESPfmQjzk8h7Axx4ukRJBg6qz14Euuvxg26ZhbeGAgJ70t9Vxo0hf=
+1JVxJV-2FZtA8FbrnQQ-3D-3D" style=3D"text-decoration:none; color:#000;">=0D
+									<b style=3D"font-size:15px;">Bokeh - behind the lens </b>=0D
+								</a>=0D
+							</div>=0D
+						</div>=0D
+						<br/>=0D
+So wikipedia says: "In photography, bokeh is the aesthetic quality of the b=
+lur produced in the out-of-focus parts of an image produced by a lens" ... =
+that was a part of the article and I believe everyone can find and read it =
+:) I won'...						<a=0D
+href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkvyNd98E-2Bx=
+fD-2FbFDu1H9gkmUHnDgFKTR8FB-2BEV3iJBFAg9X744cc-2BBq20Btk9Ix0QOXK5JjfY68nWCl=
+VztJt7Ym23rgoph6FmlsBZ3vD3rmlu80FVqqFwe5kHoogKqT-2FbhA74kKNQB7y1E-2BtIMSelO=
+c49U6jDLrVdIumxdYZps-2BowKxUB59SugsfCR976Sm19Vr60bsTbKwzBjux7mlTjyS4-2FM0xZ=
+NwJ9rozCqfzi2XhH1yxhrly-2Fg29Wv-2BRIgANk1bW4xU5GH7-2FubSs2mnw6GUh3kiflAe0ok=
+s-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENUAX=
+6l3EXoV7pPNh9uNFGDiu2E3ENx8L-2BYB9P6r6nco-2FflNYy5YUoTz-2B6-2BLYgxJdMyvzBMc=
+OaqGVW205nk0yo8SRO-2B7faz9DHiA1NXgsrTOxDtwgm-2B9xwdJLdkll9sJCs7O44O7sIuBD6Y=
+YSYNyO9oJg-3D-3D" rel=3D"nofollow">=0D
+							Read more...=0D
+						</a>=0D
+					</div>=0D
+					<div style=3D"font-size:14px; padding:20px 40px 30px; border-bottom:1p=
+x solid #eee; background-color:#fff;">=0D
+						<div style=3D"background-color:#fff;">=0D
+							<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkv=
+yNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwkiMK1Zj3-2BK5oEsHUdso-2BXjBBLia-2FwQqZ0=
+Flx9CsZgmEhAZTf-2F7ewIwBOhpfAUk8jmvfWFqtqc3eitXsu-2Btpc0M5laZMQ2WJW-2FFLjFW=
+9ew8kClXq2KjzXpNaVzjyeGxzP8gAe0dOecOUexliInNf-2FVgAtkuqkzBPh6wY1ZkCgmtqgFxq=
+llyY-2BW6UTzasXw3CpM-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3=
+e-2FyIqudwf-2FENUq1BqcIpyqXUl5IPsLQtQs9z9QGy9LM3t8aE0gjpMDEqyv-2BsQmQM8NvLD=
+xLhuITQxahTfqFajtNR44UppZ-2B3la7Llfb5OFyCBsH8tYR9rI4g-2B2gyihzPfpm7HWnvDCAZ=
+Bp5FUA4rftsxmhVKfQbdHkQ-3D-3D'newsletter-blog-designers" rel=3D"nofollow" s=
+tyle=3D"display:inline-block; vertical-align:middle;">
+								<div style=3D"width:60px; height:60px; -webkit-border-radius:30px; =
+-moz-border-radius:30px; -ms-border-radius:30px; border-radius:30px; positi=
+on:relative; background-image:url('https://thumbs.dreamstime.com/faces/1322=
+2155076ym.jpg'); background-position:center; background-size:cover;=0D
+background-repeat:no-repeat;"></div>=0D
+							</a>=0D
+							<div style=3D"padding-left:15px; background-color:#fff; display:inli=
+ne-block; vertical-align:middle;">=0D
+								<span style=3D"font-size:11px; color:#777;">=0D
+									<b>NEW BLOG</b>=0D
+									&nbsp;|&nbsp;=0D
+									18th of October, 2017, by <a href=3D"https://sg-links.dreamstime.c=
+om/wf/click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwkiMK1Zj3-2B=
+K5oEsHUdso-2BXjBBLia-2FwQqZ0Flx9CsZgmEhAZTf-2F7ewIwBOhpfAUk8jmvfWFqtqc3eitX=
+su-2Btpc0M5laZMQ2WJW-2FFLjFW9ew8kClXq2KjzXpNaVzjyeGxzP8gAe0dOecOUexliInNf-2=
+FVgAtkuqkzBPh6wY1ZkCgmtqgFxqllyY-2BW6UTzasXw3CpM-3D_wX6Tn8DxuOHyUT84oRHUiXN=
+8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENU1H5hj8VNr1tuNxgIQGvQ61wpDAE9VK=
+14YVmSzKOPXrKzLD1bPEOqqnLhgoDeDHGvAPm9BkjtuYmqtetTpNk4D0XBx8-2Bg-2BvRSE7-2B=
+z9zDVW7d1fGuUp9DjSQ6TYlwgJgQwDGbri7z4rR1C1-2FgatyHKlg-3D-3D'newsletter-blog=
+-designers" style=3D"text-decoration:none; color:#1878b4;"><b>Catarii</b></=
+a>=0D
+								</span>=0D
+								<br/>=0D
+								<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLk=
+vyNd98E-2BxfD-2FbFDu1H9gkmUHnDgFKTR8FAOxxGwLxpzhsHf-2FsMGA1lPDbtKfYaxvSUBAk=
+PCwWMJy8M-2FNB9zomkqQR5C7q-2FJ46f-2FEtjkPyk9aN9x5FvOT-2Ftswg-2FgETcEt5E0jM-=
+2BN7aikZePVCLiQysvDWdGwDh4AOoFWRk5Dnz5UDRqa0cBUjwv-2BSkbwc5DucoaRapD5HplydE=
+EAxdtGx-2BPo0-2FCh7ubxGmESdnW7rrLwcXIBuBetzrq39XAbqLZHQAyV6IwLzr7iSdKwcYftW=
+GQ5Pr1mTLsek9FIcLSGdWKUT-2FGfAks64udXhM6EPYh8V5oVJTtf1ixtfA-3D-3D_wX6Tn8Dxu=
+OHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENU8w9Gf8sZrrKN9PBw=
+LYq-2FDTOJGsQ0mdc4PbtYw3qvE4cXOvlo0BkmOcRu9Q5v2zegC9e62tOtV-2F9-2Bm3RYu83pi=
+jBMQSbfl2lPOXsUGBRiaKKe14yPzjCKenlug-2F4wn82g2CztD7FS9uh7izfMhm0LkQ-3D-3D" =
+style=3D"text-decoration:none; color:#000;">=0D
+									<b style=3D"font-size:15px;">Romanian comfort food &#x28;part I - =
+the ingredients&#x29;</b>=0D
+								</a>=0D
+							</div>=0D
+						</div>=0D
+						<br/>=0D
+If I should make a count about Romanians&#x27; favorite ingredients or food=
+s I would get to a very simple conclusion: meat &#x28;a lot of it, mostly p=
+ork&#x29;, mamaliga &#x28;polenta&#x29;, telemea &#x28;a Romanian cheese, a=
+ bit similar...						<a=0D
+href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkvyNd98E-2Bx=
+fD-2FbFDu1H9gkmUHnDgFKTR8FAOxxGwLxpzhsHf-2FsMGA1lPDbtKfYaxvSUBAkPCwWMJy8M-2=
+FNB9zomkqQR5C7q-2FJ46f-2FEtjkPyk9aN9x5FvOT-2Ftswg-2FgETcEt5E0jM-2BN7aikZePV=
+CLiQysvDWdGwDh4AOoFWRk5Dnz5UDRqa0cBUjwv-2BSkbwc5DucoaRapD5HplydEEAxdtGx-2BP=
+o0-2FCh7ubxGmESdnW7rrLwcXIBuBetzrq39XAbqLZHQAyV6IwLzr7iSdKwcYftWGQ5Pr1mTLse=
+k9FIcLSGdWKUT-2FGfAks64udXhM6EPYh8V5oVJTtf1ixtfA-3D-3D_wX6Tn8DxuOHyUT84oRHU=
+iXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENU-2FmQAHf4JL73Mi8X9vwBEz-2BD=
+nXygJ3hFCr7S13M4JSIfzbhketokhBQ80se7UQYgB9HZ0y2Sqdf2ZKo8j3rB-2F3vGbTVzQlv-2=
+FBi4gNfO5D32srixbBZcvpNsJbml3eWW86i9G9LtIeGMEw5dmJLnGZyw-3D-3D" rel=3D"nofo=
+llow">=0D
+							Read more...=0D
+						</a>=0D
+					</div>=0D
+					<div style=3D"font-size:14px; padding:20px 40px 30px; border-bottom:1p=
+x solid #eee; background-color:#fff;">=0D
+						<div style=3D"background-color:#fff;">=0D
+							<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkv=
+yNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwnmuxGjrY4ush6Y0VGBcTFdaB4pLzNppR7yggurY=
+Y-2FhHCZCWfCNqVvJTo8iJRWmUsQVU-2BQnws5VEl5tDryzI-2FXE6l80gt-2FYilHrwNfXimVF=
+k3-2BP64sXG2R2yHH9j66pZp8itPbl6VjsHQxGc3o62XrlMSQxvaBB-2FkxAjFQw1DWSKrKkbFR=
+h-2BC6xlUEGrYiLnus-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-=
+2FyIqudwf-2FENU3blmOjvaGlfduGc43TlauZUelT83Yc5WRrhWZRzzUtjZ1M8h2xbWEDlLY-2B=
+dhvp3Z7BwPZoihMzNENPIY4asx1olha71EL6wgKDV8-2FblDPpfx1T-2BqHCOM7qTBaFcRImKih=
+JjvBB9Mtff46T6CpA-2FadQ-3D-3D'newsletter-blog-designers" rel=3D"nofollow" s=
+tyle=3D"display:inline-block; vertical-align:middle;">=0D
+								<div style=3D"width:60px; height:60px; -webkit-border-radius:30px; =
+-moz-border-radius:30px; -ms-border-radius:30px; border-radius:30px; positi=
+on:relative; background-image:url('https://thumbs.dreamstime.com/faces/1506=
+083215oka.jpg'); background-position:center; background-size:cover;=0D
+background-repeat:no-repeat;"></div>=0D
+							</a>=0D
+							<div style=3D"padding-left:15px; background-color:#fff; display:inli=
+ne-block; vertical-align:middle;">=0D
+								<span style=3D"font-size:11px; color:#777;">=0D
+									<b>POPULAR BLOG</b>=0D
+									&nbsp;|&nbsp;=0D
+									1st of November, 2017, by <a href=3D"https://sg-links.dreamstime.c=
+om/wf/click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwnmuxGjrY4us=
+h6Y0VGBcTFdaB4pLzNppR7yggurYY-2FhHCZCWfCNqVvJTo8iJRWmUsQVU-2BQnws5VEl5tDryz=
+I-2FXE6l80gt-2FYilHrwNfXimVFk3-2BP64sXG2R2yHH9j66pZp8itPbl6VjsHQxGc3o62XrlM=
+SQxvaBB-2FkxAjFQw1DWSKrKkbFRh-2BC6xlUEGrYiLnus-3D_wX6Tn8DxuOHyUT84oRHUiXN8g=
+CHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENUwHJV8Q-2Bpx3x0u2gWw9J7bDHwrbVDhf=
+typR8O6FBj-2B8Y-2FoE1mdbgOvfuWOalcvsCX6eQ3HZMiN1lR1HByebhoz-2BQmLj7Ah3vY3Rh=
+-2BFUX-2BmYfJXqTFunblDvXNkKwr08QAL9uxH0v50AiBf5Mvtk9vEQ-3D-3D'newsletter-bl=
+og-designers" style=3D"text-decoration:none; color:#1878b4;"><b>Tangie</b><=
+/a>=0D
+								</span>=0D
+								<br/>=0D
+								<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLk=
+vyNd98E-2BxfD-2FbFDu1H9gkmUHnDgFKTR8FCDOFf3-2BjCLXh-2FlVFCFETPubYH1VcKK2MUH=
+k0GWObZ2sNdsqf94I-2FrJUOP-2Bs2A5U3jtr7RRGiWxhlbJnUBlxh1O-2Bd35pzMkPYWq4abem=
+Vau03-2FMgOAyF9mOZjTCLX9F64yD1WRiK5qU3XDPPn3mTgJPfg3jiAN8GivgPAPxYYXWhbQXt4=
+bgljeGxemSS-2BeFEvpynsden1jbqL-2FwIY5-2Bqfy0Oc3t4uX5-2FzJyVz49EPXLG8xcrfsqE=
+Tl6k8bvv3FNKAE-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyI=
+qudwf-2FENURYmOEYP41EpmPbuooEV6Th5hfFn-2Fyt7Y6iLiTuOZLDx2PIBGM4wdHClY885ywE=
+mQP1yQzF6bd8vSKWUHi40LEE5h4DYXAljB6la5hlEppiDCGncpcbeDCGFBEba4I6r2WEhJKqeMK=
+xmV5SDbjD3j7w-3D-3D" style=3D"text-decoration:none; color:#000;">=0D
+									<b style=3D"font-size:15px;">A dash of red</b>=0D
+								</a>=0D
+							</div>=0D
+						</div>=0D
+						<br/>=0D
+Approximately 10% of people answering studies claim red as their favorite c=
+olor. It is a vibrant color with a powerful message. It speaks of passion, =
+fire, religion, hate, bravery, luxury, love, blood, life, danger and the li=
+st can...						<a=0D
+href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkvyNd98E-2Bx=
+fD-2FbFDu1H9gkmUHnDgFKTR8FCDOFf3-2BjCLXh-2FlVFCFETPubYH1VcKK2MUHk0GWObZ2sNd=
+sqf94I-2FrJUOP-2Bs2A5U3jtr7RRGiWxhlbJnUBlxh1O-2Bd35pzMkPYWq4abemVau03-2FMgO=
+AyF9mOZjTCLX9F64yD1WRiK5qU3XDPPn3mTgJPfg3jiAN8GivgPAPxYYXWhbQXt4bgljeGxemSS=
+-2BeFEvpynsden1jbqL-2FwIY5-2Bqfy0Oc3t4uX5-2FzJyVz49EPXLG8xcrfsqETl6k8bvv3FN=
+KAE-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENU=
+3unSyuo1GFcNqFP1ioPno342vNtRIg6Vmw-2FYKChDBN8P-2B6NJKd1f0yLOJ0sPFkvXV-2BA7b=
+g31XsHvlG4gNAiWaRSVl9iVFA0Tebbb0vo2A3Cs9dWgNG3JVRLSAWk0DEqpIgLecVXMr0fprNXx=
+-2BBRKKw-3D-3D" rel=3D"nofollow">=0D
+							Read more...=0D
+						</a>=0D
+					</div>=0D
+					<div style=3D"font-size:14px; padding:20px 40px 30px; border-bottom:1p=
+x solid #eee; background-color:#fff;">=0D
+						<div style=3D"background-color:#fff;">=0D
+							<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkv=
+yNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwm50JsaaJf7zvbVIkGKWXdlVolUSZ3spursVKf-2=
+F55k8EXSpcyZMzrVdrcu-2FK2RsvHVgvyCRRrM2SG1EFgFOdbCsJm09D6FBRx87cKaCGTA5HK-2=
+BsuPNXUpDyFKcS4GUAOlzurjGRrYexvn94DQuGC04zzBu7MqispAaA-2BTOZqmiCRWBWsleLzri=
+YjeA4eaqJ3gE-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqu=
+dwf-2FENUpKDHlvBXENNbNRhwFg9oYyV13mBTM98UsxnbXsPPuI67PtKxXczHM-2FkKREoczQmC=
+NzHkevEm0mLnTH2ya-2BzakQGZ6V-2FrdcwX-2Bq11D2dVdMlkvJ76UKFBrh-2FgEGh6waZqkYE=
+vFTim5XxDoJiBtFah-2Fw-3D-3D'newsletter-blog-designers" rel=3D"nofollow" sty=
+le=3D"display:inline-block; vertical-align:middle;">=0D
+								<div style=3D"width:60px; height:60px; -webkit-border-radius:30px; =
+-moz-border-radius:30px; -ms-border-radius:30px; border-radius:30px; positi=
+on:relative; background-image:url('https://thumbs.dreamstime.com/faces/1428=
+4208064hX.jpg'); background-position:center; background-size:cover;=0D
+background-repeat:no-repeat;"></div>=0D
+							</a>=0D
+							<div style=3D"padding-left:15px; background-color:#fff; display:inli=
+ne-block; vertical-align:middle;">=0D
+								<span style=3D"font-size:11px; color:#777;">=0D
+									<b>POPULAR BLOG</b>=0D
+									&nbsp;|&nbsp;=0D
+									28th of October, 2017, by <a href=3D"https://sg-links.dreamstime.c=
+om/wf/click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwm50JsaaJf7z=
+vbVIkGKWXdlVolUSZ3spursVKf-2F55k8EXSpcyZMzrVdrcu-2FK2RsvHVgvyCRRrM2SG1EFgFO=
+dbCsJm09D6FBRx87cKaCGTA5HK-2BsuPNXUpDyFKcS4GUAOlzurjGRrYexvn94DQuGC04zzBu7M=
+qispAaA-2BTOZqmiCRWBWsleLzriYjeA4eaqJ3gE-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR=
+9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENU5c6RkUFF9tVg3bHupiqa7uw1Ppz91bzSNzwjDg=
+wx19ESgBh5hPql2QOmIP2pE-2FMyVhtu-2FDt6zCUH-2Ff6zl7ncshoE-2B5SY1Y2jtY-2Bg-2F=
+BxSQALt-2FyQn-2F4R7KMv6B3kF3Q9Ux-2FjSEQAwyUknlgGUbrZjow-3D-3D'newsletter-bl=
+og-designers" style=3D"text-decoration:none; color:#1878b4;"><b>Davidcutts<=
+/b></a>=0D
+								</span>=0D
+								<br/>=0D
+								<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLk=
+vyNd98E-2BxfD-2FbFDu1H9gkmUHnDgFKTR8FCvaZWqik6m5idasRm6KqOM4WpnZ0z75p2gzd1c=
+FDV8M-2Bi0x0QfmCCM0N1xqhzJtuEe-2FU-2FT6l3WOBjODn1yk-2Fh7Z6Z6TX58vM-2FDV56l4=
+zEP-2FnzNoougZHJFZgyGIjdDD0-2Ba8vKuaVhp-2BNfFrIaYVaL8I-2Fu6TI0lx2QWjYpqAUjl=
+8gHZnASYpSEgXjqbUwUgebPmpjwiB-2Fz9CYQE2gZGHkDHAQ-2Bb6xsEBQ63WWDPi5qqtQEthtl=
+pY9Jv4CWcvJh6hxo5VsRNgHimn9FjZE9bJmuC_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3=
+sFC7rU0WB7MSj3e-2FyIqudwf-2FENUw-2BsRW3sTOBqdm1BV1qFzXnTuhSKrVkz6t82FEFZIWk=
+ZEcgr3W8GRrO2E0E64pjDdJ6dz0P06zLfVsR5Vo5JZuT-2B6WB-2FTzTolLaQbKwiXwThEIi072=
+4akZmsDsKFggRES3GNFJ7pyiyP69P-2BhZLCG-2Bg-3D-3D" style=3D"text-decoration:n=
+one; color:#000;">=0D
+									<b style=3D"font-size:15px;">Photography: For Love or Money</b>=0D
+								</a>=0D
+							</div>=0D
+						</div>=0D
+						<br/>=0D
+All week I`ve been doing research on =E2=80=9Chow to blog=E2=80=9D. I`ve re=
+ad countless books and articles on how to write the best blogs. How to keyw=
+ord your blogs, optimize your blog, set up your blog for Search Engine Opti=
+mization &#x28;SEO&...						<a=0D
+href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkvyNd98E-2Bx=
+fD-2FbFDu1H9gkmUHnDgFKTR8FCvaZWqik6m5idasRm6KqOM4WpnZ0z75p2gzd1cFDV8M-2Bi0x=
+0QfmCCM0N1xqhzJtuEe-2FU-2FT6l3WOBjODn1yk-2Fh7Z6Z6TX58vM-2FDV56l4zEP-2FnzNoo=
+ugZHJFZgyGIjdDD0-2Ba8vKuaVhp-2BNfFrIaYVaL8I-2Fu6TI0lx2QWjYpqAUjl8gHZnASYpSE=
+gXjqbUwUgebPmpjwiB-2Fz9CYQE2gZGHkDHAQ-2Bb6xsEBQ63WWDPi5qqtQEthtlpY9Jv4CWcvJ=
+h6hxo5VsRNgHimn9FjZE9bJmuC_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7M=
+Sj3e-2FyIqudwf-2FENUZ5hCQErvCrch6qKYuNkMBuURHDbsP5RQO-2FgE0WKpiNK4YJk3Tg4Zp=
+n-2BgRMEQHy5HDA-2FuTHFOLp56RTd-2BAMAXlmq-2FpZsNjv29OAncdLfHcuCHBXqJiowrLPbY=
+xrfqIWUlIMqWIb4bcK4sip-2F-2BG2U84A-3D-3D" rel=3D"nofollow">=0D
+							Read more...=0D
+						</a>=0D
+					</div>=0D
+					<div style=3D"text-align:right; padding:5px; background-color:#fff;">=
+=0D
+						<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkvy=
+Nd98E-2BxfD-2FbFDu1H9gkmUHnDgFKTR8FASrnAzCkiOtIOt7zlrPaTn7YnjPphnPzdmMX-2BN=
+xpHTuIm46G5ho2xMei8KvGGwO-2FYTeQ7HCKIUFO-2FF4lP0cdK6XVBB4PhQnxqZOuE4D0F0V1M=
+7sjuYx-2BMVK-2Fnjb-2BQ4UeiEqhZwA7xGCB7zE-2FOxNwJMPY-2F-2F1VUsCM5hxoUr7MHbld=
+fwvq26XJMqlxzwXSSbqzVyBWXObXmLgP70rc43wutl_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9=
+wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENURx0Iq-2BOvyu1-2FUNQAcvvP1AqNuEHY9fHRDjt=
+q2QOUon9jGq3uQN0ayEFfn7yUgEc4QXlvtF-2BhJ0yLrPph7qgime6QUTpWCWll8x6vM7YBgwtw=
+S0osx2IsRaiiF2VWneJoHBIlD7A1S9kRey-2FFLaQifw-3D-3D">=0D
+							<img src=3D"https://thumbs.dreamstime.com/newsletter/nl-img/nl-butto=
+n-moreblogs.png" border=3D"0" alt=3D"Stock Photography Blogs" />=0D
+						</a>=0D
+					</div>=0D
+				</td>=0D
+				<td width=3D"20">&nbsp;</td>=0D
+			</tr>=0D
+			<tr>=0D
+				<td colspan=3D"3">=0D
+					<img src=3D"https://thumbs.dreamstime.com/newsletter/img-blogs/nl-foot=
+er-03-16.jpg" alt=3D"Stock Photography Blogs" />=0D
+				</td>=0D
+			</tr>=0D
+			<tr>=0D
+				<td colspan=3D"3" style=3D"font-size:11px; padding-top:0px; padding-bot=
+tom:20px; padding-left:20px; padding-right:20px; color:#d4d4d4;">=0D
+					<center>=0D
+					To manage your email preferences click=0D
+					<br/>=0D
+					the following link:=0D
+					<a target=3D"_blank" class=3D"fl" href=3D"https://sg-links.dreamstime.=
+com/wf/click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwlZ6hg6R7i1=
+Mr8kHU4urzpPPvxspsX363Ceol6lMQruE3OYyJkwebFf6p9oMdtHrBYJfyo-2Fkg82mVP-2BnXu=
+PkLMp4BwXoybZsXoVHwhSe2sWALQaBtmUSTcOjLwB1nsnXn-2FPZoiNStgddNuQpMaf3DQW-2BJ=
+xaK6t06BJOs-2BqmJAKKMZuxg6WLq9DEO4VAwb9OsbDFy7Q4v8zCyWKIcM3N3Qb4I-2Ft61GvBL=
+0eqdv2KfYtxB8tWc3Vi8YOJ6zrqrvlLtcAa0DKYplYwJKt7DHM-2BmiRX1h5W2-2FqwXPKMUMN6=
+foZZ0g-3D-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf=
+-2FENU5CSqSYlxTYC3Jcwgo0goRYpolWnKhafCxgXmuEzObMcYratMlxXao7C-2Bbj0l4hPt76T=
+8GQzqTBGPObIETFhCsFHhe8IHLVR-2FHewZMW9-2BFKL-2B5KSeFJ1WT7JsYS1qsO7iLhg1NvaJ=
+EMjKsxhWz2gEJw-3D-3D">update email notifications</a>=0D
+					</center>=0D
+				</td>=0D
+			</tr>=0D
+		</table>=0D
+		<center>=0D
+			<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrbkLkvyNd9=
+8E-2BxfD-2FWkHsgo6hLozkIkySrKtDwlFu996mJyjWj4bC1J-2FGJk-2BRmB4oDK9ZrdLHq6K4=
+kRq-2B4jKD4-2B56tY0XrmSMH2IYx300MWsfvXJhb8lKWmaursoavZB6jWwpPrzIDyAoemez-2F=
+HdVmR2framAOKtfQGi-2B6JdAJ6rwDKDiTF2jcSOJ1j8s5zKprnvWB5BgdNoT3vKNgyBwvzfANc=
+cZqDQszJbnimDktauyZ3R6l8uU4RfQxz0nzhy0tOe7rqS3OW8qMWy-2BA-3D-3D_wX6Tn8DxuOH=
+yUT84oRHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENUyRj55UbbMnu9HjzE-2=
+FfC-2FcAqzk9kFL79xOBH5jDBpqjtSBHZ-2BxKdQE-2Bc9T7OByoxJTddOFs-2Bm-2B6RlWXpIO=
+gRADnpJUJ1yu21zdw7ndun3VOXVQJMYVXT4WVE3fQ-2FaxNsy6C-2BmF3deTuz-2BQyqEUFuP8g=
+-3D-3D" style=3D"color:#bebebe; font-size:11px;">=0D
+				View this in your browser.=0D
+			</a>=0D
+		</center>=0D
+		<br/>=0D
+=09
+<img src=3D"https://sg-links.dreamstime.com/wf/open?upn=3DwX6Tn8DxuOHyUT84o=
+RHUiXN8gCHAaQR9wp1C3sFC7rU0WB7MSj3e-2FyIqudwf-2FENU0-2Fl-2BcMh9MSS738jcz18r=
+ORD15SR9-2F3Wz4-2Fw9v4yT7ULoMgtSfExYqEqZ1uhhMnGyo-2BY97BdtVpDvOh6T7oIdfi8ZC=
+LSDgVSu6mZ-2F5fgZ5Lo7Og4FjTao-2FWcpkpWV-2B6a5FKgCF5M9WWejyuXcn6fnuhhnS0j8bb=
+kosvP6YC2zW3g-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"h=
+eight:1px !important;width:1px !important;border-width:0 !important;margin-=
+top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margi=
+n-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;pa=
+dding-right:0 !important;padding-left:0 !important;"/>
+</body>=0D
+</html>
+

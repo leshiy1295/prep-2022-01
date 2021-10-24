@@ -1,0 +1,1404 @@
+Delivered-To: p.berezhnoy@corp.mail.ru
+Return-path: <10200=3d3a7d6d-c2ec-4d7d-8ab6-d5e05c26759a=11=6399571@e.tutu.ru>
+Received-SPF: pass (mx194.i.mail.ru: domain of e.tutu.ru designates 185.31.80.30 as permitted sender) client-ip=185.31.80.30; envelope-from=10200=3d3a7d6d-c2ec-4d7d-8ab6-d5e05c26759a=11=6399571@e.tutu.ru; helo=tu1.tutu.ru;
+Received: from tu1.tutu.ru ([185.31.80.30]:43740)
+	by mx194.i.mail.ru with esmtp (envelope-from <10200=3d3a7d6d-c2ec-4d7d-8ab6-d5e05c26759a=11=6399571@e.tutu.ru>)
+	id 1eqzjb-00058A-40
+	for 0641835@mail.ru; Wed, 28 Feb 2018 14:17:19 +0300
+Received: by tu1.tutu.ru id hiq7rs273qgl for <0641835@mail.ru>; Wed, 28 Feb 2018 11:17:09 +0000 (envelope-from <10200=3d3a7d6d-c2ec-4d7d-8ab6-d5e05c26759a=11=6399571@e.tutu.ru>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt;
+ d=tutu.ru; s=expertsender1k;
+ h=Date:Subject:From:To;
+ bh=Qxxh/ubXwmmY8tWhH1Opt/j0u5I/eGS6QDLLlaL5xUQ=;
+ b=loFCqD8Kmmk2vLnMscUWvpLsJwlcMd405k4dtIgxidLzn5sWBFZrpma++wloLQgm0hI2
+ 4/1mYOWsLQv2oADcJdgjSV4IMvXkRv5B79u70AYMUhKxaGGE0KOzLN62UMTPXHJ8rpohjD
+ s/lwYkGjeChqN7wGwltiqgX4Q1krEWQZ8=
+MIME-Version: 1.0
+Date: Wed, 28 Feb 2018 11:17:08 +0000
+Message-ID: <10200=3d3a7d6d-c2ec-4d7d-8ab6-d5e05c26759a=11=6399571@clicks.tutu.ru>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Subject: =?utf-8?Q?=E2=9E=A8_=C2=AB=D0=A1=D0=B0=D0=BD=D0=BA=D1=82-=D0=9F=D0=B5?= 
+ =?utf-8?Q?=D1=82=D0=B5=D1=80=D0=B1=D1=83=D1=80=D0=B3_=E2=80=94_=D0=9C?= 
+ =?utf-8?Q?=D0=BE=D1=81=D0=BA=D0=B2=D0=B0=C2=BB_=D0=B8_=D0=B4=D1=80=D1=83?= 
+ =?utf-8?Q?=D0=B3=D0=B8=D0=B5_=D0=BD=D0=B0=D0=BF=D1=80=D0=B0=D0=B2=D0=BB?= 
+ =?utf-8?Q?=D0=B5=D0=BD=D0=B8=D1=8F=2C_=D0=BA=D0=BE=D1=82=D0=BE=D1=80?= 
+ =?utf-8?Q?=D1=8B=D0=B5_=D0=B1=D1=83=D0=B4=D1=83=D1=82_=D0=92=D0=B0=D0=BC_?= 
+ =?utf-8?Q?=D0=B8=D0=BD=D1=82=D0=B5=D1=80=D0=B5=D1=81=D0=BD=D1=8B.?=
+From: =?utf-8?Q?=D0=A2=D1=83=D1=82=D1=83=2E=D1=80=D1=83?= <info@tutu.ru>
+Reply-To: =?utf-8?Q?=D0=A2=D1=83=D1=82=D1=83.=D1=80=D1=83?= <info@tutu.ru>
+To: 0641835@mail.ru
+List-Unsubscribe: <mailto:LU=cRv=d5D8rAOcRI_XWW5Q5ctBJQ=6=vqts=bc2eaa4c@f.tutu.ru>,
+ <http://clicks.tutu.ru/u/cRv/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/fb1f2b72>
+X-Mailru-Msgtype: recurring_6980_10200
+X-DMARC-Policy: none
+X-DMARC-Result: pass
+X-Mailru-Dmarc-Auth: dmarc=pass header.from=info@tutu.ru
+X-Mras: OK
+X-Spam: undefined
+Authentication-Results: mxs.mail.ru; spf=pass (mx194.i.mail.ru: domain of e.tutu.ru designates 185.31.80.30 as permitted sender) smtp.mailfrom=10200=3d3a7d6d-c2ec-4d7d-8ab6-d5e05c26759a=11=6399571@e.tutu.ru smtp.helo=tu1.tutu.ru;
+	 dkim=pass header.d=tutu.ru; dmarc=pass header.from=info@tutu.ru
+X-Received-For-Alias: 0641835@mail.ru
+
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+<meta name=3D"HandheldFriendly" content=3D"true"/>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge"/>
+<!--[if gte IE 7]><html class=3D"ie8plus" xmlns=3D"http://www.w3.org/1999/x=
+html"><![endif]-->
+<!--[if IEMobile]><html class=3D"ie8plus" xmlns=3D"http://www.w3.org/1999/x=
+html"><![endif]-->
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<meta name=3D"generator" content=3D"EDMdesigner, www.edmdesigner.com">
+<title>=E2=9E=A8 =C2=AB=D0=A1=D0=B0=D0=BD=D0=BA=D1=82-=D0=9F=D0=B5=D1=82=D0=
+=B5=D1=80=D0=B1=D1=83=D1=80=D0=B3 =E2=80=94 =D0=9C=D0=BE=D1=81=D0=BA=D0=B2=
+=D0=B0=C2=BB =D0=B8 =D0=B4=D1=80=D1=83=D0=B3=D0=B8=D0=B5 =D0=BD=D0=B0=D0=BF=
+=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F, =D0=BA=D0=BE=D1=82=D0=BE=
+=D1=80=D1=8B=D0=B5 =D0=B1=D1=83=D0=B4=D1=83=D1=82 =D0=92=D0=B0=D0=BC =D0=B8=
+=D0=BD=D1=82=D0=B5=D1=80=D0=B5=D1=81=D0=BD=D1=8B.</title>
+
+
+
+<style type=3D"text/css" media=3D"screen">
+* {line-height: inherit;}
+=2EExternalClass * { line-height: 100%; }
+body, p{margin:0; padding:0; margin-bottom:0; -webkit-text-size-adjust:none=
+; -ms-text-size-adjust:none;} img{line-height:100%; outline:none; text-deco=
+ration:none; -ms-interpolation-mode: bicubic;} a img{border: none;} #backgr=
+oundTable {margin:0; padding:0; width:100% !important; } a, a:link, .no-det=
+ect-local a, .appleLinks a{color:#5555ff !important; text-decoration: under=
+line;} .ExternalClass {display: block !important; width:100%;} .ExternalCla=
+ss, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalCl=
+ass td, .ExternalClass div { line-height: inherit; } table td {border-colla=
+pse:collapse;mso-table-lspace: 0pt; mso-table-rspace: 0pt;} sup{position: r=
+elative; top: 4px; line-height:7px !important;font-size:11px !important;} .=
+mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {text-decoratio=
+n: default; color: #5555ff !important; pointer-events: auto; cursor: defaul=
+t;} .no-detect a{text-decoration: none; color: #5555ff; pointer-events: aut=
+o; cursor: default;} {color: #5555ff;} span {color: inherit; border-bottom:=
+ none;} span:hover { background-color: transparent; }
+
+=2Enounderline {text-decoration: none !important;}
+h1, h2, h3 { margin:0; padding:0; }
+p {Margin: 0px !important; }
+
+table[class=3D"email-root-wrapper"] { width: 600px !important; }
+
+body {
+background-color: #ffffff;
+background: #ffffff;
+}
+body { min-width: 280px; width: 100%;}
+td[class=3D"pattern"] .c486p85r { width: 85.6401384083045%;}
+td[class=3D"pattern"] .c81p14r { width: 14.359861591695502%;}
+td[class=3D"pattern"] .c113p20r { width: 20%;}
+td[class=3D"pattern"] .c454p80r { width: 80%;}
+td[class=3D"pattern"] .c95p21r { width: 21.0989010989011%;}
+td[class=3D"pattern"] .c90p20r { width: 20%;}
+td[class=3D"pattern"] .c91p20r { width: 20.21978021978022%;}
+td[class=3D"pattern"] .c84p18r { width: 18.681318681318682%;}
+td[class=3D"pattern"] .c289p50r { width: 50%;}
+td[class=3D"pattern"] .c93p33r { width: 33.333333333333336%;}
+td[class=3D"pattern"] .c94p33r { width: 33.333333333333336%;}
+td[class=3D"pattern"] .c281p50r { width: 50%;}
+td[class=3D"pattern"] .c171p61r { width: 61.186440677966104%;}
+td[class=3D"pattern"] .c80p28r { width: 28.813559322033896%;}
+td[class=3D"pattern"] .c28p10r { width: 10%;}
+
+</style>
+<style>
+@media only screen and (max-width: 599px),
+only screen and (max-device-width: 599px),
+only screen and (max-width: 400px),
+only screen and (max-device-width: 400px) {
+ .email-root-wrapper { width: 100% !important; }
+ .full-width { width: 100% !important; height: auto !important; text-align:=
+center;}
+ .fullwidthhalfleft {width:100% !important;}
+ .fullwidthhalfright {width:100% !important;}
+ .fullwidthhalfinner {width:100% !important; margin: 0 auto !important; flo=
+at: none !important; margin-left: auto !important; margin-right: auto !impo=
+rtant; clear:both !important; }
+ .hide { display:none !important; width:0px !important;height:0px !importan=
+t; overflow:hidden; }
+ .desktop-hide { display:block !important; width:100% !important;height:aut=
+o !important; overflow:hidden; max-height: inherit !important; }
+	.c486p85r { width: 100% !important; float:none;}
+=2Ec81p14r { width: 100% !important; float:none;}
+=2Ec113p20r { width: 100% !important; float:none;}
+=2Ec454p80r { width: 100% !important; float:none;}
+=2Ec95p21r { width: 100% !important; float:none;}
+=2Ec90p20r { width: 100% !important; float:none;}
+=2Ec91p20r { width: 100% !important; float:none;}
+=2Ec84p18r { width: 100% !important; float:none;}
+=2Ec289p50r { width: 100% !important; float:none;}
+=2Ec93p33r { width: 100% !important; float:none;}
+=2Ec94p33r { width: 100% !important; float:none;}
+=2Ec281p50r { width: 100% !important; float:none;}
+=2Ec171p61r { width: 100% !important; float:none;}
+=2Ec80p28r { width: 100% !important; float:none;}
+=2Ec28p10r { width: 100% !important; float:none;}
+
+}
+</style>
+<style>
+@media only screen and (min-width: 600px) {
+  td[class=3D"pattern"] .c486p85r { width: 486px !important;}
+td[class=3D"pattern"] .c81p14r { width: 81px !important;}
+td[class=3D"pattern"] .c113p20r { width: 113px !important;}
+td[class=3D"pattern"] .c454p80r { width: 454px !important;}
+td[class=3D"pattern"] .c95p21r { width: 95px !important;}
+td[class=3D"pattern"] .c90p20r { width: 90px !important;}
+td[class=3D"pattern"] .c91p20r { width: 91px !important;}
+td[class=3D"pattern"] .c84p18r { width: 84px !important;}
+td[class=3D"pattern"] .c289p50r { width: 289px !important;}
+td[class=3D"pattern"] .c93p33r { width: 93px !important;}
+td[class=3D"pattern"] .c94p33r { width: 94px !important;}
+td[class=3D"pattern"] .c281p50r { width: 281px !important;}
+td[class=3D"pattern"] .c171p61r { width: 171px !important;}
+td[class=3D"pattern"] .c80p28r { width: 80px !important;}
+td[class=3D"pattern"] .c28p10r { width: 28px !important;}
+
+}
+@media only screen and (max-width: 599px),
+only screen and (max-device-width: 599px),
+only screen and (max-width: 400px),
+only screen and (max-device-width: 400px) {
+  table[class=3D"email-root-wrapper"] { width: 100% !important; }
+  td[class=3D"wrap"] .full-width { width: 100% !important; height: auto !im=
+portant;}
+
+  td[class=3D"wrap"] .fullwidthhalfleft {width:100% !important;}
+  td[class=3D"wrap"] .fullwidthhalfright {width:100% !important;}
+  td[class=3D"wrap"] .fullwidthhalfinner {width:100% !important; margin: 0 =
+auto !important; float: none !important; margin-left: auto !important; marg=
+in-right: auto !important; clear:both !important; }
+  td[class=3D"wrap"] .hide { display:none !important; width:0px;height:0px;=
+ overflow:hidden; }
+
+  td[class=3D"pattern"] .c486p85r { width: 100% !important; }
+td[class=3D"pattern"] .c81p14r { width: 100% !important; }
+td[class=3D"pattern"] .c113p20r { width: 100% !important; }
+td[class=3D"pattern"] .c454p80r { width: 100% !important; }
+td[class=3D"pattern"] .c95p21r { width: 100% !important; }
+td[class=3D"pattern"] .c90p20r { width: 100% !important; }
+td[class=3D"pattern"] .c91p20r { width: 100% !important; }
+td[class=3D"pattern"] .c84p18r { width: 100% !important; }
+td[class=3D"pattern"] .c289p50r { width: 100% !important; }
+td[class=3D"pattern"] .c93p33r { width: 100% !important; }
+td[class=3D"pattern"] .c94p33r { width: 100% !important; }
+td[class=3D"pattern"] .c281p50r { width: 100% !important; }
+td[class=3D"pattern"] .c171p61r { width: 100% !important; }
+td[class=3D"pattern"] .c80p28r { width: 100% !important; }
+td[class=3D"pattern"] .c28p10r { width: 100% !important; }
+
+}
+
+@media yahoo{
+table {float: none !important;height:auto; }
+table[align=3D"left"] {float:left !important; }
+td[align=3D"left"] {float:left !important;height:auto; }
+table[align=3D"center"] {margin:0 auto; }
+td[align=3D"center"] {margin:0 auto;height:auto; }
+table[align=3D"right"] {float:right !important; }
+td[align=3D"right"] {float:right !important;height:auto; }
+}
+
+
+</style>
+
+<!--[if (gte IE 7) & (vml)]>
+<style type=3D"text/css">
+html, body {margin:0 !important; padding:0px !important;}
+img.full-width { position: relative !important; }
+
+=2Eimg98x34 { width: 98px !important; height: 34px !important;}
+=2Eimg150x49 { width: 150px !important; height: 49px !important;}
+=2Eimg88x120 { width: 88px !important; height: 120px !important;}
+=2Eimg16x16 { width: 16px !important; height: 16px !important;}
+
+</style>
+<![endif]-->
+
+<!--[if gte mso 9]>
+<style type=3D"text/css">
+=2Emso-font-fix-arial { font-family: Arial, sans-serif;}
+=2Emso-font-fix-georgia { font-family: Georgia, sans-serif;}
+=2Emso-font-fix-tahoma { font-family: Tahoma, sans-serif;}
+=2Emso-font-fix-times_new_roman { font-family: 'Times New Roman', sans-seri=
+f;}
+=2Emso-font-fix-trebuchet_ms { font-family: 'Trebuchet MS', sans-serif;}
+=2Emso-font-fix-verdana { font-family: Verdana, sans-serif;}
+</style>
+<![endif]-->
+
+<!--[if gte mso 9]>
+<style type=3D"text/css">
+table, td {
+border-collapse: collapse !important;
+mso-table-lspace: 0px !important;
+mso-table-rspace: 0px !important;
+}
+
+=2Eemail-root-wrapper { width 600px !important;}
+=2Eimglink { font-size: 0px; }
+=2Eedm_button { font-size: 0px; }
+</style>
+<![endif]-->
+
+<!--[if gte mso 15]>
+<style type=3D"text/css">
+table {
+font-size:0px;
+mso-margin-top-alt:0px;
+}
+
+=2Efullwidthhalfleft {
+width: 49% !important;
+float:left !important;
+}
+
+=2Efullwidthhalfright {
+width: 50% !important;
+float:right !important;
+}
+</style>
+<![endif]-->
+<STYLE type=3D"text/css" media=3D"(pointer) and (min-color-index:0)">
+html, body {background-image: none !important; background-color: transparen=
+t !important; margin:0 !important; padding:0 !important;}
+</STYLE>
+
+</head>
+<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=3D"0"=
+ offset=3D"0" background=3D"" bgcolor=3D"#ffffff" style=3D"font-family:Aria=
+l, sans-serif; font-size:0px;margin:0;padding:0; background: #ffffff !impor=
+tant;">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--><!--[i=
+f t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]-->
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+background=3D"" bgcolor=3D"#ffffff" style=3D"background: #ffffff !important=
+;" height=3D"100%" width=3D"100%" id=3D"backgroundTable">
+    <tr>
+        <td class=3D"wrap" align=3D"center" valign=3D"top" width=3D"100%">
+          <center>
+<!-- content -->
+<div style=3D"padding: 0px;"><table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"600" align=3D"center" class=3D"email-root-wrapper" =
+style=3D"max-width: 600px; min-width: 240px; margin: 0 auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding-right: 5px; padding-left: 5px;"><ta=
+ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=
+=3D"#fbfbfb" style=3D"border: 1px solid #e6e6e6; background-color: #fbfbfb;=
+">
+<tr><td valign=3D"top" style=3D"padding-top: 5px; padding-right: 10px; padd=
+ing-left: 10px;"><table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tr><td class=3D"pattern" style=3D"padding: 0px;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0; mso-cellspacing: 0in;"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" width=3D"486=
+" id=3D"c486p85r" class=3D"c486p85r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%" style=3D"border: 0px none;">
+<tr><td valign=3D"top" style=3D"padding: 5px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td style=3D"padding: 0px;"><div><p style=3D"padding: 0; margin: 0;text=
+-align: right;">
+<span style=3D"font-family: Arial, Verdana, Tahoma, Geneva, sans-serif; col=
+or: #000000;; font-size: 13px; line-height: 14px; text-decoration: none; wh=
+ite-space: nowrap; font-weight: 400; ">
+ =20
+=D0=A1=D0=BB=D1=83=D0=B6=D0=B1=D0=B0=C2=A0=D0=BF=D0=BE=D0=B4=D0=B4=D0=B5=D1=
+=80=D0=B6=D0=BA=D0=B8 +7=C2=A0495=C2=A0587=E2=80=9142=E2=80=9105
+</span>
+
+</p>
+
+
+</div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"81" id=3D"c81p14r" class=3D"c81p14r" style=3D"float: left;">
+<tr><td valign=3D"top" class=3D"hide" style=3D"padding: 0px;"><table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 5px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top"><div style=3D"text-align: left; font-family: arial; =
+font-size: 13px; color: #000000; line-height: 14px; mso-line-height: exactl=
+y; vertical-align: middle;"><p style=3D"padding: 0; margin: 0;text-align: r=
+ight;"><a  href=3D"http://clicks.tutu.ru/u/cRv/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqt=
+s/F/fb1f2b72"style=3D"color: #306596 !important; text-decoration: underline=
+ !important;"    target=3D"_blank" ><font style=3D" color:#306596;">&#x41E;=
+&#x442;&#x43F;&#x438;&#x441;&#x430;&#x442;&#x44C;&#x441;&#x44F;</font></a><=
+/p></div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"600" align=3D"center" class=3D"email-root-wrapper" =
+style=3D"max-width: 600px; min-width: 240px; margin: 0 auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding-right: 5px; padding-left: 5px;"><ta=
+ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=
+=3D"border-right: 1px solid #eee; border-left: 1px solid #eee;">
+<tr><td valign=3D"top" style=3D"padding: 5px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td style=3D"padding: 0px;"><table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%" style=3D"border: 0px none;">
+<tr><td valign=3D"top" style=3D"padding: 5px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td class=3D"pattern" style=3D"padding: 0px;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0; mso-cellspacing: 0in;"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" width=3D"113=
+" id=3D"c113p20r" class=3D"c113p20r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td align=3D"center" style=3D"padding: 0px;"><table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" align=3D"center">
+<tr><td valign=3D"top" align=3D"center" style=3D"padding-right: 15px; paddi=
+ng-bottom: 15px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" w=
+idth=3D"98" height=3D"34" style=3D"border: 0px none; height: auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><a href=3D"http://clicks.tut=
+u.ru/c/cRv/cE-l/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/d947ac53" target=3D"_blank"=
+ class=3D"imglink"><img src=3D"http://tutu1-st.cdn.ngenix.net/images2/email=
+/tours/logo.png" width=3D"98" height=3D"34" alt=3D"" border=3D"0" class=3D"=
+img98x34" style=3D"display: block;"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"454" id=3D"c454p80r" class=3D"c454p80r" style=3D"float: left;">
+<tr><td valign=3D"top" class=3D"pattern" style=3D"padding: 0px;"><table cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0; mso-cellspacing: 0in;"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" width=3D"95"=
+ id=3D"c95p21r" class=3D"c95p21r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><div>   <a href=3D"http://cl=
+icks.tutu.ru/c/cRv/cE-A/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/7d5ba3a1" style=3D"=
+color:#306596;text-decoration:none;"><span style=3D"font-size:10px;font-fam=
+ily: Arial, Verdana, Tahoma, Geneva, sans-serif; color: #000000;; font-size=
+: 13px; line-height: 14px; text-decoration: none; white-space: nowrap; font=
+-weight: 400;">
+    =20
+     <img alt=3D"" height=3D"10" src=3D"http://tutu1-st.cdn.ngenix.net/imag=
+es2/email/tours/header/avia.png" style=3D"border:0;" width=3D"10">
+     </span><span style=3D"color:#306596;text-decoration:underline;font-siz=
+e:12px;">=D0=90=D0=B2=D0=B8=D0=B0=D0=B1=D0=B8=D0=BB=D0=B5=D1=82=D1=8B</span=
+></a>
+<img alt=3D"" height=3D"10" src=3D"http://pic.tu-tu.ru/content4/void_logo.p=
+ng" style=3D"border:0;" width=3D"10">
+     </div></td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"90" id=3D"c90p20r" class=3D"c90p20r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><div> <a href=3D"http://clic=
+ks.tutu.ru/c/cRv/cE-R/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/377196a2" style=3D"co=
+lor:#306596;text-decoration:none;"><span style=3D"font-size:10px;"><img alt=
+=3D"" height=3D"12" src=3D"http://tutu1-st.cdn.ngenix.net/images2/email/tou=
+rs/header/train.png" style=3D"border:0;vertical-align:-3px;" width=3D"7">=
+=C2=A0</span><span style=3D"color:#306596;text-decoration:underline;font-si=
+ze:12px;">=D0=96/=D0=B4 =D0=B1=D0=B8=D0=BB=D0=B5=D1=82=D1=8B</span></a>
+<img alt=3D"" height=3D"10" src=3D"http://pic.tu-tu.ru/content4/void_logo.p=
+ng" style=3D"border:0;vertical-align:-3px;" width=3D"10">
+</div></td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"91" id=3D"c91p20r" class=3D"c91p20r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><div> <a href=3D"http://clic=
+ks.tutu.ru/c/cRv/cE-Q/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/98373ec4" style=3D"co=
+lor:#306596;text-decoration:none;"><span style=3D"font-size:10px;"><img alt=
+=3D"" height=3D"15" src=3D"http://pic.tu-tu.ru/content4/47856498565476.png"=
+ style=3D"border:0;" width=3D"13">=C2=A0</span><span style=3D"color:#306596=
+;text-decoration:underline;font-size:12px;vertical-align:4px;">=D0=90=D0=B2=
+=D1=82=D0=BE=D0=B1=D1=83=D1=81=D1=8B</span></a>
+<img alt=3D"" height=3D"10" src=3D"http://pic.tu-tu.ru/content4/void_logo.p=
+ng" style=3D"border:0;vertical-align:4px;" width=3D"10"></div></td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"90" id=3D"c90p20r" class=3D"c90p20r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><div>  <a href=3D"http://cli=
+cks.tutu.ru/c/cRv/cE-p/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/eca29a6d" style=3D"c=
+olor:#306596;text-decoration:none;"><span style=3D"font-size:10px;"><img al=
+t=3D"" height=3D"7" src=3D"http://tutu1-st.cdn.ngenix.net/images2/email/tou=
+rs/header/hotel.png" style=3D"border:0;" width=3D"17">=C2=A0</span><span st=
+yle=3D"color:#306596;text-decoration:underline;font-size:12px;">=D0=93=D0=
+=BE=D1=81=D1=82=D0=B8=D0=BD=D0=B8=D1=86=D1=8B</span></a>
+<img alt=3D"" height=3D"10" src=3D"http://pic.tu-tu.ru/content4/void_logo.p=
+ng" style=3D"border:0;" width=3D"10"></div></td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"84" id=3D"c84p18r" class=3D"c84p18r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><div><a href=3D"http://click=
+s.tutu.ru/c/cRv/cE-P/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/fd0aa6e6" style=3D"col=
+or:#306596;text-decoration:none;">
+  <span style=3D"font-size:11px;"><img alt=3D"" height=3D"11" src=3D"http:/=
+/tutu1-st.cdn.ngenix.net/images2/email/tours/header/tours.png" style=3D"bor=
+der:0;vertical-align:-1px;" width=3D"7">=C2=A0</span><span style=3D"color:#=
+306596;text-decoration:underline;font-size:12px;"> =D0=A2=D1=83=D1=80=D1=8B=
+</span></a></div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"600" align=3D"center" class=3D"email-root-wrapper" =
+style=3D"max-width: 600px; min-width: 240px; margin: 0 auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding-right: 5px; padding-left: 5px;"><ta=
+ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=
+=3D"border-right: 1px solid #eee; border-left: 1px solid #eee;">
+<tr><td valign=3D"top" style=3D"padding: 5px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td style=3D"padding: 0px;"><table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%" style=3D"border: 0px none;">
+<tr><td valign=3D"top" style=3D"padding: 5px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td style=3D"padding: 0px;"><table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%" style=3D"border: 0px none;">
+<tr><td valign=3D"top" style=3D"padding: 5px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td style=3D"padding: 0px;"><div><tr> <td> <div style=3D"font: 14px Ari=
+al, sans-serif; line-height: 20px; color: #000000; padding-top: 5px; paddin=
+g-bottom: 5px; padding-left: 10px; padding-right: 15px;">
+                            =20
+                    =D0=97=D0=B4=D1=80=D0=B0=D0=B2=D1=81=D1=82=D0=B2=D1=83=
+=D0=B9=D1=82=D0=B5!<br>
+                  =D0=9D=D0=B5=D0=B4=D0=B0=D0=B2=D0=BD=D0=BE =D0=92=D1=8B =
+=D0=BA=D1=83=D0=BF=D0=B8=D0=BB=D0=B8 =D0=B6/=D0=B4 =D0=B1=D0=B8=D0=BB=D0=B5=
+=D1=82=D1=8B =D0=BD=D0=B0 =D0=BF=D0=BE=D0=B5=D0=B7=D0=B4=20
+ =20
+              <a href=3D"http://clicks.tutu.ru/c/cRv/cE1G/d5D8rAOcRI_XWW5Q5=
+ctBJQ/6/vqts/F/39f30db1">=C2=AB=D0=A1=D0=B0=D0=BD=D0=BA=D1=82-=D0=9F=D0=B5=
+=D1=82=D0=B5=D1=80=D0=B1=D1=83=D1=80=D0=B3 =E2=80=94 =D0=9C=D0=BE=D1=81=D0=
+=BA=D0=B2=D0=B0=C2=BB.</a> <br></div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding-top: 10px; padding-right: 15px; pad=
+ding-bottom: 17px; padding-left: 15px;"><table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top"><div style=3D"text-align: left; font-family: arial; =
+font-size: 14px; color: #000000; line-height: 18px; mso-line-height: exactl=
+y; vertical-align: middle;"><p style=3D"padding: 0; margin: 0;"><strong>&#x=
+412;&#x44B; &#x443;&#x436;&#x435; &#x43A;&#x443;&#x43F;&#x438;&#x43B;&#x438=
+; &#x43E;&#x431;&#x440;&#x430;&#x442;&#x43D;&#x44B;&#x435; &#x431;&#x438;&#=
+x43B;&#x435;&#x442;&#x44B;? </strong></p><p style=3D"padding: 0; margin: 0;=
+">&#x2014; <a  href=3D"http://clicks.tutu.ru/c/cRv/cE-h/d5D8rAOcRI_XWW5Q5ct=
+BJQ/6/vqts/F/96c0ca9a"style=3D"color: #5555ff !important; text-decoration: =
+underline !important;"    target=3D"_blank" ><font style=3D" color:#5555ff;=
+">&#x423;&#x436;&#x435; &#x43A;&#x443;&#x43F;&#x438;&#x43B;(&#x430;)</font>=
+</a></p><p style=3D"padding: 0; margin: 0;">&#x2014; <a  href=3D"http://cli=
+cks.tutu.ru/c/cRv/cE-T/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/b28dc02f"style=3D"co=
+lor: #5555ff !important; text-decoration: underline !important;"    target=
+=3D"_blank" ><font style=3D" color:#5555ff;">&#x41F;&#x43B;&#x430;&#x43D;&#=
+x438;&#x440;&#x443;&#x44E; &#x43A;&#x443;&#x43F;&#x438;&#x442;&#x44C; &#x44=
+7;&#x435;&#x440;&#x435;&#x437; &#x43F;&#x430;&#x440;&#x443; &#x434;&#x43D;&=
+#x435;&#x439;</font></a></p><p style=3D"padding: 0; margin: 0;">&#x2014; <a=
+  href=3D"http://clicks.tutu.ru/c/cRv/cE-J/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/=
+4d13c655"style=3D"color: #5555ff !important; text-decoration: underline !im=
+portant;"    target=3D"_blank" ><font style=3D" color:#5555ff;">&#x41F;&#x4=
+3B;&#x430;&#x43D;&#x438;&#x440;&#x443;&#x44E; &#x43A;&#x443;&#x43F;&#x438;&=
+#x442;&#x44C; &#x447;&#x435;&#x440;&#x435;&#x437; &#x43D;&#x435;&#x434;&#x4=
+35;&#x43B;&#x44E;</font></a></p><p style=3D"padding: 0; margin: 0;">&#x2014=
+; <a  href=3D"http://clicks.tutu.ru/c/cRv/cE-U/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqt=
+s/F/d7b0580d"style=3D"color: #5555ff !important; text-decoration: underline=
+ !important;"    target=3D"_blank" ><font style=3D" color:#5555ff;">&#x41F;=
+&#x43B;&#x430;&#x43D;&#x438;&#x440;&#x443;&#x44E; &#x43A;&#x443;&#x43F;&#x4=
+38;&#x442;&#x44C; &#x447;&#x435;&#x440;&#x435;&#x437; &#x43C;&#x435;&#x441;=
+&#x44F;&#x446;</font></a></p><p style=3D"padding: 0; margin: 0;">&#x2014; <=
+a  href=3D"http://clicks.tutu.ru/c/cRv/cE--/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F=
+/9f2a4d67"style=3D"color: #5555ff !important; text-decoration: underline !i=
+mportant;"    target=3D"_blank" ><font style=3D" color:#5555ff;">&#x41D;&#x=
+435;&#x442;, &#x44F; &#x436;&#x438;&#x432;&#x443; &#x432; &#x44D;&#x442;&#x=
+43E;&#x43C; &#x433;&#x43E;&#x440;&#x43E;&#x434;&#x435;</font></a></p></div>=
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div><tr> <td> <div style=3D"font: 14px Arial, sans-serif; line-height: 20p=
+x; color: #000000; padding-top: 5px; padding-bottom: 5px; padding-left: 10p=
+x; padding-right: 15px;">
+                            =20
+                  <a href=3D"http://clicks.tutu.ru/c/cRv/cE1O/d5D8rAOcRI_XW=
+W5Q5ctBJQ/6/vqts/F/a6fdc023">=D0=9D=D0=B0=D0=B9=D1=82=D0=B8 =D0=BE=D0=B1=D1=
+=80=D0=B0=D1=82=D0=BD=D1=8B=D0=B5 =D0=B1=D0=B8=D0=BB=D0=B5=D1=82=D1=8B</a>
+=20
+                <br> =D0=9F=D0=BE=D0=B4=D1=80=D0=BE=D0=B1=D0=BD=D1=83=D1=8E=
+ =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8E =D0=BE =D0=B7=
+=D0=B0=D0=BA=D0=B0=D0=B7=D0=B0=D1=85 =D0=92=D1=8B =D1=83=D0=B7=D0=BD=D0=B0=
+=D0=B5=D1=82=D0=B5 =D0=B2 <a href=3D"http://clicks.tutu.ru/c/cRv/cE-1/d5D8r=
+AOcRI_XWW5Q5ctBJQ/6/vqts/F/aacf7b59"> =D0=9B=D0=B8=D1=87=D0=BD=D0=BE=D0=BC =
+=D0=BA=D0=B0=D0=B1=D0=B8=D0=BD=D0=B5=D1=82=D0=B5</a>.
+                  =D0=90 =D0=BC=D1=8B =D0=BF=D0=BE=D0=B4=D0=BE=D0=B1=D1=80=
+=D0=B0=D0=BB=D0=B8 =D0=B4=D0=BB=D1=8F =D0=92=D0=B0=D1=81 =D0=B1=D0=BE=D0=BB=
+=D1=8C=D1=88=D0=B5 =D0=B8=D0=BD=D1=82=D0=B5=D1=80=D0=B5=D1=81=D0=BD=D1=8B=
+=D1=85 =D0=B3=D0=BE=D1=80=D0=BE=D0=B4=D0=BE=D0=B2 =D0=B4=D0=BB=D1=8F =D0=B8=
+=D0=BD=D1=82=D0=B5=D1=80=D0=B5=D1=81=D0=BD=D1=8B=D1=85 =D0=BF=D1=83=D1=82=
+=D0=B5=D1=88=D0=B5=D1=81=D1=82=D0=B2=D0=B8=D0=B9!
+                       </div></div><div><tr> <td> <div style=3D"font: 14px =
+Arial, sans-serif; line-height: 20px; color: #000000; padding-left: 15px; p=
+adding-right: 15px;">=20
+=20
+  =20
+  =20
+
+
+=20
+ =20
+                     =20
+                        <br> <a href=3D"http://clicks.tutu.ru/c/cRv/cE-4/d5=
+D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/807585b2" style=3D" color:#306596;"><h2>=D0=
+=90=D0=B4=D0=BB=D0=B5=D1=80</h2></a><br>
+=20
+                       <img src=3D"http://pic.tu-tu.ru/content4/436547568.j=
+pg"><br/>
+=20
+ =20
+                     =20
+                        <br> <a href=3D"http://clicks.tutu.ru/c/cRv/cE-w/d5=
+D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/0c6354c2" style=3D" color:#306596;"><h2>=D0=
+=95=D0=BA=D0=B0=D1=82=D0=B5=D1=80=D0=B8=D0=BD=D0=B1=D1=83=D1=80=D0=B3</h2><=
+/a><br>
+=20
+                       <img src=3D"http://pic.tu-tu.ru/content4/78564785647=
+856.jpg"><br/>
+=20
+ =20
+                     =20
+                        <br> <a href=3D"http://clicks.tutu.ru/c/cRv/cE-S/d5=
+D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/524c0e80" style=3D" color:#306596;"><h2>=D0=
+=9A=D0=B0=D0=B7=D0=B0=D0=BD=D1=8C</h2></a><br>
+=20
+                       <img src=3D"http://pic.tu-tu.ru/content4/78654476486=
+74567.jpg"><br/>
+=20
+ =20
+                     =20
+                        <br> <a href=3D"http://clicks.tutu.ru/c/cRv/cE-3/d5=
+D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/60b44b1d" style=3D" color:#306596;"><h2>=D0=
+=9D=D0=B8=D0=B6=D0=BD=D0=B8=D0=B9 =D0=9D=D0=BE=D0=B2=D0=B3=D0=BE=D1=80=D0=
+=BE=D0=B4</h2></a><br>
+=20
+                       <img src=3D"http://pic.tu-tu.ru/content4/78456457646=
+=2Ejpg"><br/>
+=20
+ =20
+                     =20
+                        <br> <a href=3D"http://clicks.tutu.ru/c/cRv/cE-z/d5=
+D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/b9d767bb" style=3D" color:#306596;"><h2>=D0=
+=A1=D0=B0=D0=BC=D0=B0=D1=80=D0=B0</h2></a><br>
+=20
+                       <img src=3D"http://pic.tu-tu.ru/content4/37857438564=
+865.jpg"><br/>
+=20
+ =20
+                     =20
+                        <br> <a href=3D"http://clicks.tutu.ru/c/cRv/cEKs/d5=
+D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/5ee4267c" style=3D" color:#306596;"><h2>=D0=
+=A1=D0=BE=D1=87=D0=B8</h2></a><br>
+=20
+                       <img src=3D"http://pic.tu-tu.ru/content4/shutterstoc=
+k_106575116.jpg"><br/>
+
+  </div> </td> </tr></div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding-top: 10px; padding-right: 15px; pad=
+ding-bottom: 17px; padding-left: 15px;"><table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top"><div style=3D"text-align: left; font-family: arial; =
+font-size: 14px; color: #000000; line-height: 18px; mso-line-height: exactl=
+y; vertical-align: middle;"><p style=3D"padding: 0; margin: 0;"><strong>&#x=
+410; &#x435;&#x449;&#x435; &#x43D;&#x430; &#x43F;&#x43E;&#x435;&#x437;&#x43=
+4;&#x435; &#x43C;&#x43E;&#x436;&#x43D;&#x43E; &#x43F;&#x43E;&#x435;&#x445;&=
+#x430;&#x442;&#x44C; &#x437;&#x430; &#x433;&#x440;&#x430;&#x43D;&#x438;&#x4=
+46;&#x443;:<span style=3D"font-size: 0px;">&#x420;&#x438;&#x433;&#x430; (&#=
+x41B;&#x430;&#x442;&#x432;&#x438;&#x44F;) &#x2014; </span><a  href=3D"http:=
+//clicks.tutu.ru/c/cRv/cE-D/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/57e15d4a" style=
+=3D"font-size: 0px;"style=3D"color: #5555ff !important; text-decoration: un=
+derline !important;"    target=3D"_blank" ><font style=3D" color:#5555ff;">=
+&#x43E;&#x442; 3 056 &#x440;&#x443;&#x431;</font></a><span style=3D"font-si=
+ze: 0px;">.</span></strong></p><p style=3D"padding: 0; margin: 0;">&#x412;&=
+#x438;&#x43B;&#x44C;&#x43D;&#x44E;&#x441; (&#x41B;&#x438;&#x442;&#x432;&#x4=
+30;) &#x2014; <a  href=3D"http://clicks.tutu.ru/c/cRv/cE-B/d5D8rAOcRI_XWW5Q=
+5ctBJQ/6/vqts/F/d21d0bc7"style=3D"color: #5555ff !important; text-decoratio=
+n: underline !important;"    target=3D"_blank" ><font style=3D" color:#5555=
+ff;">&#x43E;&#x442; 5 132 &#x440;&#x443;&#x431;</font></a>.</p><p style=3D"=
+padding: 0; margin: 0;">&#x425;&#x435;&#x43B;&#x44C;&#x441;&#x438;&#x43D;&#=
+x43A;&#x438; (&#x424;&#x438;&#x43D;&#x43B;&#x44F;&#x43D;&#x434;&#x438;&#x44=
+F;) &#x2014; <a  href=3D"http://clicks.tutu.ru/c/cRv/cE-_/d5D8rAOcRI_XWW5Q5=
+ctBJQ/6/vqts/F/82c5a5db"style=3D"color: #5555ff !important; text-decoration=
+: underline !important;"    target=3D"_blank" ><font style=3D" color:#5555f=
+f;">&#x43E;&#x442; 2 371 &#x440;&#x443;&#x431;</font></a>.</p><p style=3D"p=
+adding: 0; margin: 0;">&#x422;&#x430;&#x43B;&#x43B;&#x438;&#x43D; (&#x42D;&=
+#x441;&#x442;&#x43E;&#x43D;&#x438;&#x44F;) &#x2014; <a  href=3D"http://clic=
+ks.tutu.ru/c/cRv/cE-9/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/35c1b6cb"style=3D"col=
+or: #5555ff !important; text-decoration: underline !important;"    target=
+=3D"_blank" ><font style=3D" color:#5555ff;">&#x43E;&#x442; 1 613 &#x440;&#=
+x443;&#x431;</font></a>.</p><p style=3D"padding: 0; margin: 0;"><a  href=3D=
+"http://clicks.tutu.ru/c/cRv/cE-V/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/78f6f06b"=
+style=3D"color: #5555ff !important; text-decoration: underline !important;"=
+    target=3D"_blank" ><font style=3D" color:#5555ff;">&#x411;&#x43E;&#x43B=
+;&#x44C;&#x448;&#x435; &#x437;&#x430;&#x440;&#x443;&#x431;&#x435;&#x436;&#x=
+43D;&#x44B;&#x445; &#x43D;&#x430;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;=
+&#x43D;&#x438;&#x439;</font></a>.</p></div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tr><td align=3D"left" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" align=3D"left" class=3D"full-width" style=3D"te=
+xt-align: center; color: #000;">
+<tr><td valign=3D"top" align=3D"left" style=3D"padding-top: 10px; padding-r=
+ight: 10px; padding-left: 15px;"><table cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" bgcolor=3D"#306596" class=3D"full-width" style=3D"border: 1px=
+ solid #58585a; border-radius: 5px; border-collapse: separate !important; b=
+ackground-color: #306596;">
+<tr><td valign=3D"top" align=3D"center" style=3D"padding: 10px;"><a href=3D=
+"http://clicks.tutu.ru/c/cRv/cE-Z/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/a87f5b30"=
+ target=3D"_blank" class=3D"edm_button" style=3D"text-decoration: none;"><s=
+pan style=3D"font-family: arial; font-size: 14px; color: #000000; line-heig=
+ht: 14px; text-decoration: none;"><span style=3D"color:#FFFFFF">&#x41D;&#x4=
+30;&#x439;&#x442;&#x438; &#x441;&#x432;&#x43E;&#x435; &#x43F;&#x443;&#x442;=
+&#x435;&#x448;&#x435;&#x441;&#x442;&#x432;&#x438;&#x435; &#x43D;&#x430; &#x=
+422;&#x443;&#x442;&#x443;.&#x440;&#x443;</span></span>
+</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding-top: 10px; padding-right: 15px; pad=
+ding-bottom: 17px; padding-left: 15px;"><table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top"><div style=3D"text-align: left; font-family: arial; =
+font-size: 14px; color: #000000; line-height: 18px; mso-line-height: exactl=
+y; vertical-align: middle;"><p style=3D"padding: 0; margin: 0;">&#xA0;</p><=
+p style=3D"padding: 0; margin: 0;"><span style=3D"font-family:arial;">&#x41=
+A;&#x43E;&#x43C;&#x430;&#x43D;&#x434;&#x430; &#x422;&#x443;&#x442;&#x443;.&=
+#x440;&#x443;<br><a  href=3D"http://clicks.tutu.ru/c/cRv/cE-8/d5D8rAOcRI_XW=
+W5Q5ctBJQ/6/vqts/F/50fc2ee9"style=3D"color: #306596 !important; text-decora=
+tion: underline !important;"    target=3D"_blank" ><font style=3D" color:#3=
+06596;">www.tutu.ru</font></a></span></p><p style=3D"padding: 0; margin: 0;=
+"><span style=3D"font-family:arial;"><a  href=3D"http://clicks.tutu.ru/c/cR=
+v/cE-Y/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/0739f356"style=3D"color: #306596 !im=
+portant; text-decoration: underline !important;"    target=3D"_blank" ><fon=
+t style=3D" color:#306596;">&#x41A;&#x43E;&#x440;&#x43F;&#x43E;&#x440;&#x43=
+0;&#x442;&#x438;&#x432;&#x43D;&#x44B;&#x439; &#x441;&#x430;&#x439;&#x442;</=
+font></a>, </span><span style=3D"font-family:arial;"><a  href=3D"http://cli=
+cks.tutu.ru/c/cRv/cE-e/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/2374f9e3"style=3D"co=
+lor: #306596 !important; text-decoration: underline !important;"    target=
+=3D"_blank" ><font style=3D" color:#306596;">&#x432;&#x430;&#x43A;&#x430;&#=
+x43D;&#x441;&#x438;&#x438;</font></a></span></p></div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"600" align=3D"center" class=3D"email-root-wrapper" =
+style=3D"max-width: 600px; min-width: 240px; margin: 0 auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding-right: 5px; padding-left: 5px;"><ta=
+ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=
+=3D"#fbfbfb" style=3D"border-top: 1px solid #eee; border-right: 1px solid #=
+eee; border-left: 1px solid #eee; background-color: #fbfbfb;">
+<tr><td valign=3D"top" style=3D"padding: 5px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td class=3D"pattern" style=3D"padding: 0px;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding-top: 10px; padding-right: 20px; pad=
+ding-bottom: 5px; padding-left: 20px;"><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top"><div style=3D"text-align: left; font-family: arial; =
+font-size: 14px; color: #000000; line-height: 18px; mso-line-height: exactl=
+y; vertical-align: middle;"><p style=3D"padding: 0; margin: 0;"><strong>&#x=
+421;&#x43B;&#x443;&#x436;&#x431;&#x430; &#x43F;&#x43E;&#x434;&#x434;&#x435;=
+&#x440;&#x436;&#x43A;&#x438; &#x422;&#x443;&#x442;&#x443;.&#x440;&#x443;</s=
+trong></p><p style=3D"padding: 0; margin: 0;">&#x41E;&#x442;&#x432;&#x435;&=
+#x442;&#x438;&#x43C; &#x43D;&#x430; &#x412;&#x430;&#x448;&#x438; &#x432;&#x=
+43E;&#x43F;&#x440;&#x43E;&#x441;&#x44B;.<br>&#x417;&#x432;&#x43E;&#x43D;&#x=
+438;&#x442;&#x435; &#x435;&#x436;&#x435;&#x434;&#x43D;&#x435;&#x432;&#x43D;=
+&#x43E; &#x441; 9 &#x434;&#x43E; 21 &#x43F;&#x43E; &#x43C;&#x43E;&#x441;&#x=
+43A;&#x43E;&#x432;&#x441;&#x43A;&#x43E;&#x43C;&#x443; &#x432;&#x440;&#x435;=
+&#x43C;&#x435;&#x43D;&#x438;: &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#x=
+A0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &=
+#xA0; &#xA0; &#xA0; &#xA0; &#xA0; </p><p style=3D"padding: 0; margin: 0;"><=
+span style=3D"font-size: 20px; font-family: arial;">+7 495 987 21 05 &#xA0;=
+ &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA=
+0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0;</span></p=
+></div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 5px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top"><div style=3D"text-align: left; font-family: arial; =
+font-size: 14px; color: #000000; line-height: 14px; mso-line-height: exactl=
+y; vertical-align: middle;"><p style=3D"padding: 0; margin: 0;text-align: c=
+enter;"><strong>&#x41F;&#x440;&#x438;&#x43B;&#x43E;&#x436;&#x435;&#x43D;&#x=
+438;&#x435; &#x434;&#x43B;&#x44F; &#x43F;&#x43E;&#x438;&#x441;&#x43A;&#x430=
+; &#x430;&#x432;&#x438;&#x430;&#x431;&#x438;&#x43B;&#x435;&#x442;&#x43E;&#x=
+432; &#x43D;&#x430; &#x422;&#x443;&#x442;&#x443;.&#x440;&#x443;</strong></p=
+></div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0; mso-cellspacing: 0in;"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" width=3D"289=
+" id=3D"c289p50r" class=3D"c289p50r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td align=3D"right" style=3D"padding: 0px;"><table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" align=3D"right">
+<tr><td valign=3D"top" align=3D"right" style=3D"padding-top: 10px; padding-=
+right: 15px; padding-bottom: 15px; padding-left: 15px;"><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"150" height=3D"49" style=3D"=
+border: 0px none; height: auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><a href=3D"http://clicks.tut=
+u.ru/c/cRv/cE-f/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/8c325185" target=3D"_blank"=
+ class=3D"imglink"><img src=3D"http://pic.tu-tu.ru/content4/App_Store_logo2=
+=2Epng" width=3D"150" height=3D"49" alt=3D"" border=3D"0" class=3D"img150x4=
+9" style=3D"display: block;"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%" style=3D"border: 0px none;">
+<tr><td valign=3D"top" style=3D"padding-top: 5px; padding-right: 3px; paddi=
+ng-bottom: 5px; padding-left: 5px;"><table cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%">
+<tr><td class=3D"pattern" style=3D"padding: 0px;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0; mso-cellspacing: 0in;"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" width=3D"93"=
+ id=3D"c93p33r" class=3D"c93p33r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td align=3D"left" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" align=3D"left">
+<tr><td valign=3D"top" align=3D"left" style=3D"padding: 0px;"><table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"88" height=3D"120" styl=
+e=3D"border: 0px none; height: auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><a href=3D"http://clicks.tut=
+u.ru/c/cRv/cE-u/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/c6186486" target=3D"_blank"=
+ class=3D"imglink"><img src=3D"http://clicks.tutu.ru/Content/i2/10200/Hoste=
+dImages/6121/New%20folder/52468222222222.png" width=3D"88" height=3D"120" a=
+lt=3D"" border=3D"0" class=3D"img88x120" style=3D"display: block;"/></a></t=
+d>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"93" id=3D"c93p33r" class=3D"c93p33r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td align=3D"center" style=3D"padding: 0px;"><table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" align=3D"center">
+<tr><td valign=3D"top" align=3D"center" style=3D"padding: 0px;"><table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"88" height=3D"120" st=
+yle=3D"border: 0px none; height: auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><a href=3D"http://clicks.tut=
+u.ru/c/cRv/cE-0/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/cff2e37b" target=3D"_blank"=
+ class=3D"imglink"><img src=3D"http://clicks.tutu.ru/Content/i2/10200/Hoste=
+dImages/6121/New%20folder/%5E4F61D380D274FD01C8813E4E12A4F0D32C2335E216D357=
+E4F4%5Epimgpsh_fullsize_distr.png" width=3D"88" height=3D"120" alt=3D"" bor=
+der=3D"0" class=3D"img88x120" style=3D"display: block;"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"93" id=3D"c93p33r" class=3D"c93p33r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td align=3D"right" style=3D"padding: 0px;"><table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" align=3D"right">
+<tr><td valign=3D"top" align=3D"right" style=3D"padding: 0px;"><table cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"88" height=3D"120" sty=
+le=3D"border: 0px none; height: auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><a href=3D"http://clicks.tut=
+u.ru/c/cRv/cEKy/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/0b91dbaa" target=3D"_blank"=
+ class=3D"imglink"><img src=3D"http://clicks.tutu.ru/Content/i2/10200/Hoste=
+dImages/6121/New%20folder/5675675635.png" width=3D"88" height=3D"120" alt=
+=3D"" border=3D"0" class=3D"img88x120" style=3D"display: block;"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"289" id=3D"c289p50r" class=3D"c289p50r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td align=3D"left" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" align=3D"left">
+<tr><td valign=3D"top" align=3D"left" style=3D"padding-top: 10px; padding-r=
+ight: 15px; padding-bottom: 15px; padding-left: 15px;"><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"150" height=3D"49" style=3D"=
+border: 0px none; height: auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><a href=3D"http://clicks.tut=
+u.ru/c/cRv/cEKF/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/809a7979" target=3D"_blank"=
+ class=3D"imglink"><img src=3D"http://pic.tu-tu.ru/content4/googleplay2.png=
+" width=3D"150" height=3D"49" alt=3D"" border=3D"0" class=3D"img150x49" sty=
+le=3D"display: block;"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%" style=3D"border: 0px none;">
+<tr><td valign=3D"top" style=3D"padding-top: 5px; padding-right: 5px; paddi=
+ng-bottom: 5px; padding-left: 2px;"><table cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%">
+<tr><td class=3D"pattern" style=3D"padding: 0px;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0; mso-cellspacing: 0in;"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" width=3D"94"=
+ id=3D"c94p33r" class=3D"c94p33r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td align=3D"left" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" align=3D"left">
+<tr><td valign=3D"top" align=3D"left" style=3D"padding: 0px;"><table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"88" height=3D"120" styl=
+e=3D"border: 0px none; height: auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><a href=3D"http://clicks.tut=
+u.ru/c/cRv/cEKc/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/bb88bb19" target=3D"_blank"=
+ class=3D"imglink"><img src=3D"http://clicks.tutu.ru/Content/i2/10200/Hoste=
+dImages/6121/New%20folder/4636344637637634.png" width=3D"88" height=3D"120"=
+ alt=3D"" border=3D"0" class=3D"img88x120" style=3D"display: block;"/></a><=
+/td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"94" id=3D"c94p33r" class=3D"c94p33r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td align=3D"center" style=3D"padding: 0px;"><table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" align=3D"center">
+<tr><td valign=3D"top" align=3D"center" style=3D"padding: 0px;"><table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"88" height=3D"120" st=
+yle=3D"border: 0px none; height: auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><a href=3D"http://clicks.tut=
+u.ru/c/cRv/cEKm/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/a17a2006" target=3D"_blank"=
+ class=3D"imglink"><img src=3D"http://clicks.tutu.ru/Content/i2/10200/Hoste=
+dImages/6121/New%20folder/777777777777759.png" width=3D"88" height=3D"120" =
+alt=3D"" border=3D"0" class=3D"img88x120" style=3D"display: block;"/></a></=
+td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"94" id=3D"c94p33r" class=3D"c94p33r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td align=3D"right" style=3D"padding: 0px;"><table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" align=3D"right">
+<tr><td valign=3D"top" align=3D"right" style=3D"padding: 0px;"><table cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"88" height=3D"120" sty=
+le=3D"border: 0px none; height: auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><a href=3D"http://clicks.tut=
+u.ru/c/cRv/cEKb/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/deb5233b" target=3D"_blank"=
+ class=3D"imglink"><img src=3D"http://clicks.tutu.ru/Content/i2/10200/Hoste=
+dImages/6121/New%20folder/758758758758758758758758758758758758.png" width=
+=3D"88" height=3D"120" alt=3D"" border=3D"0" class=3D"img88x120" style=3D"d=
+isplay: block;"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"600" align=3D"center" class=3D"email-root-wrapper" =
+style=3D"max-width: 600px; min-width: 240px; margin: 0 auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%" class=3D"hide">
+<tr><td valign=3D"top" style=3D"padding-right: 5px; padding-left: 5px;"><ta=
+ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=
+=3D"#fbfbfb" style=3D"border-right: 1px solid #eee; border-bottom: 1px soli=
+d #eee; border-left: 1px solid #eee; background-color: #fbfbfb;">
+<tr><td valign=3D"top" style=3D"padding-top: 5px; padding-right: 13px; padd=
+ing-bottom: 5px; padding-left: 13px;"><table cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+<tr><td class=3D"pattern" style=3D"padding: 0px;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 5px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top"><div style=3D"text-align: left; font-family: arial; =
+font-size: 14px; color: #000000; line-height: 14px; mso-line-height: exactl=
+y; vertical-align: middle;"><p style=3D"padding: 0; margin: 0;"><span style=
+=3D"color: rgb(169, 169, 169); font-size: 11px; font-family: arial;">&#x412=
+;&#x44B; &#x43F;&#x43E;&#x43B;&#x443;&#x447;&#x438;&#x43B;&#x438; &#x44D;&#=
+x442;&#x43E; &#x43F;&#x438;&#x441;&#x44C;&#x43C;&#x43E;, &#x43F;&#x43E;&#x4=
+41;&#x43A;&#x43E;&#x43B;&#x44C;&#x43A;&#x443; &#x412;&#x430;&#x448; &#x430;=
+&#x434;&#x440;&#x435;&#x441; &#x44D;&#x43B;&#x435;&#x43A;&#x442;&#x440;&#x4=
+3E;&#x43D;&#x43D;&#x43E;&#x439; &#x43F;&#x43E;&#x447;&#x442;&#x44B; &#x431;=
+&#x44B;&#x43B; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D; &#x43F;&#x440;&#x=
+438; &#x437;&#x430;&#x43A;&#x430;&#x437;&#x435; &#x431;&#x438;&#x43B;&#x435=
+;&#x442;&#x43E;&#x432; &#x43D;&#x430; &#x441;&#x430;&#x439;&#x442;&#x435; w=
+ww.tutu.ru. </span><span style=3D"color: rgb(169, 169, 169); font-size: 11p=
+x; font-family: arial;">&#x415;&#x441;&#x43B;&#x438; &#x412;&#x44B; &#x441;=
+&#x447;&#x438;&#x442;&#x430;&#x435;&#x442;&#x435;, &#x447;&#x442;&#x43E; &#=
+x43F;&#x43E;&#x43B;&#x443;&#x447;&#x438;&#x43B;&#x438; &#x44D;&#x442;&#x43E=
+; &#x43F;&#x438;&#x441;&#x44C;&#x43C;&#x43E; &#x43F;&#x43E; &#x43E;&#x448;&=
+#x438;&#x431;&#x43A;&#x435;, &#x43F;&#x440;&#x43E;&#x438;&#x433;&#x43D;&#x4=
+3E;&#x440;&#x438;&#x440;&#x443;&#x439;&#x442;&#x435; &#x435;&#x433;&#x43E;.=
+</span></p></div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0; mso-cellspacing: 0in;"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" width=3D"281=
+" id=3D"c281p50r" class=3D"c281p50r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 5px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top"><div style=3D"text-align: left; font-family: arial; =
+font-size: 14px; color: #000000; line-height: 14px; mso-line-height: exactl=
+y; vertical-align: middle;"><p style=3D"padding: 0; margin: 0;"><a  href=3D=
+"http://clicks.tutu.ru/u/cRv/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/fb1f2b72"style=
+=3D"color: #306596 !important; text-decoration: underline !important;"    t=
+arget=3D"_blank" ><font style=3D" color:#306596;">&#x41E;&#x442;&#x43F;&#x4=
+38;&#x441;&#x430;&#x442;&#x44C;&#x441;&#x44F;</font></a></p><p style=3D"pad=
+ding: 0; margin: 0;">&#xA0;</p></div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"281" id=3D"c281p50r" class=3D"c281p50r" style=3D"float: left;">
+<tr><td valign=3D"top" class=3D"pattern" style=3D"padding: 0px;"><table cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 0; mso-cellspacing: 0in;"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" width=3D"171=
+" id=3D"c171p61r" class=3D"c171p61r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" style=3D"padding: 5px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top"><div style=3D"text-align: left; font-family: arial; =
+font-size: 14px; color: #000000; line-height: 14px; mso-line-height: exactl=
+y; vertical-align: middle;">&#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0=
+; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0;</di=
+v></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"80" id=3D"c80p28r" class=3D"c80p28r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"100%">
+<tr><td valign=3D"top" width=3D"26" style=3D"padding: 0px;"><table cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%">
+<tr><td align=3D"center" style=3D"padding: 0px;"><table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" align=3D"center">
+<tr><td valign=3D"top" align=3D"center" style=3D"padding: 0px;"><table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"16" height=3D"16" sty=
+le=3D"border: 0px none; height: auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><a href=3D"http://clicks.tut=
+u.ru/c/cRv/cEKo/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/6b011042" target=3D"_blank"=
+ class=3D"imglink"><img src=3D"http://clicks.tutu.ru/Content/i2/10200/Hoste=
+dImages/5163/subscr.png" width=3D"16" height=3D"16" alt=3D"=D0=9F=D0=BE=D0=
+=B4=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F" border=3D"0" class=3D"=
+img16x16" style=3D"display: block;"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td valign=3D"top" width=3D"26" style=3D"padding: 0px;"><table cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">
+<tr><td align=3D"center" style=3D"padding: 0px;"><table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" align=3D"center">
+<tr><td valign=3D"top" align=3D"center" style=3D"padding: 0px;"><table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"16" height=3D"16" sty=
+le=3D"border: 0px none; height: auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><a href=3D"http://clicks.tut=
+u.ru/c/cRv/cEKL/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/d5ef84af" target=3D"_blank"=
+ class=3D"imglink"><img src=3D"http://clicks.tutu.ru/Content/i2/10200/Hoste=
+dImages/5163/vk.png" width=3D"16" height=3D"16" alt=3D"=D0=92=D0=9A=D0=BE=
+=D0=BD=D1=82=D0=B0=D0=BA=D1=82=D0=B5" border=3D"0" class=3D"img16x16" style=
+=3D"display: block;"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td valign=3D"top" width=3D"26" style=3D"padding: 0px;"><table cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">
+<tr><td align=3D"center" style=3D"padding: 0px;"><table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" align=3D"center">
+<tr><td valign=3D"top" align=3D"center" style=3D"padding: 0px;"><table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"16" height=3D"16" sty=
+le=3D"border: 0px none; height: auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><a href=3D"http://clicks.tut=
+u.ru/c/cRv/cEKi/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/eefd46cf" target=3D"_blank"=
+ class=3D"imglink"><img src=3D"http://clicks.tutu.ru/Content/i2/10200/Hoste=
+dImages/5163/fb.png" width=3D"16" height=3D"16" alt=3D"Facebook" border=3D"=
+0" class=3D"img16x16" style=3D"display: block;"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><td valign=3D"top" style=3D"padding:0;"><![endif]--=
+>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left" widt=
+h=3D"28" id=3D"c28p10r" class=3D"c28p10r" style=3D"float: left;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><table cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+<tr><td align=3D"center" style=3D"padding: 0px;"><table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" align=3D"center">
+<tr><td valign=3D"top" align=3D"center" style=3D"padding: 0px;"><table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"16" height=3D"16" sty=
+le=3D"border: 0px none; height: auto;">
+<tr><td valign=3D"top" style=3D"padding: 0px;"><a href=3D"http://clicks.tut=
+u.ru/c/cRv/cEK7/d5D8rAOcRI_XWW5Q5ctBJQ/6/vqts/F/323339a3" target=3D"_blank"=
+ class=3D"imglink"><img src=3D"http://pic.tu-tu.ru/content4/681785.jpg" wid=
+th=3D"16" height=3D"16" alt=3D"" border=3D"0" class=3D"img16x16" style=3D"d=
+isplay: block;"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!-- content end -->
+          </center>
+        </td>
+    </tr>
+  </table>
+<img src=3D"http://clicks.tutu.ru/o/cRv/d5D8rAOcRI_XWW5Q5ctBJQ/vqts/5ea78a5=
+5" alt=3D""/></body>
+</html>
+

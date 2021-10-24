@@ -1,0 +1,489 @@
+Received: from mxfront4j.mail.yandex.net ([127.0.0.1])
+	by mxfront4j.mail.yandex.net with LMTP id mD3Blhzf
+	for <douglasfletcher@gmail.com>, <lramos@gmail.com>, <jimmy42@gmail.com>, <mcleanandrew@hotmail.com>, <kenneth73@mitchell-davis.com>, <andrea92@parker.com>; Wed, 1 Nov 2017 18:13:48 +0300
+Received: from mail.stepik.org (mail.stepik.org [13.69.75.239])
+	by mxfront4j.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id kjRVhdECzY-DlY86wiB;
+	Wed, 01 Nov 2017 18:13:47 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+Return-Path: noreply@stepik.org
+X-Yandex-Front: mxfront4j.mail.yandex.net
+X-Yandex-TimeMark: 1509549227
+Authentication-Results: mxfront4j.mail.yandex.net; spf=pass (mxfront4j.mail.yandex.net: domain of stepik.org designates 13.69.75.239 as permitted sender, rule=[ip4:13.69.75.239]) smtp.mail=noreply@stepik.org; dkim=pass header.i=@stepik.org
+X-Yandex-Spam: 2
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=stepik.org; s=dkim;
+	h=List-Unsubscribe:Message-ID:Date:To:From:Subject:MIME-Version:Content-Type; bh=kHX2RiBZdRPL0ONI6L86ox5cXpkN0NSE/iFWRATxGhY=;
+	b=GD9nvY2KvlTj20y+dzgLKNREAsX3LnDZh7r6dFkpDDci/Dvq88LW0oR8+3ZdlUXNRP5QZnhPhoxawGSQhamYzw+yzoZXzz/U5kOIjvdpO+VPjEB2A9S2yFjkFWMtKjBi6F5MJBTBKmmhRgQZA6Q6Pvo/vzxAuySIH63bIT0iDQA=;
+Received: from [172.17.0.3] (helo=953fe8385ec3)
+	by mail.stepik.org with esmtp (Exim 4.84_2)
+	(envelope-from <noreply@stepik.org>)
+	id 1e9uiB-000Bhr-7v
+	for bmstu@isthe.best; Wed, 01 Nov 2017 15:13:47 +0000
+Content-Type: multipart/alternative;
+ boundary="===============7017158714237758028=="
+MIME-Version: 1.0
+Subject: =?utf-8?b?0KDQtdC60L7QvNC10L3QtNGD0LXQvNGL0LUg0LrRg9GA0YHRiyDQvdCwIFN0ZXBp?=
+ =?utf-8?b?aw==?=
+From: "Stepik Team" <noreply@stepik.org>
+To: =?utf-8?b?0JDQvdGC0L7QvSDQotC10LvRi9GI0LXQsg==?= <bmstu@isthe.best>
+Date: Wed, 01 Nov 2017 15:13:47 -0000
+Message-ID: <20171101151347.12503.73342@953fe8385ec3>
+List-Unsubscribe: <https://stepik.org/unsubscribe/337b743e06113c2ad582026440b455b544d28682/>
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+--===============7017158714237758028==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+
+|  [ ![](https://stepik.org/static/emails/default/logo.v1.png)
+](https://stepik.org/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=main-page)  
+---  
+|  |
+
+Привет!
+
+Мы хотели бы порекомендовать вам некоторые курсы на Stepik:  
+  
+---  
+  
+[
+![](https://stepik.org/media/cache/images/courses/1280/cover/cf4ce99c9f1460179fedbea1b6d8c641.jpg)
+](https://stepik.org/course/1280/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+Обработка изображений
+
+[Перейти к
+курсу](https://stepik.org/course/1280/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+|
+
+[
+![](https://stepik.org/media/cache/images/courses/3944/cover_Tyug0bk/e33df85e120f2452cd72adafca87d3e8.png)
+](https://stepik.org/course/3944/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+Проектирование на C#
+
+[Перейти к
+курсу](https://stepik.org/course/3944/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+|
+
+[
+![](https://stepik.org/media/cache/images/courses/1565/cover/1367faff7387106e88f108570b5f5d11.jpg)
+](https://stepik.org/course/1565/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+Французский язык: Грамматический конструктор
+
+[Перейти к
+курсу](https://stepik.org/course/1565/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)  
+  
+---|---|---  
+  
+[
+![](https://stepik.org/media/cache/images/courses/3487/cover/59cf3abe2ed5c1b2bb377ee50dfad114.png)
+](https://stepik.org/course/3487/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+Корпоративный фандрайзинг для НКО
+
+[Перейти к
+курсу](https://stepik.org/course/3487/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+|
+
+[
+![](https://stepik.org/media/cache/images/courses/2542/cover/dcf2875f3c07b2f28c9d59b551d07435.jpg)
+](https://stepik.org/course/2542/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+Неорганическая химия: введение в химию элементов
+
+[Перейти к
+курсу](https://stepik.org/course/2542/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+|
+
+[
+![](https://stepik.org/media/cache/images/courses/2557/cover/0fcd62c0d4b8faaf243d79d5e9273701.jpg)
+](https://stepik.org/course/2557/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+Введение в биоинформатику: метагеномика
+
+[Перейти к
+курсу](https://stepik.org/course/2557/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)  
+  
+[
+![](https://stepik.org/media/cache/images/courses/2614/cover/15b6c06cb750098f75c5229699c06d4f.jpg)
+](https://stepik.org/course/2614/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+Базы данных
+
+[Перейти к
+курсу](https://stepik.org/course/2614/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+|
+
+[
+![](https://stepik.org/media/cache/images/courses/3248/cover/913f0d1592cfd055ffc76163e18cd37a.jpg)
+](https://stepik.org/course/3248/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+Квантовые вычисления
+
+[Перейти к
+курсу](https://stepik.org/course/3248/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+|
+
+[
+![](https://stepik.org/media/cache/images/courses/3468/cover_FjODgo4/24accb2fc79f80e6a754f10b660092a1.jpg)
+](https://stepik.org/course/3468/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)
+
+Публичная дипломатия США
+
+[Перейти к
+курсу](https://stepik.org/course/3468/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=course)  
+  
+[Все
+курсы](https://stepik.org/catalog?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=courses)  
+---  
+|
+[![](https://stepik.org/static/emails/default/icon_vk.png)](https://vk.com/rustepik)
+[![](https://stepik.org/static/emails/default/icon_fb.png)](https://facebook.com/rustepik)
+[![](https://stepik.org/static/emails/default/icon_twitter.png)](https://twitter.com/rustepik)  
+---  
+|  [ ![Get it on Apple Store](https://stepik.org/static/emails/default/ru-
+appstore_n.png)
+](https://redirect.appmetrica.yandex.com/serve/168884546916387946) |  [ ![Get
+it on Google Play](https://stepik.org/static/emails/default/ru-play_n.png)
+](https://redirect.appmetrica.yandex.com/serve/312999733398396995)  
+---|---  
+|  [Помощь](http://support.stepik.org) [Отписаться от всех
+писем](https://stepik.org/unsubscribe/337b743e06113c2ad582026440b455b544d28682/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=unsubscribe) [Настройки
+уведомлений](https://stepik.org/edit-
+profile/notifications?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=notification-settings)  
+---  
+[ ![](https://stepik.org/static/emails/default/stepik_logo_black.png)
+](https://stepik.org/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly&utm_term
+=user-group4&utm_content=main-page)  
+![](https://www.google-
+analytics.com/collect?t=event&ea=open&tid=UA-41633741-1&cn=monthly&ec=newsletter&cs=newsletter&el=monthly%2F2017-11&v=1&cc=opening&cid=b96fd953
+-866f-
+e8d0-f896-cc5c05880139&dp=%2Femail%2Fnewsletter%2Fmonthly%2F2017-11&cm=email&ck
+=user-group4&ul=ru)
+
+
+--===============7017158714237758028==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head></head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" style="color:#444; background-color:#efefef; margin:0; padding:0" width="100%" bgcolor="#efefef">
+  <tr>
+    <td>
+      <center style="max-width: 660px; width: 100%; margin: 0 auto;">
+        <table border="0" cellpadding="0" cellspacing="0" style="color:#444; margin:0 auto; padding:0" width="100%">
+          <tr>
+            <td align="center" valign="center" style="margin: 0; padding: 0; text-align: center;" height="180">
+              <a href="https://stepik.org/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=main-page">
+                <img src="https://stepik.org/static/emails/default/logo.v1.png" width="64" height="64" border="0" alt="">
+              </a>
+            </td>
+          </tr>
+        </table>
+        <table border="0" cellpadding="0" cellspacing="0" style="color:#444; margin:0; padding:0" width="100%" class="contenttable">
+          <tr>
+            <td align="left" style="margin: 0; padding: 0; font-family: Arial, sans-serif; line-height: 1.5;">
+              
+  <table border="0" cellpadding="0" cellspacing="0" style="color:#444; background-color:#fff; font-size:16px; margin-bottom:20px; padding:15px; width:100%" bgcolor="#ffffff" width="100%">
+    <tr>
+      <td>
+        
+
+<table border="0" cellpadding="0" cellspacing="0" style="color:#444; font-size:24px">
+  <tr>
+    <td>
+      <p style="line-height:1.4">Привет!</p>
+      <p style="line-height:1.4; color:#6c6">
+        Мы хотели бы порекомендовать вам некоторые курсы на Stepik:
+      </p>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="color:#444; font-size:14px; padding:30px 0">
+  <tr>
+    
+      <td width="200px" valign="top" style="padding: 0 5px 40px;">
+        <div>
+          
+            <div style="height: 200px; overflow: hidden;">
+              <a href="https://stepik.org/course/1280/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" style="color:#6c6; font-weight:bold; text-decoration:none">
+                <img src="https://stepik.org/media/cache/images/courses/1280/cover/cf4ce99c9f1460179fedbea1b6d8c641.jpg" width="200px">
+              </a>
+            </div>
+          
+          <p style="line-height:1.4; font-weight:bold">Обработка изображений</p>
+          <a href="https://stepik.org/course/1280/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" class="button-small" style="color:#6c6; font-weight:bold; text-decoration:none; border:1px solid #6c6; border-radius:30px; display:inline-block; font-size:14px; padding:5px 10px">Перейти к курсу</a>
+        </div>
+      </td>
+
+      
+    
+      <td width="200px" valign="top" style="padding: 0 5px 40px;">
+        <div>
+          
+            <div style="height: 200px; overflow: hidden;">
+              <a href="https://stepik.org/course/3944/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" style="color:#6c6; font-weight:bold; text-decoration:none">
+                <img src="https://stepik.org/media/cache/images/courses/3944/cover_Tyug0bk/e33df85e120f2452cd72adafca87d3e8.png" width="200px">
+              </a>
+            </div>
+          
+          <p style="line-height:1.4; font-weight:bold">Проектирование на C#</p>
+          <a href="https://stepik.org/course/3944/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" class="button-small" style="color:#6c6; font-weight:bold; text-decoration:none; border:1px solid #6c6; border-radius:30px; display:inline-block; font-size:14px; padding:5px 10px">Перейти к курсу</a>
+        </div>
+      </td>
+
+      
+    
+      <td width="200px" valign="top" style="padding: 0 5px 40px;">
+        <div>
+          
+            <div style="height: 200px; overflow: hidden;">
+              <a href="https://stepik.org/course/1565/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" style="color:#6c6; font-weight:bold; text-decoration:none">
+                <img src="https://stepik.org/media/cache/images/courses/1565/cover/1367faff7387106e88f108570b5f5d11.jpg" width="200px">
+              </a>
+            </div>
+          
+          <p style="line-height:1.4; font-weight:bold">Французский язык: Грамматический конструктор</p>
+          <a href="https://stepik.org/course/1565/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" class="button-small" style="color:#6c6; font-weight:bold; text-decoration:none; border:1px solid #6c6; border-radius:30px; display:inline-block; font-size:14px; padding:5px 10px">Перейти к курсу</a>
+        </div>
+      </td>
+
+      
+        </tr>
+        <tr>
+      
+    
+      <td width="200px" valign="top" style="padding: 0 5px 40px;">
+        <div>
+          
+            <div style="height: 200px; overflow: hidden;">
+              <a href="https://stepik.org/course/3487/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" style="color:#6c6; font-weight:bold; text-decoration:none">
+                <img src="https://stepik.org/media/cache/images/courses/3487/cover/59cf3abe2ed5c1b2bb377ee50dfad114.png" width="200px">
+              </a>
+            </div>
+          
+          <p style="line-height:1.4; font-weight:bold">Корпоративный фандрайзинг для НКО</p>
+          <a href="https://stepik.org/course/3487/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" class="button-small" style="color:#6c6; font-weight:bold; text-decoration:none; border:1px solid #6c6; border-radius:30px; display:inline-block; font-size:14px; padding:5px 10px">Перейти к курсу</a>
+        </div>
+      </td>
+
+      
+    
+      <td width="200px" valign="top" style="padding: 0 5px 40px;">
+        <div>
+          
+            <div style="height: 200px; overflow: hidden;">
+              <a href="https://stepik.org/course/2542/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" style="color:#6c6; font-weight:bold; text-decoration:none">
+                <img src="https://stepik.org/media/cache/images/courses/2542/cover/dcf2875f3c07b2f28c9d59b551d07435.jpg" width="200px">
+              </a>
+            </div>
+          
+          <p style="line-height:1.4; font-weight:bold">Неорганическая химия: введение в химию элементов</p>
+          <a href="https://stepik.org/course/2542/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" class="button-small" style="color:#6c6; font-weight:bold; text-decoration:none; border:1px solid #6c6; border-radius:30px; display:inline-block; font-size:14px; padding:5px 10px">Перейти к курсу</a>
+        </div>
+      </td>
+
+      
+    
+      <td width="200px" valign="top" style="padding: 0 5px 40px;">
+        <div>
+          
+            <div style="height: 200px; overflow: hidden;">
+              <a href="https://stepik.org/course/2557/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" style="color:#6c6; font-weight:bold; text-decoration:none">
+                <img src="https://stepik.org/media/cache/images/courses/2557/cover/0fcd62c0d4b8faaf243d79d5e9273701.jpg" width="200px">
+              </a>
+            </div>
+          
+          <p style="line-height:1.4; font-weight:bold">Введение в биоинформатику: метагеномика</p>
+          <a href="https://stepik.org/course/2557/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" class="button-small" style="color:#6c6; font-weight:bold; text-decoration:none; border:1px solid #6c6; border-radius:30px; display:inline-block; font-size:14px; padding:5px 10px">Перейти к курсу</a>
+        </div>
+      </td>
+
+      
+        </tr>
+        <tr>
+      
+    
+      <td width="200px" valign="top" style="padding: 0 5px 40px;">
+        <div>
+          
+            <div style="height: 200px; overflow: hidden;">
+              <a href="https://stepik.org/course/2614/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" style="color:#6c6; font-weight:bold; text-decoration:none">
+                <img src="https://stepik.org/media/cache/images/courses/2614/cover/15b6c06cb750098f75c5229699c06d4f.jpg" width="200px">
+              </a>
+            </div>
+          
+          <p style="line-height:1.4; font-weight:bold">Базы данных</p>
+          <a href="https://stepik.org/course/2614/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" class="button-small" style="color:#6c6; font-weight:bold; text-decoration:none; border:1px solid #6c6; border-radius:30px; display:inline-block; font-size:14px; padding:5px 10px">Перейти к курсу</a>
+        </div>
+      </td>
+
+      
+    
+      <td width="200px" valign="top" style="padding: 0 5px 40px;">
+        <div>
+          
+            <div style="height: 200px; overflow: hidden;">
+              <a href="https://stepik.org/course/3248/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" style="color:#6c6; font-weight:bold; text-decoration:none">
+                <img src="https://stepik.org/media/cache/images/courses/3248/cover/913f0d1592cfd055ffc76163e18cd37a.jpg" width="200px">
+              </a>
+            </div>
+          
+          <p style="line-height:1.4; font-weight:bold">Квантовые вычисления</p>
+          <a href="https://stepik.org/course/3248/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" class="button-small" style="color:#6c6; font-weight:bold; text-decoration:none; border:1px solid #6c6; border-radius:30px; display:inline-block; font-size:14px; padding:5px 10px">Перейти к курсу</a>
+        </div>
+      </td>
+
+      
+    
+      <td width="200px" valign="top" style="padding: 0 5px 40px;">
+        <div>
+          
+            <div style="height: 200px; overflow: hidden;">
+              <a href="https://stepik.org/course/3468/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" style="color:#6c6; font-weight:bold; text-decoration:none">
+                <img src="https://stepik.org/media/cache/images/courses/3468/cover_FjODgo4/24accb2fc79f80e6a754f10b660092a1.jpg" width="200px">
+              </a>
+            </div>
+          
+          <p style="line-height:1.4; font-weight:bold">Публичная дипломатия США</p>
+          <a href="https://stepik.org/course/3468/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=course" class="button-small" style="color:#6c6; font-weight:bold; text-decoration:none; border:1px solid #6c6; border-radius:30px; display:inline-block; font-size:14px; padding:5px 10px">Перейти к курсу</a>
+        </div>
+      </td>
+
+      
+    
+    </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="color:#444">
+  <tr>
+    <td align="center">
+      <a class="button" href="https://stepik.org/catalog?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=courses" style="color:#6c6; font-weight:bold; text-decoration:none; border:1px solid #6c6; border-radius:30px; display:inline-block; font-size:15px; padding:12px 24px">Все курсы</a>
+    </td>
+  </tr>
+</table>
+
+      </td>
+    </tr>
+   </table>
+
+            </td>
+          </tr>
+        </table>
+      </center>
+
+      <table border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee" style="color:#444; background-color:#eee; margin:0; padding:0" width="100%">
+          <tr>
+            <td>
+              <center style="max-width: 660px; width: 100%; margin: 0 auto;">
+                <table width="100%" cellspacing="0" cellpadding="0" border="0" style="color:#444">
+                  <tr>
+                    <td align="center" height="50" style="margin: 0; padding: 0; font-family: Arial, sans-serif; font-size: 14px;">
+                      
+                        <a href="https://vk.com/rustepik" style="color: #007aff; margin-right: 20px;"><img src="https://stepik.org/static/emails/default/icon_vk.png"></a>
+                        <a href="https://facebook.com/rustepik" style="color: #007aff; margin-right: 20px;"><img src="https://stepik.org/static/emails/default/icon_fb.png"></a>
+                        <a href="https://twitter.com/rustepik" style="color: #007aff"><img src="https://stepik.org/static/emails/default/icon_twitter.png"></a>
+                      
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">
+                      <table class="app_list" style="color:#444; table-layout:fixed; width:100%" width="100%">
+                        <tr>
+                          
+                            <td valign="center" class="app_list-item app_list-item_right-align" style="padding-bottom:10px; padding-top:10px; padding-right:10px; text-align:right" align="right">
+                              <a href="https://redirect.appmetrica.yandex.com/serve/168884546916387946">
+                                <img alt="Get it on Apple Store" src="https://stepik.org/static/emails/default/ru-appstore_n.png" style="height:40px; width:135px" height="40" width="135">
+                              </a>
+                            </td>
+                            <td valign="center" class="app_list-item app_list-item_left-align" style="padding-bottom:10px; padding-top:10px; padding-left:10px; text-align:left" align="left">
+                              <a href="https://redirect.appmetrica.yandex.com/serve/312999733398396995">
+                                <img alt="Get it on Google Play" src="https://stepik.org/static/emails/default/ru-play_n.png" style="height:40px; width:135px" height="40" width="135">
+                              </a>
+                            </td>
+                          
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </center>
+            </td>
+          </tr>
+      </table>
+
+        <table border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee" style="color:#444; background-color:#eee; margin:2px 0 0; padding:0" width="100%">
+          <tr>
+            <td>
+              <center style="max-width: 660px; width: 100%; margin: 0 auto;">
+                <table width="100%" cellspacing="0" cellpadding="0" border="0" style="color:#444">
+                  <tr>
+                    <td align="center" valign="center" height="50" style="margin: 0; padding: 0; font-family: Arial, sans-serif; font-size: 12px;">
+                      
+                        <a href="http://support.stepik.org" style="color: #555555; text-decoration: none;">Помощь</a>
+                      
+                      
+                        
+                        
+                          <a href="https://stepik.org/unsubscribe/337b743e06113c2ad582026440b455b544d28682/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=unsubscribe" style="color: #555555; margin-left: 20px; text-decoration: none;">Отписаться от всех писем</a>
+                        
+                        
+                          <a href="https://stepik.org/edit-profile/notifications?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=notification-settings" style="color: #555555; margin-left: 20px; text-decoration: none;">Настройки уведомлений</a>
+                        
+                      
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="center" height="60">
+                      <a href="https://stepik.org/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=monthly&amp;utm_term=user-group4&amp;utm_content=main-page">
+                        <img src="https://stepik.org/static/emails/default/stepik_logo_black.png">
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </center>
+            </td>
+          </tr>
+        </table>
+    </td>
+  </tr>
+</table>
+
+  <img src="https://www.google-analytics.com/collect?t=event&amp;ea=open&amp;tid=UA-41633741-1&amp;cn=monthly&amp;ec=newsletter&amp;cs=newsletter&amp;el=monthly%2F2017-11&amp;v=1&amp;cc=opening&amp;cid=b96fd953-866f-e8d0-f896-cc5c05880139&amp;dp=%2Femail%2Fnewsletter%2Fmonthly%2F2017-11&amp;cm=email&amp;ck=user-group4&amp;ul=ru" width="1" height="1">
+</body>
+</html>
+
+--===============7017158714237758028==--

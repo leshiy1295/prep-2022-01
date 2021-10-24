@@ -1,0 +1,1204 @@
+Received: from mxfront2j.mail.yandex.net ([127.0.0.1])
+	by mxfront2j.mail.yandex.net with LMTP id GpxKa3EI
+	for <xjohnson@george.info>; Sun, 11 Mar 2018 12:05:46 +0300
+Received: from a11-118.smtp-out.amazonses.com (a11-118.smtp-out.amazonses.com [54.240.11.118])
+	by mxfront2j.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id khJWt73Gt3-5jVm18dx;
+	Sun, 11 Mar 2018 12:05:45 +0300
+	(using TLSv1 with cipher ECDHE-RSA-AES128-SHA (128/128 bits))
+	(Client certificate not present)
+Return-Path: 01000162144eff40-66751b53-4529-4d5c-b8e4-f19f4fcac7a1-000000@amazonses.com
+X-Yandex-Front: mxfront2j.mail.yandex.net
+X-Yandex-TimeMark: 1520759145
+Authentication-Results: mxfront2j.mail.yandex.net; spf=pass (mxfront2j.mail.yandex.net: domain of amazonses.com designates 54.240.11.118 as permitted sender, rule=[ip4:54.240.0.0/18]) smtp.mail=01000162144eff40-66751b53-4529-4d5c-b8e4-f19f4fcac7a1-000000@amazonses.com; dkim=pass header.i=@papajohns.ru
+X-Yandex-Spam: 4
+X-Yandex-Personal-Spam: OTc3MjMxMDIK
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=xudjclgw5j7mhxsitpit2a4pqz3mk3n6; d=papajohns.ru; t=1520759144;
+	h=Content-Type:MIME-Version:Subject:From:To:Date:Message-ID:List-Unsubscribe;
+	bh=UXKcoMQAx6dYGwOE2W+FczLzEPINUIQ5ebRAU1kEqMI=;
+	b=vT8DGHR1vi41qWER7XTaj6G9+DkkERsI54UBDOQ1ypwnzZukPHmWXYKFP4WlFRRV
+	nXEGdoh7XlPBumqLxvSYEudoUMDHgkZYk76EpvhU6svxU1mmEe4Uj81s59/PuVrC540
+	CUBWomSich6IaWBBTy5PWRm0/LVEZwbbaA42eNJs=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1520759144;
+	h=Content-Type:MIME-Version:Subject:From:To:Date:Message-ID:List-Unsubscribe:Feedback-ID;
+	bh=UXKcoMQAx6dYGwOE2W+FczLzEPINUIQ5ebRAU1kEqMI=;
+	b=AOWkjkgCo2gAQhQd3f8ivDVfy4wAyMnwzTIORLgrsJjxBw0ollo5bsAtzu64bBP5
+	tGnLDIESyT2FKMcmQiyeMqiNNjeALfWA8TBhhqSpCfHAB3Q1yNT0ClUxndzsc8M4ZHu
+	+XhCz7ZKNozMO141k9I4M5BmaGZVcpZTGHXkvenM=
+Content-Type: multipart/alternative;
+ boundary="===============5732517697888502054=="
+MIME-Version: 1.0
+Subject: =?utf-8?b?8J+NlSDQn9C40YbRhtCwINCm0YvQv9C70LXQvdC+0Log0KDRjdC90YcgMzAg?=
+ =?utf-8?b?0YHQvCDQsdC10YHQv9C70LDRgtC90L4g0LTQu9GPINCS0LDRgSE=?=
+From: Papa John's <pizza@papajohns.ru>
+To: Brian Ross <sherrywhite@stone-weaver.com>, Vanessa Davis <thomas37@taylor-anderson.com>, Alexander Ward <susancopeland@bond.com>, Jennifer Hood <palmerkerry@yahoo.com>, Madison Casey <sherrygutierrez@owens.org>, Troy Williams <kristinbrown@gmail.com>, Christopher Goodwin <tatedavid@hotmail.com>
+Date: Sun, 11 Mar 2018 09:05:44 +0000
+Message-ID: <01000162144eff40-66751b53-4529-4d5c-b8e4-f19f4fcac7a1-000000@email.amazonses.com>
+List-Unsubscribe: <https://sailplay.ru/sender/unsubscribe/?uid=17345423&pid=5&key=0e2ea525c880acc99e323e2983caf8c633c85a9c2feeb386187631e276f741c8&atype=1&aid=9365>
+X-SES-Outgoing: 2018.03.11-54.240.11.118
+Feedback-ID: 1.us-east-1.Ej+q15MUZ+4UntPxAkRKrVpZRnicaxIH48Vgu8Ejjio=:AmazonSES
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+--===============5732517697888502054==
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+  =
+
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+  <style>
+    @media only screen and (max-width: 632px) {
+
+      .column_2_responsive {
+        width: 100% !important;
+      }
+
+      .column_2_responsive .column_responsive {
+        width: auto !important;
+        max-width: 100% !important;
+        display: block;
+      }
+
+      .column_responsive img {
+        width: 100% !important;
+        display: block;
+        max-width: 100% !important;
+      }
+
+      .column_responsive .responsive_text_block {
+        height: auto !important;
+        font-size: 18px;
+      }
+
+      .content {
+        width: 100% !important;
+      }
+
+    }
+
+    @media only screen and (min-width: 601px) {
+
+      .content {
+        width: 600px !important;
+      }
+
+    }
+  </style>
+  =
+
+</head>
+<body yahoo bgcolor=3D"#f5f2ec" style=3D"background-color: #f5f2ec; margin:=
+ 0; padding: 0; min-width: 100%!important;">
+
+
+  =
+
+  <img style=3D"border: none;" src=3D"http://sailplay.ru/sender/open/eyJ1c2=
+VyX2lkIjogMTczNDU0MjMsICJ0eXBlIjogMSwgInBhcnRuZXJfaWQiOiA1LCAiYWN0aW9uX2lkI=
+jogOTM2NX0=3D" alt=3D"counter" width=3D"1" height=3D"1">
+
+<!--[if (gte mso 9)|(IE)]>
+<table width=3D"600" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+    <tr>
+        <td>
+            <![endif]-->
+<table width=3D"600" class=3D"content" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"background-color: #9c1116;border: 0px none transparent; width: 600=
+px;" align=3D"center">
+  =
+
+    <tr style=3D"background: #9c1116;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #9c1116;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 600px; padding: 0px;" width=3D"600p=
+x">
+              =
+
+              =
+
+                </td><td height=3D"15" bgcolor=3D"9c1116" width=3D"100%"></=
+td>
+              =
+
+              =
+
+              =
+
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #9c1116;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 167px; padding: 0px;" width=3D"167p=
+x">
+              =
+
+              =
+
+                =
+
+                    <a target=3D"_blank" href=3D"https://crm.papajohns.ru/s=
+ender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cHM6Ly93d3cucGFw=
+YWpvaG5zLnJ1LyIsICJwYXJ0bmVyX2lkIjogNSwgImxpbmtfaWQiOiAiODc3OSIsICJ0eXBlIjo=
+gMSwgImFjdGlvbl9pZCI6IDkzNjV9" data-link=3D"8779">
+                      <img style=3D"width: 167px; vertical-align: top; disp=
+lay: block; border: none;" width=3D"167px" src=3D"https://d3257v5wstjx8h.cl=
+oudfront.net/media/assets/assetfile/543d753b2f0e98e4e179c505f52e8307.png" a=
+lt=3D"">
+                    </a>
+                =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 13px; padding: 0px;" width=3D"13px">
+              =
+
+              =
+
+                <br>
+              =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"middle" style=3D"vertical-align: middle; backgr=
+ound-color: #9c1116; overflow: hidden; width: 122px; padding: 0px;" width=
+=3D"122px">
+              =
+
+              =
+
+                =
+
+                    <a target=3D"_blank" href=3D"https://crm.papajohns.ru/s=
+ender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cHM6Ly93d3cucGFw=
+YWpvaG5zLnJ1L21lbnl1L3BpenphIiwgInBhcnRuZXJfaWQiOiA1LCAibGlua19pZCI6ICI4Nzg=
+wIiwgInR5cGUiOiAxLCAiYWN0aW9uX2lkIjogOTM2NX0=3D" data-link=3D"8780">
+                      <img style=3D"width: 122px; vertical-align: top; disp=
+lay: block; border: none;" width=3D"122px" src=3D"https://d3257v5wstjx8h.cl=
+oudfront.net/media/assets/assetfile/58a437be50a7ea89bf67addf9b894612.png" a=
+lt=3D"">
+                    </a>
+                =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"middle" style=3D"vertical-align: middle; backgr=
+ound-color: #9c1116; background-image: url(https://d3257v5wstjx8h.cloudfron=
+t.net/media/assets/assetfile/47b4f4d01fa7a0e72fa3442e2b652eef.png); backgro=
+und-repeat: repeat; overflow: hidden; width: 153px; padding: 0px;" width=3D=
+"153px">
+              =
+
+              =
+
+                =
+
+                    <a target=3D"_blank" href=3D"https://crm.papajohns.ru/s=
+ender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cHM6Ly93d3cucGFw=
+YWpvaG5zLnJ1L2FkcmVzYSIsICJwYXJ0bmVyX2lkIjogNSwgImxpbmtfaWQiOiAiODc4MSIsICJ=
+0eXBlIjogMSwgImFjdGlvbl9pZCI6IDkzNjV9" data-link=3D"8781">
+                      <img style=3D"width: 153px; vertical-align: top; disp=
+lay: block; border: none;" width=3D"153px" src=3D"https://d3257v5wstjx8h.cl=
+oudfront.net/media/assets/assetfile/f5b7a979c8ffb040d14063ac9460d436.png" a=
+lt=3D"">
+                    </a>
+                =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"middle" style=3D"vertical-align: middle; backgr=
+ound-color: #9c1116; overflow: hidden; width: 112px; padding: 0px;" width=
+=3D"112px">
+              =
+
+              =
+
+                =
+
+                    <a target=3D"_blank" href=3D"https://crm.papajohns.ru/s=
+ender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cHM6Ly93d3cucGFw=
+YWpvaG5zLnJ1L28tbmFzIiwgInBhcnRuZXJfaWQiOiA1LCAibGlua19pZCI6ICI4NzgyIiwgInR=
+5cGUiOiAxLCAiYWN0aW9uX2lkIjogOTM2NX0=3D" data-link=3D"8782">
+                      <img style=3D"width: 112px; vertical-align: top; disp=
+lay: block; border: none;" width=3D"112px" src=3D"https://d3257v5wstjx8h.cl=
+oudfront.net/media/assets/assetfile/4299318bef4d8087fbaf81e7a7945644.png" a=
+lt=3D"">
+                    </a>
+                =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 33px; padding: 0px;" width=3D"33px">
+              =
+
+              =
+
+                <br>
+              =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #ffffff;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #ffffff; overflow: hidden; width: 600px; padding: 0px;" width=3D"600p=
+x">
+              =
+
+              =
+
+                =
+
+                    <img style=3D"width: 600px; vertical-align: top; displa=
+y: block; border: none;" width=3D"600px" src=3D"https://d3257v5wstjx8h.clou=
+dfront.net/media/assets/assetfile/5eb5a940c84dd6edc7e3ac31b24c971a.png" alt=
+=3D"">
+                =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #ffffff;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #ffffff; overflow: hidden; width: 600px; padding: 0px;" width=3D"600p=
+x">
+              =
+
+              =
+
+                =
+
+                    <a target=3D"_blank" href=3D"https://crm.papajohns.ru/s=
+ender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cHM6Ly93d3cucGFw=
+YWpvaG5zLnJ1L21lbnl1L3BpenphIiwgInBhcnRuZXJfaWQiOiA1LCAibGlua19pZCI6ICI4Nzg=
+zIiwgInR5cGUiOiAxLCAiYWN0aW9uX2lkIjogOTM2NX0=3D" data-link=3D"8783">
+                      <img style=3D"width: 600px; vertical-align: top; disp=
+lay: block; border: none;" width=3D"600px" src=3D"https://sailplays3.cdnvid=
+eo.ru/media/assets/assetfile/f7d928f0b42f754b30e58b7478555c05.png" alt=3D"">
+                    </a>
+                =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #e8e3d1;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #e8e3d1; overflow: hidden; width: 600px; padding: 0px;" width=3D"600p=
+x">
+              =
+
+              =
+
+                </td><td height=3D"15" bgcolor=3D"e8e3d1" width=3D"100%"></=
+td>
+              =
+
+              =
+
+              =
+
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #e8e3d1;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #e8e3d1; overflow: hidden; width: 600px; padding: 0px;" width=3D"600p=
+x">
+              =
+
+              =
+
+                =
+
+                    <img style=3D"width: 600px; vertical-align: top; displa=
+y: block; border: none;" width=3D"600px" src=3D"https://d3257v5wstjx8h.clou=
+dfront.net/media/assets/assetfile/004553fc16541b9ae6e836ffc7250e50.png" alt=
+=3D"">
+                =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #e8e3d1;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"25" border=
+=3D"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #e8e3d1; overflow: hidden; width: 550px; padding: 25px;" width=3D"550=
+px">
+              =
+
+              =
+
+                <div style=3D"text-align:center"><span style=3D"font-size:2=
+4px"><span style=3D"color:#696969"><strong><span style=3D"font-family:tahom=
+a,geneva,sans-serif">ieat25n</span></strong></span></span></div>
+              =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #e8e3d1;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #e8e3d1; overflow: hidden; width: 70px; padding: 0px;" width=3D"70px">
+              =
+
+              =
+
+                <br>
+              =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #e8e3d1; overflow: hidden; width: 460px; padding: 0px;" width=3D"460p=
+x">
+              =
+
+              =
+
+                =
+
+                    <a target=3D"_blank" href=3D"https://crm.papajohns.ru/s=
+ender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cHM6Ly93d3cucGFw=
+YWpvaG5zLnJ1L21lbnl1L3BpenphIiwgInBhcnRuZXJfaWQiOiA1LCAibGlua19pZCI6ICI4Nzg=
+0IiwgInR5cGUiOiAxLCAiYWN0aW9uX2lkIjogOTM2NX0=3D" data-link=3D"8784">
+                      <img style=3D"width: 460px; vertical-align: top; disp=
+lay: block; border: none;" width=3D"460px" src=3D"https://d3257v5wstjx8h.cl=
+oudfront.net/media/assets/assetfile/78cd34ae746c897b9b3b02b649c1da1a.png" a=
+lt=3D"">
+                    </a>
+                =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #e8e3d1; overflow: hidden; width: 70px; padding: 0px;" width=3D"70px">
+              =
+
+              =
+
+                <br>
+              =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #e8e3d1;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #e8e3d1; overflow: hidden; width: 600px; padding: 0px;" width=3D"600p=
+x">
+              =
+
+              =
+
+                =
+
+                    <img style=3D"width: 600px; vertical-align: top; displa=
+y: block; border: none;" width=3D"600px" src=3D"https://sailplays3.cdnvideo=
+.ru/media/assets/assetfile/b1318ead6d676c2d1bbbec0547468326.png" alt=3D"">
+                =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #e8e3d1;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"20" border=
+=3D"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #e8e3d1; overflow: hidden; width: 2px; padding: 20px;" width=3D"2px">
+              =
+
+              =
+
+                <br>
+              =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #e8e3d1; overflow: hidden; width: 518px; padding: 20px;" width=3D"518=
+px">
+              =
+
+              =
+
+                <span><span style=3D"background-color:rgb(232, 227, 209); c=
+olor:rgb(105, 105, 105); font-family:times new roman,times,serif; font-size=
+:16px"><span style=3D"font-family:tahoma,geneva,sans-serif">&#1059; &#1074;=
+&#1072;&#1089;&#160;</span></span><strong><span style=3D"background-color:r=
+gb(232, 227, 209); color:rgb(178, 34, 34); font-family:times new roman,time=
+s,serif; font-size:16px"><span style=3D"font-size:28px"><span style=3D"font=
+-family:tahoma,geneva,sans-serif">415 &#1073;&#1086;&#1085;&#1091;&#1089;&#=
+1085;&#1099;&#1093; &#1073;&#1072;&#1083;&#1083;&#1086;&#1074;!&#160;</span=
+></span></span></strong><br><span style=3D"background-color:rgb(232, 227, 2=
+09); color:rgb(105, 105, 105); font-family:times new roman,times,serif; fon=
+t-size:16px"><span style=3D"font-family:tahoma,geneva,sans-serif">&#1059;&#=
+1079;&#1085;&#1072;&#1081;&#1090;&#1077;, &#1082;&#1072;&#1082; &#1079;&#10=
+72;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1077;&#1097;&=
+#1105;, &#1080; &#1074;&#1099;&#1073;&#1077;&#1088;&#1080;&#1090;&#1077; &#=
+1087;&#1086;&#1076;&#1072;&#1088;&#1086;&#1082;!</span></span><br><br></spa=
+n>
+              =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #e8e3d1;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #e8e3d1; overflow: hidden; width: 600px; padding: 0px;" width=3D"600p=
+x">
+              =
+
+              =
+
+                =
+
+                    <a target=3D"_blank" href=3D"https://crm.papajohns.ru/s=
+ender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cHM6Ly93d3cucGFw=
+YWpvaG5zLnJ1L3BhcGFib251cyIsICJwYXJ0bmVyX2lkIjogNSwgImxpbmtfaWQiOiAiODc4NSI=
+sICJ0eXBlIjogMSwgImFjdGlvbl9pZCI6IDkzNjV9" data-link=3D"8785">
+                      <img style=3D"width: 600px; vertical-align: top; disp=
+lay: block; border: none;" width=3D"600px" src=3D"https://sailplays3.cdnvid=
+eo.ru/media/assets/assetfile/6b52203c47c42e192893c11884b048dd.png" alt=3D"">
+                    </a>
+                =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #e0eeef;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #e0eeef; overflow: hidden; width: 600px; padding: 0px;" width=3D"600p=
+x">
+              =
+
+              =
+
+                <br>
+              =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #e0eeef;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #e0eeef; overflow: hidden; width: 600px; padding: 0px;" width=3D"600p=
+x">
+              =
+
+              =
+
+                =
+
+                    <img style=3D"width: 600px; vertical-align: top; displa=
+y: block; border: none;" width=3D"600px" src=3D"https://sailplays3.cdnvideo=
+.ru/media/content_management/contentitem/5/0a7f6060c000f5cefa484b90b7bcc374=
+.png" alt=3D"">
+                =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #9c1116;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"12" border=
+=3D"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 576px; padding: 12px;" width=3D"576=
+px">
+              =
+
+              =
+
+                <div style=3D"text-align:center"><span style=3D"font-family=
+:trebuchet ms,helvetica,sans-serif"><span style=3D"color:#FFFFFF"><span sty=
+le=3D"font-size:12px">&#1054;&#1073;&#1088;&#1072;&#1097;&#1072;&#1077;&#10=
+84; &#1074;&#1072;&#1096;&#1077; &#1074;&#1085;&#1080;&#1084;&#1072;&#1085;=
+&#1080;&#1077;, &#1095;&#1090;&#1086; &#1072;&#1082;&#1094;&#1080;&#1103; &=
+#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1090;&#1077;&#1083;&#1100=
+;&#1085;&#1072; &#1074; &#1052;&#1086;&#1089;&#1082;&#1074;&#1077;, &#1052;=
+&#1086;&#1089;&#1082;&#1086;&#1074;&#1089;&#1082;&#1086;&#1081; &#1086;&#10=
+73;&#1083;&#1072;&#1089;&#1090;&#1080; &#1080; &#1057;&#1072;&#1085;&#1082;=
+&#1090;-&#1055;&#1077;&#1090;&#1077;&#1088;&#1073;&#1091;&#1088;&#1075;&#10=
+77;. &#1041;&#1086;&#1085;&#1091;&#1089;&#1085;&#1099;&#1077; &#1073;&#1072=
+;&#1083;&#1083;&#1099; &#1076;&#1083;&#1103; &#1075;&#1086;&#1088;&#1086;&#=
+1076;&#1086;&#1074; &#1052;&#1086;&#1089;&#1082;&#1074;&#1099; &#1080; &#10=
+52;&#1086;&#1089;&#1082;&#1086;&#1074;&#1089;&#1082;&#1086;&#1081; &#1086;&=
+#1073;&#1083;&#1072;&#1089;&#1090;&#1080; &#1085;&#1077; &#1089;&#1091;&#10=
+84;&#1084;&#1080;&#1088;&#1091;&#1102;&#1090;&#1089;&#1103; &#1089; &#1073;=
+&#1086;&#1085;&#1091;&#1089;&#1085;&#1099;&#1084;&#1080; &#1073;&#1072;&#10=
+83;&#1083;&#1072;&#1084;&#1080; &#1074; &#1057;&#1072;&#1085;&#1082;&#1090;=
+-&#1055;&#1077;&#1090;&#1077;&#1088;&#1073;&#1091;&#1088;&#1075;&#1077; &#1=
+080; &#1076;&#1088;&#1091;&#1075;&#1080;&#1093; &#1075;&#1086;&#1088;&#1086=
+;&#1076;&#1072;&#1093; &#1056;&#1086;&#1089;&#1089;&#1080;&#1080;.</span></=
+span></span></div>
+              =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #9c1116;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 600px; padding: 0px;" width=3D"600p=
+x">
+              =
+
+              =
+
+                <div style=3D"text-align:center"><br><span style=3D"font-fa=
+mily:trebuchet ms,helvetica,sans-serif"><span style=3D"color:#FFFFFF"><span=
+ style=3D"font-size:20px">&#1047;&#1072;&#1082;&#1072;&#1079;&#1072;&#1090;=
+&#1100; &#1087;&#1080;&#1094;&#1094;&#1091; &#1090;&#1077;&#1087;&#1077;&#1=
+088;&#1100; &#1077;&#1097;&#1077; &#1087;&#1088;&#1086;&#1097;&#1077;!</spa=
+n></span></span><br><br></div>
+              =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #9c1116;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 40px; padding: 0px;" width=3D"40px">
+              =
+
+              =
+
+                <br>
+              =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 160px; padding: 0px;" width=3D"160p=
+x">
+              =
+
+              =
+
+                =
+
+                    <a target=3D"_blank" href=3D"https://crm.papajohns.ru/s=
+ender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cHM6Ly9pdHVuZXMu=
+YXBwbGUuY29tL3J1L2FwcC9wYXBhLWR6b25zLWRvc3RhdmthLXBpY2N5L2lkMTAzMDM1NDM3MD9=
+tdD04IiwgInBhcnRuZXJfaWQiOiA1LCAibGlua19pZCI6ICI4Nzg3IiwgInR5cGUiOiAxLCAiYW=
+N0aW9uX2lkIjogOTM2NX0=3D" data-link=3D"8787">
+                      <img style=3D"width: 160px; vertical-align: top; disp=
+lay: block; border: none;" width=3D"160px" src=3D"https://sailplays3.cdnvid=
+eo.ru/media/assets/assetfile/f3ba9d6620b985be094ae1348fb31af2.png" alt=3D"">
+                    </a>
+                =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 20px; padding: 0px;" width=3D"20px">
+              =
+
+              =
+
+                <br>
+              =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 160px; padding: 0px;" width=3D"160p=
+x">
+              =
+
+              =
+
+                =
+
+                    <a target=3D"_blank" href=3D"https://crm.papajohns.ru/s=
+ender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cHM6Ly9wbGF5Lmdv=
+b2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPXJ1LnBhcGFqb2hucy5hcHAmaGw9cnUiLCA=
+icGFydG5lcl9pZCI6IDUsICJsaW5rX2lkIjogIjg3ODgiLCAidHlwZSI6IDEsICJhY3Rpb25faW=
+QiOiA5MzY1fQ=3D=3D" data-link=3D"8788">
+                      <img style=3D"width: 160px; vertical-align: top; disp=
+lay: block; border: none;" width=3D"160px" src=3D"https://sailplays3.cdnvid=
+eo.ru/media/assets/assetfile/b388b4c9cd50a81213e1a14592318a8b.png" alt=3D"">
+                    </a>
+                =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 20px; padding: 0px;" width=3D"20px">
+              =
+
+              =
+
+                <br>
+              =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 160px; padding: 0px;" width=3D"160p=
+x">
+              =
+
+              =
+
+                =
+
+                    <a target=3D"_blank" href=3D"https://crm.papajohns.ru/s=
+ender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cHM6Ly90ZWxlZ3Jh=
+bS5tZS9wYXBham9obnNfYm90IiwgInBhcnRuZXJfaWQiOiA1LCAibGlua19pZCI6ICI4Nzg5Iiw=
+gInR5cGUiOiAxLCAiYWN0aW9uX2lkIjogOTM2NX0=3D" data-link=3D"8789">
+                      <img style=3D"width: 160px; vertical-align: top; disp=
+lay: block; border: none;" width=3D"160px" src=3D"https://sailplays3.cdnvid=
+eo.ru/media/assets/assetfile/dfc2e704704024af66055fa6b044e97b.png" alt=3D"">
+                    </a>
+                =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 40px; padding: 0px;" width=3D"40px">
+              =
+
+              =
+
+                <br>
+              =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #9c1116;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 600px; padding: 0px;" width=3D"600p=
+x">
+              =
+
+              =
+
+                <div><br></div>
+              =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #9c1116;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"7" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 211px; padding: 7px;" width=3D"211p=
+x">
+              =
+
+              =
+
+                <br>
+              =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 36px; padding: 7px;" width=3D"36px">
+              =
+
+              =
+
+                =
+
+                    <a target=3D"_blank" href=3D"https://crm.papajohns.ru/s=
+ender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cHM6Ly93d3cuZmFj=
+ZWJvb2suY29tL3BhcGFqb2huc3J1IiwgInBhcnRuZXJfaWQiOiA1LCAibGlua19pZCI6ICI4Nzk=
+wIiwgInR5cGUiOiAxLCAiYWN0aW9uX2lkIjogOTM2NX0=3D" data-link=3D"8790">
+                      <img style=3D"width: 36px; vertical-align: top; displ=
+ay: block; border: none;" width=3D"36px" src=3D"https://sailplays3.cdnvideo=
+.ru/media/assets/assetfile/a36d5374de287d6dd2d76d28ac8384b9.png" alt=3D"">
+                    </a>
+                =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 36px; padding: 7px;" width=3D"36px">
+              =
+
+              =
+
+                =
+
+                    <a target=3D"_blank" href=3D"https://crm.papajohns.ru/s=
+ender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cDovL2luc3RhZ3Jh=
+bS5jb20vcGFwYWpvaG5zcnUiLCAicGFydG5lcl9pZCI6IDUsICJsaW5rX2lkIjogIjg3OTEiLCA=
+idHlwZSI6IDEsICJhY3Rpb25faWQiOiA5MzY1fQ=3D=3D" data-link=3D"8791">
+                      <img style=3D"width: 36px; vertical-align: top; displ=
+ay: block; border: none;" width=3D"36px" src=3D"https://sailplays3.cdnvideo=
+.ru/media/assets/assetfile/9e73427475056762e746d183b444c7ca.png" alt=3D"">
+                    </a>
+                =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 36px; padding: 7px;" width=3D"36px">
+              =
+
+              =
+
+                =
+
+                    <a target=3D"_blank" href=3D"https://crm.papajohns.ru/s=
+ender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cHM6Ly92ay5jb20v=
+cGFwYWpvaG5zcnUiLCAicGFydG5lcl9pZCI6IDUsICJsaW5rX2lkIjogIjg3OTIiLCAidHlwZSI=
+6IDEsICJhY3Rpb25faWQiOiA5MzY1fQ=3D=3D" data-link=3D"8792">
+                      <img style=3D"width: 36px; vertical-align: top; displ=
+ay: block; border: none;" width=3D"36px" src=3D"https://sailplays3.cdnvideo=
+.ru/media/assets/assetfile/6b6cb763f93dc13be3d8940c4be3aae1.png" alt=3D"">
+                    </a>
+                =
+
+              =
+
+              </td>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 211px; padding: 7px;" width=3D"211p=
+x">
+              =
+
+              =
+
+                <br>
+              =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #9c1116;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 600px; padding: 0px;" width=3D"600p=
+x">
+              =
+
+              =
+
+                <div style=3D"text-align: center;"><span style=3D"color:#FF=
+FFFF;"><strong><span style=3D"font-size:18px;"><span style=3D"font-family:t=
+rebuchet ms,helvetica,sans-serif;"><br><a data-cke-saved-href=3D"https://ww=
+w.papajohns.ru/" target=3D"_blank" href=3D"https://crm.papajohns.ru/sender/=
+redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAiaHR0cHM6Ly93d3cucGFwYWpvaG=
+5zLnJ1LyIsICJwYXJ0bmVyX2lkIjogNSwgImxpbmtfaWQiOiAiODc5MyIsICJ0eXBlIjogMSwgI=
+mFjdGlvbl9pZCI6IDkzNjV9" style=3D"color:#ffffff;text-decoration:none;" data=
+-link=3D"8793">Papajohns.ru</a></span></span></strong></span></div>
+              =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr style=3D"background: #9c1116;">
+      <td valign=3D"top">
+        <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"20" border=
+=3D"0" align=3D"center" style=3D"width: 100%;">
+          <tr>
+            =
+
+              <td valign=3D"top" style=3D"vertical-align: top; background-c=
+olor: #9c1116; overflow: hidden; width: 560px; padding: 20px;" width=3D"560=
+px">
+              =
+
+              =
+
+                <div><div style=3D"text-align:center"><span style=3D"color:=
+#ff9999"><span style=3D"font-size:11px"><span style=3D"font-family:tahoma,g=
+eneva,sans-serif">&#1044;&#1086;&#1073;&#1072;&#1074;&#1100;&#1090;&#1077; =
+&#1085;&#1072;&#1096; &#1072;&#1076;&#1088;&#1077;&#1089; <a data-cke-saved=
+-href=3D"pizza@papajohns.ru" href=3D"https://crm.papajohns.ru/sender/redire=
+ct/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiOiAicGl6emFAcGFwYWpvaG5zLnJ1IiwgInBh=
+cnRuZXJfaWQiOiA1LCAibGlua19pZCI6ICI4Nzk0IiwgInR5cGUiOiAxLCAiYWN0aW9uX2lkIjo=
+gOTM2NX0=3D" style=3D"color:#FFFFFF;" data-link=3D"8794">pizza@papajohns.ru=
+</a> &#1074; &#1089;&#1087;&#1080;&#1089;&#1086;&#1082; &#1074;&#1072;&#109=
+6;&#1080;&#1093; &#1082;&#1086;&#1085;&#1090;&#1072;&#1082;&#1090;&#1086;&#=
+1074;,<br>&#1095;&#1090;&#1086;&#1073;&#1099; &#1085;&#1077; &#1087;&#1088;=
+&#1086;&#1087;&#1091;&#1089;&#1090;&#1080;&#1090;&#1100; &#1074;&#1072;&#10=
+78;&#1085;&#1099;&#1077; &#1087;&#1080;&#1089;&#1100;&#1084;&#1072; &#1086;=
+&#1090; &#1085;&#1072;&#1089;.</span></span></span></div><div style=3D"text=
+-align:center"><span style=3D"color:#ff9999"><span style=3D"font-size:11px"=
+><span style=3D"font-family:tahoma,geneva,sans-serif">&#1042;&#1099; &#1087=
+;&#1086;&#1083;&#1091;&#1095;&#1080;&#1083;&#1080; &#1087;&#1080;&#1089;&#1=
+100;&#1084;&#1086;, &#1090;&#1072;&#1082; &#1082;&#1072;&#1082; &#1103;&#10=
+74;&#1083;&#1103;&#1077;&#1090;&#1077;&#1089;&#1100; &#1087;&#1086;&#1076;&=
+#1087;&#1080;&#1089;&#1095;&#1080;&#1082;&#1086;&#1084; &#1055;&#1072;&#108=
+7;&#1072; &#1044;&#1078;&#1086;&#1085;&#1089;.</span></span></span></div><d=
+iv style=3D"text-align:center"><span style=3D"color:#ff9999"><span style=3D=
+"font-size:11px"><span style=3D"font-family:tahoma,geneva,sans-serif">&#104=
+=3D"https://crm.papajohns.ru/sender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsIC=
+4;&#1080;&#1090;&#1077; </span></span></span><span style=3D"color:#FFFFFF;"=
+><span style=3D"font-size:11px"><span style=3D"font-family:tahoma,geneva,sa=
+ns-serif"><a style=3D"text-decoration:underline;color:#4e4e4e;" href=3D"htt=
+ps://crm.papajohns.ru/sender/redirect/eyJ1c2VyX2lkIjogMTczNDU0MjMsICJ1cmwiO=
+iAiaHR0cHM6Ly9zYWlscGxheS5ydS9zZW5kZXIvdW5zdWJzY3JpYmUvP3VpZD0xNzM0NTQyMyZw=
+aWQ9NSZrZXk9MGUyZWE1MjVjODgwYWNjOTllMzIzZTI5ODNjYWY4YzYzM2M4NWE5YzJmZWViMzg=
+2MTg3NjMxZTI3NmY3NDFjOCZhdHlwZT0xJmFpZD05MzY1IiwgInBhcnRuZXJfaWQiOiA1LCAibG=
+lua19pZCI6IG51bGwsICJ0eXBlIjogMSwgImFjdGlvbl9pZCI6IDkzNjV9">&#1086;&#1090;&=
+#1087;&#1080;&#1089;&#1072;&#1090;&#1100;&#1089;&#1103;</a></span></span></=
+span><span style=3D"color:#ff9999"><span style=3D"font-size:11px"><span sty=
+le=3D"font-family:tahoma,geneva,sans-serif">.</span></span></span><br><br><=
+/div></div>
+              =
+
+              =
+
+              </td>
+            =
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+    =
+
+    <tr>
+      <table width=3D"100%" cellspacing=3D"0" border=3D"0" align=3D"center"=
+ cellpadding=3D"10" style=3D" width: 100%; max-width: 600px;">
+        <tr>
+            <td valign=3D"top" style=3D"vertical-align: top; overflow: hidd=
+en;">
+              =
+
+                =
+
+              =
+
+            </td>
+        </tr>
+      </table>
+    </tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+        </td>
+    </tr>
+</table>
+<![endif]-->
+</body>
+</html>
+--===============5732517697888502054==--

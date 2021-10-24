@@ -1,0 +1,360 @@
+Received: from mxfront6g.mail.yandex.net ([127.0.0.1])
+	by mxfront6g.mail.yandex.net with LMTP id GyjE0OtJ
+	for <yfrench@hotmail.com>, <belindahoward@hotmail.com>; Tue, 14 Nov 2017 17:35:59 +0300
+Received: from mail.stepik.org (mail.stepik.org [13.69.75.239])
+	by mxfront6g.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id m7tquINfmc-ZwHSew4d;
+	Tue, 14 Nov 2017 17:35:58 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+Return-Path: noreply@stepik.org
+X-Yandex-Front: mxfront6g.mail.yandex.net
+X-Yandex-TimeMark: 1510670158
+Authentication-Results: mxfront6g.mail.yandex.net; spf=pass (mxfront6g.mail.yandex.net: domain of stepik.org designates 13.69.75.239 as permitted sender, rule=[ip4:13.69.75.239]) smtp.mail=noreply@stepik.org; dkim=pass header.i=@stepik.org
+X-Yandex-Spam: 2
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=stepik.org; s=dkim;
+	h=List-Unsubscribe:Message-ID:Date:To:From:Subject:MIME-Version:Content-Type; bh=JihFPChELPKpI2HCZIWGTLoni5boj+NkJZXSv+9t22I=;
+	b=afelV6jecbhl1VgJMUv7fSReAz3UwDuvq06jW3wLW0/0zLPYSBA1eISNKcpdEejgzYap+jyr/KwIAoORV5sBE51hkh6BhRrnPxFCYazstkmNgxy029bExtiBo61zaQAiN/jOCZIzQa0daHVLt5xjNI38VtlDN4aEtG8zNVLfFV0=;
+Content-Type: multipart/alternative;
+ boundary="===============3630820757284090566=="
+MIME-Version: 1.0
+Subject: =?utf-8?b?0JzRiyDQsdGL0LvQuCDQvdC10L/RgNCw0LLRiw==?=
+From: "Stepik Team" <noreply@stepik.org>
+To: yfrench@hotmail.com, belindahoward@hotmail.com
+Date: Tue, 14 Nov 2017 14:35:57 -0000
+Message-ID: <20171114143557.61252.27729@cbd17a797983>
+List-Unsubscribe: <https://stepik.org/unsubscribe/337b743e06113c2ad582026440b455b544d28682/>
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+--===============3630820757284090566==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+
+|  [ ![](https://stepik.org/static/emails/default/logo.v1.png)
+](https://stepik.org/?utm_source=announcement&utm_campaign=announcement&utm_content
+=main-page&utm_medium=email&utm_term=user-group4&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh
+.KpVYP0pvF-rDyHvhk3QyqJzeCIY)  
+---  
+|
+
+Слышите? Нет? Тссс, потише, затаите дыхание, прислушайтесь. В шелесте листьев,
+в гуле приближающегося поезда, в завывании ветра и в треске первого утреннего
+мороза можно расслышать. Что? Так, постойте, давайте по порядку.  
+
+Для начала признание. Мы были неправы. Мы разместили на Stepik курсы по
+программированию, которые хочется проходить без остановки, без передышки,
+одним жадным глотком. Мы разместили курсы, но не добавили возможность
+проходить их с телефона.  
+
+И тогда мы услышали. Сначала это был тихий неуверенный шёпот: «Может быть,
+добавите возможность писать задачки на программирование в приложении?» Мы
+подошли ближе, ещё ближе, ещё. Звук нарастал, шёпот превращался в гул, голоса
+скандировали «Хотим программироваться с телефона! Хотим программировать с
+телефона!» Тогда мы поняли, что пора. Бравая команда мобильных разработчиков,
+вооружившись звонкими клавиатурами, денно и нощно сражалась за честь наших
+пользователей. И сегодня мы гордо сообщаем: возможность программировать прямо
+в приложении доступна на всех устройствах. Ура!
+
+Скачать приложения можно на [ Google Play
+](https://redirect.appmetrica.yandex.com/serve/169454243927818778) и в [ App
+Store. ](https://redirect.appmetrica.yandex.com/serve/241511837462433839)  
+
+А ещё мы составили список хороших курсов, чтобы вы могли попробовать
+обновление:
+
+  * [ Программирование на языке C++ ](https://stepik.org/course/7?utm_source=newsletter&utm_medium=email&utm_campaign=nov_rus_codequiz&utm_content=course&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY) от Computer Science Center 
+  * [ Программирование на языке C++ (продолжение) ](https://stepik.org/course/3206?utm_source=newsletter&utm_medium=email&utm_campaign=nov_rus_codequiz&utm_content=course&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY) от Computer Science Center 
+  * [ Введение в программирование (C++) ](https://stepik.org/course/363?utm_source=newsletter&utm_medium=email&utm_campaign=nov_rus_codequiz&utm_content=course&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY) от Академии Яндекса и НИУ ВШЭ 
+  * [ Kotlin ](https://stepik.org/course/2852?utm_source=newsletter&utm_medium=email&utm_campaign=nov_rus_codequiz&utm_content=course&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY) от JetBrains 
+  * [ Алгоритмы: теория и практика. Методы ](https://stepik.org/course/217?utm_source=newsletter&utm_medium=email&utm_campaign=nov_rus_codequiz&utm_content=course&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY) от Computer Science Center 
+  * [ Обработка изображений ](https://stepik.org/course/1280?utm_source=newsletter&utm_medium=email&utm_campaign=nov_rus_codequiz&utm_content=course&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY) от НИУ ВШЭ 
+  * [ Основы статистики. Часть 2 ](https://stepik.org/course/524?utm_source=newsletter&utm_medium=email&utm_campaign=nov_rus_codequiz&utm_content=course&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY) от Института биоинформатики 
+  * [ Введение в архитектуру ЭВМ. Элементы операционных систем ](https://stepik.org/course/253?utm_source=newsletter&utm_medium=email&utm_campaign=nov_rus_codequiz&utm_content=course&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY) от Computer Science Center 
+  * [ Java. Базовый курс ](https://stepik.org/course/187?utm_source=newsletter&utm_medium=email&utm_campaign=nov_rus_codequiz&utm_content=course&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY) от Computer Science Center 
+  * [ Hadoop. Система для обработки больших объемов данных ](https://stepik.org/course/150?utm_source=newsletter&utm_medium=email&utm_campaign=nov_rus_codequiz&utm_content=course&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY) от Mail.Ru Group 
+  * [ Функциональное программирование на языке Haskell ](https://stepik.org/course/75?utm_source=newsletter&utm_medium=email&utm_campaign=nov_rus_codequiz&utm_content=course&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY) от Академического университета и Computer Science Center 
+
+[ ![](https://ucarecdn.com/4be5c1d4-3b8a-4d8c-9359-8b01a4e2a0ab/)
+](https://stepik.org/catalog?etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-
+rDyHvhk3QyqJzeCIY)  
+
+  
+С любовью,  
+команда Stepik  
+---  
+|  [ ![](https://stepik.org/static/emails/default/icon_vk.png)
+](https://vk.com/rustepik) [
+![](https://stepik.org/static/emails/default/icon_fb.png)
+](https://facebook.com/rustepik) [
+![](https://stepik.org/static/emails/default/icon_twitter.png)
+](https://twitter.com/rustepik)  
+---  
+|  [ ![Get it on Apple Store](https://stepik.org/static/emails/default/ru-
+appstore_n.png)
+](https://redirect.appmetrica.yandex.com/serve/168884546916387946) |  [ ![Get
+it on Google Play](https://stepik.org/static/emails/default/ru-play_n.png)
+](https://redirect.appmetrica.yandex.com/serve/312999733398396995)  
+---|---  
+|  [ Помощь ](http://support.stepik.org) [ Отписаться от всех писем
+](https://stepik.org/unsubscribe/337b743e06113c2ad582026440b455b544d28682/?utm_source=announcement&utm_campaign=announcement&utm_content=unsubscribe&utm_medium=email&utm_term
+=user-group4&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY) [
+Настройки уведомлений ](https://stepik.org/edit-
+profile/notifications?utm_source=announcement&utm_campaign=announcement&utm_content
+=notification-settings&utm_medium=email&utm_term=user-
+group4&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY)  
+---  
+[ ![](https://stepik.org/static/emails/default/stepik_logo_black.png)
+](https://stepik.org/?utm_source=announcement&utm_campaign=announcement&utm_content
+=main-page&utm_medium=email&utm_term=user-group4&etk=WzEyNSw2NTA4MzE3XQ.1eEcJh
+.KpVYP0pvF-rDyHvhk3QyqJzeCIY)  
+![](https://www.google-
+analytics.com/collect?dp=%2Femail%2Fannouncement%2F1933&v=1&ea=open&t=event&cm=email&cid=b96fd953
+-866f-
+e8d0-f896-cc5c05880139&cs=announcement&cn=announcement&el=1933&ul=ru&cc=opening&ec=announcement&tid=UA-41633741-1&ck
+=user-group4) ![](https://stepik.org/email-open/WzEyNSw2NTA4MzE3XQ.1eEcJh
+.KpVYP0pvF-rDyHvhk3QyqJzeCIY.gif)
+
+
+--===============3630820757284090566==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+
+<html>
+ <head>
+ </head>
+ <body>
+  <table bgcolor="#efefef" border="0" cellpadding="0" cellspacing="0" style="color:#444; background-color:#efefef; margin:0; padding:0" width="100%">
+   <tbody>
+    <tr>
+     <td>
+      <center style="max-width: 660px; width: 100%; margin: 0 auto;">
+       <table border="0" cellpadding="0" cellspacing="0" style="color:#444; margin:0 auto; padding:0" width="100%">
+        <tbody>
+         <tr>
+          <td align="center" height="180" style="margin: 0; padding: 0; text-align: center;" valign="center">
+           <a href="https://stepik.org/?utm_source=announcement&amp;utm_campaign=announcement&amp;utm_content=main-page&amp;utm_medium=email&amp;utm_term=user-group4&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY">
+            <img alt="" border="0" height="64" src="https://stepik.org/static/emails/default/logo.v1.png" width="64"/>
+           </a>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <table border="0" cellpadding="0" cellspacing="0" class="contenttable" style="color:#444; margin:0; padding:0" width="100%">
+        <tbody>
+         <tr>
+          <td align="left" style="margin: 0; padding: 0; font-family: Arial, sans-serif; line-height: 1.5;">
+           <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="color:#444; background-color:#fff; font-size:16px; margin-bottom:20px; padding:15px; width:100%" width="100%">
+            <tbody>
+             <tr>
+              <td>
+               <p style="line-height:1.4">
+                Слышите? Нет? Тссс, потише, затаите дыхание, прислушайтесь. В шелесте листьев, в гуле приближающегося поезда, в завывании ветра и в треске первого утреннего мороза можно расслышать. Что? Так, постойте, давайте по порядку.
+                <br/>
+               </p>
+               <p style="line-height:1.4">
+                Для начала признание. Мы были неправы. Мы разместили на Stepik курсы по программированию, которые хочется проходить без остановки, без передышки, одним жадным глотком. Мы разместили курсы, но не добавили возможность проходить их с телефона.
+                <br/>
+               </p>
+               <p style="line-height:1.4">
+                И тогда мы услышали. Сначала это был тихий неуверенный шёпот: «Может быть, добавите возможность писать задачки на программирование в приложении?» Мы подошли ближе, ещё ближе, ещё. Звук нарастал, шёпот превращался в гул, голоса
+скандировали «Хотим программироваться с телефона! Хотим программировать с телефона!» Тогда мы поняли, что пора. Бравая команда мобильных разработчиков, вооружившись звонкими клавиатурами, денно и нощно сражалась за честь наших пользователей. И
+сегодня мы гордо сообщаем: возможность программировать прямо в приложении доступна на всех устройствах. Ура!
+               </p>
+               <p style="line-height:1.4">
+                Скачать приложения можно на
+                <a href="https://redirect.appmetrica.yandex.com/serve/169454243927818778" style="color:#6c6; font-weight:bold; text-decoration:none">
+                 Google Play
+                </a>
+                и в
+                <a href="https://redirect.appmetrica.yandex.com/serve/241511837462433839" style="color:#6c6; font-weight:bold; text-decoration:none">
+                 App Store.
+                </a>
+                <br/>
+               </p>
+               <p style="line-height:1.4">
+                А ещё мы составили список хороших курсов, чтобы вы могли попробовать обновление:
+               </p>
+               <ul>
+                <li style="line-height:1.4">
+                 <a href="https://stepik.org/course/7?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=nov_rus_codequiz&amp;utm_content=course&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color:#6c6; font-weight:bold; text-decoration:none">
+                  Программирование на языке C++
+                 </a>
+                 от Computer Science Center
+                </li>
+                <li style="line-height:1.4">
+                 <a href="https://stepik.org/course/3206?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=nov_rus_codequiz&amp;utm_content=course&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color:#6c6; font-weight:bold; text-decoration:none">
+                  Программирование на языке C++ (продолжение)
+                 </a>
+                 от Computer Science Center
+                </li>
+                <li style="line-height:1.4">
+                 <a href="https://stepik.org/course/363?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=nov_rus_codequiz&amp;utm_content=course&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color:#6c6; font-weight:bold; text-decoration:none">
+                  Введение в программирование (C++)
+                 </a>
+                 от Академии Яндекса и НИУ ВШЭ
+                </li>
+                <li style="line-height:1.4">
+                 <a href="https://stepik.org/course/2852?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=nov_rus_codequiz&amp;utm_content=course&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color:#6c6; font-weight:bold; text-decoration:none">
+                  Kotlin
+                 </a>
+                 от JetBrains
+                </li>
+                <li style="line-height:1.4">
+                 <a href="https://stepik.org/course/217?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=nov_rus_codequiz&amp;utm_content=course&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color:#6c6; font-weight:bold; text-decoration:none">
+                  Алгоритмы: теория и практика. Методы
+                 </a>
+                 от Computer Science Center
+                </li>
+                <li style="line-height:1.4">
+                 <a href="https://stepik.org/course/1280?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=nov_rus_codequiz&amp;utm_content=course&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color:#6c6; font-weight:bold; text-decoration:none">
+                  Обработка изображений
+                 </a>
+                 от НИУ ВШЭ
+                </li>
+                <li style="line-height:1.4">
+                 <a href="https://stepik.org/course/524?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=nov_rus_codequiz&amp;utm_content=course&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color:#6c6; font-weight:bold; text-decoration:none">
+                  Основы статистики. Часть 2
+                 </a>
+                 от Института биоинформатики
+                </li>
+                <li style="line-height:1.4">
+                 <a href="https://stepik.org/course/253?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=nov_rus_codequiz&amp;utm_content=course&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color:#6c6; font-weight:bold; text-decoration:none">
+                  Введение в архитектуру ЭВМ. Элементы операционных систем
+                 </a>
+                 от Computer Science Center
+                </li>
+                <li style="line-height:1.4">
+                 <a href="https://stepik.org/course/187?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=nov_rus_codequiz&amp;utm_content=course&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color:#6c6; font-weight:bold; text-decoration:none">
+                  Java. Базовый курс
+                 </a>
+                 от Computer Science Center
+                </li>
+                <li style="line-height:1.4">
+                 <a href="https://stepik.org/course/150?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=nov_rus_codequiz&amp;utm_content=course&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color:#6c6; font-weight:bold; text-decoration:none">
+                  Hadoop. Система для обработки больших объемов данных
+                 </a>
+                 от Mail.Ru Group
+                </li>
+                <li style="line-height:1.4">
+                 <a href="https://stepik.org/course/75?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=nov_rus_codequiz&amp;utm_content=course&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color:#6c6; font-weight:bold; text-decoration:none">
+                  Функциональное программирование на языке Haskell
+                 </a>
+                 от Академического университета и Computer Science Center
+                </li>
+               </ul>
+               <p style="line-height:1.4">
+                <span class="image-wrapper">
+                 <a href="https://stepik.org/catalog?etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color:#6c6; font-weight:bold; text-decoration:none">
+                  <img src="https://ucarecdn.com/4be5c1d4-3b8a-4d8c-9359-8b01a4e2a0ab/" title="Image: https://ucarecdn.com/4be5c1d4-3b8a-4d8c-9359-8b01a4e2a0ab/" width="100%"/>
+                 </a>
+                </span>
+                <br/>
+               </p>
+               <br/>
+               С любовью,
+               <br/>
+               команда Stepik
+              </td>
+             </tr>
+             <tr>
+              <td align="center">
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </center>
+      <table bgcolor="#eeeeee" border="0" cellpadding="0" cellspacing="0" style="color:#444; background-color:#eee; margin:0; padding:0" width="100%">
+       <tbody>
+        <tr>
+         <td>
+          <center style="max-width: 660px; width: 100%; margin: 0 auto;">
+           <table border="0" cellpadding="0" cellspacing="0" style="color:#444" width="100%">
+            <tbody>
+             <tr>
+              <td align="center" height="50" style="margin: 0; padding: 0; font-family: Arial, sans-serif; font-size: 14px;">
+               <a href="https://vk.com/rustepik" style="color: #007aff; margin-right: 20px;">
+                <img src="https://stepik.org/static/emails/default/icon_vk.png"/>
+               </a>
+               <a href="https://facebook.com/rustepik" style="color: #007aff; margin-right: 20px;">
+                <img src="https://stepik.org/static/emails/default/icon_fb.png"/>
+               </a>
+               <a href="https://twitter.com/rustepik" style="color: #007aff">
+                <img src="https://stepik.org/static/emails/default/icon_twitter.png"/>
+               </a>
+              </td>
+             </tr>
+             <tr>
+              <td colspan="2">
+               <table class="app_list" style="color:#444; table-layout:fixed; width:100%" width="100%">
+                <tbody>
+                 <tr>
+                  <td align="right" class="app_list-item app_list-item_right-align" style="padding-bottom:10px; padding-top:10px; padding-right:10px; text-align:right" valign="center">
+                   <a href="https://redirect.appmetrica.yandex.com/serve/168884546916387946">
+                    <img alt="Get it on Apple Store" height="40" src="https://stepik.org/static/emails/default/ru-appstore_n.png" style="height:40px; width:135px" width="135"/>
+                   </a>
+                  </td>
+                  <td align="left" class="app_list-item app_list-item_left-align" style="padding-bottom:10px; padding-top:10px; padding-left:10px; text-align:left" valign="center">
+                   <a href="https://redirect.appmetrica.yandex.com/serve/312999733398396995">
+                    <img alt="Get it on Google Play" height="40" src="https://stepik.org/static/emails/default/ru-play_n.png" style="height:40px; width:135px" width="135"/>
+                   </a>
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table bgcolor="#eeeeee" border="0" cellpadding="0" cellspacing="0" style="color:#444; background-color:#eee; margin:2px 0 0; padding:0" width="100%">
+       <tbody>
+        <tr>
+         <td>
+          <center style="max-width: 660px; width: 100%; margin: 0 auto;">
+           <table border="0" cellpadding="0" cellspacing="0" style="color:#444" width="100%">
+            <tbody>
+             <tr>
+              <td align="center" height="50" style="margin: 0; padding: 0; font-family: Arial, sans-serif; font-size: 12px;" valign="center">
+               <a href="http://support.stepik.org" style="color: #555555; text-decoration: none;">
+                Помощь
+               </a>
+               <a href="https://stepik.org/unsubscribe/337b743e06113c2ad582026440b455b544d28682/?utm_source=announcement&amp;utm_campaign=announcement&amp;utm_content=unsubscribe&amp;utm_medium=email&amp;utm_term=user-group4&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color: #555555; margin-left: 20px; text-decoration: none;">
+                Отписаться от всех писем
+               </a>
+               <a href="https://stepik.org/edit-profile/notifications?utm_source=announcement&amp;utm_campaign=announcement&amp;utm_content=notification-settings&amp;utm_medium=email&amp;utm_term=user-group4&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY" style="color: #555555; margin-left: 20px; text-decoration: none;">
+                Настройки уведомлений
+               </a>
+              </td>
+             </tr>
+             <tr>
+              <td align="center" height="60" valign="center">
+               <a href="https://stepik.org/?utm_source=announcement&amp;utm_campaign=announcement&amp;utm_content=main-page&amp;utm_medium=email&amp;utm_term=user-group4&amp;etk=WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY">
+                <img src="https://stepik.org/static/emails/default/stepik_logo_black.png"/>
+               </a>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <img height="1" src="https://www.google-analytics.com/collect?dp=%2Femail%2Fannouncement%2F1933&amp;v=1&amp;ea=open&amp;t=event&amp;cm=email&amp;cid=b96fd953-866f-e8d0-f896-cc5c05880139&amp;cs=announcement&amp;cn=announcement&amp;el=1933&amp;ul=ru&amp;cc=opening&amp;ec=announcement&amp;tid=UA-41633741-1&amp;ck=user-group4" width="1"/>
+  <img height="1" src="https://stepik.org/email-open/WzEyNSw2NTA4MzE3XQ.1eEcJh.KpVYP0pvF-rDyHvhk3QyqJzeCIY.gif" width="1"/>
+ </body>
+</html>
+--===============3630820757284090566==--

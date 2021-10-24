@@ -1,0 +1,612 @@
+Received: from mxfront3j.mail.yandex.net ([127.0.0.1])
+	by mxfront3j.mail.yandex.net with LMTP id LkOhaqBF
+	for <bstark@hotmail.com>, <christopher24@gray.com>, <jenniferhall@white.org>, <dannywilliams@klein.com>; Mon, 12 Mar 2018 10:00:22 +0300
+Received: from mailhub.bmstu.ru (mailhub.bmstu.ru [195.19.32.15])
+	by mxfront3j.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id gTpAAVovtg-0L206QTU;
+	Mon, 12 Mar 2018 10:00:21 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+Return-Path: noreply@e-learning.bmstu.ru
+X-Yandex-Front: mxfront3j.mail.yandex.net
+X-Yandex-TimeMark: 1520838021
+X-Yandex-Spam: 2
+Received: from localhost (localhost [127.0.0.1])
+	by mailhub.bmstu.ru (Postfix) with ESMTP id A98B98DFC8
+	for <bstark@hotmail.com>, <christopher24@gray.com>, <jenniferhall@white.org>, <dannywilliams@klein.com>; Mon, 12 Mar 2018 10:00:21 +0300 (MSK)
+X-Virus-Scanned: amavisd-new at mailhub.bmstu.ru
+Received: from mailhub.bmstu.ru ([127.0.0.1])
+	by localhost (mailhub.bmstu.ru [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Ca6dp6bQ3skn for <bstark@hotmail.com>, <christopher24@gray.com>, <jenniferhall@white.org>, <dannywilliams@klein.com>;
+	Mon, 12 Mar 2018 10:00:18 +0300 (MSK)
+Received: from elearning.bmstu.ru (h182.net40.bmstu.ru [195.19.40.182])
+	by mailhub.bmstu.ru (Postfix) with ESMTP id EF3B78DD91
+	for <bstark@hotmail.com>, <christopher24@gray.com>, <jenniferhall@white.org>, <dannywilliams@klein.com>; Mon, 12 Mar 2018 10:00:07 +0300 (MSK)
+Received: from elearning (localhost [127.0.0.1])
+	by elearning.bmstu.ru (Postfix) with ESMTP id DD31E42390
+	for <bstark@hotmail.com>, <christopher24@gray.com>, <jenniferhall@white.org>, <dannywilliams@klein.com>; Mon, 12 Mar 2018 10:00:07 +0300 (MSK)
+Date: Mon, 12 Mar 2018 10:00:07 +0300
+To: bstark@hotmail.com,christopher24@gray.com,jenniferhall@white.org,dannywilliams@klein.com
+From: "=?utf-8?B?0KDQvtC80LDQvSDQodGC0LDQvdC40YHQu9Cw0LLQvtCy0LjRhyA=?=
+ =?utf-8?B?0KHQsNC80LDRgNC10LIgKNC+0YLQv9GA0LDQstC70LXQvdC+INGH0LXRgNC1?=
+ =?utf-8?B?0LcgZS1sZWFybmluZy5ibXN0dS5ydS9tb29kbGUp?=" <noreply@e-learning.bmstu.ru>
+Reply-To: "=?utf-8?B?0J3QtSDQvdGD0LbQvdC+INC+0YLQstC10YfQsNGC0Ywg0L3QsCDRjdGC0L4g?=
+ =?utf-8?B?0YHQvtC+0LHRidC10L3QuNC1?=" <noreply@e-learning.bmstu.ru>
+Subject: ICS6online: Data Analytics and Management in Data Intensive Domains (DAMDID/RCDL'2018)
+Message-ID: <9db9e7123a4a0ac576a431086c236ab22a9884283872d6adf5bc90cd08d2c369/moodle@e-learning.bmstu.ru>
+X-Mailer: PHPMailer Moodle 2017051500.09 (https://github.com/PHPMailer/PHPMailer)
+List-Id: =?utf-8?B?ItCd0L7QstC+0YHRgtC4INGB0LDQudGC0LAiIDxtb29kbGVmb3J1bTE2L21v?=
+ =?utf-8?B?b2RsZUBlLWxlYXJuaW5nLmJtc3R1LnJ1Pg==?=
+List-Help: http://e-learning.bmstu.ru/moodle/mod/forum/view.php?f=16
+X-Course-Id: 1
+X-Course-Name: =?utf-8?B?0JrQsNGE0LXQtNGA0LAgItCa0L7QvNC/0YzRjtGC0LXRgNC90YvQtSDRgdC4?=
+ =?utf-8?B?0YHRgtC10LzRiyDQuCDRgdC10YLQuCI=?=
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Unsubscribe: <>
+Thread-Topic: ICS6online: Data Analytics and Management in Data Intensive Domains (DAMDID/RCDL'2018)
+Thread-Index: 9db9e7123a4a0ac576a431086c23
+X-Moodle-Originating-Script: http://e-learning.bmstu.ru/moodle => elearning:mod/forum/lib.php:878
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_5a6ce23170b891df42aff603ebce29d1"
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+This is a multi-part message in MIME format.
+
+--b1_5a6ce23170b891df42aff603ebce29d1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+ICS6online -> =D0=A4=D0=BE=D1=80=D1=83=D0=BC=D1=8B -> =D0=9D=D0=BE=D0=B2=D0=
+=BE=D1=81=D1=82=D0=B8 =D1=81=D0=B0=D0=B9=D1=82=D0=B0 -> Data Analytics and
+Management in Data Intensive Domains (DAMDID/RCDL'2018)=20
+http://e-learning.bmstu.ru/moodle/mod/forum/discuss.php?d=3D679#p1187
+Data Analytics and Management in Data Intensive Domains (DAMDID/RCDL'2018)
+=D0=BE=D1=82 =D0=A0=D0=BE=D0=BC=D0=B0=D0=BD =D0=A1=D1=82=D0=B0=D0=BD=D0=B8=
+=D1=81=D0=BB=D0=B0=D0=B2=D0=BE=D0=B2=D0=B8=D1=87 =D0=A1=D0=B0=D0=BC=D0=B0=
+=D1=80=D0=B5=D0=B2 -
+=D0=9F=D0=BE=D0=BD=D0=B5=D0=B4=D0=B5=D0=BB=D1=8C=D0=BD=D0=B8=D0=BA, 12 =D0=
+=9C=D0=B0=D1=80=D1=82 2018, 09:38
+---------------------------------------------------------------------
+=D0=9A=D1=80=D1=83=D0=BF=D0=BD=D0=B5=D0=B9=D1=88=D0=B0=D1=8F =D0=B8 =D1=81=
+=D1=82=D0=B0=D1=80=D0=B5=D0=B9=D1=88=D0=B0=D1=8F =D0=BD=D0=B0=D1=83=D1=87=
+=D0=BD=D0=B0=D1=8F
+=D0=BA=D0=BE=D0=BD=D1=84=D0=B5=D1=80=D0=B5=D0=BD=D1=86=D0=B8=D1=8F =D0=B2 =
+=D0=A0=D0=BE=D1=81=D1=81=D0=B8=D0=B8 DAMDID/RCDL (DATA ANALYTICS AND
+MANAGEMENT IN DATA INTENSIVE DOMAINS -
+HTTP://DAMDID2018.FRCCSC.RU/EN/CONFERENCE_SHORT.HTML [1] ) =D0=B2 =D1=8D=D1=
+=82=D0=BE=D0=BC
+=D0=B3=D0=BE=D0=B4=D1=83 =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=B0=
+=D0=B2=D0=BB=D1=8F=D0=B5=D1=82 =D1=83=D0=BD=D0=B8=D0=BA=D0=B0=D0=BB=D1=8C=
+=D0=BD=D1=83=D1=8E
+=D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D1=83=
+=D1=87=D0=B0=D1=81=D1=82=D0=B8=D1=8F =D0=B2 =D0=BF=D0=BE=D0=BB=D0=BD=D0=BE=
+=D1=86=D0=B5=D0=BD=D0=BD=D0=BE=D0=B9
+=D0=BC=D0=B5=D0=B6=D0=B4=D1=83=D0=BD=D0=B0=D1=80=D0=BE=D0=B4=D0=BD=D0=BE=D0=
+=B9 =D0=BA=D0=BE=D0=BD=D1=84=D0=B5=D1=80=D0=B5=D0=BD=D1=86=D0=B8=D0=B8 =D0=
+=BD=D0=B0 =D0=B0=D0=BD=D0=B3=D0=BB=D0=B8=D0=B9=D1=81=D0=BA=D0=BE=D0=BC
+=D1=8F=D0=B7=D1=8B=D0=BA=D0=B5 =D0=BD=D0=B5 =D0=B2=D1=8B=D0=B5=D0=B7=D0=B6=
+=D0=B0=D1=8F =D0=B8=D0=B7 =D0=9C=D0=BE=D1=81=D0=BA=D0=B2=D1=8B. =D0=9E=D0=
+=BD=D0=B0 =D0=B1=D1=83=D0=B4=D0=B5=D1=82
+=D0=BF=D1=80=D0=BE=D0=B2=D0=BE=D0=B4=D0=B8=D1=82=D1=8C=D1=81=D1=8F =D1=81 9=
+ =D0=BF=D0=BE 12 =D0=BE=D0=BA=D1=82=D1=8F=D0=B1=D1=80=D1=8F=C2=A0 =D0=B2 =
+=D0=9C=D0=93=D0=A3 =D0=B8
+=D1=81=D0=BE=D1=81=D1=82=D0=BE=D0=B8=D1=82=D1=81=D1=8F =D0=B2 20-=D0=B9 =D1=
+=80=D0=B0=D0=B7. =D0=9E=D1=81=D0=BD=D0=BE=D0=B2=D0=BD=D0=B0=D1=8F =D0=BE=D0=
+=B1=D0=BB=D0=B0=D1=81=D1=82=D1=8C
+=D0=BA=D0=BE=D0=BD=D1=84=D0=B5=D1=80=D0=B5=D0=BD=D1=86=D0=B8=D0=B8 - =D0=BE=
+=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B0 =D0=B4=D0=B0=D0=BD=D0=BD=
+=D1=8B=D1=85 =D0=B2
+=D0=BE=D0=B1=D0=BB=D0=B0=D1=81=D1=82=D1=8F=D1=85 =D1=81 =D0=B8=D1=85 =D0=B8=
+=D0=BD=D1=82=D0=B5=D0=BD=D1=81=D0=B8=D0=B2=D0=BD=D1=8B=D0=BC =D0=BF=D0=BE=
+=D1=8F=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC.
+=D0=A1=D0=B1=D0=BE=D1=80=D0=BD=D0=B8=D0=BA =D0=BA=D0=BE=D0=BD=D1=84=D0=B5=
+=D1=80=D0=B5=D0=BD=D1=86=D0=B8=D0=B8 =D0=B2=D0=BA=D0=BB=D1=8E=D1=87=D0=B5=
+=D0=BD =D0=B2 =D1=81=D0=BF=D0=B8=D1=81=D0=BE=D0=BA
+=D0=92=D0=90=D0=9A. =D0=98=D0=B7=D0=B1=D1=80=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5 =
+=D1=81=D1=82=D0=B0=D1=82=D1=8C=D0=B8 =D0=B1=D1=83=D0=B4=D1=83=D1=82 =D0=BE=
+=D0=BF=D1=83=D0=B1=D0=BB=D0=B8=D0=BA=D0=BE=D0=B2=D0=B0=D0=BD=D1=8B
+=D0=B2 =D1=81=D0=B1=D0=BE=D1=80=D0=BD=D0=B8=D0=BA=D0=B5 SPRINGER COMMUNICAT=
+IONS IN COMPUTER AND INFORMATION
+SCIENCE SERIES, =D0=B8=D0=BD=D0=B4=D0=B5=D0=BA=D1=81=D0=B8=D1=80=D1=83=D0=
+=B5=D0=BC=D0=BE=D0=B3=D0=BE =D0=B2 SCOPUS.
+=D0=9C=D0=B0=D1=82=D0=B5=D1=80=D0=B8=D0=B0=D0=BB=D1=8B =D1=81=D1=82=D0=B0=
+=D1=82=D0=B5=D0=B9 =D0=B4=D0=BE=D0=BB=D0=B6=D0=BD=D1=8B =D0=B1=D1=8B=D1=82=
+=D1=8C
+=D0=BF=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D1=8B =
+=D0=BD=D0=B0 =D0=B0=D0=BD=D0=B3=D0=BB=D0=B8=D0=B9=D1=81=D0=BA=D0=BE=D0=BC =
+=D1=8F=D0=B7=D1=8B=D0=BA=D0=B5.
+=D0=94=D0=BE=D0=BA=D0=BB=D0=B0=D0=B4=D1=8B - =D0=BF=D0=BE =D0=BC=D0=B5=D1=
+=80=D0=B5 =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D0=
+=B8 =D0=BD=D0=B0
+=D0=B0=D0=BD=D0=B3=D0=BB=D0=B8=D0=B9=D1=81=D0=BA=D0=BE=D0=BC.
+
+=D0=92 =D1=80=D0=B0=D0=BC=D0=BA=D0=B0=D1=85 =D0=BA=D0=BE=D0=BD=D1=84=D0=B5=
+=D1=80=D0=B5=D0=BD=D1=86=D0=B8=D0=B8 =D0=BF=D1=80=D0=BE=D0=B2=D0=BE=D0=B4=
+=D0=B8=D1=82=D1=81=D1=8F =D1=81=D0=B5=D0=BA=D1=86=D0=B8=D1=8F
+=D0=B4=D0=BB=D1=8F =D0=B0=D1=81=D0=BF=D0=B8=D1=80=D0=B0=D0=BD=D1=82=D0=BE=
+=D0=B2 =D0=B8 =D1=81=D1=82=D1=83=D0=B4=D0=B5=D0=BD=D1=82=D0=BE=D0=B2-=D0=BC=
+=D0=B0=D0=B3=D0=B8=D1=81=D1=82=D1=80=D0=BE=D0=B2,
+=D0=B3=D0=B4=D0=B5 =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D1=80=D0=B0=D1=81=D1=81=
+=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=8C =D0=BE =D1=82=D0=B5=D0=BA=D1=83=D1=89=
+=D0=B5=D0=B9
+=D0=BD=D0=B5=D0=B7=D0=B0=D0=BA=D0=BE=D0=BD=D1=87=D0=B5=D0=BD=D0=BD=D0=BE=D0=
+=B9 =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B5 =D0=B8=D0=BB=D0=B8 =D0=BF=D1=80=D0=
+=BE=D0=B2=D0=BE=D0=B4=D0=B8=D0=BC=D0=BE=D0=BC
+=D0=BD=D0=B0=D1=83=D1=87=D0=BD=D0=BE=D0=BC =D0=B8=D1=81=D1=81=D0=BB=D0=B5=
+=D0=B4=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B8, =D0=B0 =D1=82=D0=B0=D0=BA=D0=B6=
+=D0=B5 =D0=BE=D0=B1=D1=81=D1=83=D0=B4=D0=B8=D1=82=D1=8C
+=D1=82=D0=BE, =D1=87=D1=82=D0=BE =D0=BF=D0=BB=D0=B0=D0=BD=D0=B8=D1=80=D1=83=
+=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =
+=D0=B2 =D0=BA=D0=B0=D1=87=D0=B5=D1=81=D1=82=D0=B2=D0=B5
+=D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82=D0=BE=D0=B2. =D0=92 =
+=D1=8D=D1=82=D0=BE=D0=B9 =D1=81=D0=B5=D0=BA=D1=86=D0=B8=D0=B8 =D1=81=D1=82=
+=D0=B0=D1=82=D1=8C=D0=B8 =D0=B4=D0=BE=D0=BB=D0=B6=D0=BD=D1=8B
+=D0=B1=D1=8B=D1=82=D1=8C =D0=BF=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=
+=D0=BB=D0=B5=D0=BD=D1=8B =D0=BE=D0=B4=D0=BD=D0=B8=D0=BC =D0=B0=D0=B2=D1=82=
+=D0=BE=D1=80=D0=BE=D0=BC.
+
+=D0=A1=D1=80=D0=BE=D0=BA =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=B0=
+=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D1=81=D1=82=D0=B0=D1=82=D0=B5=D0=B9 -=
+ 15 =D0=BC=D0=B0=D1=8F. =D0=92=D1=81=D0=B5
+=D1=81=D1=82=D0=B0=D1=82=D1=8C=D0=B8 =D1=80=D0=B5=D1=86=D0=B5=D0=BD=D0=B7=
+=D0=B8=D1=80=D1=83=D1=8E=D1=82=D1=81=D1=8F.
+
+=D0=A3=D1=87=D0=B0=D1=81=D1=82=D0=B8=D0=B5 =D0=B4=D0=BB=D1=8F =D1=81=D1=82=
+=D1=83=D0=B4=D0=B5=D0=BD=D1=82=D0=BE=D0=B2 =D0=B8 =D0=B0=D1=81=D0=BF=D0=B8=
+=D1=80=D0=B0=D0=BD=D1=82=D0=BE=D0=B2 -
+=D0=B1=D0=B5=D1=81=D0=BF=D0=BB=D0=B0=D1=82=D0=BD=D0=BE=D0=B5.
+
+-------------------------
+
+INTERNATIONAL CONFERENCE ON
+
+=E2=80=9CData Analytics and Management in Data Intensive Domains=E2=80=9D,
+=C2=A0DAMDID/RCDL=E2=80=992018
+
+MOSCOW STATE UNIVERSITY, OCTOBER 9 - 12, 2018
+
+HTTP://DAMDID2018.FRCCSC.RU/EN/CONFERENCE_SHORT.HTML [1]
+
+CALL FOR CONTRIBUTIONS
+
+AIMS AND SCOPE_._Exponential growth of data practically in all human
+activity areas, consolidating role to be played by informatics and IT for
+the development of methods and facilities for data analysis and management
+in various data intensive domains (DID), study of experience in applying
+these methods and stimulating=C2=A0=C2=A0their advancement have motivated
+organization of this conference. Main objective of this conference is to
+promote the acceleration of researches, improvement of their efficiency
+(quality and visibility of results, competitive ability) at the expense of
+the enhancement of methods and facilities for data analysis and management
+in DID. It is expected that the mutual complementarity of approaches in
+interdisciplinary DID will contribute to the creation of the corporate
+culture generalizing methods for data analysis and infrastructures
+development applicable in diverse DID.
+
+TARGET AUDIENCE.=C2=A0DAMDID=C2=A0conference is a multidisciplinary forum o=
+f
+researchers and practitioners from various domains of science and research
+promoting cooperation and exchange of ideas in the area of data analysis
+and management in DID (domain is data intensive if its development is
+induced by elaboration of data that not necessarily might be =E2=80=9CBig=
+=E2=80=9D).
+For participation at the conference the specialists from such DID as
+X-informatics (where X =3D astro, bio, chemo, geo, medicine, neuro, physics=
+,
+etc.), social science, economy, etc., as well from the areas of statistics,
+informatics, data mining, machine learning, data science, new technologies
+and IT, business, etc. are invited.
+
+HOST ORGANIZERS
+
+	* Federal Research Center "Computer Science and Control" of the Russian
+Academy of Sciences (FRC CSC RAS)
+
+	* Lomonosov Moscow State University
+
+	* Moscow ACM SIGMOD Chapter
+
+VENUE.The XX International Conference =E2=80=9CData Analytics and Managemen=
+t in
+Data Intensive Domains=E2=80=9D (DAMDID/RCDL=E2=80=992018) will be held dur=
+ing 9=C2=A0-=C2=A012
+October 2018 in Moscow at the Lomonosov Moscow State University.
+Information on transport and accommodation can be found at the=C2=A0website
+[2].=C2=A0TWO DAYS BEFORE AND AFTER THE CONFERENCE IT IS PLANNED ALSO TO
+ORGANIZE MEETINGS AND DISCUSSIONS WITH THE CONFERENCE PARTICIPANTS AT THE
+INSTITUTES OF THE RAS, MOSCOW STATE UNIVERSITY, ALONG WITH SOME SOCIAL
+PROGRAMS IN MOSCOW.
+
+IMPORTANT DATES
+
+	* Submission deadline for papers
+May 15, 2018
+
+	* Submission deadline for tutorials
+April 20, 2018
+
+	* Notification of acceptance
+June 29, 2018
+
+	* Deadline for camera-ready versions of the accepted papers
+August 03, 2018
+
+	* Conference
+OCTOBER 9 - 12, 2018
+
+CATEGORIES OF SUBMISSIONS.The conference structure will include
+the=C2=A0plenary keynotes and tutorials=C2=A0presented by the leading
+researchers,regular sessions containing regular and short presentations=C2=
+=A0of
+the research results obtained in various conference tracks, as well
+as=C2=A0demo/poster sessions. English is the official language of the
+conference. For young researchers the=C2=A0PhD Workshop=C2=A0is planned. Co=
+-located
+with the conference=C2=A0the Satellite events=C2=A0are also planned includi=
+ng
+workshops (open and by invitation) and invited sessions. Paper submission
+rules and templates can be found at the=C2=A0website [3].
+
+CONFERENCE TOPICS.The open list of topics proposed for submission is
+organized in form of the tracks presented in the list given below (detailed
+characterization of each track can be found at the=C2=A0website [4]).
+
+TRACKS OF THE SPHERE FOR DATA ANALYTICS AND PROBLEM SOLVING IN DID
+
+	* Peculiarities of data in DID
+
+	* Problem statement and solving in DID
+
+	* Organization of experiments in DID
+
+	* Hypotheses and models (as constituents of research experiments in DID)
+
+	* Advanced data intensive analysis methods and procedures
+
+	* Conceptual modeling of a universe of discourse in DID
+
+	* Application of data intensive analysis in DID research
+
+TRACKS OF THE SPHERE FOR DATA MANAGEMENT IN DID
+
+	* Data integration in DID
+	* Data extraction from texts
+	* Research data infrastructures and their applications in DID
+	* Semantic Web role in DID
+
+CONFERENCE PROCEEDINGS.Conference Proceedings will be=C2=A0PUBLISHED
+LOCALLY=C2=A0before the conference as a collection of full texts of all
+accepted by the Program Committee regular and short papers, abstracts of
+posters and demos. Soon after the conference the texts of regular papers
+presented at the conference will be submitted for online publishing in a
+volume of=C2=A0THE EUROPEAN REPOSITORY OF THE CEUR WORKSHOP PROCEEDINGS,=C2=
+=A0as
+well as for indexing the volume content in EDBT and Scopus. Furthermore, a
+volume of=C2=A0post-conference proceedings with up to one third selected an=
+d
+extended papers published before in CEUR WS=C2=A0will be=C2=A0PUBLISHEDWITH
+SPRINGER IN THEIR COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE
+SERIES.=C2=A0Each paper selected=C2=A0for the CCIS post-conference volume s=
+hould be
+modified as follows: the=C2=A0title of each paper should be a new one; pape=
+r
+should be significantly extended (with at least 30 percents of new
+content); the paper should refer to its original version in CEUR-WS. CCIS
+is abstracted/indexed in DBLP, Google Scholar, EI-Compendex, Mathematical
+Reviews, SCImago, and Scopus.=C2=A0DAMDID/RCDL has been publishing with
+Springer in CCIS since 2016.
+
+PROGRAM COMMITTEE CO-CHAIRS
+
+	* Leonid Kalinichenko, Federal Research Center =E2=80=9CComputer Science a=
+nd
+Control=E2=80=9D of RAS, Russia
+	* Yannis Manolopoulos, Open University of Cyprus, Greece
+
+
+
+Links:
+------
+[1] http://damdid2018.frccsc.ru/en/conference_short.html
+[2] http://damdid2018.frccsc.ru/en/participants_accomodation_transport.html
+[3] http://damdid2018.frccsc.ru/en/authors_submission_guidelines.html
+[4] http://damdid2018.frccsc.ru/en/conference_topics.html
+
+
+
+---------------------------------------------------------------------
+=D0=98=D0=B7=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=92=D0=B0=D1=88=D0=B8 =
+=D0=BD=D0=B0=D1=81=D1=82=D1=80=D0=BE=D0=B9=D0=BA=D0=B8 =D0=B4=D0=B0=D0=B9=
+=D0=B4=D0=B6=D0=B5=D1=81=D1=82=D0=B0 =D1=84=D0=BE=D1=80=D1=83=D0=BC=D0=B0:
+http://e-learning.bmstu.ru/moodle/mod/forum/index.php?id=3D1
+
+
+--b1_5a6ce23170b891df42aff603ebce29d1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"navbar">
+    <a target=3D"_blank" href=3D"http://e-learning.bmstu.ru/moodle/course/v=
+iew.php?id=3D1">ICS6online</a>
+    &raquo;
+    <a target=3D"_blank" href=3D"http://e-learning.bmstu.ru/moodle/mod/foru=
+m/index.php?id=3D1">=D0=A4=D0=BE=D1=80=D1=83=D0=BC=D1=8B</a>
+    &raquo;
+    <a target=3D"_blank" href=3D"http://e-learning.bmstu.ru/moodle/mod/foru=
+m/view.php?f=3D16">=D0=9D=D0=BE=D0=B2=D0=BE=D1=81=D1=82=D0=B8 =D1=81=D0=B0=
+=D0=B9=D1=82=D0=B0</a>
+    &raquo;
+    <a target=3D"_blank" href=3D"http://e-learning.bmstu.ru/moodle/mod/foru=
+m/discuss.php?d=3D679">Data Analytics and Management in Data Intensive Doma=
+ins (DAMDID/RCDL'2018)</a>
+</div>
+
+<table border=3D"0" cellpadding=3D"3" cellspacing=3D"0" class=3D"forumpost"=
+>
+    <tr class=3D"header">
+        <td width=3D"35" valign=3D"top" class=3D"picture left">
+            <a href=3D"http://e-learning.bmstu.ru/moodle/user/profile.php?i=
+d=3D36"><img src=3D"http://e-learning.bmstu.ru/moodle/theme/image.php/_s/mo=
+ove/core/1519338161/u/f2" alt=3D"=D0=98=D0=B7=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=
+=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=
+=D1=82=D0=B5=D0=BB=D1=8F =D0=A0=D0=BE=D0=BC=D0=B0=D0=BD =D0=A1=D1=82=D0=B0=
+=D0=BD=D0=B8=D1=81=D0=BB=D0=B0=D0=B2=D0=BE=D0=B2=D0=B8=D1=87 =D0=A1=D0=B0=
+=D0=BC=D0=B0=D1=80=D0=B5=D0=B2" title=3D"=D0=98=D0=B7=D0=BE=D0=B1=D1=80=D0=
+=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=
+=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F =D0=A0=D0=BE=D0=BC=D0=B0=D0=BD =D0=A1=D1=
+=82=D0=B0=D0=BD=D0=B8=D1=81=D0=BB=D0=B0=D0=B2=D0=BE=D0=B2=D0=B8=D1=87 =D0=
+=A1=D0=B0=D0=BC=D0=B0=D1=80=D0=B5=D0=B2" class=3D"userpicture defaultuserpi=
+c" width=3D"35" height=3D"35" /></a>
+        </td>
+        <td class=3D"topic starter">
+            <div class=3D"subject">
+                Data Analytics and Management in Data Intensive Domains (DA=
+MDID/RCDL'2018)
+            </div>
+            <div class=3D"author">
+                =D0=BE=D1=82 <a target=3D'_blank' href=3D'http://e-learning=
+=2Ebmstu.ru/moodle/user/view.php?id=3D36&course=3D1'>=D0=A0=D0=BE=D0=BC=D0=B0=
+=D0=BD =D0=A1=D1=82=D0=B0=D0=BD=D0=B8=D1=81=D0=BB=D0=B0=D0=B2=D0=BE=D0=B2=
+=D0=B8=D1=87 =D0=A1=D0=B0=D0=BC=D0=B0=D1=80=D0=B5=D0=B2</a> - =D0=9F=D0=BE=
+=D0=BD=D0=B5=D0=B4=D0=B5=D0=BB=D1=8C=D0=BD=D0=B8=D0=BA, 12 =D0=9C=D0=B0=D1=
+=80=D1=82 2018, 09:38
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"left side" valign=3D"top">
+                &nbsp;
+        </td>
+        <td class=3D"content">
+            =D0=9A=D1=80=D1=83=D0=BF=D0=BD=D0=B5=D0=B9=D1=88=D0=B0=D1=8F =
+=D0=B8 =D1=81=D1=82=D0=B0=D1=80=D0=B5=D0=B9=D1=88=D0=B0=D1=8F =D0=BD=D0=B0=
+=D1=83=D1=87=D0=BD=D0=B0=D1=8F =D0=BA=D0=BE=D0=BD=D1=84=D0=B5=D1=80=D0=B5=
+=D0=BD=D1=86=D0=B8=D1=8F =D0=B2 =D0=A0=D0=BE=D1=81=D1=81=D0=B8=D0=B8 DAMDID=
+/RCDL (<b><span xml:lang=3D"en-us" lang=3D"en-us">Data Analytics and Manage=
+ment in Data Intensive Domains</span></b> - <a href=3D"http://damdid2018.fr=
+ccsc.ru/en/conference_short.html" target=3D"_blank" rel=3D"noreferrer"><b><=
+span xml:lang=3D"en-us" lang=3D"en-us">http://damdid2018.frccsc.ru/en/confe=
+rence_short.html</span></b></a> ) =D0=B2 =D1=8D=D1=82=D0=BE=D0=BC =D0=B3=D0=
+=BE=D0=B4=D1=83 =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=
+=BB=D1=8F=D0=B5=D1=82 =D1=83=D0=BD=D0=B8=D0=BA=D0=B0=D0=BB=D1=8C=D0=BD=D1=
+=83=D1=8E =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D1=
+=8C =D1=83=D1=87=D0=B0=D1=81=D1=82=D0=B8=D1=8F =D0=B2 =D0=BF=D0=BE=D0=BB=D0=
+=BD=D0=BE=D1=86=D0=B5=D0=BD=D0=BD=D0=BE=D0=B9 =D0=BC=D0=B5=D0=B6=D0=B4=D1=
+=83=D0=BD=D0=B0=D1=80=D0=BE=D0=B4=D0=BD=D0=BE=D0=B9 =D0=BA=D0=BE=D0=BD=D1=
+=84=D0=B5=D1=80=D0=B5=D0=BD=D1=86=D0=B8=D0=B8 =D0=BD=D0=B0 =D0=B0=D0=BD=D0=
+=B3=D0=BB=D0=B8=D0=B9=D1=81=D0=BA=D0=BE=D0=BC =D1=8F=D0=B7=D1=8B=D0=BA=D0=
+=B5 =D0=BD=D0=B5 =D0=B2=D1=8B=D0=B5=D0=B7=D0=B6=D0=B0=D1=8F =D0=B8=D0=B7 =
+=D0=9C=D0=BE=D1=81=D0=BA=D0=B2=D1=8B. =D0=9E=D0=BD=D0=B0 =D0=B1=D1=83=D0=B4=
+=D0=B5=D1=82 =D0=BF=D1=80=D0=BE=D0=B2=D0=BE=D0=B4=D0=B8=D1=82=D1=8C=D1=81=
+=D1=8F =D1=81 9 =D0=BF=D0=BE 12 =D0=BE=D0=BA=D1=82=D1=8F=D0=B1=D1=80=D1=8F=
+=C2=A0 =D0=B2 =D0=9C=D0=93=D0=A3 =D0=B8 =D1=81=D0=BE=D1=81=D1=82=D0=BE=D0=
+=B8=D1=82=D1=81=D1=8F =D0=B2 20-=D0=B9 =D1=80=D0=B0=D0=B7. =D0=9E=D1=81=D0=
+=BD=D0=BE=D0=B2=D0=BD=D0=B0=D1=8F =D0=BE=D0=B1=D0=BB=D0=B0=D1=81=D1=82=D1=
+=8C =D0=BA=D0=BE=D0=BD=D1=84=D0=B5=D1=80=D0=B5=D0=BD=D1=86=D0=B8=D0=B8 - =
+=D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B0 =D0=B4=D0=B0=D0=BD=
+=D0=BD=D1=8B=D1=85 =D0=B2 =D0=BE=D0=B1=D0=BB=D0=B0=D1=81=D1=82=D1=8F=D1=85 =
+=D1=81 =D0=B8=D1=85 =D0=B8=D0=BD=D1=82=D0=B5=D0=BD=D1=81=D0=B8=D0=B2=D0=BD=
+=D1=8B=D0=BC =D0=BF=D0=BE=D1=8F=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC.<=
+br />=D0=A1=D0=B1=D0=BE=D1=80=D0=BD=D0=B8=D0=BA =D0=BA=D0=BE=D0=BD=D1=84=D0=
+=B5=D1=80=D0=B5=D0=BD=D1=86=D0=B8=D0=B8 =D0=B2=D0=BA=D0=BB=D1=8E=D1=87=D0=
+=B5=D0=BD =D0=B2 =D1=81=D0=BF=D0=B8=D1=81=D0=BE=D0=BA =D0=92=D0=90=D0=9A. =
+=D0=98=D0=B7=D0=B1=D1=80=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5 =D1=81=D1=82=D0=B0=
+=D1=82=D1=8C=D0=B8 =D0=B1=D1=83=D0=B4=D1=83=D1=82 =D0=BE=D0=BF=D1=83=D0=B1=
+=D0=BB=D0=B8=D0=BA=D0=BE=D0=B2=D0=B0=D0=BD=D1=8B =D0=B2 =D1=81=D0=B1=D0=BE=
+=D1=80=D0=BD=D0=B8=D0=BA=D0=B5 <b><span xml:lang=3D"en-gb" lang=3D"en-gb">S=
+pringer Communications in Computer and Information Science series</span></b=
+><span xml:lang=3D"en-gb" lang=3D"en-gb"></span>, =D0=B8=D0=BD=D0=B4=D0=B5=
+=D0=BA=D1=81=D0=B8=D1=80=D1=83=D0=B5=D0=BC=D0=BE=D0=B3=D0=BE =D0=B2 SCOPUS.=
+ <br />=D0=9C=D0=B0=D1=82=D0=B5=D1=80=D0=B8=D0=B0=D0=BB=D1=8B =D1=81=D1=82=
+=D0=B0=D1=82=D0=B5=D0=B9 =D0=B4=D0=BE=D0=BB=D0=B6=D0=BD=D1=8B =D0=B1=D1=8B=
+=D1=82=D1=8C =D0=BF=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D0=B5=
+=D0=BD=D1=8B =D0=BD=D0=B0 =D0=B0=D0=BD=D0=B3=D0=BB=D0=B8=D0=B9=D1=81=D0=BA=
+=D0=BE=D0=BC =D1=8F=D0=B7=D1=8B=D0=BA=D0=B5. =D0=94=D0=BE=D0=BA=D0=BB=D0=B0=
+=D0=B4=D1=8B - =D0=BF=D0=BE =D0=BC=D0=B5=D1=80=D0=B5 =D0=B2=D0=BE=D0=B7=D0=
+=BC=D0=BE=D0=B6=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =D0=BD=D0=B0 =D0=B0=D0=BD=D0=
+=B3=D0=BB=D0=B8=D0=B9=D1=81=D0=BA=D0=BE=D0=BC.<br /><br />=D0=92 =D1=80=D0=
+=B0=D0=BC=D0=BA=D0=B0=D1=85 =D0=BA=D0=BE=D0=BD=D1=84=D0=B5=D1=80=D0=B5=D0=
+=BD=D1=86=D0=B8=D0=B8 =D0=BF=D1=80=D0=BE=D0=B2=D0=BE=D0=B4=D0=B8=D1=82=D1=
+=81=D1=8F =D1=81=D0=B5=D0=BA=D1=86=D0=B8=D1=8F =D0=B4=D0=BB=D1=8F =D0=B0=D1=
+=81=D0=BF=D0=B8=D1=80=D0=B0=D0=BD=D1=82=D0=BE=D0=B2 =D0=B8 =D1=81=D1=82=D1=
+=83=D0=B4=D0=B5=D0=BD=D1=82=D0=BE=D0=B2-=D0=BC=D0=B0=D0=B3=D0=B8=D1=81=D1=
+=82=D1=80=D0=BE=D0=B2, =D0=B3=D0=B4=D0=B5 =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =
+=D1=80=D0=B0=D1=81=D1=81=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=8C =D0=BE =D1=82=
+=D0=B5=D0=BA=D1=83=D1=89=D0=B5=D0=B9 =D0=BD=D0=B5=D0=B7=D0=B0=D0=BA=D0=BE=
+=D0=BD=D1=87=D0=B5=D0=BD=D0=BD=D0=BE=D0=B9 =D1=80=D0=B0=D0=B1=D0=BE=D1=82=
+=D0=B5 =D0=B8=D0=BB=D0=B8 =D0=BF=D1=80=D0=BE=D0=B2=D0=BE=D0=B4=D0=B8=D0=BC=
+=D0=BE=D0=BC =D0=BD=D0=B0=D1=83=D1=87=D0=BD=D0=BE=D0=BC =D0=B8=D1=81=D1=81=
+=D0=BB=D0=B5=D0=B4=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B8, =D0=B0 =D1=82=D0=B0=
+=D0=BA=D0=B6=D0=B5 =D0=BE=D0=B1=D1=81=D1=83=D0=B4=D0=B8=D1=82=D1=8C =D1=82=
+=D0=BE, =D1=87=D1=82=D0=BE =D0=BF=D0=BB=D0=B0=D0=BD=D0=B8=D1=80=D1=83=D0=B5=
+=D1=82=D1=81=D1=8F =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=B2 =
+=D0=BA=D0=B0=D1=87=D0=B5=D1=81=D1=82=D0=B2=D0=B5 =D1=80=D0=B5=D0=B7=D1=83=
+=D0=BB=D1=8C=D1=82=D0=B0=D1=82=D0=BE=D0=B2. =D0=92 =D1=8D=D1=82=D0=BE=D0=B9=
+ =D1=81=D0=B5=D0=BA=D1=86=D0=B8=D0=B8 =D1=81=D1=82=D0=B0=D1=82=D1=8C=D0=B8 =
+=D0=B4=D0=BE=D0=BB=D0=B6=D0=BD=D1=8B =D0=B1=D1=8B=D1=82=D1=8C =D0=BF=D1=80=
+=D0=B5=D0=B4=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D1=8B =D0=BE=D0=B4=
+=D0=BD=D0=B8=D0=BC =D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=BE=D0=BC.<br /><br />=
+=D0=A1=D1=80=D0=BE=D0=BA =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=B0=
+=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D1=81=D1=82=D0=B0=D1=82=D0=B5=D0=B9 -=
+ 15 =D0=BC=D0=B0=D1=8F. =D0=92=D1=81=D0=B5 =D1=81=D1=82=D0=B0=D1=82=D1=8C=
+=D0=B8 =D1=80=D0=B5=D1=86=D0=B5=D0=BD=D0=B7=D0=B8=D1=80=D1=83=D1=8E=D1=82=
+=D1=81=D1=8F.<br /><br />=D0=A3=D1=87=D0=B0=D1=81=D1=82=D0=B8=D0=B5 =D0=B4=
+=D0=BB=D1=8F =D1=81=D1=82=D1=83=D0=B4=D0=B5=D0=BD=D1=82=D0=BE=D0=B2 =D0=B8 =
+=D0=B0=D1=81=D0=BF=D0=B8=D1=80=D0=B0=D0=BD=D1=82=D0=BE=D0=B2 - =D0=B1=D0=B5=
+=D1=81=D0=BF=D0=BB=D0=B0=D1=82=D0=BD=D0=BE=D0=B5.<br /><hr /><p align=3D"ce=
+nter"><b><span xml:lang=3D"en-us" lang=3D"en-us">International Conference o=
+n</span></b><br /></p><p align=3D"center"><b><span xml:lang=3D"en-us" lang=
+=3D"en-us">=E2=80=9CData Analytics and Management in Data Intensive Domains=
+=E2=80=9D,<br />=C2=A0DAMDID/RCDL=E2=80=992018</span></b></p><p align=3D"ce=
+nter"></p><p align=3D"center"><b><span xml:lang=3D"en-us" lang=3D"en-us">Mo=
+scow State University, October 9 - 12, 2018</span></b></p><p align=3D"cente=
+r"><a href=3D"http://damdid2018.frccsc.ru/en/conference_short.html" target=
+=3D"_blank" rel=3D"noreferrer"><b><span xml:lang=3D"en-us" lang=3D"en-us">h=
+ttp://damdid2018.frccsc.ru/en/conference_short.html</span></b></a></p><p al=
+ign=3D"center"><b><span xml:lang=3D"en-us" lang=3D"en-us">Call for Contribu=
+tions</span></b></p><p><b><u><span xml:lang=3D"en-us" lang=3D"en-us">Aims a=
+nd scope</span></u></b><b><i><span xml:lang=3D"en-us" lang=3D"en-us">.</spa=
+n></i></b><b><span xml:lang=3D"en-us" lang=3D"en-us">=C2=A0</span></b><span=
+ xml:lang=3D"en-us" lang=3D"en-us">Exponential growth of data practically i=
+n all human activity areas, consolidating role to be played by informatics =
+and IT for the development of methods and facilities for data analysis and =
+management in various data intensive domains (DID), study of experience in =
+applying these methods and stimulating=C2=A0=C2=A0their advancement have mo=
+tivated organization of this conference. Main objective of this conference =
+is to promote the acceleration of researches, improvement of their efficien=
+cy (quality and visibility of results, competitive ability) at the expense =
+of the enhancement of methods and facilities for data analysis and manageme=
+nt in DID. It is expected that the mutual complementarity of approaches in =
+interdisciplinary DID will contribute to the creation of the corporate cult=
+ure generalizing methods for data analysis and infrastructures development =
+applicable in diverse DID.</span></p><p><b><u><span xml:lang=3D"en-us" lang=
+=3D"en-us">Target audience</span></u></b><span xml:lang=3D"en-us" lang=3D"e=
+n-us">.=C2=A0DAMDID=C2=A0conference is a multidisciplinary forum of researc=
+hers and practitioners from various domains of science and research promoti=
+ng cooperation and exchange of ideas in the area of data analysis and manag=
+ement in DID (domain is data intensive if its development is induced by ela=
+boration of data that not necessarily might be =E2=80=9CBig=E2=80=9D). For =
+participation at the conference the specialists from such DID as X-informat=
+ics (where X =3D astro, bio, chemo, geo, medicine, neuro, physics, etc.), s=
+ocial science, economy, etc., as well from the areas of statistics, informa=
+tics, data mining, machine learning, data science, new technologies and IT,=
+ business, etc. are invited.</span></p><p><b><u><span xml:lang=3D"en-us" la=
+ng=3D"en-us">Host organizers</span></u></b></p><ul><li>Federal Research Cen=
+ter "Computer Science and Control" of the Russian Academy of Sciences (FRC =
+CSC RAS)<br /></li><li>Lomonosov Moscow State University<br /></li><li>Mosc=
+ow ACM SIGMOD Chapter<br /></li></ul><p><b><u><span xml:lang=3D"en-us" lang=
+=3D"en-us">Venue</span></u></b><b><span xml:lang=3D"en-us" lang=3D"en-us">.=
+=C2=A0</span></b><span xml:lang=3D"en-us" lang=3D"en-us">The XX Internation=
+al Conference =E2=80=9CData Analytics and Management in Data Intensive Doma=
+ins=E2=80=9D (DAMDID/RCDL=E2=80=992018) will be held during 9=C2=A0<b>-</b>=
+=C2=A012 October 2018 in Moscow at the Lomonosov Moscow State University. I=
+nformation on transport and accommodation can be found at the=C2=A0</span><=
+a href=3D"http://damdid2018.frccsc.ru/en/participants_accomodation_transpor=
+t.html" target=3D"_blank" rel=3D"noreferrer"><span xml:lang=3D"en-us" lang=
+=3D"en-us">website</span></a><span xml:lang=3D"en-us" lang=3D"en-us">.=C2=
+=A0<b>Two days before and after the conference it is planned also to organi=
+ze meetings and discussions with the conference participants at the institu=
+tes of the RAS, Moscow State University, along with some social programs in=
+ Moscow.</b></span></p><p><b><u><span xml:lang=3D"en-us" lang=3D"en-us">Imp=
+ortant dates</span></u></b></p><table cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0"><tbody><tr><td width=3D"463" valign=3D"top"><ul><li>Submission =
+deadline for papers<br /><b>May 15, 2018<br /><br /></b></li><li>Submission=
+ deadline for tutorials<br /><b>April 20, 2018<br /><br /></b></li><li>Noti=
+fication of acceptance<br /><b>June 29, 2018<br /><br /></b></li><li>Deadli=
+ne for camera-ready versions of the accepted papers<br /><b>August 03, 2018=
+<br /><br /></b></li><li>Conference<br /><b>October 9 - 12, 2018</b></li></=
+ul></td><td width=3D"170" valign=3D"top"></td></tr></tbody></table><p><b><u=
+><span xml:lang=3D"en-us" lang=3D"en-us">Categories of submissions</span></=
+u></b><b><span xml:lang=3D"en-us" lang=3D"en-us">.=C2=A0</span></b><span xm=
+l:lang=3D"en-us" lang=3D"en-us">The conference structure will include the=
+=C2=A0plenary keynotes and tutorials=C2=A0presented by the leading research=
+ers,regular sessions containing regular and short presentations=C2=A0of the=
+ research results obtained in various conference tracks, as well as=C2=A0de=
+mo/poster sessions. English is the official language of the conference. For=
+ young researchers the=C2=A0PhD Workshop=C2=A0is planned. Co-located with t=
+he conference=C2=A0the Satellite events=C2=A0are also planned including wor=
+kshops (open and by invitation) and invited sessions. Paper submission rule=
+s and templates can be found at the=C2=A0</span><a href=3D"http://damdid201=
+8.frccsc.ru/en/authors_submission_guidelines.html" target=3D"_blank" rel=3D=
+"noreferrer"><span xml:lang=3D"en-us" lang=3D"en-us">website</span></a><spa=
+n xml:lang=3D"en-us" lang=3D"en-us">.</span></p><p><b><u><span xml:lang=3D"=
+en-us" lang=3D"en-us">Conference topics</span></u></b><b><span xml:lang=3D"=
+en-us" lang=3D"en-us">.=C2=A0</span></b><span xml:lang=3D"en-us" lang=3D"en=
+-us">The open list of topics proposed for submission is organized in form o=
+f the tracks presented in the list given below (detailed characterization o=
+f each track can be found at the=C2=A0</span><a href=3D"http://damdid2018.f=
+rccsc.ru/en/conference_topics.html" target=3D"_blank" rel=3D"noreferrer"><s=
+pan xml:lang=3D"en-us" lang=3D"en-us">website</span></a><span xml:lang=3D"e=
+n-us" lang=3D"en-us">).</span></p><p><b><span xml:lang=3D"en-us" lang=3D"en=
+-us">Tracks of the sphere for data analytics and problem solving in DID</sp=
+an></b></p><ul><li>Peculiarities of data in DID<br /></li><li>Problem state=
+ment and solving in DID<br /></li><li>Organization of experiments in DID<br=
+ /></li><li>Hypotheses and models (as constituents of research experiments =
+in DID)<br /></li><li>Advanced data intensive analysis methods and procedur=
+es<br /></li><li>Conceptual modeling of a universe of discourse in DID<br /=
+></li><li>Application of data intensive analysis in DID research<br /></li>=
+</ul><p><b><span xml:lang=3D"en-us" lang=3D"en-us">Tracks of the sphere for=
+ data management in DID</span></b></p><ul><li>Data integration in DID</li><=
+li>Data extraction from texts</li><li>Research data infrastructures and the=
+ir applications in DID</li><li>Semantic Web role in DID<br /></li></ul><p><=
+b><u><span xml:lang=3D"en-us" lang=3D"en-us">Conference Proceedings</span><=
+/u></b><b><span xml:lang=3D"en-us" lang=3D"en-us">.=C2=A0</span></b><span x=
+ml:lang=3D"en-us" lang=3D"en-us">Conference Proceedings will be=C2=A0<b>pub=
+lished locally</b>=C2=A0before the conference as a collection of full texts=
+ of all accepted by the Program Committee regular and short papers, abstrac=
+ts of posters and demos. Soon after the conference the texts of regular pap=
+ers presented at the conference will be submitted for online publishing in =
+a volume of=C2=A0<b>the European repository of the CEUR Workshop Proceeding=
+s,</b>=C2=A0as well as for indexing the volume content in EDBT and Scopus. =
+Furthermore, a volume of=C2=A0</span><span xml:lang=3D"en-gb" lang=3D"en-gb=
+">post-conference proceedings with up to one third selected and extended pa=
+pers published before in CEUR WS</span><span xml:lang=3D"en-us" lang=3D"en-=
+us">=C2=A0will be=C2=A0<b>published=C2=A0</b></span><b><span xml:lang=3D"en=
+-gb" lang=3D"en-gb">with Springer in their Communications in Computer and I=
+nformation Science series</span></b><span xml:lang=3D"en-gb" lang=3D"en-gb"=
+>.</span><span xml:lang=3D"en-gb" lang=3D"en-gb">=C2=A0</span><span xml:lan=
+g=3D"en-gb" lang=3D"en-gb">Each paper selected</span><span xml:lang=3D"en-g=
+b" lang=3D"en-gb">=C2=A0</span><span xml:lang=3D"en-gb" lang=3D"en-gb">for =
+the CCIS post</span><span xml:lang=3D"en-us" lang=3D"en-us">-</span><span x=
+ml:lang=3D"en-gb" lang=3D"en-gb">conference volume should be modified as fo=
+llows: the</span><span xml:lang=3D"en-gb" lang=3D"en-gb">=C2=A0</span><span=
+ xml:lang=3D"en-gb" lang=3D"en-gb">title of each paper should be a new one;=
+ paper should be significantly extended (with at least 30 percents of new c=
+ontent); the paper should refer to its original version in CEUR-WS. CCIS is=
+ abstracted/indexed in DBLP, Google Scholar, EI-Compendex, Mathematical Rev=
+iews, SCImago, and Scopus.=C2=A0DAMDID/RCDL has been publishing with Spring=
+er in CCIS since 2016.</span></p><p><b><u><span xml:lang=3D"en-us" lang=3D"=
+en-us">Program Committee Co-chairs</span></u></b></p><ul><li>Leonid Kalinic=
+henko, Federal Research Center =E2=80=9CComputer Science and Control=E2=80=
+=9D of RAS, Russia</li><li>Yannis Manolopoulos, Open University of Cyprus, =
+Greece</li></ul><br /><p></p>
+
+            <div class=3D"commands">
+            </div>
+
+            <div class=3D"link">
+                <a target=3D"_blank" href=3D"http://e-learning.bmstu.ru/moo=
+dle/mod/forum/discuss.php?d=3D679#p1187">
+                    =D0=9F=D0=BE=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=8C =D0=B2=
+ =D0=BA=D0=BE=D0=BD=D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=B5
+                </a>
+            </div>
+        </td>
+    </tr>
+</table>
+
+<hr />
+<div class=3D"mdl-align unsubscribelink">
+    <a href=3D"http://e-learning.bmstu.ru/moodle/mod/forum/index.php?id=3D1=
+">=D0=98=D0=B7=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D1=81=D0=B2=D0=BE=D0=B8=
+ =D0=BD=D0=B0=D1=81=D1=82=D1=80=D0=BE=D0=B9=D0=BA=D0=B8 =D0=B4=D0=B0=D0=B9=
+=D0=B4=D0=B6=D0=B5=D1=81=D1=82=D0=B0 =D1=84=D0=BE=D1=80=D1=83=D0=BC=D0=B0</=
+a>
+</div>
+
+
+--b1_5a6ce23170b891df42aff603ebce29d1--
+

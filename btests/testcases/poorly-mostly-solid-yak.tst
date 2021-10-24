@@ -1,0 +1,2 @@
+KEYS="btests/emails/poorly-mostly-solid-yak.eml"
+OUT="Papa John's <pizza@papajohns.ru>|Brian Ross <sherrywhite@stone-weaver.com>, Vanessa Davis <thomas37@taylor-anderson.com>, Alexander Ward <susancopeland@bond.com>, Jennifer Hood <palmerkerry@yahoo.com>, Madison Casey <sherrygutierrez@owens.org>, Troy Williams <kristinbrown@gmail.com>, Christopher Goodwin <tatedavid@hotmail.com>|Sun, 11 Mar 2018 09:05:44 +0000|1"

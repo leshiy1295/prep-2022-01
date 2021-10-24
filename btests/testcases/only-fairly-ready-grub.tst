@@ -1,0 +1,2 @@
+KEYS="btests/emails/only-fairly-ready-grub.eml"
+OUT="Taco from Trello <taco@trello.com>|Jessica Buck <pvang@garcia.com>, Charles Cooley <williamtaylor@johnson.org>, Elizabeth Spencer <ofranco@gmail.com>, Omar Jackson <sandra95@davis-taylor.com>, Jacob Welch <derektaylor@conner.com>, Felicia Young <qhall@fernandez.biz>, Travis Pierce <fhunt@yahoo.com>, Diane Hopkins <michaelgarcia@conway-sanchez.org>, Jennifer Baker <christine75@gmail.com>|Thu, 28 Sep 2017 17:07:00 +0000|1"

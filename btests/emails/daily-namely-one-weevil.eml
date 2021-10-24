@@ -1,0 +1,912 @@
+Received: from mxfront9g.mail.yandex.net ([127.0.0.1])
+	by mxfront9g.mail.yandex.net with LMTP id H273N3DQ
+	for <john91@bennett.biz>, <mjones@rangel.com>, <joseball@yahoo.com>, <gatesemily@yahoo.com>; Mon, 26 Feb 2018 08:23:33 +0300
+Received: from mail01.go.mathworks.com (mail01.go.mathworks.com [142.0.162.217])
+	by mxfront9g.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id 8NUgzWZw8b-NWnCEJWt;
+	Mon, 26 Feb 2018 08:23:32 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+Return-Path: bounce@go.mathworks.com
+X-Yandex-Front: mxfront9g.mail.yandex.net
+X-Yandex-TimeMark: 1519622612
+Authentication-Results: mxfront9g.mail.yandex.net; spf=pass (mxfront9g.mail.yandex.net: domain of go.mathworks.com designates 142.0.162.217 as permitted sender, rule=[ip4:142.0.160.0/20]) smtp.mail=bounce@go.mathworks.com
+X-Yandex-Spam: 2
+Received: from [10.34.116.104] ([10.34.116.104:61994] helo=G03SNJ007)
+	by msm-mta03-dc6 (envelope-from <bounce@go.mathworks.com>)
+	(ecelerity 3.6.9.48312 r(Core:3.6.9.0)) with ESMTP
+	id 95/24-09489-2D9939A5; Mon, 26 Feb 2018 00:23:30 -0500
+Message-ID: <089ed1946030478b98225c5554fba306@646005169>
+X-Binding: 646005169
+X-elqSiteID: 646005169
+X-elqPod: 0x4FAD31AC84944479F0D71EA9AF9E5B508254F4720DA05EDD7E2289D7C62F1F76
+X-cid: 7526-22541
+List-Unsubscribe: <http://app.go.mathworks.com/e/u?s=646005169&elq=089ed194-6030-478b-9822-5c5554fba306>
+MIME-Version: 1.0
+From: "MathWorks" <mathworks@go.mathworks.com>
+To: Pamela Fuentes <michaela89@ware.info>
+Reply-To: "MATLAB Digest" <digest@mathworks.com>
+Date: 26 Feb 2018 00:23:30 -0500
+Subject: MATLAB Digest | Academic Edition - February 2018
+Content-Type: multipart/alternative;
+ boundary=--boundary_5136509_3665ba9f-efbb-4b9d-b781-a4db2fa0c1f4
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+
+----boundary_5136509_3665ba9f-efbb-4b9d-b781-a4db2fa0c1f4
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+DQpUaXBzIGZvciBhY2NlbGVyYXRpbmcgTUFUTEFCIHBlcmZvcm1hbmNlLiAgICAgIA0K
+DQoNClRvIHZpZXcgdGhpcyBlbWFpbCBhcyBhIHdlYiBwYWdlLCBjbGljayBoZXJlIDxo
+dHRwOi8vYXBwLmdvLm1hdGh3b3Jrcy5jb20vZS9lcz9zPTY0NjAwNTE2OSZlPTMwMTgz
+NzImZWxxVHJhY2tJZD0zZTBjM2FlNTQ5MTk0Y2RlOTZlYWFmNDk4NjNkYjU5OSZlbHE9
+MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1NTRmYmEzMDYmZWxxYWlkPTIyNTQxJmVscWF0
+PTE+LiAgICAgICAgICAgICAgDQoNCiANCg0KIk5ld3MgZm9yIHRoZSBNQVRMQUIgYW5k
+IFNpbXVsaW5rIGNvbW11bml0eSIgICAgICAgICAgICANCg0KRmVicnVhcnkgMjAxOCAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNpZ24gVXAgPGh0dHBzOi8vd3d3Lm1h
+dGh3b3Jrcy5jb20vY29tcGFueS9uZXdzbGV0dGVycy9zaWdudXAuaHRtbD9zX3YxPTIy
+NTQxJmVscWVtPTIzMjg3ODlfV1dfMTgtMDJfTkVXU0xFVFRFUl9FRFUtRElHRVNUJmVs
+cVRyYWNrSWQ9OWI0OWYxOWMzZDA5NDk3OGJlZTMxOGRiMWJiNmJlYzUmZWxxPTA4OWVk
+MTk0NjAzMDQ3OGI5ODIyNWM1NTU0ZmJhMzA2JmVscWFpZD0yMjU0MSZlbHFhdD0xJmVs
+cUNhbXBhaWduSWQ9NzUyNj4gICAgICAgICAgICAgICAgICBDb250YWN0IFVzIDxodHRw
+czovL3d3dy5tYXRod29ya3MuY29tL2NvbXBhbnkvYWJvdXR1cy9jb250YWN0X3VzP3Nf
+djE9MjI1NDEmZWxxZW09MjMyODc4OV9XV18xOC0wMl9ORVdTTEVUVEVSX0VEVS1ESUdF
+U1QmZWxxVHJhY2tJZD1kNWE1Mjk1OTI0MDU0MmI2YmNiMDRlMzY0ZjI5MjE1YiZlbHE9
+MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1NTRmYmEzMDYmZWxxYWlkPTIyNTQxJmVscWF0
+PTEmZWxxQ2FtcGFpZ25JZD03NTI2PiAgICAgICAgICAgICAgICAgICJDb25uZWN0IG9u
+IEZhY2Vib29rIiA8aHR0cDovL2FwcC5nby5tYXRod29ya3MuY29tL2UvZXI/c192MT0y
+MjU0MSZlbHFlbT0yMzI4Nzg5X1dXXzE4LTAyX05FV1NMRVRURVJfRURVLURJR0VTVCZz
+PTY0NjAwNTE2OSZsaWQ9NDEwJmVscVRyYWNrSWQ9MDM5YmRkNzk3MGEyNDJlZGJlNjUw
+NDhkN2E0Y2Q2YmMmZWxxPTA4OWVkMTk0NjAzMDQ3OGI5ODIyNWM1NTU0ZmJhMzA2JmVs
+cWFpZD0yMjU0MSZlbHFhdD0xPiAgICAgICAgICAgICAgICAgICAgICAiQ29ubmVjdCBv
+biBUd2l0dGVyIiA8aHR0cDovL2FwcC5nby5tYXRod29ya3MuY29tL2UvZXI/c192MT0y
+MjU0MSZlbHFlbT0yMzI4Nzg5X1dXXzE4LTAyX05FV1NMRVRURVJfRURVLURJR0VTVCZz
+PTY0NjAwNTE2OSZsaWQ9NDExJmVscVRyYWNrSWQ9NjIwODM2OTVhMDU4NGNkODk3ODU3
+NmUyNDE2NWFiZjQmZWxxPTA4OWVkMTk0NjAzMDQ3OGI5ODIyNWM1NTU0ZmJhMzA2JmVs
+cWFpZD0yMjU0MSZlbHFhdD0xPiAgICAgICAgICAgICAgICAgICJDb25uZWN0IG9uIExp
+bmtlZEluIiA8aHR0cDovL2FwcC5nby5tYXRod29ya3MuY29tL2UvZXI/c192MT0yMjU0
+MSZlbHFlbT0yMzI4Nzg5X1dXXzE4LTAyX05FV1NMRVRURVJfRURVLURJR0VTVCZzPTY0
+NjAwNTE2OSZsaWQ9NDE0JmVscVRyYWNrSWQ9NjcwNDA1MGM3NmNlNDA5ZTg3NjA5ZThh
+ODY4NjJhODMmZWxxPTA4OWVkMTk0NjAzMDQ3OGI5ODIyNWM1NTU0ZmJhMzA2JmVscWFp
+ZD0yMjU0MSZlbHFhdD0xPiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA0K
+DQoiVGlwcyBmb3IgQWNjZWxlcmF0aW5nIE1BVExBQiBQZXJmb3JtYW5jZSIgPGh0dHBz
+Oi8vd3d3Lm1hdGh3b3Jrcy5jb20vY29tcGFueS9uZXdzbGV0dGVycy9hcnRpY2xlcy90
+aXBzLWZvci1hY2NlbGVyYXRpbmctbWF0bGFiLXBlcmZvcm1hbmNlLmh0bWw/c192MT0y
+MjU0MSZlbHFlbT0yMzI4Nzg5X1dXXzE4LTAyX05FV1NMRVRURVJfRURVLURJR0VTVCZl
+bHFUcmFja0lkPWUxNjQ3ZTk0MDI5ZjQyZmM5ODBkMmJhNzJmMmE1Nzk0JmVscT0wODll
+ZDE5NDYwMzA0NzhiOTgyMjVjNTU1NGZiYTMwNiZlbHFhaWQ9MjI1NDEmZWxxYXQ9MSZl
+bHFDYW1wYWlnbklkPTc1MjY+ICAgICAgICAgICAgICANClRpcHMgZm9yIEFjY2VsZXJh
+dGluZyBNQVRMQUIgUGVyZm9ybWFuY2UgPGh0dHBzOi8vd3d3Lm1hdGh3b3Jrcy5jb20v
+Y29tcGFueS9uZXdzbGV0dGVycy9hcnRpY2xlcy90aXBzLWZvci1hY2NlbGVyYXRpbmct
+bWF0bGFiLXBlcmZvcm1hbmNlLmh0bWw/c192MT0yMjU0MSZlbHFlbT0yMzI4Nzg5X1dX
+XzE4LTAyX05FV1NMRVRURVJfRURVLURJR0VTVCZlbHFUcmFja0lkPTNmNGIwNjM1YzE3
+MTRhNGFiZGE2MGZkNWM1OTg5NjZkJmVscT0wODllZDE5NDYwMzA0NzhiOTgyMjVjNTU1
+NGZiYTMwNiZlbHFhaWQ9MjI1NDEmZWxxYXQ9MSZlbHFDYW1wYWlnbklkPTc1MjY+ICAg
+ICAgICANCg0KwrsgUmVhZCBhcnRpY2xlIDxodHRwczovL3d3dy5tYXRod29ya3MuY29t
+L2NvbXBhbnkvbmV3c2xldHRlcnMvYXJ0aWNsZXMvdGlwcy1mb3ItYWNjZWxlcmF0aW5n
+LW1hdGxhYi1wZXJmb3JtYW5jZS5odG1sP3NfdjE9MjI1NDEmZWxxZW09MjMyODc4OV9X
+V18xOC0wMl9ORVdTTEVUVEVSX0VEVS1ESUdFU1QmZWxxVHJhY2tJZD1jODM4MTkzYWU4
+MDI0MmQ1YWZjZGIwNTE1OTc2MWViNCZlbHE9MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1
+NTRmYmEzMDYmZWxxYWlkPTIyNTQxJmVscWF0PTEmZWxxQ2FtcGFpZ25JZD03NTI2PiAg
+ICAgICAgDQoNCg0KIlB1dHRpbmcgU3R1ZGVudCBFbmdpbmVlcnMgaW4gdGhlIEZyb250
+IFNlYXQgd2l0aCBhIERyaXZlci1pbi10aGUtTG9vcCBBdXRvbW90aXZlIFNpbXVsYXRv
+ciIgPGh0dHBzOi8vd3d3Lm1hdGh3b3Jrcy5jb20vY29tcGFueS9uZXdzbGV0dGVycy9h
+cnRpY2xlcy9wdXR0aW5nLXN0dWRlbnQtZW5naW5lZXJzLWluLXRoZS1mcm9udC1zZWF0
+LXdpdGgtYS1kcml2ZXItaW4tdGhlLWxvb3AtYXV0b21vdGl2ZS1zaW11bGF0b3IuaHRt
+bD9zX3YxPTIyNTQxJmVscWVtPTIzMjg3ODlfV1dfMTgtMDJfTkVXU0xFVFRFUl9FRFUt
+RElHRVNUJmVscVRyYWNrSWQ9M2RlNDk5ZThhODhjNDZiY2JlYWQwODJkMWUzYTdkMDQm
+ZWxxPTA4OWVkMTk0NjAzMDQ3OGI5ODIyNWM1NTU0ZmJhMzA2JmVscWFpZD0yMjU0MSZl
+bHFhdD0xJmVscUNhbXBhaWduSWQ9NzUyNj4gICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICANClB1dHRpbmcgU3R1ZGVudCBFbmdpbmVlcnMg
+aW4gdGhlIEZyb250IFNlYXQgd2l0aCBhIERyaXZlci1pbi10aGUtTG9vcCBBdXRvbW90
+aXZlIFNpbXVsYXRvciA8aHR0cHM6Ly93d3cubWF0aHdvcmtzLmNvbS9jb21wYW55L25l
+d3NsZXR0ZXJzL2FydGljbGVzL3B1dHRpbmctc3R1ZGVudC1lbmdpbmVlcnMtaW4tdGhl
+LWZyb250LXNlYXQtd2l0aC1hLWRyaXZlci1pbi10aGUtbG9vcC1hdXRvbW90aXZlLXNp
+bXVsYXRvci5odG1sP3NfdjE9MjI1NDEmZWxxZW09MjMyODc4OV9XV18xOC0wMl9ORVdT
+TEVUVEVSX0VEVS1ESUdFU1QmZWxxVHJhY2tJZD01MDZjOGY4ZDE3MmM0ZWMzOGNjMjdl
+ZDQyNjUzMTJkYiZlbHE9MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1NTRmYmEzMDYmZWxx
+YWlkPTIyNTQxJmVscWF0PTEmZWxxQ2FtcGFpZ25JZD03NTI2PiAgICAgICAgICAgICAg
+ICAgICAgICAgICANCg0KwrsgUmVhZCBhcnRpY2xlIDxodHRwczovL3d3dy5tYXRod29y
+a3MuY29tL2NvbXBhbnkvbmV3c2xldHRlcnMvYXJ0aWNsZXMvcHV0dGluZy1zdHVkZW50
+LWVuZ2luZWVycy1pbi10aGUtZnJvbnQtc2VhdC13aXRoLWEtZHJpdmVyLWluLXRoZS1s
+b29wLWF1dG9tb3RpdmUtc2ltdWxhdG9yLmh0bWw/c192MT0yMjU0MSZlbHFlbT0yMzI4
+Nzg5X1dXXzE4LTAyX05FV1NMRVRURVJfRURVLURJR0VTVCZlbHFUcmFja0lkPWVlODRj
+ZWE3ZjA1OTRmODc5NmIzNzhjMGRkMDVkYmY4JmVscT0wODllZDE5NDYwMzA0NzhiOTgy
+MjVjNTU1NGZiYTMwNiZlbHFhaWQ9MjI1NDEmZWxxYXQ9MSZlbHFDYW1wYWlnbklkPTc1
+MjY+ICAgICAgICAgICAgICAgICAgICAgICAgIA0KDQogICAgICAgIA0KDQoiRGVlcCBM
+ZWFybmluZyBmb3IgQ29tcHV0ZXIgVmlzaW9uIiA8aHR0cHM6Ly93d3cubWF0aHdvcmtz
+LmNvbS92aWRlb3MvZGVlcC1sZWFybmluZy1mb3ItY29tcHV0ZXItdmlzaW9uLTEyMDk5
+Ny5odG1sP3NfdjE9MjI1NDEmZWxxZW09MjMyODc4OV9XV18xOC0wMl9ORVdTTEVUVEVS
+X0VEVS1ESUdFU1QmZWxxVHJhY2tJZD1lMzhlYWQzNjJiODY0YTI3YmMxYTJhNjQ0YWUy
+MGI5ZCZlbHE9MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1NTRmYmEzMDYmZWxxYWlkPTIy
+NTQxJmVscWF0PTEmZWxxQ2FtcGFpZ25JZD03NTI2PiAgICAgICAgICAgICAgDQpEZWVw
+IExlYXJuaW5nIGZvciBDb21wdXRlciBWaXNpb24gPGh0dHBzOi8vd3d3Lm1hdGh3b3Jr
+cy5jb20vdmlkZW9zL2RlZXAtbGVhcm5pbmctZm9yLWNvbXB1dGVyLXZpc2lvbi0xMjA5
+OTcuaHRtbD9zX3YxPTIyNTQxJmVscWVtPTIzMjg3ODlfV1dfMTgtMDJfTkVXU0xFVFRF
+Ul9FRFUtRElHRVNUJmVscVRyYWNrSWQ9MWEwNDAyN2NhNTQ2NGRjZGI3ZWM1M2VkNDAw
+NTg2YTImZWxxPTA4OWVkMTk0NjAzMDQ3OGI5ODIyNWM1NTU0ZmJhMzA2JmVscWFpZD0y
+MjU0MSZlbHFhdD0xJmVscUNhbXBhaWduSWQ9NzUyNj4gICAgICAgIA0KDQrCuyBXYXRj
+aCB3ZWJpbmFyIGFuZCBkb3dubG9hZCBjb2RlIDxodHRwczovL3d3dy5tYXRod29ya3Mu
+Y29tL3ZpZGVvcy9kZWVwLWxlYXJuaW5nLWZvci1jb21wdXRlci12aXNpb24tMTIwOTk3
+Lmh0bWw/c192MT0yMjU0MSZlbHFlbT0yMzI4Nzg5X1dXXzE4LTAyX05FV1NMRVRURVJf
+RURVLURJR0VTVCZlbHFUcmFja0lkPWJkZGJjZWU2NzQ0YTQ4NjU4OGQwYjI2MGVmNTk4
+ZDBkJmVscT0wODllZDE5NDYwMzA0NzhiOTgyMjVjNTU1NGZiYTMwNiZlbHFhaWQ9MjI1
+NDEmZWxxYXQ9MSZlbHFDYW1wYWlnbklkPTc1MjY+ICAgICAgICANCg0KIlRlYWNoaW5n
+IFNjaWVuY2Ugd2l0aCBNQVRMQUIiIDxodHRwczovL3d3dy5tYXRod29ya3MuY29tL2Fj
+YWRlbWlhL2NvdXJzZXdhcmUvdGVhY2hpbmctc2NpZW5jZS13aXRoLW1hdGxhYi5odG1s
+P3NfdjE9MjI1NDEmZWxxZW09MjMyODc4OV9XV18xOC0wMl9ORVdTTEVUVEVSX0VEVS1E
+SUdFU1QmZWxxVHJhY2tJZD1mZDMyYTMwMDI4MmU0MzUyODQ2NjVlZDEyNGJmNzIxMSZl
+bHE9MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1NTRmYmEzMDYmZWxxYWlkPTIyNTQxJmVs
+cWF0PTEmZWxxQ2FtcGFpZ25JZD03NTI2PiAgICAgICAgICAgICAgDQpUZWFjaGluZyBT
+Y2llbmNlIHdpdGggTUFUTEFCIDxodHRwczovL3d3dy5tYXRod29ya3MuY29tL2FjYWRl
+bWlhL2NvdXJzZXdhcmUvdGVhY2hpbmctc2NpZW5jZS13aXRoLW1hdGxhYi5odG1sP3Nf
+djE9MjI1NDEmZWxxZW09MjMyODc4OV9XV18xOC0wMl9ORVdTTEVUVEVSX0VEVS1ESUdF
+U1QmZWxxVHJhY2tJZD04YzRiZDlmMjQxZDA0ODNkOTlmMDU1MmJjYzBhMmNmMiZlbHE9
+MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1NTRmYmEzMDYmZWxxYWlkPTIyNTQxJmVscWF0
+PTEmZWxxQ2FtcGFpZ25JZD03NTI2PiAgICAgICAgDQoNCsK7IFZpZXcgcmVzb3VyY2Vz
+IGFuZCB0b29scyA8aHR0cHM6Ly93d3cubWF0aHdvcmtzLmNvbS9hY2FkZW1pYS9jb3Vy
+c2V3YXJlL3RlYWNoaW5nLXNjaWVuY2Utd2l0aC1tYXRsYWIuaHRtbD9zX3YxPTIyNTQx
+JmVscWVtPTIzMjg3ODlfV1dfMTgtMDJfTkVXU0xFVFRFUl9FRFUtRElHRVNUJmVscVRy
+YWNrSWQ9YjAwY2ZlNWU0N2YwNGVlNTg4NWY4OWNhODcyZWZjZjUmZWxxPTA4OWVkMTk0
+NjAzMDQ3OGI5ODIyNWM1NTU0ZmJhMzA2JmVscWFpZD0yMjU0MSZlbHFhdD0xJmVscUNh
+bXBhaWduSWQ9NzUyNj4gICAgICAgIA0KDQoNCiJncmltc2VsIFNldHMgRWxlY3RyaWMg
+VmVoaWNsZSBBY2NlbGVyYXRpb24gUmVjb3JkIiA8aHR0cHM6Ly93d3cubWF0aHdvcmtz
+LmNvbS9jb21wYW55L25ld3NsZXR0ZXJzL2FydGljbGVzL2dyaW1zZWwtc2V0cy1lbGVj
+dHJpYy12ZWhpY2xlLWFjY2VsZXJhdGlvbi1yZWNvcmQuaHRtbD9zX3YxPTIyNTQxJmVs
+cWVtPTIzMjg3ODlfV1dfMTgtMDJfTkVXU0xFVFRFUl9FRFUtRElHRVNUJmVscVRyYWNr
+SWQ9MTdkMmMxZWZjNWRkNDVhMDhiZGU4NDcxNjhjMDJkZGMmZWxxPTA4OWVkMTk0NjAz
+MDQ3OGI5ODIyNWM1NTU0ZmJhMzA2JmVscWFpZD0yMjU0MSZlbHFhdD0xJmVscUNhbXBh
+aWduSWQ9NzUyNj4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICANCmdyaW1zZWwgU2V0cyBFbGVjdHJpYyBWZWhpY2xlIEFjY2VsZXJhdGlv
+biBSZWNvcmQgPGh0dHBzOi8vd3d3Lm1hdGh3b3Jrcy5jb20vY29tcGFueS9uZXdzbGV0
+dGVycy9hcnRpY2xlcy9ncmltc2VsLXNldHMtZWxlY3RyaWMtdmVoaWNsZS1hY2NlbGVy
+YXRpb24tcmVjb3JkLmh0bWw/c192MT0yMjU0MSZlbHFlbT0yMzI4Nzg5X1dXXzE4LTAy
+X05FV1NMRVRURVJfRURVLURJR0VTVCZlbHFUcmFja0lkPWQyYzk4ODllMTA5NDQ2OWJh
+YTk0NDBmMTFjODA2Yjg2JmVscT0wODllZDE5NDYwMzA0NzhiOTgyMjVjNTU1NGZiYTMw
+NiZlbHFhaWQ9MjI1NDEmZWxxYXQ9MSZlbHFDYW1wYWlnbklkPTc1MjY+ICAgICAgICAg
+ICAgICAgICAgICAgICAgIA0KDQoiMOKAkzYwIG1pbGVzIHBlciBob3VyIGluIDEuNTEz
+IHNlY29uZHMhIiAgICAgICAgICAgICAgICAgICAgICAgICANCg0KwrsgVmlldyBzbGlk
+ZXNob3cgPGh0dHBzOi8vd3d3Lm1hdGh3b3Jrcy5jb20vY29tcGFueS9uZXdzbGV0dGVy
+cy9hcnRpY2xlcy9ncmltc2VsLXNldHMtZWxlY3RyaWMtdmVoaWNsZS1hY2NlbGVyYXRp
+b24tcmVjb3JkLmh0bWw/c192MT0yMjU0MSZlbHFlbT0yMzI4Nzg5X1dXXzE4LTAyX05F
+V1NMRVRURVJfRURVLURJR0VTVCZlbHFUcmFja0lkPWNiN2M1ZGU0OTA3MTQ2YjNhMzQx
+NmU3YjBkMzA0ZWZkJmVscT0wODllZDE5NDYwMzA0NzhiOTgyMjVjNTU1NGZiYTMwNiZl
+bHFhaWQ9MjI1NDEmZWxxYXQ9MSZlbHFDYW1wYWlnbklkPTc1MjY+ICAgICAgICAgICAg
+ICAgICAgICAgICAgIA0KDQogICAgICAgICAgICAgICAgICANCg0KIk1BVExBQiBHdWlk
+ZSwgM2UiIDxodHRwczovL3d3dy5tYXRod29ya3MuY29tL3N1cHBvcnQvYm9va3MvbWF0
+bGFiX2d1aWRlX2hpZ2hhbS5odG1sP3NfdjE9MjI1NDEmZWxxZW09MjMyODc4OV9XV18x
+OC0wMl9ORVdTTEVUVEVSX0VEVS1ESUdFU1QmZWxxVHJhY2tJZD02MTViNThkN2Q4OGE0
+Y2JmYjE4ODc1ZWYyODYwMWJkNyZlbHE9MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1NTRm
+YmEzMDYmZWxxYWlkPTIyNTQxJmVscWF0PTEmZWxxQ2FtcGFpZ25JZD03NTI2PiAgICAg
+ICAgICAgICAgDQpNQVRMQUIgR3VpZGUsIDNlIDxodHRwczovL3d3dy5tYXRod29ya3Mu
+Y29tL3N1cHBvcnQvYm9va3MvbWF0bGFiX2d1aWRlX2hpZ2hhbS5odG1sP3NfdjE9MjI1
+NDEmZWxxZW09MjMyODc4OV9XV18xOC0wMl9ORVdTTEVUVEVSX0VEVS1ESUdFU1QmZWxx
+VHJhY2tJZD00ZWZhNTVhOGJhMjM0MDBlODA5ODJmNjEzODI3YmVjYyZlbHE9MDg5ZWQx
+OTQ2MDMwNDc4Yjk4MjI1YzU1NTRmYmEzMDYmZWxxYWlkPTIyNTQxJmVscWF0PTEmZWxx
+Q2FtcGFpZ25JZD03NTI2PiAgICAgICAgDQoNCsK7IExlYXJuIGFib3V0IHRoaXMgYm9v
+ayA8aHR0cHM6Ly93d3cubWF0aHdvcmtzLmNvbS9zdXBwb3J0L2Jvb2tzL21hdGxhYl9n
+dWlkZV9oaWdoYW0uaHRtbD9zX3YxPTIyNTQxJmVscWVtPTIzMjg3ODlfV1dfMTgtMDJf
+TkVXU0xFVFRFUl9FRFUtRElHRVNUJmVscVRyYWNrSWQ9NzIyZDczM2IxY2NkNDQ2MGJi
+OTE2MzlkYWYxMGIwZTcmZWxxPTA4OWVkMTk0NjAzMDQ3OGI5ODIyNWM1NTU0ZmJhMzA2
+JmVscWFpZD0yMjU0MSZlbHFhdD0xJmVscUNhbXBhaWduSWQ9NzUyNj4gICAgICAgIA0K
+DQoNCiJIRUJJIFJvYm90aWNzIEFjdHVhdG9ycyIgPGh0dHBzOi8vd3d3Lm1hdGh3b3Jr
+cy5jb20vcHJvZHVjdHMvY29ubmVjdGlvbnMvcHJvZHVjdF9kZXRhaWwvaGViaS1yb2Jv
+dGljcy1hY3R1YXRvcnMuaHRtbD9zX3YxPTIyNTQxJmVscWVtPTIzMjg3ODlfV1dfMTgt
+MDJfTkVXU0xFVFRFUl9FRFUtRElHRVNUJmVscVRyYWNrSWQ9MDQxOTRmNTk2MzdmNGRh
+ODg2YmQxMzdjMTdjZGQwODkmZWxxPTA4OWVkMTk0NjAzMDQ3OGI5ODIyNWM1NTU0ZmJh
+MzA2JmVscWFpZD0yMjU0MSZlbHFhdD0xJmVscUNhbXBhaWduSWQ9NzUyNj4gICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICANCkhFQkkgUm9i
+b3RpY3MgQWN0dWF0b3JzIDxodHRwczovL3d3dy5tYXRod29ya3MuY29tL3Byb2R1Y3Rz
+L2Nvbm5lY3Rpb25zL3Byb2R1Y3RfZGV0YWlsL2hlYmktcm9ib3RpY3MtYWN0dWF0b3Jz
+Lmh0bWw/c192MT0yMjU0MSZlbHFlbT0yMzI4Nzg5X1dXXzE4LTAyX05FV1NMRVRURVJf
+RURVLURJR0VTVCZlbHFUcmFja0lkPTkzZjRlZjc4ZTNiYzQ2YjVhMDQ0MzUxZWFjNDk3
+YzNjJmVscT0wODllZDE5NDYwMzA0NzhiOTgyMjVjNTU1NGZiYTMwNiZlbHFhaWQ9MjI1
+NDEmZWxxYXQ9MSZlbHFDYW1wYWlnbklkPTc1MjY+ICAgICAgICAgICAgICAgICAgICAg
+ICAgIA0KDQpCdWlsZCBjdXN0b20gcm9ib3RzIHdpdGggc21hcnQgYWN0dWF0b3IgbW9k
+dWxlcy4gICAgICAgICAgICAgICAgICAgICAgICAgDQoNCsK7IExlYXJuIGFib3V0IHRo
+aXMgcHJvZHVjdCA8aHR0cHM6Ly93d3cubWF0aHdvcmtzLmNvbS9wcm9kdWN0cy9jb25u
+ZWN0aW9ucy9wcm9kdWN0X2RldGFpbC9oZWJpLXJvYm90aWNzLWFjdHVhdG9ycy5odG1s
+P3NfdjE9MjI1NDEmZWxxZW09MjMyODc4OV9XV18xOC0wMl9ORVdTTEVUVEVSX0VEVS1E
+SUdFU1QmZWxxVHJhY2tJZD1lMjcyYjllZjVjZDY0NmUzOTQxMjRmZWM1ZTlhNmZlZCZl
+bHE9MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1NTRmYmEzMDYmZWxxYWlkPTIyNTQxJmVs
+cWF0PTEmZWxxQ2FtcGFpZ25JZD03NTI2PiAgICAgICAgICAgICAgICAgICAgICAgICAN
+Cg0KICAgICAgICAgICANCg0KIkZyZWUgMi1Ib3VyIERlZXAgTGVhcm5pbmcgT25yYW1w
+IiA8aHR0cDovL2FwcC5nby5tYXRod29ya3MuY29tL2UvZXI/c192MT0yMjU0MSZlbHFl
+bT0yMzI4Nzg5X1dXXzE4LTAyX05FV1NMRVRURVJfRURVLURJR0VTVCZzPTY0NjAwNTE2
+OSZsaWQ9MjgyNyZlbHFUcmFja0lkPWYxODQ2ODE2Y2U3YTQ1ZjJiY2IxNGEwZTEzOTZm
+ZTQxJmVscT0wODllZDE5NDYwMzA0NzhiOTgyMjVjNTU1NGZiYTMwNiZlbHFhaWQ9MjI1
+NDEmZWxxYXQ9MT4gICAgICAgICAgICAgIA0KRnJlZSAyLUhvdXIgRGVlcCBMZWFybmlu
+ZyBPbnJhbXAgPGh0dHA6Ly9hcHAuZ28ubWF0aHdvcmtzLmNvbS9lL2VyP3NfdjE9MjI1
+NDEmZWxxZW09MjMyODc4OV9XV18xOC0wMl9ORVdTTEVUVEVSX0VEVS1ESUdFU1Qmcz02
+NDYwMDUxNjkmbGlkPTI4MjcmZWxxVHJhY2tJZD04ZjM0MzU1NjVjZGI0MmI1OTAxNTc5
+MjA2NmY2MWUwZCZlbHE9MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1NTRmYmEzMDYmZWxx
+YWlkPTIyNTQxJmVscWF0PTE+ICAgICAgICANCg0KQXBwbHkgZGVlcCBsZWFybmluZyBt
+ZXRob2RzIHRvIHBlcmZvcm0gaW1hZ2UgcmVjb2duaXRpb24uICAgICAgICANCg0Kwrsg
+R2V0IHN0YXJ0ZWQgPGh0dHA6Ly9hcHAuZ28ubWF0aHdvcmtzLmNvbS9lL2VyP3NfdjE9
+MjI1NDEmZWxxZW09MjMyODc4OV9XV18xOC0wMl9ORVdTTEVUVEVSX0VEVS1ESUdFU1Qm
+cz02NDYwMDUxNjkmbGlkPTI4MjcmZWxxVHJhY2tJZD0xODRmNmMwMmVlMDc0OGIwYWQ2
+NjNhZGI2ZTNiZWQ5NiZlbHE9MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1NTRmYmEzMDYm
+ZWxxYWlkPTIyNTQxJmVscWF0PTE+ICAgICAgICANCg0KIkdldCBSZWNvZ25pemVkIGlu
+IHRoZSBNQVRMQUIgQ2VudHJhbCBDb21tdW5pdHkgZm9yIFlvdXIgQ29udHJpYnV0aW9u
+cyIgPGh0dHBzOi8vYmxvZ3MubWF0aHdvcmtzLmNvbS9jb21tdW5pdHkvMjAxNy8wNy8y
+MS9hbnN3ZXJzLWJhZGdlcy1hcmUtaGVyZS8/c192MT0yMjU0MSZlbHFlbT0yMzI4Nzg5
+X1dXXzE4LTAyX05FV1NMRVRURVJfRURVLURJR0VTVCZlbHFUcmFja0lkPWFkOWNiYWYx
+NjE0OTQ5MmE5NGU1ZDY5MGVlMjYxMzE0JmVscT0wODllZDE5NDYwMzA0NzhiOTgyMjVj
+NTU1NGZiYTMwNiZlbHFhaWQ9MjI1NDEmZWxxYXQ9MSZlbHFDYW1wYWlnbklkPTc1MjY+
+ICAgICAgICAgICAgICANCkdldCBSZWNvZ25pemVkIGluIHRoZSBNQVRMQUIgQ2VudHJh
+bCBDb21tdW5pdHkgZm9yIFlvdXIgQ29udHJpYnV0aW9ucyA8aHR0cHM6Ly9ibG9ncy5t
+YXRod29ya3MuY29tL2NvbW11bml0eS8yMDE3LzA3LzIxL2Fuc3dlcnMtYmFkZ2VzLWFy
+ZS1oZXJlLz9zX3YxPTIyNTQxJmVscWVtPTIzMjg3ODlfV1dfMTgtMDJfTkVXU0xFVFRF
+Ul9FRFUtRElHRVNUJmVscVRyYWNrSWQ9N2E5Y2U2MmRiOGZkNDZkMTlhNGU4NWNkMGQ0
+NGFiYmMmZWxxPTA4OWVkMTk0NjAzMDQ3OGI5ODIyNWM1NTU0ZmJhMzA2JmVscWFpZD0y
+MjU0MSZlbHFhdD0xJmVscUNhbXBhaWduSWQ9NzUyNj4gICAgICAgIA0KDQpTaG93IHlv
+dXIgZXhwZXJ0aXNlIHRvIGVhcm4gYmFkZ2VzLiBUaGUgbW9yZSBiYWRnZXMgeW91IGVh
+cm4sIHRoZSBoaWdoZXIgeW91ciBsZXZlbC4gICAgICAgIA0KDQrCuyBMZWFybiBtb3Jl
+IDxodHRwczovL2Jsb2dzLm1hdGh3b3Jrcy5jb20vY29tbXVuaXR5LzIwMTcvMDcvMjEv
+YW5zd2Vycy1iYWRnZXMtYXJlLWhlcmUvP3NfdjE9MjI1NDEmZWxxZW09MjMyODc4OV9X
+V18xOC0wMl9ORVdTTEVUVEVSX0VEVS1ESUdFU1QmZWxxVHJhY2tJZD1hNmY4N2E0NGUy
+MDk0MGYwYjUxZDg1YzQxNzI2OTljNiZlbHE9MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1
+NTRmYmEzMDYmZWxxYWlkPTIyNTQxJmVscWF0PTEmZWxxQ2FtcGFpZ25JZD03NTI2PiAg
+ICAgICAgDQoNClNlZSBpZiB5b3VyIHNjaG9vbCBoYXMgYSBNQVRMQUIgY2FtcHVzIGxp
+Y2Vuc2UuIDxodHRwczovL3d3dy5tYXRod29ya3MuY29tL2FjYWRlbWlhL3RhaC1zdXBw
+b3J0LXByb2dyYW0vZWxpZ2liaWxpdHkuaHRtbD9zX3YxPTIyNTQxJmVscWVtPTIzMjg3
+ODlfV1dfMTgtMDJfTkVXU0xFVFRFUl9FRFUtRElHRVNUJmVscVRyYWNrSWQ9Nzk3ZjI1
+NDk1OTFjNDBkMmFlNGVlNDVjYWY3MjY2MTAmZWxxPTA4OWVkMTk0NjAzMDQ3OGI5ODIy
+NWM1NTU0ZmJhMzA2JmVscWFpZD0yMjU0MSZlbHFhdD0xJmVscUNhbXBhaWduSWQ9NzUy
+Nj4gICAgICAgICAgICAgICAgIA0KRXhwbG9yZSB0aGVzZSByZXNvdXJjZXM6ICAgICAg
+ICAgDQoNClNlbGYtUGFjZWQgT25saW5lIENvdXJzZXMgPGh0dHA6Ly9hcHAuZ28ubWF0
+aHdvcmtzLmNvbS9lL2VyP3NfdjE9MjI1NDEmZWxxZW09MjMyODc4OV9XV18xOC0wMl9O
+RVdTTEVUVEVSX0VEVS1ESUdFU1Qmcz02NDYwMDUxNjkmbGlkPTMwMzQmZWxxVHJhY2tJ
+ZD0xYTE4MDcyYzBmM2U0Yjc0ODg2NWQ5ZDJjYWJmYWQ1MyZlbHE9MDg5ZWQxOTQ2MDMw
+NDc4Yjk4MjI1YzU1NTRmYmEzMDYmZWxxYWlkPTIyNTQxJmVscWF0PTE+ICAgICAgICAg
+ICAgICAgICAgRXhhbXBsZXMgPGh0dHBzOi8vd3d3Lm1hdGh3b3Jrcy5jb20vZXhhbXBs
+ZXMvP3NfdjE9MjI1NDEmZWxxZW09MjMyODc4OV9XV18xOC0wMl9ORVdTTEVUVEVSX0VE
+VS1ESUdFU1QmZWxxVHJhY2tJZD1mMGFhNmU5Zjc3ZGU0YTRjOTIxNjk1MmRkOTkwY2U4
+YyZlbHE9MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1NTRmYmEzMDYmZWxxYWlkPTIyNTQx
+JmVscWF0PTEmZWxxQ2FtcGFpZ25JZD03NTI2PiAgICAgICAgICAgICAgICAgIFZpZGVv
+cyA8aHR0cHM6Ly93d3cubWF0aHdvcmtzLmNvbS92aWRlb3MuaHRtbD9zX3YxPTIyNTQx
+JmVscWVtPTIzMjg3ODlfV1dfMTgtMDJfTkVXU0xFVFRFUl9FRFUtRElHRVNUJmVscVRy
+YWNrSWQ9YWRjYTJlNjg2NmM1NDVlNjk3NjU2MTMzYzVhYzZlNTUmZWxxPTA4OWVkMTk0
+NjAzMDQ3OGI5ODIyNWM1NTU0ZmJhMzA2JmVscWFpZD0yMjU0MSZlbHFhdD0xJmVscUNh
+bXBhaWduSWQ9NzUyNj4gICAgICAgIA0KDQpDb3Vyc2V3YXJlIDxodHRwczovL3d3dy5t
+YXRod29ya3MuY29tL2FjYWRlbWlhL2NvdXJzZXdhcmUuaHRtbD9zX3YxPTIyNTQxJmVs
+cWVtPTIzMjg3ODlfV1dfMTgtMDJfTkVXU0xFVFRFUl9FRFUtRElHRVNUJmVscVRyYWNr
+SWQ9ZjY3NDJmNjhiYzYxNDcxYWE2MTQ1ZjFjYjg5MWI5ZmEmZWxxPTA4OWVkMTk0NjAz
+MDQ3OGI5ODIyNWM1NTU0ZmJhMzA2JmVscWFpZD0yMjU0MSZlbHFhdD0xJmVscUNhbXBh
+aWduSWQ9NzUyNj4gICAgICAgICAgICAgICAgICBXZWJpbmFycyA8aHR0cHM6Ly93d3cu
+bWF0aHdvcmtzLmNvbS9jb21wYW55L2V2ZW50cy5odG1sP3NfdjE9MjI1NDEmZWxxZW09
+MjMyODc4OV9XV18xOC0wMl9ORVdTTEVUVEVSX0VEVS1ESUdFU1QmZWxxVHJhY2tJZD1j
+ZDBjNzdhYTkwODk0NGQ1OTY2NjE4Y2I3ODQwOGQ2MSZlbHE9MDg5ZWQxOTQ2MDMwNDc4
+Yjk4MjI1YzU1NTRmYmEzMDYmZWxxYWlkPTIyNTQxJmVscWF0PTEmZWxxQ2FtcGFpZ25J
+ZD03NTI2PiAgICAgICAgICAgICAgICAgIEJvb2tzIDxodHRwczovL3d3dy5tYXRod29y
+a3MuY29tL3N1cHBvcnQvYm9va3MuaHRtbD9zX3YxPTIyNTQxJmVscWVtPTIzMjg3ODlf
+V1dfMTgtMDJfTkVXU0xFVFRFUl9FRFUtRElHRVNUJmVscVRyYWNrSWQ9YWRlMjc5NjUx
+MmI5NDZkZTkyMDRhNDJiYTFjYjg5MDEmZWxxPTA4OWVkMTk0NjAzMDQ3OGI5ODIyNWM1
+NTU0ZmJhMzA2JmVscWFpZD0yMjU0MSZlbHFhdD0xJmVscUNhbXBhaWduSWQ9NzUyNj4g
+ICAgICAgIA0KDQoiTWF0aFdvcmtzIiAgICAgIA0KDQoNCg0KwqkgMjAxOCBUaGUgTWF0
+aFdvcmtzLCBJbmMuDQpNQVRMQUIgYW5kIFNpbXVsaW5rIGFyZSByZWdpc3RlcmVkIHRy
+YWRlbWFya3Mgb2YgVGhlIE1hdGhXb3JrcywgSW5jLiBTZWUgYSBsaXN0IG9mIGFkZGl0
+aW9uYWwgdHJhZGVtYXJrcyA8aHR0cHM6Ly93d3cubWF0aHdvcmtzLmNvbS9jb21wYW55
+L2Fib3V0dXMvcG9saWNpZXNfc3RhdGVtZW50cy90cmFkZW1hcmtzLmh0bWw/c192MT0y
+MjU0MSZlbHFlbT0yMzI4Nzg5X1dXXzE4LTAyX05FV1NMRVRURVJfRURVLURJR0VTVCZl
+bHFUcmFja0lkPWYwNWRlNTExN2M2ODRkMzg4ODcwOWIxNGUwOTM5Zjk4JmVscT0wODll
+ZDE5NDYwMzA0NzhiOTgyMjVjNTU1NGZiYTMwNiZlbHFhaWQ9MjI1NDEmZWxxYXQ9MSZl
+bHFDYW1wYWlnbklkPTc1MjY+Lg0KT3RoZXIgcHJvZHVjdCBvciBicmFuZCBuYW1lcyBt
+YXkgYmUgdHJhZGVtYXJrcyBvciByZWdpc3RlcmVkIHRyYWRlbWFya3Mgb2YgdGhlaXIg
+cmVzcGVjdGl2ZSBob2xkZXJzLg0KDQpZb3UgYXJlIHN1YnNjcmliZWQgYXMgYW50NDkw
+NkB5YW5kZXgucnUgDQpNYW5hZ2UgPGh0dHBzOi8vZ28yLm1hdGh3b3Jrcy5jb20vcHJl
+ZmVyZW5jZS1jZW50ZXI/c192MT0yMjU0MSZlbHFlbT0yMzI4Nzg5X1dXXzE4LTAyX05F
+V1NMRVRURVJfRURVLURJR0VTVCZlbHFUcmFja0lkPTAwNDhiMjUzY2ZiMzQ5N2ZhZjM3
+NDFmMmU0NDVhNjcyJmVscT0wODllZDE5NDYwMzA0NzhiOTgyMjVjNTU1NGZiYTMwNiZl
+bHFhaWQ9MjI1NDEmZWxxYXQ9MSZlbHFDYW1wYWlnbklkPTc1MjY+IHlvdXIgZW1haWwg
+cHJlZmVyZW5jZXMgb3IgdW5zdWJzY3JpYmUgZnJvbSBvdXIgY29tbWVyY2lhbCBlbWFp
+bCBwcm9tb3Rpb25zLiBWaWV3IG91ciBwcml2YWN5IHBvbGljeSA8aHR0cHM6Ly93d3cu
+bWF0aHdvcmtzLmNvbS9jb21wYW55L2Fib3V0dXMvcG9saWNpZXNfc3RhdGVtZW50cy5o
+dG1sP3NfdjE9MjI1NDEmZWxxZW09MjMyODc4OV9XV18xOC0wMl9ORVdTTEVUVEVSX0VE
+VS1ESUdFU1QmZWxxVHJhY2tJZD03ZGQzZjZiODdmOWU0MjVhOTQzZTc5YTIyMGQ3YmU1
+OSZlbHE9MDg5ZWQxOTQ2MDMwNDc4Yjk4MjI1YzU1NTRmYmEzMDYmZWxxYWlkPTIyNTQx
+JmVscWF0PTEmZWxxQ2FtcGFpZ25JZD03NTI2Pi4NCg0KVGhlIE1hdGhXb3JrcywgSW5j
+LiA8aHR0cHM6Ly93d3cubWF0aHdvcmtzLmNvbS8/c192MT0yMjU0MSZlbHFlbT0yMzI4
+Nzg5X1dXXzE4LTAyX05FV1NMRVRURVJfRURVLURJR0VTVCZlbHFUcmFja0lkPTRlZDk0
+MWFjZDc0ODRlM2M4MTU2YjNkZTkxOTU0YmM0JmVscT0wODllZDE5NDYwMzA0NzhiOTgy
+MjVjNTU1NGZiYTMwNiZlbHFhaWQ9MjI1NDEmZWxxYXQ9MSZlbHFDYW1wYWlnbklkPTc1
+MjY+IC0gMyBBcHBsZSBIaWxsIERyaXZlLCBOYXRpY2ssIE1BIDAxNzYwIC0gNTA4LTY0
+Ny03MDAwICAgICAgICAgICAgIA0KDQogICA=
+----boundary_5136509_3665ba9f-efbb-4b9d-b781-a4db2fa0c1f4
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta charset="utf-8">
+<title>MATLAB Digest | Academic Edition - February 2018</title>
+</head>
+<body>
+<!doctype html>
+
+
+
+
+<table width="652" align="center">
+<tbody>
+<tr>
+<td align="center">
+<font face="Arial" size="1">Tips for accelerating MATLAB performance.</font>
+</td>
+</tr>
+</tbody>
+</table><table align="center" width="600">
+	<tbody>
+		<tr>
+			<td align="center">
+<font color="#7f7f7f" face="Arial" size="1">To view this email as a web page, click <a href="http://app.go.mathworks.com/e/es?s=646005169&e=3018372&elqTrackId=3e0c3ae549194cde96eaaf49863db599&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1" style="color:#187dbb;">here</a>. </font></td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table width="600" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #cccccc; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #187dbb;">
+  <tr>
+    <td bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="84%">
+<img width="600" height="72" title="News for the MATLAB and Simulink community" alt="News for the MATLAB and Simulink community" src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7bee3a8f95-f384-4769-b96a-88b87f102082%7d_Digest-acad-header.jpg" border="0" align="bottom"></td>
+        
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="20" valign="middle" bgcolor="#f2f2f2">
+
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" background="#F2F2F2" align="right">
+      <tr>
+       <td width="35" bgcolor="#F2F2F2">&nbsp;</td>
+        <td width="115" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #3c3c3c; line-height:120%;">February 2018</td>
+             <td width="320" bgcolor="#F2F2F2">&nbsp;</td>
+        <td width="15" bgcolor="#F2F2F2">&nbsp;</td>
+
+        <td width="55" style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px" valign="center" bgcolor="#F2F2F2"><a style="TEXT-DECORATION: none; color:#187dbb;" title="Sign Up" href="https://www.mathworks.com/company/newsletters/signup.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=9b49f19c3d094978bee318db1bb6bec5&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" target="_blank">Sign Up</a></td>
+        <td width="15" bgcolor="#F2F2F2">&nbsp;
+</td>
+        <td width="57" align="left" valign="center" nowrap="nowrap" bgcolor="#F2F2F2" style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px"><a style="TEXT-DECORATION: none; color:#187dbb;" title="Contact us" href="https://www.mathworks.com/company/aboutus/contact_us?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=d5a52959240542b6bcb04e364f29215b&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" target="_blank">Contact Us</a></td>
+
+        <td width="20" align="left" bgcolor="#F2F2F2" style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px; color: #000;">&nbsp;</td>
+        <td width="16" bgcolor="#F2F2F2"><a title="Visit MathWorks Facebook" href="http://app.go.mathworks.com/e/er?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&s=646005169&lid=410&elqTrackId=039bdd7970a242edbe65048d7a4cd6bc&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1" target="_blank">
+<img src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/{2e90a8aa-807c-4a3d-86fd-5937ed6e62de}_icon_facebook.png" alt="Connect on Facebook" width="16" height="16" border="0" title="Connect on Facebook"></a></td>
+        <td width="14" bgcolor="#F2F2F2">&nbsp;</td>
+        	<td width="16" bgcolor="#F2F2F2">
+<a title="Follow MathWorks on Twitter" href="http://app.go.mathworks.com/e/er?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&s=646005169&lid=411&elqTrackId=62083695a0584cd8978576e24165abf4&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1" target="_blank"><img src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/{a8e335f1-514f-47b3-840c-9c1e5aeec436}_icon_twitter.gif" alt="Connect on Twitter" width="16" height="16" border="0" title="Connect on Twitter"></a></td>
+
+        <td width="14" bgcolor="#F2F2F2">&nbsp;</td>
+        <td width="16" align="left" bgcolor="#F2F2F2"><a title="Connect on LinkedIn" href="http://app.go.mathworks.com/e/er?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&s=646005169&lid=414&elqTrackId=6704050c76ce409e87609e8a86862a83&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1" target="_blank">
+<img src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/{b74b232b-70c9-4be8-a4cf-aa9b61c29294}_icon_linkedin.gif" alt="Connect on LinkedIn" width="16" height="16" border="0" title="Connect on LinkedIn"></a></td>
+        <td width="14" align="left" bgcolor="#F2F2F2">&nbsp;</td>
+      
+        <td width="34" bgcolor="#F2F2F2">&nbsp;</td>
+      
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="4%">&nbsp;</td>
+        <td width="92%" style="font-size:14px; font-family: Arial, Helvetica, sans-serif;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="font-size:14px; font-family: Arial, Helvetica, sans-serif;">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="180" valign="top"><a href="https://www.mathworks.com/company/newsletters/articles/tips-for-accelerating-matlab-performance.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=e1647e94029f42fc980d2ba72f2a5794&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" target="_blank">
+<img src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7Bb0ebb714-2b6a-44c1-b0bc-a851f8dff084%7D_tips-accelerating-matlab-performance-thumbnail-180x101.jpg" width="180" height="101" title="Tips for Accelerating MATLAB Performance" border="0" alt="Tips for Accelerating MATLAB Performance"></a></td>
+    <td width="10">&nbsp;</td>
+    <td valign="top" style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px; font-weight: bold;">
+<a href="https://www.mathworks.com/company/newsletters/articles/tips-for-accelerating-matlab-performance.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=3f4b0635c1714a4abda60fd5c598966d&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" title="Tips for Accelerating MATLAB Performance" target="_blank" style="color:#187dbb
+; text-decoration:none; font-size: 16px;">Tips for Accelerating MATLAB Performance</a></td>
+      </tr>
+      <tr>
+
+        <td height="8"></td>
+      </tr>
+      <tr>
+        <td height="8"></td>
+      </tr>
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+">
+<a href="https://www.mathworks.com/company/newsletters/articles/tips-for-accelerating-matlab-performance.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=c838193ae80242d5afcdb05159761eb4&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" title="Read article" target="_blank" style="color:#187dbb
+; text-decoration:none; font-size: 14px;">&raquo; Read article</a></td>
+      </tr>
+    </table></td>
+  </tr>
+  </table></td>
+  </tr>
+  </table>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px #cccccc solid;">&nbsp;</td>
+    </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td valign="top" width="180">
+<a href="https://www.mathworks.com/company/newsletters/articles/putting-student-engineers-in-the-front-seat-with-a-driver-in-the-loop-automotive-simulator.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=3de499e8a88c46bcbead082d1e3a7d04&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" target="_blank">
+<img alt="Putting Student Engineers in the Front Seat with a Driver-in-the-Loop Automotive Simulator" border="0" height="101" src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7B3fef6c19-9dbb-4d07-92e2-4b019589c5a4%7D_student-engineers-driver-loop-sim-thumbnail-180x101.jpg" title="Putting Student Engineers in the Front Seat with a Driver-in-the-Loop Automotive Simulator" width="180"></a></td>
+			<td width="10">&nbsp;</td>
+			
+<td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px" valign="top">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody>
+					<tr>
+						<td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px; font-weight: bold;">
+<a href="https://www.mathworks.com/company/newsletters/articles/putting-student-engineers-in-the-front-seat-with-a-driver-in-the-loop-automotive-simulator.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=506c8f8d172c4ec38cc27ed4265312db&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="color:#187dbb
+; text-decoration:none; font-size: 16px;" target="_blank" title="Putting Student Engineers in the Front Seat with a Driver-in-the-Loop Automotive 
+Simulator">Putting Student Engineers in the Front Seat with a Driver-in-the-Loop Automotive Simulator</a></td>
+					</tr>
+					<tr>
+						<td height="8">&nbsp;</td>
+					</tr>
+					<tr>
+						<td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+">
+<a href="https://www.mathworks.com/company/newsletters/articles/putting-student-engineers-in-the-front-seat-with-a-driver-in-the-loop-automotive-simulator.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=ee84cea7f0594f8796b378c0dd05dbf8&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="color:#187dbb
+; text-decoration:none; font-size: 14px;" target="_blank" title="Read article">&raquo; Read article</a></td>
+					</tr>
+				</tbody>
+			</table>
+			
+</td>
+		</tr>
+	</tbody>
+</table>
+
+  </td>
+  </tr>
+  <tr>
+    <td style="border-bottom:1px #cccccc solid;">&nbsp;</td>
+    </tr>
+  <tr>
+    <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="180" valign="top">
+<a href="https://www.mathworks.com/videos/deep-learning-for-computer-vision-120997.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=e38ead362b864a27bc1a2a644ae20b9d&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" target="_blank">
+<img src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7B2bde5f74-4d00-40fe-b6e9-552de05a5d4e%7D_deep-learning-computer-vision-thumbnail-180x101.jpg" width="180" height="101" title="Deep Learning for Computer Vision" border="0" alt="Deep Learning for Computer Vision"></a></td>
+    <td width="10">&nbsp;</td>
+    <td valign="top" style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px; font-weight: bold;">
+<a href="https://www.mathworks.com/videos/deep-learning-for-computer-vision-120997.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=1a04027ca5464dcdb7ec53ed400586a2&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" title="Deep Learning for Computer Vision" target="_blank" style="color:#187dbb; text-decoration:none; font-size: 16px;">Deep Learning for Computer Vision</a></td>
+      </tr>
+      <tr>
+        <td height="8"></td>
+      </tr>
+      <tr>
+
+        <td height="8"></td>
+      </tr>
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+">
+<a href="https://www.mathworks.com/videos/deep-learning-for-computer-vision-120997.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=bddbcee6744a486588d0b260ef598d0d&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" title="Watch webinar and download code" target="_blank" style="color:#187dbb
+; text-decoration:none; font-size: 14px;">&raquo; Watch webinar and download code</a></td>
+      </tr>
+    </table></td>
+  </tr>
+  </table>
+        </td>
+
+      </tr>
+      <tr>
+        <td style="border-bottom:1px #cccccc solid;">&nbsp;</td>
+    </tr>
+  <tr>
+    <td>&nbsp;</td>
+    </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="180" valign="top">
+<a href="https://www.mathworks.com/academia/courseware/teaching-science-with-matlab.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=fd32a300282e435284665ed124bf7211&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" target="_blank">
+<img src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7Bb42b4e5b-135d-46a9-9eb8-0d7eb5461c57%7D_teaching-science-with-matlab-thumbnail-180x101.jpg" width="180" height="101" title="Teaching Science with MATLAB" border="0" alt="Teaching Science with MATLAB"></a></td>
+    <td width="10">&nbsp;</td>
+    <td valign="top" style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px; font-weight: bold;"><a href="https://www.mathworks.com/academia/courseware/teaching-science-with-matlab.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=8c4bd9f241d0483d99f0552bcc0a2cf2&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" title="Teaching Science with MATLAB" target="_blank" style="color:#187dbb
+; text-decoration:none; font-size: 16px;">Teaching
+ Science with MATLAB</a></td>
+      </tr>
+      <tr>
+        <td height="8"></td>
+      </tr>
+      <tr>
+        <td height="8"></td>
+      </tr>
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+">
+<a href="https://www.mathworks.com/academia/courseware/teaching-science-with-matlab.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=b00cfe5e47f04ee5885f89ca872efcf5&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" title="View resources and tools" target="_blank" style="color:#187dbb; text-decoration:none; font-size: 14px;">&raquo; View resources and tools</a></td>
+      </tr>
+    </table></td>
+  </tr>
+  </table></td>
+  </tr>
+  <tr>
+
+    <td style="border-bottom:1px #cccccc solid;">&nbsp;</td>
+    </tr>
+  <tr>
+    <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>
+        
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td valign="top" width="180">
+<a href="https://www.mathworks.com/company/newsletters/articles/grimsel-sets-electric-vehicle-acceleration-record.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=17d2c1efc5dd45a08bde847168c02ddc&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" target="_blank">
+<img alt="grimsel Sets Electric Vehicle Acceleration Record" border="0" height="101" src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7Bfb49229f-8c4d-4e14-b280-42f018225461%7D_grimsel-electric-vehicle-accel-record-thumbnail-180x101.jpg" title="grimsel Sets Electric Vehicle Acceleration Record" width="180"></a></td>
+			<td width="10">&nbsp;</td>
+			<td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px" valign="top">
+			
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody>
+					<tr>
+						<td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:16px; font-weight: bold;">
+<a href="https://www.mathworks.com/company/newsletters/articles/grimsel-sets-electric-vehicle-acceleration-record.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=d2c9889e1094469baa9440f11c806b86&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="color:#187dbb
+; text-decoration:none;" target="_blank" title="grimsel Sets Electric Vehicle Acceleration Record"><em>grimsel</em> Sets Electric Vehicle Acceleration Record</a></td>
+					</tr>
+					<tr>
+						
+<td height="8">&nbsp;</td>
+					</tr>
+					<tr>
+						<td style="font-family: Arial, Helvetica, sans-serif; color: #000; font-size: 14px;">&ldquo;0&ndash;60 miles per hour in 1.513 seconds!&rdquo;</td>
+					</tr>
+					<tr>
+						<td height="8">&nbsp;</td>
+					</tr>
+					<tr>
+						<td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+">
+<a href="https://www.mathworks.com/company/newsletters/articles/grimsel-sets-electric-vehicle-acceleration-record.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=cb7c5de4907146b3a3416e7b0d304efd&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="color:#187dbb; text-decoration:none; font-size: 14px;" target="_blank" title="View slideshow">&raquo; View slideshow</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+          
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px #cccccc solid;">&nbsp;</td>
+    </tr>
+  <tr>
+    <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="180" valign="top">
+<a href="https://www.mathworks.com/support/books/matlab_guide_higham.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=615b58d7d88a4cbfb18875ef28601bd7&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" target="_blank">
+<img width="180" height="101" title="MATLAB Guide, 3e" alt="MATLAB Guide, 3e" src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7B62051376-b3d7-417a-a744-f36f389b0737%7D_matlab-guide-3e-thumbnail-180x101.jpg" border="0"></a></td>
+    <td width="10">&nbsp;</td>
+    <td valign="top" style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:16px; font-weight: bold;"><a href="https://www.mathworks.com/support/books/matlab_guide_higham.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=4efa55a8ba23400e80982f613827becc&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" title="MATLAB Guide, 3e" target="_blank" style="color:#187dbb
+; text-decoration:none;">MATLAB Guide, 3e</a></td>
+      </tr>
+      <tr>
+
+        <td height="8"></td>
+      </tr>
+      <tr>
+        <td height="8"></td>
+      </tr>
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+">
+<a href="https://www.mathworks.com/support/books/matlab_guide_higham.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=722d733b1ccd4460bb91639daf10b0e7&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" title="Learn about this book" target="_blank" style="color:#187dbb; text-decoration:none; font-size: 14px;">&raquo; Learn about this book</a></td>
+      </tr>
+    </table></td>
+  </tr>
+  </table>
+        </td>
+      </tr>
+      <tr>
+
+        <td style="border-bottom:1px #cccccc solid;">&nbsp;</td>
+    </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+    
+    
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td valign="top" width="180">
+<a href="https://www.mathworks.com/products/connections/product_detail/hebi-robotics-actuators.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=04194f59637f4da886bd137c17cdd089&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" target="_blank">
+<img alt="HEBI Robotics Actuators" border="0" height="101" src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7B08efff6a-fad9-468c-bde7-93490650dba7%7D_hebi-robotics-actuators-thumbnail-180x101.jpg" title="HEBI Robotics Actuators" width="180"></a></td>
+			<td width="10">&nbsp;</td>
+			<td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px" valign="top">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody>
+					<tr>
+						
+<td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:16px; font-weight: bold;"><a href="https://www.mathworks.com/products/connections/product_detail/hebi-robotics-actuators.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=93f4ef78e3bc46b5a044351eac497c3c&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="color:#187dbb
+; text-decoration:none;" target="_blank" title="HEBI Robotics Actuators">HEBI Robotics Actuators</a>
+</td>
+					</tr>
+					<tr>
+						<td height="8">&nbsp;</td>
+					</tr>
+					<tr>
+						<td style="font-family: Arial, Helvetica, sans-serif; color: #000; font-size: 14px;">Build custom robots with smart actuator modules.</td>
+					</tr>
+					<tr>
+						<td height="8">&nbsp;</td>
+					</tr>
+					<tr>
+						<td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+">
+<a href="https://www.mathworks.com/products/connections/product_detail/hebi-robotics-actuators.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=e272b9ef5cd646e394124fec5e9a6fed&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="color:#187dbb
+; text-decoration:none; font-size: 14px;" target="_blank" title="Learn about this product">&raquo; Learn about this product</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+
+</table>
+
+    
+    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+      </tr>
+      <tr><td>
+      
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td style="border:solid 1px #cccccc; padding:10px;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="180" valign="top">
+<a href="http://app.go.mathworks.com/e/er?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&s=646005169&lid=2827&elqTrackId=f1846816ce7a45f2bcb14a0e1396fe41&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1" target="_blank">
+<img src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7B4a256fb9-4a0a-4960-9b25-de21c0d91234%7D_2-hour-deep-learning-onramp-thumbnail-180x101.jpg" width="180" height="101" title="Free 2-Hour Deep Learning Onramp" border="0" alt="Free 2-Hour Deep Learning Onramp"></a></td>
+    <td width="10">&nbsp;</td>
+    <td valign="top" style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb; font-size:14px; font-weight: bold;"><a href="http://app.go.mathworks.com/e/er?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&s=646005169&lid=2827&elqTrackId=8f3435565cdb42b59015792066f61e0d&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1" title="Free 2-Hour Deep Learning Onramp" target="_blank" style="color:#187dbb
+; text-decoration:none; font-size: 16px;">Free 2-Hour Deep Learning Onramp</a></td>
+
+      </tr>
+      <tr>
+        <td height="8"></td>
+      </tr>
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #000; font-size: 14px;">Apply deep learning methods to perform image recognition.</td>
+      </tr>
+      <tr>
+        <td height="8"></td>
+      </tr>
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb;">
+<a href="http://app.go.mathworks.com/e/er?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&s=646005169&lid=2827&elqTrackId=184f6c02ee0748b0ad663adb6e3bed96&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1" title="Get started" target="_blank" style="color:#187dbb
+; text-decoration:none; font-size: 14px;">&raquo; Get started</a></td>
+      </tr>
+    </table></td>
+  </tr>
+  </table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+ <tr>
+    <td>&nbsp;</td>
+      </tr></table>
+      
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td style="border:solid 1px #cccccc; padding:10px;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="180" valign="top">
+<a href="https://blogs.mathworks.com/community/2017/07/21/answers-badges-are-here/?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=ad9cbaf16149492a94e5d690ee261314&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" target="_blank">
+<img src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7B36baee0e-c055-480d-9372-9d631273e93d%7D_matlab-community-badges-thumbnail-180x101.jpg" width="180" height="101" title="Get Recognized in the MATLAB Central Community for Your Contributions" border="0" alt="Get Recognized in the MATLAB Central Community for Your Contributions"></a></td>
+    <td width="10">&nbsp;</td>
+    <td valign="top" style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+; font-size:14px; font-weight: bold;">
+<a href="https://blogs.mathworks.com/community/2017/07/21/answers-badges-are-here/?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=7a9ce62db8fd46d19a4e85cd0d44abbc&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" title="Get Recognized in the MATLAB Central Community for Your Contributions" target="_blank" style="color:#187dbb
+; text-decoration:none; font-size: 16px;">Get Recognized in the MATLAB Central Community for Your Contributions</a></td>
+      </tr>
+
+      <tr>
+        <td height="8"></td>
+      </tr>
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #000; font-size: 14px;">Show your expertise to earn badges. The more badges you earn, the higher your level.</td>
+      </tr>
+      <tr>
+        <td height="8"></td>
+      </tr>
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb
+">
+<a href="https://blogs.mathworks.com/community/2017/07/21/answers-badges-are-here/?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=a6f87a44e20940f0b51d85c4172699c6&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" title=" Learn more" target="_blank" style="color:#187dbb
+; text-decoration:none; font-size: 14px;">&raquo;  Learn more</a></td>
+      </tr>
+    </table></td>
+  </tr>
+  </table>
+			</td>
+		</tr>
+        <tr>
+    <td>&nbsp;</td>
+      </tr>
+	
+</tbody>
+</table>
+      </td>
+      </tr>
+    </table></td>
+        <td width="4%">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+
+  <tr>
+    <td bgcolor="#F2F2F2" style="border-top:2px solid #cccccc;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#F2F2F2">
+    
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="5%" rowspan="6">&nbsp;</td>
+
+        <td colspan="5" style="font-family: Arial, Helvetica, sans-serif; color: #187dbb; font-size: 13px; padding-bottom:15px; border-bottom:1px solid #cccccc;">
+<a target="_blank" href="https://www.mathworks.com/academia/tah-support-program/eligibility.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=797f2549591c40d2ae4ee45caf726610&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="text-decoration:none; color: #187dbb;" title="Campus wide license"><strong>See if your school has a MATLAB campus license.</strong></a></td>
+        <td width="5%" rowspan="6">&nbsp;</td>
+      </tr>
+
+      <tr>
+
+        <td colspan="5" style="font-family: Arial, Helvetica, sans-serif; color: #000; font-size: 13px; padding-top:15px;"><strong>Explore these resources:</strong></td>
+        </tr>
+      <tr>
+        <td height="15"></td>
+
+
+        <td height="15">&nbsp;</td>
+        <td height="15"></td>
+        <td height="15">&nbsp;</td>
+        <td height="15"></td>
+      </tr>
+      <tr>
+        <td width="30%" style="font-family: Arial, Helvetica, sans-serif; color: #187dbb; font-size: 13px;">
+<a target="_blank" href="http://app.go.mathworks.com/e/er?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&s=646005169&lid=3034&elqTrackId=1a18072c0f3e4b748865d9d2cabfad53&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1" style="text-decoration:none; color: #187dbb;" title="Self-Paced Online Courses"><strong>Self-Paced Online Courses</strong></a></td>
+        <td width="8%">&nbsp;</td>
+
+        <td width="20%" style="font-family: Arial, Helvetica, sans-serif; color: #0080ff; font-size: 13px; "><a target="_blank" href="https://www.mathworks.com/examples/?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=f0aa6e9f77de4a4c9216952dd990ce8c&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="text-decoration:none; color: #187dbb;" title="Articles"><strong>Examples</strong></a></td>
+        <td width="7%">&nbsp;</td>
+
+        <td width="25%" style="font-family: Arial, Helvetica, sans-serif; color: #187dbb; font-size: 13px;"><a target="_blank" href="https://www.mathworks.com/videos.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=adca2e6866c545e697656133c5ac6e55&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="text-decoration:none; color: #187dbb;" title="Videos"><strong>Videos</strong></a></td>
+      </tr>
+      <tr>
+        <td height="15"></td>
+
+
+
+        <td height="15">&nbsp;</td>
+        <td height="15"></td>
+        <td height="15">&nbsp;</td>
+        <td height="15"></td>
+      </tr>
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; color: #187dbb; font-size: 13px;">
+<a target="_blank" href="https://www.mathworks.com/academia/courseware.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=f6742f68bc61471aa6145f1cb891b9fa&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="text-decoration:none; color: #187dbb;" title="Courseware"><strong>Courseware</strong></a></td>
+        <td width="8%">&nbsp;</td>
+        <td width="20%" style="font-family: Arial, Helvetica, sans-serif; color: #0080ff; font-size: 13px;">
+<a target="_blank" href="https://www.mathworks.com/company/events.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=cd0c77aa908944d5966618cb78408d61&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="text-decoration:none; color: #187dbb;" title="Books"><strong>Webinars</strong></a></td>
+        <td width="7%" height="9">&nbsp;</td>
+        <td width="25%" style="font-family: Arial, Helvetica, sans-serif; color: #187dbb; font-size: 13px;">
+<a target="_blank" href="https://www.mathworks.com/support/books.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=ade2796512b946de9204a42ba1cb8901&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="text-decoration:none; color: #187dbb;" title="Videos"><strong>Books</strong></a></td>
+      </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td bgcolor="#F2F2F2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#1f4985">
+<img src="http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7b3cab5f58-8490-4480-8d56-14f30d3cc91f%7d_Digest-footer.jpg" alt="MathWorks" width="600" height="42" align="top" title="MathWorks"></td>
+  </tr>
+</table><table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+	<tbody>
+		<tr>
+			<td><br>
+			<font style="font-family:arial;font-size:11px;color: #7f7f7f;">&copy; 2018 The MathWorks, Inc.<br>
+			MATLAB
+ and Simulink are registered trademarks of The MathWorks, Inc. See a list of additional <a href="https://www.mathworks.com/company/aboutus/policies_statements/trademarks.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=f05de5117c684d3888709b14e0939f98&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="font-family:arial;font-size:11px;;color: #187dbb;">trademarks</a>.<br>
+			Other
+ product or brand names may be trademarks or registered trademarks of their respective holders.<br>
+			<a href="https://go2.mathworks.com/preference-center?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=0048b253cfb3497faf3741f2e445a672&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="font-family:arial;font-size:11px;color: #187dbb;">Manage</a>
+ your email preferences or unsubscribe from our commercial email promotions. View our <a href="https://www.mathworks.com/company/aboutus/policies_statements.html?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=7dd3f6b87f9e425a943e79a220d7be59&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="font-family:arial;font-size:11px;;color: #187dbb;">privacy policy</a>.<br>
+			<br>
+			
+<a href="https://www.mathworks.com/?s_v1=22541&elqem=2328789_WW_18-02_NEWSLETTER_EDU-DIGEST&elqTrackId=4ed941acd7484e3c8156b3de91954bc4&elq=089ed1946030478b98225c5554fba306&elqaid=22541&elqat=1&elqCampaignId=7526" style="font-family:arial;font-size:11px;;color: #187dbb;">The MathWorks, Inc.</a> - 3 Apple Hill Drive, Natick, MA 01760 - 508-647-7000</font></td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+<img src='http://app.go.mathworks.com/e/FooterImages/FooterImage1?elq=089ed1946030478b98225c5554fba306&siteid=646005169' alt="" border=0 width=1px height=1px></body></html>
+----boundary_5136509_3665ba9f-efbb-4b9d-b781-a4db2fa0c1f4--
+
+

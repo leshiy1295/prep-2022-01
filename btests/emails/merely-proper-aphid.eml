@@ -1,0 +1,212 @@
+Received: from mxfront14g.mail.yandex.net ([127.0.0.1])
+	by mxfront14g.mail.yandex.net with LMTP id P2iCZSlQ
+	for <tammyvega@lowery-morales.com>; Tue, 6 Mar 2018 01:42:03 +0300
+Received: from o8.delivery.customeriomail.com (o8.delivery.customeriomail.com [167.89.32.155])
+	by mxfront14g.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id 4agemeBfNY-g1iSxD0S;
+	Tue, 06 Mar 2018 01:42:02 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+X-Yandex-Front: mxfront14g.mail.yandex.net
+X-Yandex-TimeMark: 1520289722
+Authentication-Results: mxfront14g.mail.yandex.net; spf=pass (mxfront14g.mail.yandex.net: domain of delivery.customeriomail.com designates 167.89.32.155 as permitted sender, rule=[ip4:167.89.0.0/17]) smtp.mail=bounces+2018174-6f25@delivery.customeriomail.com; dkim=pass header.i=@codecademy.com
+X-Yandex-Spam: 4
+X-Yandex-Personal-Spam: OTc3MjMxMDIK
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=codecademy.com; 
+	h=content-type:from:list-unsubscribe:mime-version:subject:to; 
+	s=smtpapi; bh=X5qRi6brzmsnaFpX2cAD2Tt9nsQ=; b=GYMt47P7mLnzWRQkJW
+	FdpJ7B+9w8OxjDqBJjMyCM4s79Zw9QYTGJFXiYszW7ri/xAelckggyYtUBSEv84V
+	ZlplSn9OWxJ1n5xtWuBOg3qgel1s56zfd8v7+qLW3kC/1Q6Sugqzbo8WsbMMO3gY
+	gxga0fvc3YtbViuK6KCsaxhr8=
+Received: by filter0566p1iad2.sendgrid.net with SMTP id filter0566p1iad2-16979-5A9DC7B7-13
+        2018-03-05 22:41:59.504845951 +0000 UTC
+Received: from localhost (2.worker.customeriomail.com [130.211.229.195])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id 8ldn2CBTSTqMdwVDzkjoVw
+	for <tammyvega@lowery-morales.com>; Mon, 05 Mar 2018 22:41:59.335 +0000 (UTC)
+Content-Type: multipart/alternative; boundary="f41512816a870307c78e061e90f4b4f076a4a4c37941af2e1ed94638c21c"; charset="utf-8"
+Date: Mon, 05 Mar 2018 22:41:59 +0000 (UTC)
+From: "Codecademy" <learn@codecademy.com>
+List-Unsubscribe: <mailto:32.LJGS222BM5AUEWLGNBKUOMKMLBWGS6JQIEYVSQ3HLI2TA===@unsubscribe2.customer.io>, <http://customeriomail.codecademy.com/unsubscribe/ZM-kAgABYfhUG1LXliy0A1YCgZ50>
+Message-Id: <ZM-kAgABYfhUG1LXliy0A1YCgZ50.1520289718@codecademy.com>
+Mime-Version: 1.0
+Subject: Make $8,736 more at your current job
+To: Richard Gonzalez <morenosara@harris.org>, Mr. Charles Simpson <allisonmoss@yahoo.com>
+X-Mailer: Customer.io (ZM-kAgABYfhUG1LXliy0A1YCgZ50; +https://whatis.customeriomail.com)
+X-Report-Abuse-To: badactor@customer.io
+X-SG-EID: TbFNxiv1Y3ynZq1J/+sOVls0KRa3mA/nvn7IzLWHogbU00/tk+iB5myEDwcM4hkmzC6E7n0WupzgHi
+ C07wCqKx1bnq6vc7LnWRTIDRVw3ZHaOndzTRxJMVEyRRI9QEBdcYBOu04cLIUDYV87rAeGEphMMXK3
+ PdBsGFGfQcXsqkcszDmmDL4tkSYcPI9OLVN03BqAFD03ZudwP/NcY1lZgoHjT1SJCwt4KQmisw53Gq
+ 8=
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZnPH/ln4ImTd/iCW7/3daTAyK20Jx6EHVCrQiAlFqOAIOkfi7L3nKMUSya
+ szwXRiaw==
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+--f41512816a870307c78e061e90f4b4f076a4a4c37941af2e1ed94638c21c
+Content-Id: text/plain.ZM-kAgABYfhUG1LXliy0A1YCgZ50.1520289718@codecademy.com
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Date: Mon, 05 Mar 2018 22:41:58 +0000
+Mime-Version: 1.0
+
+Hi there,
+
+Did you know employers pay a premium for data analysis skills? An average o=
+f $8,736 more, to be exact.*
+
+And this isn=E2=80=99t just true for seasoned data scientists. More and mor=
+e employers seek data-savvy candidates for business analysis, project manag=
+ement, marketing, software development, and management-level positions. And=
+ they=E2=80=99ll pay well for this expertise.
+
+Our newest Pro Intensive,=C2=A0Introduction to Data Analysis ( https://www.=
+codecademy.com/pro/intensive/introduction-to-data-analysis?utm_test=3Doptim=
+ize&utm_source=3Dcustomer_io&utm_campaign=3Dida_3_13_18&utm_medium=3Demail&=
+utm_term=3Da&utm_content=3Dinline_link ), gives you the skills you need to =
+get paid more in the job you have=E2=80=94or raise your value in the job ma=
+rket. Over the course of 10 weeks, you=E2=80=99ll:
+* Develop valuable expertise in SQL, NumPy, SciPy, Pandas, Matplotlib, and =
+Python.
+
+* Learn how to organize data, conduct analysis, and interpret findings to p=
+roduce business-critical insights.
+
+* Hone your data-driven persuasion skills to get buy-in, land a promotion, =
+or negotiate a career shift.
+
+Make more money=E2=80=94it=E2=80=99s that simple. Enroll today in our next =
+Introduction to Data Analysis ( https://www.codecademy.com/pro/intensive/in=
+troduction-to-data-analysis?utm_test=3Doptimize&utm_source=3Dcustomer_io&ut=
+m_campaign=3Dida_3_13_18&utm_medium=3Demail&utm_term=3Da&utm_content=3Dinli=
+ne_link )=C2=A0course, starting on March 13th.
+
+Enroll Now ( https://www.codecademy.com/pro/intensive/introduction-to-data-=
+analysis?utm_test=3Doptimize&utm_source=3Dcustomer_io&utm_campaign=3Dida_3_=
+13_18&utm_medium=3Demail&utm_term=3Da&utm_content=3Dbottom_link )
+
+Codecademy
+
+*Miller, Steven & Hughes, Debbie. =E2=80=9DThe Quant Crunch: How The Demand=
+ for Data Science Skills is Disrupting the Job Market.=E2=80=9D BurningGlas=
+s / IBM / BHEF, 2017
+
+-------
+
+If you'd like to stop receiving emails from us, please
+unsubscribe ( http://track.customer.io/unsubscribe/ZM-kAgABYfhUG1LXliy0A1YC=
+gZ50 )=
+
+--f41512816a870307c78e061e90f4b4f076a4a4c37941af2e1ed94638c21c
+Content-Id: text/html.ZM-kAgABYfhUG1LXliy0A1YCgZ50.1520289718@codecademy.com
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+Date: Mon, 05 Mar 2018 22:41:58 +0000
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd"><html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"/>
+    <style type=3D"text/css">
+      body { max-width:500px; margin:10; padding: 0; font-family: sans-seri=
+f; font-size:13px; font-style: normal;}
+      h1 { font-size: 16px; line-height:20px; }
+      h2 { font-size: 14px; line-height:18px; }
+      p { font-size: 13px; line-height: 16px; }
+      .center { text-align: center }
+      .unsubscribe { color:#727272; line-height:18px; }
+      .unsubscribe a { color: #333 }
+
+      @media only screen and (max-device-width: 480px) {
+        body { width: 320px !important; margin: 0; padding: 0; }
+        td img { height:auto !important; max-width:100% !important;}
+      }
+    </style>
+  </head>
+  <body style=3D"max-width: 500px; font-family: sans-serif; font-size: 13px=
+; font-style: normal; margin: 10; padding: 0;">
+    <!-- We'll replace this content tag with whatever you write in your ema=
+il  -->
+    <div>
+<div style=3D"color: rgb(0, 0, 0); font-family: sans-serif; font-size: 13px=
+;">Hi there, <br/><br/>
+</div>
+<div style=3D"color: rgb(0, 0, 0); font-family: sans-serif; font-size: 13px=
+;">Did you know employers pay a premium for data analysis skills? An averag=
+e of $8,736 more, to be exact.*</div>
+<div style=3D"color: rgb(0, 0, 0); font-family: sans-serif; font-size: 13px=
+;">
+<br/>And this isn=E2=80=99t just true for seasoned data scientists. More an=
+d more employers seek data-savvy candidates for business analysis, project =
+management, marketing, software development, and management-level positions=
+. And they=E2=80=99ll pay well for this expertise.</div>
+<div style=3D"color: rgb(0, 0, 0); font-family: sans-serif; font-size: 13px=
+;">
+<br/>Our newest Pro Intensive,<i></i><b>=C2=A0</b><a href=3D"http://custome=
+riomail.codecademy.com/e/c/eyJlbWFpbF9pZCI6IlpNLWtBZ0FCWWZoVUcxTFhsaXkwQTFZ=
+Q2daNTAiLCJocmVmIjoiaHR0cHM6Ly93d3cuY29kZWNhZGVteS5jb20vcHJvL2ludGVuc2l2ZS9=
+pbnRyb2R1Y3Rpb24tdG8tZGF0YS1hbmFseXNpcz91dG1fdGVzdD1vcHRpbWl6ZVx1MDAyNnV0bV=
+9zb3VyY2U9Y3VzdG9tZXJfaW9cdTAwMjZ1dG1fY2FtcGFpZ249aWRhXzNfMTNfMThcdTAwMjZ1d=
+G1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3Rlcm09YVx1MDAyNnV0bV9jb250ZW50PWlubGluZV9s=
+aW5rIiwibGlua19pZCI6MjE0NjMwODAyNiwicG9zaXRpb24iOjB9/3bdae146b9d06b02c5643b=
+3f7761e4339d48604317d203258f5bf80768db744d"><b></b><i><b>Introduction to Da=
+ta Analysis</b></i><b></b><i></i></a>, gives you the skills you need to get=
+ paid more in the job you have=E2=80=94or raise your value in the job marke=
+t. Over the course of 10 weeks, you=E2=80=99ll:</div>
+<div style=3D"color: rgb(0, 0, 0); font-family: sans-serif; font-size: 13px=
+;"><ul>
+<li>Develop valuable expertise in SQL, NumPy, SciPy, Pandas, Matplotlib, an=
+d Python.<br/>
+</li>
+<li>Learn how to organize data, conduct analysis, and interpret findings to=
+ produce business-critical insights.<br/>
+</li>
+<li>Hone your data-driven persuasion skills to get buy-in, land a promotion=
+, or negotiate a career shift.</li>
+</ul></div>
+<div style=3D"color: rgb(0, 0, 0); font-family: sans-serif; font-size: 13px=
+;">Make more money=E2=80=94it=E2=80=99s that simple. Enroll today in our ne=
+xt <a href=3D"http://customeriomail.codecademy.com/e/c/eyJlbWFpbF9pZCI6IlpN=
+LWtBZ0FCWWZoVUcxTFhsaXkwQTFZQ2daNTAiLCJocmVmIjoiaHR0cHM6Ly93d3cuY29kZWNhZGV=
+teS5jb20vcHJvL2ludGVuc2l2ZS9pbnRyb2R1Y3Rpb24tdG8tZGF0YS1hbmFseXNpcz91dG1fdG=
+VzdD1vcHRpbWl6ZVx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXJfaW9cdTAwMjZ1dG1fY2FtcGFpZ=
+249aWRhXzNfMTNfMThcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3Rlcm09YVx1MDAy=
+NnV0bV9jb250ZW50PWlubGluZV9saW5rIiwibGlua19pZCI6MjE0NjMwODAyNiwicG9zaXRpb24=
+iOjF9/7840a78b950a3cbfae27934a8c77a997c9b03a7587644c7b61391ee7c5ad8727"><i>=
+<b>Introduction to Data Analysis</b></i></a>=C2=A0course, starting on March=
+ 13th.<br/><br/>
+</div>
+<div style=3D"color: rgb(0, 0, 0); font-family: sans-serif; font-size: 13px=
+;"><b><a href=3D"http://customeriomail.codecademy.com/e/c/eyJlbWFpbF9pZCI6I=
+lpNLWtBZ0FCWWZoVUcxTFhsaXkwQTFZQ2daNTAiLCJocmVmIjoiaHR0cHM6Ly93d3cuY29kZWNh=
+ZGVteS5jb20vcHJvL2ludGVuc2l2ZS9pbnRyb2R1Y3Rpb24tdG8tZGF0YS1hbmFseXNpcz91dG1=
+fdGVzdD1vcHRpbWl6ZVx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXJfaW9cdTAwMjZ1dG1fY2FtcG=
+FpZ249aWRhXzNfMTNfMThcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3Rlcm09YVx1M=
+DAyNnV0bV9jb250ZW50PWJvdHRvbV9saW5rIiwibGlua19pZCI6MjE0NjMwODAyNywicG9zaXRp=
+b24iOjJ9/445dc50ba9cfe3b19667c225b759d02e1fbfc169510cb4c1951deed0e807b157">=
+Enroll Now</a></b></div>
+<div style=3D"color: rgb(0, 0, 0); font-family: sans-serif; font-size: 13px=
+;">
+<br/>Codecademy</div>
+<div style=3D"color: rgb(0, 0, 0); font-family: sans-serif; font-size: 13px=
+;">
+<br/>*Miller, Steven &amp; Hughes, Debbie. =E2=80=9DThe Quant Crunch: How T=
+he Demand for Data Science Skills is Disrupting the Job Market.=E2=80=9D Bu=
+rningGlass / IBM / BHEF, 2017</div>
+</div>
+<div></div>
+
+    <p class=3D"unsubscribe" style=3D"font-size: 13px; line-height: 18px; c=
+olor: #727272;">-------<br/>
+      If you&#39;d like to stop receiving emails from us, please
+      <a class=3D"untracked" href=3D"http://customeriomail.codecademy.com/u=
+nsubscribe/ZM-kAgABYfhUG1LXliy0A1YCgZ50" style=3D"color: #333;">unsubscribe=
+</a>
+    </p>
+=20=20
+
+<img src=3D"http://customeriomail.codecademy.com/e/o/eyJlbWFpbF9pZCI6IlpNLW=
+tBZ0FCWWZoVUcxTFhsaXkwQTFZQ2daNTAifQ=3D=3D" style=3D"height: 1px !important=
+; max-height: 1px !important; max-width: 1px !important; width: 1px !import=
+ant"/></body></html>=
+
+--f41512816a870307c78e061e90f4b4f076a4a4c37941af2e1ed94638c21c--
+
+.

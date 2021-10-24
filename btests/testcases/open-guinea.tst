@@ -1,0 +1,2 @@
+KEYS="btests/emails/open-guinea.eml"
+OUT="\"=?UTF-8?B?TGFtb2Rh?=\" <promoby@info.lamoda.ru>|Tony Sanchez <zgarrison@kane.com>, Edwin Hurst <mckinneypaul@hotmail.com>, Richard King <johnsondiane@lucero.com>, Amber Campbell <lkelly@yahoo.com>, Adrian Blankenship <martinezbrian@preston-love.com>, Randall Terry <grojas@yahoo.com>, Thomas Lawson <castrodenise@elliott.com>, Scott Stewart <cbowman@hotmail.com>, Eric Allen <leekimberly@gmail.com>, John Delgado <mitchell55@yahoo.com>|Mon, 5 Mar 2018 13:05:57 +0100|1"

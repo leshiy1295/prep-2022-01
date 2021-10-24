@@ -1,0 +1,291 @@
+Received: from mxfront6j.mail.yandex.net ([127.0.0.1])
+	by mxfront6j.mail.yandex.net with LMTP id Q14YhCGy
+	for <johnhendrix@gmail.com>, <william70@hotmail.com>; Mon, 5 Mar 2018 21:12:45 +0300
+Received: from o2.sg.dreamstime.com (o2.sg.dreamstime.com [167.89.92.116])
+	by mxfront6j.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id AXfzzyLQM6-CiomYS7n;
+	Mon, 05 Mar 2018 21:12:44 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+X-Yandex-Front: mxfront6j.mail.yandex.net
+X-Yandex-TimeMark: 1520273564
+Authentication-Results: mxfront6j.mail.yandex.net; spf=pass (mxfront6j.mail.yandex.net: domain of sg.dreamstime.com designates 167.89.92.116 as permitted sender, rule=[ip4:167.89.92.116]) smtp.mail=bounces+2575098@sg.dreamstime.com; dkim=pass header.i=@dreamstime.com
+X-Yandex-Spam: 4
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=dreamstime.com; 
+	h=to:from:subject:mime-version:content-transfer-encoding:content-type; 
+	s=s1; bh=+EqFbcXUTqSI71qZPUBqiwR3otE=; b=PQR7x6QIiHIlIfaDXcU6fRG
+	88Mr0FWR/F2XRNrKgeLUpMX75/EFU6Rzqlw32xegGjHDQnS4iN4zXlojNONSmiO2
+	5a311GMqKbEumsb8NVBtwGqSzGbCcWRzzuwXcurYM0Okuos1fJ6AcdSurupxLDPH
+	CXqOWnAYXDZyxyMf/HBI=
+Received: by filter0172p1las1.sendgrid.net with SMTP id filter0172p1las1-32401-5A9D883D-2D
+        2018-03-05 18:11:09.951953282 +0000 UTC
+Received: from news.dreamstime.com (news.dreamstime.com [75.126.68.230])
+	by ismtpd0017p1las1.sendgrid.net (SG) with ESMTP id JrKcBItXS12l9cojr7Dw6g
+	for <johnhendrix@gmail.com>, <william70@hotmail.com>; Mon, 05 Mar 2018 18:11:10.223 +0000 (UTC)
+Date: Mon, 05 Mar 2018 18:11:09 +0000 (UTC)
+To: Paul Young <johndavis@gonzalez-knox.info>, Carl Rosales <howardmatthew@giles-fields.com>, Dominic Smith <tinadavis@yahoo.com>
+From: Dreamstime <no_reply@dreamstime.com>
+Subject: How to work with models
+Message-ID: <1c1d690c4c617c80f9c26798c8b35301@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+content-transfer-encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+X-SG-EID: TbFNxiv1Y3ynZq1J/+sOVls0KRa3mA/nvn7IzLWHogbkh9M8l5AE0tUm0b9EIuc17llQ5hGvF65N4o
+ INy+29B+NT5UdKZ7EVci74qZqRw3bb9N2h2McKvrYFkKP2QxXWNWmQ15ZyiIzy02J0MDAMQ1qmEwdj
+ 9L7LGc09yt4R2k3Bt8NCTTHdpZnsBkz/O6vPcSrwjfDUgSdsTgyF/SyfhesF2vfbpPP6H+TqlASwkb
+ w=
+X-Yandex-Forward: a0decb801eb94ab5ca08c9bfb95477ee
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">=0D
+<html>=0D
+	<head>=0D
+		<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>=0D
+		<title>Join our blog contest and win $600 worth of prizes.</title>=0D
+		<style type=3D"text/css">=0D
+			@import url('https://fonts.googleapis.com/css?family=3DRoboto|Roboto+Sla=
+b:300');=0D
+			@media screen and ( max-device-width: 480px ) {=0D
+			    .bodyText { font-size: 28px !important; line-height: 38px !important=
+; }=0D
+			    .bodyTitle { font-size: 45px !important; }=0D
+			    .buttonWrap { height: 80px !important; }=0D
+				.buttonText { font-size: 30px !important; }=0D
+			}=0D
+			@media screen and ( max-width: 480px ) {=0D
+			    .bodyText { font-size: 28px !important; line-height: 38px !important=
+; }=0D
+			    .bodyTitle { font-size: 45px !important; }=0D
+			    .buttonWrap { height: 80px !important; }=0D
+				.buttonText { font-size: 30px !important; }=0D
+			}=0D
+		</style>=0D
+	</head>=0D
+	<body style=3D"font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-se=
+rif; background-color: #F6F6F6; background-image: url(https://thumbs.dreams=
+time.com/newsletter/img-blogcontest-models/nl-background.jpg); margin: 0; p=
+adding:0;" bgcolor=3D"#F6F6F6">=0D
+	<div style=3D"display:none; color:#F6F6F6;"><span class=3D"preheader">Join=
+ our blog contest and win $600 worth of prizes.</span></div>=0D
+		<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" border=3D"0" st=
+yle=3D"padding-left: 20px; padding-right: 20px;" align=3D"center">=0D
+			<tr>=0D
+				<td>=0D
+						<table cellpadding=3D"0" cellspacing=3D"0" width=3D"600px" border=3D"=
+0" align=3D"center"> =0D
+							<tr> <!-- Header starts -->=0D
+								<td> =0D
+									<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" border=
+=3D"0" align=3D"center" style=3D"margin-top:50px; margin-bottom: 30px;">=0D
+										<tr>=0D
+											<td><img src=3D"https://thumbs.dreamstime.com/newsletter/img-new=
+-blog/nl-logo.png" border=3D"0"></td>=0D
+											<td align=3D"right" valign=3D"bottom" width=3D"40px">=0D
+											<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3Ds1zOSm=
+GgsO2iNfrXUnK7Y5jHsbOs0FAHc1nkgFFczzc1ox8ZIzgEF-2FOcCh8sLCHn_wX6Tn8DxuOHyUT=
+84oRHUiXN8gCHAaQR9wp1C3sFC7rX3COa7Oq95EROt8Zlgw4WCA03iue3YeQ9y24R398dxKFOHp=
+yPcUKhz7jZxYdUpbBfMlI-2B08CxFDg9joVVLFhJkQj-2Bv975HyzffyS4qLhCuklKAx6rDPA6Z=
+IT8zwYC27riXAfTZi1kfjOXLuTCfDb-2BlHmr-2Fll-2B7UU2RCYwSFhRpxA-3D-3D" target=
+=3D"_blank" rel=3D"nofollow">=0D
+													<img src=3D"https://thumbs.dreamstime.com/newsletter/img-new-b=
+log/nl-icon-facebook.png" border=3D"0" />=0D
+												</a>=0D
+											</td>=0D
+											<td align=3D"right" valign=3D"bottom" width=3D"40px">=0D
+											<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DWcki78=
+UWKLXUSXsRctiDLC5dom44UqL2SDNh2h-2FxXHFJiV5CmQhdfa3EXTSTErSV_wX6Tn8DxuOHyUT=
+84oRHUiXN8gCHAaQR9wp1C3sFC7rX3COa7Oq95EROt8Zlgw4WCcEPqmpj1eJtXg-2Feh1bVZvKe=
+0I-2B3N5YCUGkzAk2jNQg-2BWyYbWavfivjbiGirozLZLvkZ9X6SXU4onZIOa5Fuea8atRB-2Fj=
+RzuPP1fDf9Gc0E3GJB0G5p2AkOk-2BbwUhxqr2ln3M-2Fz1TSLgKuALsxrPtUg-3D-3D" targe=
+t=3D"_blank" rel=3D"nofollow">=0D
+													<img src=3D"https://thumbs.dreamstime.com/newsletter/img-new-b=
+log/nl-icon-twitter.png" border=3D"0" />=0D
+												</a>=0D
+											</td>=0D
+											<td align=3D"right" valign=3D"bottom" width=3D"40px">=0D
+											<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3Ds1zOSm=
+GgsO2iNfrXUnK7YwuuPYk1xhbmNpDPYB7GoNx-2BuxhUOXPIrreBLP1025x2_wX6Tn8DxuOHyUT=
+84oRHUiXN8gCHAaQR9wp1C3sFC7rX3COa7Oq95EROt8Zlgw4WC41r9LEOh3cbeLpsGBBaQAG6Jn=
+F55nd-2FT2KdOBNvUG9mWBvpli6c30r-2Bs6Eeznjva6F-2Bkyr-2B0v40UUGXZLYWhGrn95WN2=
+Ei71bfl-2FinljnzGifbFkhy4hleyxEojancnBYpaGpLrZ9c57NcO5DlXtug-3D-3D" target=
+=3D"_blank" rel=3D"nofollow">=0D
+													<img src=3D"https://thumbs.dreamstime.com/newsletter/img-new-b=
+log/nl-icon-gplus.png" border=3D"0" />=0D
+												</a>=0D
+											</td>=0D
+										</tr>			=0D
+									</table>=0D
+								</td> =0D
+							</tr> <!-- Header ends -->				=0D
+						<tr>=0D
+							<td> =0D
+								<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" border=3D=
+"0" align=3D"center" bgcolor=3D"#ffffff" style=3D"color: #4A4A4A; margin-to=
+p: 0px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05);">=0D
+										<tr>=0D
+											<td>=0D
+												<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" borde=
+r=3D"0">=0D
+													<tr><td><img src=3D"https://thumbs.dreamstime.com/newsletter/i=
+mg-blogcontest-models/nl-image.jpg" border=3D"0"></td></tr>	=0D
+												</table>=0D
+												<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" borde=
+r=3D"0">=0D
+													<tr><td align=3D"center" style=3D"padding-top: 40px;">=0D
+														<span class=3D"bodyTitle" style=3D"margin:0; font-family: 'Ro=
+boto Slab', 'Helvetica Neue', Helvetica, sans-serif; font-size: 29px; color=
+: #181818;" >=0D
+															Strike a pose=0D
+														</span>=0D
+													</td></tr>=0D
+												</table>=0D
+												<table cellpadding=3D"0" cellspacing=3D"0" width=3D"80%" border=
+=3D"0" align=3D"center">=0D
+													<tr><td align=3D"left" style=3D"padding-top: 30px;">=0D
+														<span class=3D"bodyText" style=3D"margin: 0; font-family: 'Ro=
+boto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; color: #4A=
+4A4A; line-height: 23px;">=0D
+															This month=E2=80=99s theme for our blog contest is <b>How-to=
+: Models</b>.<br>Send us an article with your best tips for finding and vet=
+ting reliable models, working with them, and getting the best out of a mode=
+l shoot.<br><br>=0D
+Or, are YOU a model? Teach other models how to make a session go as smoothl=
+y as possible for amazing results.<br><br>=0D
+<center>You=E2=80=99ll get the chance to win:</center></span>=0D
+=0D
+													</td></tr>=0D
+												</table>=0D
+												<table cellpadding=3D"0" cellspacing=3D"0" width=3D"300px" bord=
+er=3D"0" align=3D"center" style=3D"margin-top: 20px;">=0D
+													<tr>=0D
+														<td align=3D"center">=0D
+																<img src=3D"https://front.dreamstime.com/img/blog/bc-models=
+-icon-goldmedal.png" border=3D"0">=0D
+														</td>=0D
+														<td align=3D"center">=0D
+																<img src=3D"https://front.dreamstime.com/img/blog/bc-models=
+-icon-silvermedal.png" border=3D"0">=0D
+														</td>=0D
+														<td align=3D"center">=0D
+																<img src=3D"https://front.dreamstime.com/img/blog/bc-models=
+-icon-bronzemedal.png" border=3D"0">=0D
+														</td>	=0D
+													</tr>=0D
+													<tr>=0D
+														<td align=3D"center" style=3D"padding-top: 10px;"><b>$300</b>=
+</td>=0D
+														<td align=3D"center" style=3D"padding-top: 10px;"><b>$200</b>=
+</td>=0D
+														<td align=3D"center" style=3D"padding-top: 10px;"><b>$100</b>=
+</td>=0D
+													</tr>=0D
+												</table>=0D
+												<table cellpadding=3D"0" cellspacing=3D"0" width=3D"80%" border=
+=3D"0" align=3D"center">=0D
+													<tr><td align=3D"left" style=3D"padding-top: 30px;">=0D
+=0D
+														<span class=3D"bodyText" style=3D"margin: 0; font-family: 'Ro=
+boto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; color: #4A=
+4A4A; line-height: 23px;">=0D
+															No need to be a professional writer. Take your chance: win v=
+otes, money and glory. </span>=0D
+=0D
+													</td></tr>=0D
+												</table>=0D
+												<table cellpadding=3D"0" cellspacing=3D"0" width=3D"auto" borde=
+r=3D"0" align=3D"center" style=3D"margin-top: 30px; margin-bottom: 40px; ba=
+ckground-color: #FF1D8B; ">=0D
+													<tr>=0D
+														<td class=3D"buttonWrap" height=3D"40px" valign=3D"middle" al=
+ign=3D"center" style=3D"color: #ffffff; padding-left: 30px; padding-right: =
+30px">=0D
+															=0D
+															<a class=3D"buttonText" href=3D"https://sg-links.dreamstime.=
+com/wf/click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwkQ8dY1LuPn=
+ByjR3pF6lWo8JpWVzzBJjPIGWcAP7-2BkQK9kfdKYENwO-2BW5GI1d1jc3ddh6Rl2gTod4eBPtI=
+iODhUgaxaSuu9CLsq5pvsuBfWQPW4d-2Bc5NgbQrJzeCzmPKDonS9MKGXQldZfVmUpPSkwGauea=
+EFnoBmbBSDKXmxThWHzNtHV5XEasZ8IcMPbtNXk-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9=
+wp1C3sFC7rX3COa7Oq95EROt8Zlgw4WClSIhg3UnjSVy-2BK97fF14a2gofJgl09Mi9wMewsrRS=
+7Qoe38nQeGF-2BaOQHz0sKfGy8VFfDmWBOV-2B1BP0IosVH8GDLLqFxXsz0LIHZqOg2N0LC2qF6=
+P5tUjnVHkONLnjaXiewHwCAEvlRu18shlCM9aQ-3D-3D" style=3D"color: #ffffff; text=
+-decoration: none;"><b>Read the guidelines</b></a>=0D
+															=0D
+														</td>=0D
+													</tr>=0D
+												</table>	=0D
+											</td> <!-- Content container ends -->=0D
+										</tr>=0D
+									</table>=0D
+								</td> =0D
+							</tr>=0D
+						<tr>=0D
+							<td>=0D
+								<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" border=3D=
+"0" align=3D"center" style=3D"padding-top: 30px">=0D
+									<tr>=0D
+										<td align=3D"center">=0D
+											<img src=3D"https://thumbs.dreamstime.com/newsletter/img-blog-co=
+ntest-2018/nl-spiral.png" border=3D"0">=0D
+										</td>=0D
+									</tr>=0D
+									<tr>=0D
+										<td align=3D"center" style=3D"padding-top: 5px;">=0D
+											<span style=3D"font-size: 11px; color: #9B9B9B;"><b>WORLD'S LARG=
+EST STOCK PHOTOGRAPHY COMMUNITY</b></span>=0D
+										</td>=0D
+									</tr>=0D
+									<tr>=0D
+										<td align=3D"center" style=3D"padding-top: 10px; font-size: 11px;=
+ color: #9B9B9B;">=0D
+											<a target=3D"_blank" href=3D"https://sg-links.dreamstime.com/wf/=
+click?upn=3DlMJsrbkLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwlZ6hg6R7i1Mr8kHU4=
+urzpPPvxspsX363Ceol6lMQruE3OYyJkwebFf6p9oMdtHrBYJfyo-2Fkg82mVP-2BnXuPkLMp4B=
+wXoybZsXoVHwhSe2sWAMMUY2fiS759mi5WpxtF3jQtofaB1bRgRA3fK-2BQxrg5TWRdt7L9ufYm=
+rdl4W5K-2F2wJCY8aK9-2BOM9n8XsHRkFyIMJDCMNlDiLDSZ88r5pvreL_wX6Tn8DxuOHyUT84o=
+RHUiXN8gCHAaQR9wp1C3sFC7rX3COa7Oq95EROt8Zlgw4WCqAORqeZgV-2FtJKP5yV-2BFk5YI9=
+d7xPWtA9yL8F-2BCGg3e2ZUQTr6m4R1b-2Ff7OLtzaFpMVldhMliRMFlW02hx9zZadfvOf-2FaO=
+zHOpqdyVBCDc7oDqQGIcREVbciSQHeuJrRVaXDS0jingLCkwXnFrhm51Q-3D-3D" style=3D"f=
+ont-size: 11px; color:#999">Manage your email preferences</a>=0D
+										</td>=0D
+									</tr>=0D
+									<tr>=0D
+										<td align=3D"center">=0D
+											<a href=3D"https://sg-links.dreamstime.com/wf/click?upn=3DlMJsrb=
+kLkvyNd98E-2BxfD-2FWkHsgo6hLozkIkySrKtDwlFu996mJyjWj4bC1J-2FGJk-2Bqal-2FknJ=
+KFLJVhjHrPlU7DqXe6hjRIlUO9PZQo82URhJWbWMRsafTiCIRyohfhJvGQ8hBpzcrjub-2BQhbZ=
+i0LayOqaW0KXV3Yu4-2F6EbMG8K8yoTyi5zQxOzxwhLNdHRxkHhdnAkqbEov9mKIAH4iMhyg-3D=
+-3D_wX6Tn8DxuOHyUT84oRHUiXN8gCHAaQR9wp1C3sFC7rX3COa7Oq95EROt8Zlgw4WCQri-2Bj=
+7EScxuegWSD4m7PKAlohQWH-2Fvsqc8sBdynb7-2FvnMwi1zWEOx9mpj2J4CVhj9y88iEGcWhi6=
+6BKQarh-2BZsAIbkGS-2FtEks-2Fw3wmjw129zDCxgRsbaSFcnewm80dCiRTTsszwdiXWK-2B98=
+YAPSmpg-3D-3D" style=3D"font-size: 11px; color: #9B9B9B;">View this in your=
+ browser</a>=0D
+										</td>=0D
+									</tr>=0D
+									<tr>=0D
+										<td align=3D"center" style=3D"padding-top: 10px;">
+											<span style=3D"font-size: 11px; color: #9B9B9B;">Copyright &copy=
+; 2000-2018 Dreamstime.</span>=0D
+										</td>=0D
+									</tr>=0D
+								</table>=0D
+							</td>=0D
+						</tr>=0D
+					</table>=0D
+				</td>=0D
+			</tr>=0D
+		</table>=0D
+=09
+<img src=3D"https://sg-links.dreamstime.com/wf/open?upn=3DwX6Tn8DxuOHyUT84o=
+RHUiXN8gCHAaQR9wp1C3sFC7rX3COa7Oq95EROt8Zlgw4WCQOGaILCBRc7f3hPcnMNLksAmPJAI=
+-2FP-2BZkggTsBDM-2FL54TrhlfVtVhNaFpTwNJ9WyLC1kuHefsua4s800FKj3kfA4cE2DHXepu=
+GEE6Ulp6xpFe5RR5LdEnmrGlW1AIINdD7yav0DYxfIpWfLANAntA624Vv2pDX6uAml8t9c3RUI-=
+3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !imp=
+ortant;width:1px !important;border-width:0 !important;margin-top:0 !importa=
+nt;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !impo=
+rtant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 =
+!important;padding-left:0 !important;"/>
+</body>=0D
+</html>
+
