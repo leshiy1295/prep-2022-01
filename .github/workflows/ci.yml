@@ -1,0 +1,65 @@
+on: push
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind
+    steps:
+      - uses: actions/checkout@v2
+      - run: make check
+
+  build:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind
+    needs: [check]
+    steps:
+    - uses: actions/checkout@v2
+    - run: make build
+
+  build_tests:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind
+    needs: [build]
+    steps:
+    - uses: actions/checkout@v2
+    - run: make build_tests
+
+  tests:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind
+    needs: [build_tests]
+    steps:
+      - uses: actions/checkout@v2
+      - run: make run_tests
+
+  memtests:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind
+    needs: [tests]
+    steps:
+      - uses: actions/checkout@v2
+      - run: make run_memtests
+
+  build_extra_tests:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind
+    needs: [memtests]
+    steps:
+    - uses: actions/checkout@v2
+    - run: make build_extra_tests
+
+  extra_tests:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind
+    needs: [build_extra_tests]
+    steps:
+      - uses: actions/checkout@v2
+      - run: make run_extra_tests
+
+  extra_memtests:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind
+    needs: [extra_tests]
+    steps:
+      - uses: actions/checkout@v2
+      - run: make run_extra_memtests
