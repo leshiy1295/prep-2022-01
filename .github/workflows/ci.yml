@@ -1,0 +1,49 @@
+on: push
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind_cmake_gtest
+    steps:
+      - uses: actions/checkout@v2
+      - run: make check
+
+  build:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind_cmake_gtest
+    needs: [check]
+    steps:
+    - uses: actions/checkout@v2
+    - run: make build
+
+  test:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind_cmake_gtest
+    needs: [build]
+    steps:
+      - uses: actions/checkout@v2
+      - run: make test
+
+  memtest:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind_cmake_gtest
+    needs: [test]
+    steps:
+      - uses: actions/checkout@v2
+      - run: make memtest
+
+  test_extra:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind_cmake_gtest
+    needs: [memtest]
+    steps:
+      - uses: actions/checkout@v2
+      - run: make testextra
+
+  memtest_extra:
+    runs-on: ubuntu-latest
+    container: leshiy1295/gcc_linters_valgrind_cmake_gtest
+    needs: [test_extra]
+    steps:
+      - uses: actions/checkout@v2
+      - run: make memtestextra
