@@ -18,6 +18,7 @@ build: $(TARGET)
 rebuild: clean build
 
 check:
+	chmod 700 run_linters.sh
 	./run_linters.sh
 
 test: $(TARGET)
