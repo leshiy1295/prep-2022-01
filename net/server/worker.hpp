@@ -21,7 +21,7 @@ struct WorkerInfo {
 #endif
 };
 
-union TaggedId {
+struct TaggedId {
     enum class Tag {
         kNet,
         kTask
@@ -53,8 +53,10 @@ union TaggedId {
 
     Tag tag;
 #endif
-    int for_task;
-    int for_net;
+    union {
+        int for_task;
+        int for_net;
+    };
 };
 
 struct WorkerTask {

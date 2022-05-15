@@ -3,8 +3,8 @@
 
 #include <algorithm>
 #include <csignal>
-#include <deque>
 #include <sys/wait.h>
+#include <vector>
 
 struct Planner::PlannerImpl {
     PlannerImpl(int incoming_fd, size_t max_workers_count, std::string_view working_directory) :
@@ -46,7 +46,7 @@ ErrorStatus Planner::PlannerImpl::Start() {
 #endif
     workers_.reserve(max_workers_count_);
 
-    std::deque<WorkerTask> planned_tasks;
+    std::vector<WorkerTask> planned_tasks;
 
     int last_task_id = 0;
 
@@ -92,7 +92,7 @@ ErrorStatus Planner::PlannerImpl::Start() {
 
             switch (request.type) {
               case UpdateQueueRequest::Type::kNew: {
-                // TODO: добавление Receive-задачи
+                // TODO: изменение статуса задачи в New с id, выданным в kCreate (после успешного сохранения на диск данных в таск-воркере)
               }
               case UpdateQueueRequest::Type::kCreate: {
                 // TODO: генерация нового id (возможно, сразу с задачей типа Unknown)
@@ -128,7 +128,8 @@ ErrorStatus Planner::PlannerImpl::Start() {
 #ifdef DEBUG
                 LOG_ERROR << "[PLANNER] Broken planner write...\n";
 #endif
-                // TODO: что делать при ошибке?
+                planner_error_status = ErrorStatus::kError;
+                planner_running_ = false;
             }
         }
 
@@ -151,7 +152,11 @@ ErrorStatus Planner::PlannerImpl::Start() {
 
         auto new_worker_pid = fork();
         if (new_worker_pid < 0) {
-            // TODO - что делать при ошибках?
+            pipe_from_worker.Close();
+            pipe_to_worker.Close();
+            planner_error_status = ErrorStatus::kError;
+            planner_running_ = false;
+            continue;
         }
 
         if (new_worker_pid == 0) {

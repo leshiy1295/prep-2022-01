@@ -97,7 +97,10 @@ ErrorStatus Worker::WorkerImpl::SaveTask(int task_id, std::string_view task_cont
 ErrorStatus Worker::WorkerImpl::RunPostQueueUpdate(int client_pid, std::string_view task_content) {
     // Запрашиваем уникальный id
     if (from_worker_pipe_.Write(UpdateQueueRequest{UpdateQueueRequest::Type::kCreate}) == ErrorStatus::kError) {
-        // TODO: что делать при подобных ошибках?
+#ifdef DEBUG
+        LOG_ERROR << "[WORKER pid=" << getpid() << "]" << "Failed to send createTaskId request to worker...\n";
+#endif
+        return ErrorStatus::kError;
     }
 
     // TODO: получаем ответ от планировщика с уникальным id
@@ -110,9 +113,9 @@ ErrorStatus Worker::WorkerImpl::RunPostQueueUpdate(int client_pid, std::string_v
     // TODO: Обновляем статус задачи на New, если сохранение в файл прошло успешно
     // Удаляем задачу - если ошибка
     // Отправляем net-воркеру результат
-    SendResponse(client_pid, Response{/*...*/});
+    /* error_status = */ SendResponse(client_pid, Response{/*...*/});
 
-    // TODO: что возвращаем?
+    return error_status;
 }
 
 // TODO: обработка GET-запроса пользователя

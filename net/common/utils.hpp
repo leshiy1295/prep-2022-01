@@ -147,6 +147,7 @@ inline ReadStatus ReadFromNetwork(int socket_fd, std::vector<std::byte> &network
 
     // TODO - нужно считать данные из сокета в network_bytes
     // если данных нет - вернуть ReadStatus::kNoData (если не стоит retry_if_no_data и не вышел таймаут)
+    // retry_if_no_data = true => нужно ждать до таймаута, retry_if_no_data = false => если нет данных, то сразу возвращать ReadStatus::kNoData
     // если произошла ошибка - вернуть ReadStatus::kFailed
     return ReadStatus::kSucceed
 }
@@ -157,7 +158,7 @@ inline ErrorStatus SendToNetwork(int socket_fd, const std::vector<std::byte> &me
     return ErrorStatus::kNoError;
 }
 
-enum FileDescriptorOptions : int {
+enum FileDescriptorOptions {
     kFileDescriptor_NoOptions = 0,
     kFileDescriptor_NonBlocking = O_NONBLOCK
 };
@@ -196,6 +197,7 @@ struct NamedPipe {
         StructType &read_object,
         FileDescriptorOptions options = kFileDescriptor_NoOptions,
         bool retry_if_no_data = true,
+        const std::chrono::seconds &timeout = std::chrono::seconds(0),
         const std::chrono::milliseconds &retry_time_interval = std::chrono::milliseconds(100)) const;
 
   private:
@@ -281,6 +283,7 @@ struct Pipe {
     ReadStatus Read(
         StructType &read_object,
         bool retry_if_no_data = true,
+        const std::chrono::seconds &timeout = std::chrono::seconds(0),
         const std::chrono::milliseconds &retry_time_interval = std::chrono::milliseconds(100)) const;
 
     inline ErrorStatus Close();
@@ -313,6 +316,7 @@ ReadStatus ReadFromFileDescriptor(
         int fd,
         StructType &read_object,
         bool retry_if_no_data = true,
+        const std::chrono::seconds &timeout = std::chrono::seconds(0),
         const std::chrono::milliseconds &retry_time_interval = std::chrono::milliseconds(100)) {
     // TODO - похоже на ReadFromNetwork, только для файлового дескриптора
     // read_object - цельный объект, который можно создать без параметров и заполнить единой операцией чтения
@@ -323,6 +327,7 @@ inline ReadStatus ReadFromFileDescriptor<std::vector<std::byte>>(
         int fd,
         std::vector<std::byte> &bytes_to_read,
         bool retry_if_no_data,
+        const std::chrono::seconds &timeout,
         const std::chrono::milliseconds &retry_time_interval) {
     // TODO - частный случай ReadFromFileDescriptor, когда объект не простой, а представляет из себя vector<std::byte>
 }
@@ -332,6 +337,7 @@ ReadStatus NamedPipe::Read(
         StructType &read_object,
         FileDescriptorOptions options,
         bool retry_if_no_data,
+        const std::chrono::seconds &timeout,
         const std::chrono::milliseconds &retry_time_interval) const {
     // TODO - чтение из именованного канала
 }
@@ -340,6 +346,7 @@ template <typename StructType>
 ReadStatus Pipe::Read(
         StructType &read_object,
         bool retry_if_no_data,
+        const std::chrono::seconds &timeout,
         const std::chrono::milliseconds &retry_time_interval) const {
     // TODO - чтение из неименованного канала (внимательно убедитесь на тестовых примерах, в чём разница неблокирующего чтения
     // из именованного и неименованного канала в зависимости от того, начато ли оно раньше, чем была запись, или если чтение
