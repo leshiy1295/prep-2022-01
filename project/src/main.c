@@ -49,7 +49,7 @@ int main(void) {
                     fclose(Ptr_2);
                     fclose(blackrecord);
                 }
-                break;
+                break;// dfsgjsdl
             default:
                 puts("error");
                 break;
