@@ -1,9 +1,9 @@
-#define UTILS_H
 #ifndef UTILS_H
+#define UTILS_H
 
-#define filename "transaction.dat";
+#include "client_record.h"
 
-// This comment is very useful
-printf("This message is very useful too")
+void transactionWrite(FILE *ofPTR, data_t transfer);
+void  blackRecord(FILE *ofPTR, FILE *ofPTR_2, FILE *blackrecord, data_t client_data, data_t transfer);
 
 #endif //UTILS_H

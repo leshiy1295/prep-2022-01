@@ -1,0 +1,3 @@
+/home/kirball/projects/My_HW_VK23/project/cmake-build-debug/CMakeFiles/project.dir
+/home/kirball/projects/My_HW_VK23/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kirball/projects/My_HW_VK23/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

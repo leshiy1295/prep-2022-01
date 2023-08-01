@@ -1,7 +1,10 @@
 TARGET = ./main.out
 HDRS_DIR = project/include
 
-SRCS = project/src/main.c
+SRCS = \
+		project/src/main.c \
+		project/src/utils.c \
+		project/src/read_write_mes_func.c
 
 .PHONY: all build rebuild check test memtest clean
 
