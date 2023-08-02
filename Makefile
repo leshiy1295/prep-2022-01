@@ -4,7 +4,8 @@ HDRS_DIR = project/include
 SRCS = \
 		project/src/main.c \
 		project/src/utils.c \
-		project/src/read_write_mes_func.c
+		project/src/read_write_mes_func.c \
+		project/src/write_transaction.c
 
 .PHONY: all build rebuild check test memtest clean
 

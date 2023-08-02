@@ -1,20 +1,10 @@
 #include <stdio.h>
 
 #include "utils.h"
+#include "read_write_mes_func.h"
+#include "write_transaction.h"
 #include "client_record.h"
 
-void transactionWrite(FILE *ofPtr, data_t transfer) {
-    printf("%s\n%s\n",
-           "1 Number account: ",
-           "2 Client cash payments: ");
-    while (scanf("%d %lf", &transfer.Number, &transfer.cash_payments) != -1) {
-        fprintf(ofPtr, "%-3d%-6.2f\n", transfer.Number, transfer.cash_payments);
-        printf("%s\n%s\n",
-               "1 Number account:",
-               "2 Client cash payments: "
-        );
-    }
-}
 
 void blackRecord(FILE *ofPTR, FILE *ofPTR_2, FILE *blackrecord, data_t client_data, data_t transfer) {
     while (fscanf(ofPTR, "%12d%11s%11s%16s%20s%12lf%12lf%12lf", &client_data.Number,
