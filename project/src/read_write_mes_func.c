@@ -2,22 +2,45 @@
 
 #include "read_write_mes_func.h"
 #include "client_record.h"
-#include "write_transaction.h"
 
-
-void  write_to_file(FILE *ofPTR, data_t Client) {
-    puts_info_message(CLIENT_DATA_MESSAGE);
-    while (scanf("%12d%11s%11s%16s%20s%12lf%12lf%12lf", &Client.Number, Client.Name, Client.Surname,
-                 Client.addres, Client.TelNumber, &Client.indebtedness, &Client.credit_limit,
-                 &Client.cash_payments) != -1) {
-        fprintf(ofPTR, "%-12d%-11s%-11s%-16s%20s%12.2f%12.2f%12.2f\n", Client.Number, Client.Name,
-                Client.Surname, Client.addres, Client.TelNumber, Client.indebtedness,
-                Client.credit_limit, Client.cash_payments);
-        puts_info_message(CLIENT_DATA_MESSAGE);
+int read_from_file(FILE* file_pointer, data_t* client_data, int read_type){
+    if (file_pointer == NULL) {
+        puts("Cannot access to file.\n");
+    } else {
+        switch (read_type) {
+            case CLIENT_DATA:
+                return fscanf(file_pointer,"%12d%11s%11s%16s%20s%12lf%12lf%12lf", &client_data->Number,
+                              client_data->Name, client_data->Surname,client_data->addres,
+                              client_data->TelNumber, &client_data->indebtedness, &client_data->credit_limit,
+                              &client_data->cash_payments);
+            case TRANSFER_DATA:
+                return fscanf(file_pointer,"%d %lf", &client_data->Number, &client_data->cash_payments);
+            default:
+                return -1;
+        }
+    };
+}
+void write_to_file(FILE* file_pointer, const data_t* client_data, int write_type){
+    if (file_pointer == NULL) {
+        puts("Cannot access to file.\n");
+        return;
+    }
+    switch (write_type) {
+        case CLIENT_DATA:
+            fprintf(file_pointer,"%12d%11s%11s%16s%20s%12lf%12lf%12lf\n",client_data->Number,
+                    client_data->Name, client_data->Surname,client_data->addres,
+                    client_data->TelNumber, client_data->indebtedness, client_data->credit_limit,
+                    client_data->cash_payments);
+            break;
+        case TRANSFER_DATA:
+            fprintf(file_pointer,"%d %lf\n", client_data->Number, client_data->cash_payments);
+            break;
+        default:
+            break;
     }
 }
 
-void puts_info_message(int printf_type) {
+void puts_info_message(enum MessageType printf_type) {
     switch (printf_type) {
         case BEGINNING_MESSAGE:
             printf("%s", "please enter action\n"

@@ -17,7 +17,9 @@ jobs:
     - name: Upload artifacts
       uses: actions/upload-artifact@v2
       with:
-        path: main.out
+        path: |
+          main.out
+          test.out
   test:
     runs-on: ubuntu-latest
     container: leshiy1295/gcc_linters_valgrind
