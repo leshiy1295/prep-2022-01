@@ -6,6 +6,7 @@
 int read_from_file(FILE* file_pointer, data_t* client_data, int read_type){
     if (file_pointer == NULL) {
         puts("Cannot access to file.\n");
+        return 0;
     } else {
         switch (read_type) {
             case CLIENT_DATA:
@@ -18,7 +19,7 @@ int read_from_file(FILE* file_pointer, data_t* client_data, int read_type){
             default:
                 return -1;
         }
-    };
+    }
 }
 void write_to_file(FILE* file_pointer, const data_t* client_data, int write_type){
     if (file_pointer == NULL) {

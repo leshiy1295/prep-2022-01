@@ -11,7 +11,7 @@ void write_transaction_to_file(char *filename) {
     } else {
         data_t transfer;
         puts_info_message(TRANSACTION_DATA_MESSAGE);
-        while (read_from_file(stdin, &transfer,TRANSFER_DATA) == TRANSFER_DATA_SIZE)) {
+        while (read_from_file(stdin, &transfer,TRANSFER_DATA) == TRANSFER_DATA_SIZE) {
             write_to_file(transaction_pointer,&transfer,TRANSFER_DATA);
             puts_info_message(TRANSACTION_DATA_MESSAGE);
         }

@@ -22,14 +22,9 @@ int main(void) {
     data_t got_data;
     rewind(test_file);
     read_from_file(test_file, &got_data, CLIENT_DATA);
-    if (expected_data.Number != got_data.Number ||
-        strcmp(expected_data.Name, got_data.Name) != 0 ||
-        strcmp(expected_data.Surname, got_data.Surname) != 0 ||
-        strcmp(expected_data.addres, got_data.addres) != 0 ||
-        strcmp(expected_data.TelNumber, got_data.TelNumber) != 0 ||
-        expected_data.indebtedness != got_data.indebtedness ||
-        expected_data.credit_limit != got_data.credit_limit ||
-        expected_data.cash_payments != got_data.cash_payments) {
+    fclose(test_file);
+
+    if (memcmp(&expected_data, &got_data, sizeof(data_t)) != 0) {
         printf("TEST NOT PASSED\n");
         return -1;
     }

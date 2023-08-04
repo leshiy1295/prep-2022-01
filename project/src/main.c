@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 #include "upd_base_client.h"
 #include "read_write_mes_func.h"
